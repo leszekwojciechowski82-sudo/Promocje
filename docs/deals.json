@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22 23:24",
+  "updated_at": "2026-11-22 22:25",
   "deals": [
     {
       "source": "Smyk.com",
@@ -69,23 +69,10 @@
       "savings_pln": 90.0,
       "deal_score": 116.5,
       "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/199810466",
-      "price_status": "cheapest",
-      "price_verdict": "NAJTANIEJ! O 27,60 zł (-28%) taniej niż Ceneo (od 97,59 zł)",
-      "compared_offers": [
-        {
-          "shop": "electro.pl",
-          "price": "99,99 zł"
-        },
-        {
-          "shop": "avans.pl",
-          "price": "99,99 zł"
-        },
-        {
-          "shop": "amazon.pl",
-          "price": "97,59 zł"
-        }
-      ],
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Mega+Bloks+Je%C5%BCd%C5%BC%C4%85cy+dinozaur+do",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
       "price_history": [
         {
           "date": "przed promocją",
@@ -136,6 +123,11 @@
           "date": "2026-11-22 23:24",
           "price": "97,59 zł",
           "note": "Ceneo: amazon.pl"
+        },
+        {
+          "date": "2026-11-22 22:25",
+          "price": "69,99 zł",
+          "note": "Smyk.com"
         }
       ]
     },
@@ -302,9 +294,9 @@
       "savings_pln": 50.0,
       "deal_score": 102.5,
       "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/196465518",
-      "price_status": "cheaper_elsewhere",
-      "price_verdict": "Taniej w innym sklepie! Ceneo od 10,23 zł (taniej o 39,76 zł)",
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-ESMARA+P%C5%82aszcz+damski+lekki",
+      "price_status": "",
+      "price_verdict": "",
       "compared_offers": [],
       "price_history": [
         {
@@ -356,6 +348,11 @@
           "date": "2026-11-22 23:24",
           "price": "10,23 zł",
           "note": "Ceneo (najniższa)"
+        },
+        {
+          "date": "2026-11-22 22:25",
+          "price": "49,99 zł",
+          "note": "Lidl.pl"
         }
       ]
     },
@@ -377,15 +374,10 @@
       "savings_pln": 85.0,
       "deal_score": 102.25,
       "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/172903990",
-      "price_status": "cheapest",
-      "price_verdict": "NAJTANIEJ! O 61 zł (-40%) taniej niż Ceneo (od 150,99 zł)",
-      "compared_offers": [
-        {
-          "shop": "empik.com",
-          "price": "150,99 zł"
-        }
-      ],
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Vtech+Bobaski+Mi%C5%9B+Kostka+Ma%C5%82ego",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
       "price_history": [
         {
           "date": "przed promocją",
@@ -416,6 +408,11 @@
           "date": "2026-11-22 23:24",
           "price": "150,99 zł",
           "note": "Ceneo: empik.com"
+        },
+        {
+          "date": "2026-11-22 22:25",
+          "price": "89,99 zł",
+          "note": "Smyk.com"
         }
       ]
     },
@@ -1846,6 +1843,16 @@
           "date": "2026-11-22 23:24",
           "price": "289,99 zł",
           "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-22 23:24",
+          "price": "249,99 zł",
+          "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-22 22:25",
+          "price": "289,99 zł",
+          "note": "Rossmann.pl"
         }
       ]
     },
@@ -1909,6 +1916,16 @@
         },
         {
           "date": "2026-11-22 23:24",
+          "price": "249,99 zł",
+          "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-22 22:25",
+          "price": "289,99 zł",
+          "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-22 22:25",
           "price": "249,99 zł",
           "note": "Rossmann.pl"
         }
@@ -2119,6 +2136,16 @@
         },
         {
           "date": "2026-11-22 23:24",
+          "price": "199,99 zł",
+          "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-22 23:24",
+          "price": "299,99 zł",
+          "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-22 22:25",
           "price": "199,99 zł",
           "note": "Rossmann.pl"
         }
@@ -2334,6 +2361,16 @@
         },
         {
           "date": "2026-11-22 23:24",
+          "price": "299,99 zł",
+          "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-22 22:25",
+          "price": "199,99 zł",
+          "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-22 22:25",
           "price": "299,99 zł",
           "note": "Rossmann.pl"
         }
@@ -3790,6 +3827,36 @@
     },
     {
       "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/urzadzenia-pomiarowe-workzone-do-wyboru-termometr-miernik-halasu-miernik-napiecia-aldi-1397391",
+      "title": "Urządzenia pomiarowe Workzone, do wyboru: termometr, miernik hałasu, miernik napięcia | ALDI",
+      "link": "https://www.pepper.pl/promocje/urzadzenia-pomiarowe-workzone-do-wyboru-termometr-miernik-halasu-miernik-napiecia-aldi-1397391",
+      "published": "Sun, 22 Nov 2026 23:23:39 +0100",
+      "summary": "24,99zł W Aldi od 23.11 do 28.11 oferta na amatorskie urządzenia pomiarowe Workzone po 24.99 (najniższa cena z 30 dni przed obniżką wynosiła 49,99 zł). Każdy z przyrządów przeznaczony jest do podstawowych prac domowych, warsztatowych i dia…",
+      "image_url": "https://static.pepper.pl/threads/raw/CSX6x/1397391_1/re/150x150/qt/55/1397391_1.jpg",
+      "price": "24,99zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "",
+      "category": "Ogród i majsterkowanie",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Urz%C4%85dzenia+pomiarowe+Workzone+do+wyboru",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-22 22:25",
+          "price": "24,99zł",
+          "note": "Pepper.pl"
+        }
+      ]
+    },
+    {
+      "source": "Pepper.pl",
       "deal_id": "https://www.pepper.pl/promocje/kmera-smart-obrotowa-ambiano-aldi-1397390",
       "title": "Kmera smart obrotowa Ambiano | ALDI",
       "link": "https://www.pepper.pl/promocje/kmera-smart-obrotowa-ambiano-aldi-1397390",
@@ -4535,36 +4602,6 @@
           "date": "2026-11-22 22:15",
           "price": "208,54zł",
           "note": "Allegro"
-        }
-      ]
-    },
-    {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/maison-asrar-vanguard-edp-100ml-1397355",
-      "title": "Woda perfumowana Maison Asrar Vanguard EDP [100ml]",
-      "link": "https://www.pepper.pl/promocje/maison-asrar-vanguard-edp-100ml-1397355",
-      "published": "Sun, 22 Nov 2026 21:54:51 +0100",
-      "summary": "152,38zł - Morele.net Obecnie chyba najniższa cena, ostatnio była wstawka za 189zł. Nazwa produktu: Maison Asrar Vanguard woda perfumowana 100ml Rodzaj: Uniseksowe perfumy Rok wydania: 2025 Pojemność: 100ml Nuta głowy: czarna porzeczka, an…",
-      "image_url": "https://static.pepper.pl/threads/raw/Dlwqg/1397355_1/re/150x150/qt/55/1397355_1.jpg",
-      "price": "152,38zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Morele.net",
-      "category": "Zdrowie i uroda",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Woda+perfumowana+Maison+Asrar+Vanguard",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-22 22:15",
-          "price": "152,38zł",
-          "note": "Morele.net"
         }
       ]
     },

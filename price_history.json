@@ -613,6 +613,11 @@
       "date": "2026-11-22 23:24",
       "price": "10,23 zł",
       "note": "Ceneo (najniższa)"
+    },
+    {
+      "date": "2026-11-22 22:25",
+      "price": "49,99 zł",
+      "note": "Lidl.pl"
     }
   ],
   "esmara damskie botki": [
@@ -1409,6 +1414,11 @@
       "date": "2026-11-22 23:24",
       "price": "97,59 zł",
       "note": "Ceneo: amazon.pl"
+    },
+    {
+      "date": "2026-11-22 22:25",
+      "price": "69,99 zł",
+      "note": "Smyk.com"
     }
   ],
   "lalaboom zwinna kaczuszka kulko klocki sensoryczne": [
@@ -1500,6 +1510,11 @@
       "date": "2026-11-22 23:24",
       "price": "150,99 zł",
       "note": "Ceneo: empik.com"
+    },
+    {
+      "date": "2026-11-22 22:25",
+      "price": "89,99 zł",
+      "note": "Smyk.com"
     }
   ],
   "fisher price pojazd telefonik dla gadułki": [
@@ -1821,6 +1836,16 @@
       "date": "2026-11-22 23:24",
       "price": "249,99 zł",
       "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-22 22:25",
+      "price": "289,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-22 22:25",
+      "price": "249,99 zł",
+      "note": "Rossmann.pl"
     }
   ],
   "isana kalendarz adwentowy z maskami do": [
@@ -1885,6 +1910,16 @@
     },
     {
       "date": "2026-11-22 23:24",
+      "price": "299,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-22 22:25",
+      "price": "199,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-22 22:25",
       "price": "299,99 zł",
       "note": "Rossmann.pl"
     }
@@ -2621,6 +2656,13 @@
       "date": "2026-11-22 23:24",
       "price": "9,99 zł",
       "note": "Dino"
+    }
+  ],
+  "urządzenia pomiarowe workzone do wyboru termometr": [
+    {
+      "date": "2026-11-22 22:25",
+      "price": "24,99zł",
+      "note": "Pepper.pl"
     }
   ]
 }
