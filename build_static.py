@@ -26,6 +26,12 @@ def build_static_site(project_dir: Path, out_dir: Path) -> int:
     timestamp = dt.datetime.now().strftime("%Y-%m-%d %H:%M")
     all_deals = monitor_okazji.update_and_attach_price_history(history_path, all_deals, timestamp)
 
+    auto_compare_n = int(config.get("auto_compare_top_n", 0))
+    if auto_compare_n > 0:
+        all_deals = monitor_okazji.enrich_deals_with_ceneo(
+            all_deals, history_path, timestamp, max_compare=auto_compare_n
+        )
+
     new_deals = [d for d in all_deals if d.deal_id not in seen_ids]
     for d in new_deals:
         seen_ids.add(d.deal_id)
@@ -79,6 +85,14 @@ def build_static_site(project_dir: Path, out_dir: Path) -> int:
     static_html = static_html.replace(
         "<button onclick=\"saveConfigAndScan()\">Zapisz filtry i skanuj</button>",
         "<button onclick=\"applyStaticFilters()\">Zastosuj filtry</button>",
+    )
+    static_html = static_html.replace(
+        "<button class=\"btn-secondary btn-small\" onclick='compareDeal(${JSON.stringify(d.deal_id)}, this)'>Porównaj w sklepach (Ceneo)</button>",
+        "",
+    )
+    static_html = static_html.replace(
+        "Ceneo &rarr;",
+        "Porównaj ceny w innych sklepach (Ceneo) &rarr;",
     )
     static_html = static_html.replace(
         "function clearFilters() {",

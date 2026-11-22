@@ -578,6 +578,11 @@
       "date": "2026-11-22 21:25",
       "price": "49,99 zł",
       "note": "Lidl.pl"
+    },
+    {
+      "date": "2026-11-22 22:20",
+      "price": "10,23 zł",
+      "note": "Ceneo (najniższa)"
     }
   ],
   "esmara damskie botki": [
@@ -612,6 +617,11 @@
       "date": "2026-11-22 21:25",
       "price": "29,99 zł",
       "note": "Lidl.pl"
+    },
+    {
+      "date": "2026-11-22 22:20",
+      "price": "199,99 zł",
+      "note": "Ceneo: reserved.com"
     }
   ],
   "esmara men spodnie od piżamy z": [
@@ -660,6 +670,11 @@
       "date": "2026-11-22 21:16",
       "price": "20 zł",
       "note": "Lidl.pl"
+    },
+    {
+      "date": "2026-11-22 22:20",
+      "price": "125 zł",
+      "note": "Ceneo (najniższa)"
     }
   ],
   "esmara koszula nocna damska flanelowa": [
@@ -1099,6 +1114,37 @@
       "date": "2026-11-22 22:15",
       "price": "142,08zł",
       "note": "Allegro"
+    }
+  ],
+  "esmara piżama welurowa damska beżowy l": [
+    {
+      "date": "przed promocją",
+      "price": "39,99 zł",
+      "note": "przed promocją"
+    },
+    {
+      "date": "2026-11-22 22:20",
+      "price": "20 zł",
+      "note": "Lidl.pl"
+    },
+    {
+      "date": "2026-11-22 22:20",
+      "price": "49,80 zł",
+      "note": "Ceneo: allegro.pl"
+    }
+  ],
+  "laptop 2w1 hp omnibook x flip": [
+    {
+      "date": "2026-11-22 22:20",
+      "price": "2 999zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "black friday na rozwiązania ai nakładki": [
+    {
+      "date": "2026-11-22 22:20",
+      "price": "64zł",
+      "note": "Pepper.pl"
     }
   ]
 }

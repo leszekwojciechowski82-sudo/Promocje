@@ -181,6 +181,41 @@ HTML_PAGE = """<!DOCTYPE html>
       color: var(--price-text);
       border-color: rgba(74, 222, 128, 0.5);
     }
+    .cat-pills {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 7px;
+      margin-bottom: 14px;
+    }
+    .cat-pill {
+      background: rgba(19, 28, 49, 0.85);
+      color: var(--muted);
+      border: 1px solid var(--border);
+      padding: 6px 12px;
+      border-radius: 999px;
+      font-size: 0.82rem;
+      font-weight: 600;
+      cursor: pointer;
+    }
+    .cat-pill.active {
+      background: rgba(56, 189, 248, 0.2);
+      color: var(--accent);
+      border-color: var(--accent);
+    }
+    .fav-btn {
+      background: transparent;
+      border: 1px solid var(--border);
+      color: var(--muted);
+      border-radius: 999px;
+      padding: 3px 9px;
+      font-size: 0.82rem;
+      cursor: pointer;
+    }
+    .fav-btn.saved {
+      color: #facc15;
+      border-color: rgba(250, 204, 21, 0.5);
+      background: rgba(250, 204, 21, 0.12);
+    }
     .sources-list {
       display: flex;
       flex-wrap: wrap;
@@ -242,6 +277,7 @@ HTML_PAGE = """<!DOCTYPE html>
       justify-content: center;
       overflow: hidden;
       border-bottom: 1px solid var(--border);
+      text-decoration: none;
     }
     .thumb-wrap.no-img {
       background: linear-gradient(135deg, #172554, #1e293b);
@@ -435,8 +471,11 @@ HTML_PAGE = """<!DOCTYPE html>
     <div class="tabs">
       <button id="tabProducts" class="tab-btn active" onclick="setViewMode('products')">Produkty i promocje</button>
       <button id="tabLeaflets" class="tab-btn" onclick="setViewMode('leaflets')">Gazetki (Biedronka, Lidl, Dino, JYSK)</button>
+      <button id="tabSaved" class="tab-btn" onclick="setViewMode('saved')">Zapisane (0)</button>
       <button id="tabAll" class="tab-btn" onclick="setViewMode('all')">Wszystko razem</button>
     </div>
+
+    <div id="categoryPills" class="cat-pills"></div>
 
     <div class="panel">
       <div class="row">
@@ -451,6 +490,13 @@ HTML_PAGE = """<!DOCTYPE html>
         <input id="searchInput" type="text" placeholder="Szukaj na widocznej liście (produkt, sklep, rabat)..." oninput="renderDeals()" />
         <select id="sourceFilter" onchange="renderDeals()">
           <option value="">Wszystkie źródła</option>
+        </select>
+        <select id="discountFilter" onchange="renderDeals()">
+          <option value="0">Każdy rabat</option>
+          <option value="20">Rabat od -20%</option>
+          <option value="40">Rabat od -40%</option>
+          <option value="60">Rabat od -60%</option>
+          <option value="cheapest">Tylko najtaniej na Ceneo</option>
         </select>
         <select id="sortSelect" onchange="renderDeals()">
           <option value="best">Największe okazje od góry</option>
@@ -472,14 +518,71 @@ HTML_PAGE = """<!DOCTYPE html>
     let knownIds = new Set();
     let autoTimer = null;
     let viewMode = 'products';
+    let activeGroup = '';
+    let savedIds = new Set(JSON.parse(localStorage.getItem('luis_saved_deals') || '[]'));
+
+    function classifyGroup(d) {
+      if (d.is_leaflet) return 'Gazetki';
+      const txt = [d.category, d.title, d.merchant].filter(Boolean).join(' ').toLowerCase();
+      if (/elektronik|słuchawk|tv|telewizor|laptop|monitor|smartfon|iphone|ssd|dysk|dac|projektor|ładowark|usb|kamera|audio|głośnik|soundbar|powerbank/.test(txt)) return 'Elektronika';
+      if (/dom|ogród|kuchni|mebl|szafa|odkurzacz|kosiark|robot|pościel|narzędzi|parkside|warsztat|jysk/.test(txt)) return 'Dom i ogród';
+      if (/kawa|spożywcz|jedzen|napoje|lody|biedronk|lidl|dino|piwo|czekolad|herbata/.test(txt)) return 'Spożywcze i markety';
+      if (/moda|odzież|buty|sneakers|koszul|spodnie|piżam|uroda|perfum|sephora|zdrowi/.test(txt)) return 'Moda i uroda';
+      if (/lego|zabawk|dziec|gry|planszow|figurk/.test(txt)) return 'Zabawki i rozrywka';
+      return 'Inne';
+    }
+
+    function toggleSaved(dealId) {
+      if (savedIds.has(dealId)) savedIds.delete(dealId);
+      else savedIds.add(dealId);
+      localStorage.setItem('luis_saved_deals', JSON.stringify([...savedIds]));
+      updateSavedTabCount();
+      renderDeals();
+    }
+
+    function updateSavedTabCount() {
+      const count = allDeals.filter(d => savedIds.has(d.deal_id)).length;
+      document.getElementById('tabSaved').textContent = `Zapisane (${count})`;
+    }
+
+    function setGroupFilter(groupName) {
+      activeGroup = groupName;
+      renderCategoryPills();
+      renderDeals();
+    }
+
+    function renderCategoryPills() {
+      const box = document.getElementById('categoryPills');
+      if (viewMode === 'leaflets') {
+        box.innerHTML = '';
+        return;
+      }
+      const base = modeFilteredDeals();
+      const counts = {};
+      base.forEach(d => {
+        const g = classifyGroup(d);
+        counts[g] = (counts[g] || 0) + 1;
+      });
+      const order = ['Elektronika', 'Dom i ogród', 'Spożywcze i markety', 'Moda i uroda', 'Zabawki i rozrywka', 'Inne'];
+      const pills = [`<button class="cat-pill ${activeGroup === '' ? 'active' : ''}" onclick="setGroupFilter('')">Wszystkie (${base.length})</button>`];
+      order.forEach(g => {
+        if (counts[g]) {
+          pills.push(`<button class="cat-pill ${activeGroup === g ? 'active' : ''}" onclick="setGroupFilter('${g}')">${g} (${counts[g]})</button>`);
+        }
+      });
+      box.innerHTML = pills.join('');
+    }
 
     function setViewMode(mode) {
       viewMode = mode;
+      activeGroup = '';
       document.getElementById('tabProducts').classList.toggle('active', mode === 'products');
       document.getElementById('tabLeaflets').classList.toggle('active', mode === 'leaflets');
+      document.getElementById('tabSaved').classList.toggle('active', mode === 'saved');
       document.getElementById('tabAll').classList.toggle('active', mode === 'all');
       document.getElementById('sourceFilter').value = '';
       updateSourceDropdown();
+      renderCategoryPills();
       renderDeals();
     }
 
@@ -610,6 +713,7 @@ HTML_PAGE = """<!DOCTYPE html>
     function modeFilteredDeals() {
       if (viewMode === 'products') return allDeals.filter(d => !d.is_leaflet);
       if (viewMode === 'leaflets') return allDeals.filter(d => Boolean(d.is_leaflet));
+      if (viewMode === 'saved') return allDeals.filter(d => savedIds.has(d.deal_id));
       return allDeals;
     }
 
@@ -638,6 +742,8 @@ HTML_PAGE = """<!DOCTYPE html>
       allDeals = incoming;
 
       updateSourceDropdown();
+      updateSavedTabCount();
+      renderCategoryPills();
 
       const productCount = allDeals.filter(d => !d.is_leaflet).length;
       const leafletCount = allDeals.filter(d => Boolean(d.is_leaflet)).length;
@@ -669,10 +775,14 @@ HTML_PAGE = """<!DOCTYPE html>
     function renderDeals() {
       const q = document.getElementById('searchInput').value.trim().toLowerCase();
       const src = document.getElementById('sourceFilter').value;
+      const discMin = document.getElementById('discountFilter').value;
       const sortMode = document.getElementById('sortSelect').value;
 
       let filtered = modeFilteredDeals().filter(d => {
         if (src && d.source !== src) return false;
+        if (activeGroup && classifyGroup(d) !== activeGroup) return false;
+        if (discMin === 'cheapest' && d.price_status !== 'cheapest') return false;
+        if (discMin !== 'cheapest' && Number(discMin) > 0 && (d.discount_pct || 0) < Number(discMin)) return false;
         if (!q) return true;
         return [d.title, d.summary, d.merchant, d.category, d.price, d.price_verdict]
           .filter(Boolean).join(' ').toLowerCase().includes(q);
@@ -708,8 +818,8 @@ HTML_PAGE = """<!DOCTYPE html>
           : '';
 
         const imgBlock = d.image_url
-          ? `<div class="thumb-wrap">${discountBadge}<img src="${escapeHtml(d.image_url)}" alt="" loading="lazy" referrerpolicy="no-referrer" />${priceHtml}</div>`
-          : `<div class="thumb-wrap no-img">${discountBadge}<span>${escapeHtml(d.source)}</span>${priceHtml}</div>`;
+          ? `<a class="thumb-wrap" href="${escapeHtml(d.link)}" target="_blank" rel="noopener noreferrer">${discountBadge}<img src="${escapeHtml(d.image_url)}" alt="" loading="lazy" referrerpolicy="no-referrer" />${priceHtml}</a>`
+          : `<a class="thumb-wrap no-img" href="${escapeHtml(d.link)}" target="_blank" rel="noopener noreferrer">${discountBadge}<span>${escapeHtml(d.source)}</span>${priceHtml}</a>`;
 
         const verdictBlock = d.price_verdict
           ? `<div class="verdict ${escapeHtml(d.price_status || '')}">${escapeHtml(d.price_verdict)}</div>`
@@ -745,7 +855,10 @@ HTML_PAGE = """<!DOCTYPE html>
               ${historyBlock}
               <div class="card-footer">
                 <span>${escapeHtml(d.published || '')}</span>
-                <a class="go-link" href="${escapeHtml(d.link)}" target="_blank" rel="noopener noreferrer">Otwórz &rarr;</a>
+                <div style="display:flex;gap:8px;align-items:center;">
+                  <button class="fav-btn ${savedIds.has(d.deal_id) ? 'saved' : ''}" onclick='toggleSaved(${JSON.stringify(d.deal_id)})' title="Zapisz na później">${savedIds.has(d.deal_id) ? '★ Zapisane' : '☆ Zapisz'}</button>
+                  <a class="go-link" href="${escapeHtml(d.link)}" target="_blank" rel="noopener noreferrer">Otwórz &rarr;</a>
+                </div>
               </div>
             </div>
           </article>
@@ -756,7 +869,10 @@ HTML_PAGE = """<!DOCTYPE html>
     function clearFilters() {
       document.getElementById('searchInput').value = '';
       document.getElementById('sourceFilter').value = '';
+      document.getElementById('discountFilter').value = '0';
       document.getElementById('sortSelect').value = 'best';
+      activeGroup = '';
+      renderCategoryPills();
       renderDeals();
     }
 
