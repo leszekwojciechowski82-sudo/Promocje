@@ -413,15 +413,15 @@ def parse_dino_page(
 ) -> list[Deal]:
     """Parse promotional products directly from marketdino.pl HTML."""
     page = html_bytes.decode("utf-8", errors="ignore")
-    parts = page.split("Cena przed obniżką:")
-    if len(parts) < 2:
+    matches = list(re.finditer(r'class="product-price-view\b', page))
+    if not matches:
         return []
 
     deals: list[Deal] = []
     seen_titles: set[str] = set()
-    for idx in range(len(parts) - 1):
-        before = parts[idx][-1400:]
-        after = parts[idx + 1][:1200]
+    for m in matches:
+        before = page[max(0, m.start() - 2600) : m.start()]
+        pv_block = page[m.start() : m.start() + 1000]
 
         img_matches = re.findall(
             r'src="(https://api\.marketdino\.pl/media/[^"]+\.(?:webp|png|jpg|jpeg)[^"]*)"',
@@ -441,23 +441,20 @@ def parse_dino_page(
             continue
         seen_titles.add(title)
 
-        old_m = re.search(r"(\d+[.,]\d{2})\s*zł", after)
+        old_m = re.search(r"Cena przed obniżką:.*?(\d+[.,]\d{2})\s*zł", before[-700:], re.S)
         old_val = parse_pln_number(old_m.group(1)) if old_m else None
         old_price = format_pln(old_val) if old_val else ""
 
-        pv_m = re.search(r"product-price-view[^>]*>(.*?)</div>\s*</div>", after, re.S)
+        pv_txt = clean_html(pv_block, max_len=160)
+        pct_m = re.search(r"-(\d{1,2})\s*%", pv_txt)
+        pct = int(pct_m.group(1)) if pct_m else 0
+
         cur_price = ""
-        pct = 0
-        if pv_m:
-            pv_txt = clean_html(pv_m.group(1), max_len=120)
-            pct_m = re.search(r"-(\d{1,2})\s*%", pv_txt)
-            if pct_m:
-                pct = int(pct_m.group(1))
-            num_m = re.search(r"(\d+)\s+(\d{2})", pv_txt)
-            if num_m:
-                cur_val = parse_pln_number(f"{num_m.group(1)},{num_m.group(2)}")
-                if cur_val:
-                    cur_price = format_pln(cur_val)
+        num_m = re.search(r"(\d+)\s+(\d{2})", pv_txt.replace(f"-{pct}%", ""))
+        if num_m:
+            cur_val = parse_pln_number(f"{num_m.group(1)},{num_m.group(2)}")
+            if cur_val:
+                cur_price = format_pln(cur_val)
 
         old_price, discount_pct, savings_pln, deal_score = compute_discount_metrics(
             title, f"-{pct}%" if pct else "", cur_price, explicit_old_price=old_price
@@ -506,8 +503,12 @@ def parse_biedronka_home_page(
             continue
         seen.add(pid)
 
-        link_m = re.search(r'href="(https://home\.biedronka\.pl/[^"]+\.html)"', chunk)
-        link = link_m.group(1) if link_m else "https://home.biedronka.pl/promocje/"
+        link_m = re.search(r'href="(https://home\.biedronka\.pl/[^"]+\.html|/[^"]+\.html)"', chunk)
+        if link_m:
+            raw_link = link_m.group(1)
+            link = raw_link if raw_link.startswith("http") else f"https://home.biedronka.pl{raw_link}"
+        else:
+            link = "https://home.biedronka.pl/promocje/"
 
         img_m = re.search(
             r'(?:data-src|src)="(https://home\.biedronka\.pl/dw/image/[^"]+)"', chunk
@@ -773,6 +774,77 @@ def parse_rossmann_page(
                 is_leaflet=False,
             )
         )
+    return deals
+
+
+def parse_morele_page(
+    html_bytes: bytes, source_name: str, store_group: str = "Elektronika i okazje", limit: int = 30
+) -> list[Deal]:
+    """Parse promotional products directly from Morele.net Alarm Cenowy HTML."""
+    page = html_bytes.decode("utf-8", errors="ignore")
+    chunks = page.split("promo-box-content")[1:]
+    deals: list[Deal] = []
+    seen: set[str] = set()
+
+    for chunk in chunks:
+        blk = chunk[:2500]
+        href_m = re.search(r'href="(https://www\.morele\.net/[^"]+)"', blk)
+        if not href_m:
+            continue
+        link = html.unescape(href_m.group(1)).strip()
+        if link in seen:
+            continue
+        seen.add(link)
+
+        title_m = re.search(r'title="([^"]+)"', blk)
+        alt_m = re.search(r'alt="([^"]+)"', blk)
+        title = html.unescape((title_m or alt_m).group(1)).strip() if (title_m or alt_m) else ""
+        if not title:
+            continue
+
+        img_m = re.search(r'src="(https://images\.morele\.net/[^"]+)"', blk)
+        image_url = html.unescape(img_m.group(1)).strip() if img_m else ""
+
+        new_m = re.search(r'promo-box-new-price[^>]*>(.*?)</div>\s*</div>', blk, re.S)
+        new_txt = clean_html(new_m.group(1), max_len=120) if new_m else ""
+        cur_m = re.search(r"(\d[\d\s.,]*)\s*zł", new_txt)
+        cur_price = format_pln(parse_pln_number(cur_m.group(1))) if cur_m and parse_pln_number(cur_m.group(1)) else ""
+
+        old_m = re.search(r'promo-box-old-price[^>]*>(.*?)</div>', blk, re.S)
+        old_txt = clean_html(old_m.group(1), max_len=120) if old_m else ""
+        old_val_m = re.search(r"(\d[\d\s.,]*)\s*zł", old_txt)
+        old_price = format_pln(parse_pln_number(old_val_m.group(1))) if old_val_m and parse_pln_number(old_val_m.group(1)) else ""
+
+        code_m = re.search(r"Cena z kodem:\s*([A-Za-z0-9_-]+)", new_txt)
+        code_note = f"Kod: {code_m.group(1)} • " if code_m else ""
+
+        old_price, discount_pct, savings_pln, deal_score = compute_discount_metrics(
+            title, "", cur_price, explicit_old_price=old_price
+        )
+
+        deals.append(
+            Deal(
+                source=source_name,
+                deal_id=f"morele:{link}",
+                title=title,
+                link=link,
+                published="Morele Alarm Cenowy",
+                summary=f"{code_note}Promocja bezpośrednio w sklepie Morele.net.",
+                image_url=image_url,
+                price=cur_price,
+                old_price=old_price,
+                lowest_30d=old_price,
+                merchant="Morele.net",
+                category="Elektronika",
+                store_group=store_group,
+                discount_pct=discount_pct,
+                savings_pln=savings_pln,
+                deal_score=deal_score,
+                is_leaflet=False,
+            )
+        )
+        if len(deals) >= limit:
+            break
     return deals
 
 
@@ -1341,6 +1413,8 @@ def fetch_all_sources(config: dict[str, Any]) -> tuple[list[Deal], list[str]]:
                 deals = parse_rossmann_page(raw_bytes, name, store_group=store_group, limit=max_items)
             elif source_type == "castorama":
                 deals = parse_castorama_page(raw_bytes, name, store_group=store_group, limit=max_items)
+            elif source_type == "morele":
+                deals = parse_morele_page(raw_bytes, name, store_group=store_group, limit=max_items)
             else:
                 deals = parse_feed(raw_bytes, name, store_group=store_group, limit=max_items)
         except (urllib.error.URLError, TimeoutError, ET.ParseError, OSError) as exc:

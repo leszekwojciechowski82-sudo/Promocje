@@ -62,6 +62,16 @@ SAMPLE_DINO = """
 </div>
 """.encode("utf-8")
 
+SAMPLE_MORELE = """
+<div class="promo-box-content" data-tracker-id="15248640">
+  <a href="https://www.morele.net/zasilacz-preyon-15248640/" title="Zasilacz PREYON 650W">
+    <img src="https://images.morele.net/i256/15248640_0_i256.jpg" alt="Zasilacz PREYON 650W" />
+  </a>
+  <div class="promo-box-new-price"><div>Cena z kodem: BLACK26</div> 167 zł </div></div>
+  <div class="promo-box-old-price"><span>Cena bez kodu</span> 220 zł </div>
+</div>
+""".encode("utf-8")
+
 SAMPLE_SMYK = """
 <div>
   <a aria-label="Hot Wheels City Mega Garaż" href="/pl/pl/p/hot-wheels-i8032404">
@@ -116,7 +126,14 @@ class MonitorOkazjiTests(unittest.TestCase):
         self.assertEqual(len(dino), 1)
         self.assertEqual(dino[0].price, "7,99 zł")
         self.assertEqual(dino[0].old_price, "14,99 zł")
+        self.assertEqual(dino[0].image_url, "https://api.marketdino.pl/media/pieczarka.webp")
         self.assertGreaterEqual(dino[0].discount_pct, 46)
+
+        morele = monitor_okazji.parse_morele_page(SAMPLE_MORELE, "Morele.net (Alarm)")
+        self.assertEqual(len(morele), 1)
+        self.assertEqual(morele[0].price, "167 zł")
+        self.assertEqual(morele[0].old_price, "220 zł")
+        self.assertGreaterEqual(morele[0].discount_pct, 24)
 
         smyk = monitor_okazji.parse_smyk_page(SAMPLE_SMYK, "Smyk.com")
         self.assertEqual(len(smyk), 1)

@@ -16,6 +16,13 @@
       "enabled": true
     },
     {
+      "name": "Morele.net (Alarm)",
+      "url": "https://www.morele.net/alarm_cenowy/",
+      "type": "morele",
+      "store_group": "Elektronika i okazje",
+      "enabled": true
+    },
+    {
       "name": "Lidl.pl (Promocje)",
       "url": "https://www.lidl.pl/c/promocje/s10076831",
       "type": "lidl",
