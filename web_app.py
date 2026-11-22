@@ -127,7 +127,7 @@ HTML_PAGE = """<!DOCTYPE html>
       display: flex;
       flex-wrap: wrap;
       gap: 8px;
-      margin-bottom: 14px;
+      margin-bottom: 12px;
     }
     .tab-btn {
       background: var(--surface);
@@ -143,43 +143,6 @@ HTML_PAGE = """<!DOCTYPE html>
       background: var(--accent);
       color: #082f49;
       border-color: var(--accent);
-    }
-    input[type="text"], select {
-      background: #090e1a;
-      color: var(--text);
-      border: 1px solid var(--border);
-      border-radius: 9px;
-      padding: 10px 13px;
-      font-size: 0.94rem;
-    }
-    input[type="text"] { flex: 1 1 240px; }
-    button {
-      background: var(--accent);
-      color: #082f49;
-      border: none;
-      border-radius: 9px;
-      padding: 10px 16px;
-      font-size: 0.92rem;
-      font-weight: 700;
-      cursor: pointer;
-    }
-    button:hover { background: #7dd3fc; }
-    button:disabled { opacity: 0.6; cursor: wait; }
-    .btn-secondary {
-      background: transparent;
-      color: var(--text);
-      border: 1px solid var(--border);
-    }
-    .btn-secondary:hover { background: var(--surface-hover); }
-    .btn-small {
-      padding: 5px 10px;
-      font-size: 0.78rem;
-      border-radius: 7px;
-    }
-    .btn-notify.active {
-      background: rgba(34, 197, 94, 0.18);
-      color: var(--price-text);
-      border-color: rgba(74, 222, 128, 0.5);
     }
     .cat-pills {
       display: flex;
@@ -201,6 +164,43 @@ HTML_PAGE = """<!DOCTYPE html>
       background: rgba(56, 189, 248, 0.2);
       color: var(--accent);
       border-color: var(--accent);
+    }
+    input[type="text"], select {
+      background: #090e1a;
+      color: var(--text);
+      border: 1px solid var(--border);
+      border-radius: 9px;
+      padding: 10px 13px;
+      font-size: 0.94rem;
+    }
+    input[type="text"] { flex: 1 1 220px; }
+    button {
+      background: var(--accent);
+      color: #082f49;
+      border: none;
+      border-radius: 9px;
+      padding: 10px 16px;
+      font-size: 0.92rem;
+      font-weight: 700;
+      cursor: pointer;
+    }
+    button:hover { background: #7dd3fc; }
+    button:disabled { opacity: 0.5; cursor: not-allowed; }
+    .btn-secondary {
+      background: transparent;
+      color: var(--text);
+      border: 1px solid var(--border);
+    }
+    .btn-secondary:hover { background: var(--surface-hover); }
+    .btn-small {
+      padding: 5px 10px;
+      font-size: 0.78rem;
+      border-radius: 7px;
+    }
+    .btn-notify.active {
+      background: rgba(34, 197, 94, 0.18);
+      color: var(--price-text);
+      border-color: rgba(74, 222, 128, 0.5);
     }
     .fav-btn {
       background: transparent;
@@ -236,9 +236,28 @@ HTML_PAGE = """<!DOCTYPE html>
       flex-wrap: wrap;
       gap: 14px;
       align-items: center;
-      margin: 12px 0 16px;
+      margin: 12px 0 14px;
       font-size: 0.9rem;
       color: var(--muted);
+    }
+    .pagination-bar {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      align-items: center;
+      gap: 10px;
+      margin: 14px 0;
+      padding: 10px 14px;
+      background: rgba(19, 28, 49, 0.82);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      font-size: 0.9rem;
+    }
+    .pagination-btns {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      align-items: center;
     }
     .error-box {
       background: rgba(245, 158, 11, 0.12);
@@ -409,7 +428,7 @@ HTML_PAGE = """<!DOCTYPE html>
     .history-actions {
       display: flex;
       flex-wrap: wrap;
-      gap: 8px;
+      gap: 10px;
       align-items: center;
       margin-top: 6px;
     }
@@ -456,7 +475,7 @@ HTML_PAGE = """<!DOCTYPE html>
     <header>
       <div>
         <h1>Monitor Okazji <span class="brand-tag">by Luis</span></h1>
-        <div class="subtitle">Produkty i promocje posortowane od największych okazji + porównanie cen w sklepach</div>
+        <div class="subtitle">Bezpośrednie promocje ze sklepów i porównanie cen — od największych okazji od góry</div>
       </div>
       <div class="header-actions">
         <button id="notifyBtn" class="btn-secondary btn-notify" onclick="toggleNotifications()">Włącz powiadomienia</button>
@@ -470,16 +489,16 @@ HTML_PAGE = """<!DOCTYPE html>
 
     <div class="tabs">
       <button id="tabProducts" class="tab-btn active" onclick="setViewMode('products')">Produkty i promocje</button>
-      <button id="tabLeaflets" class="tab-btn" onclick="setViewMode('leaflets')">Gazetki (Biedronka, Lidl, Dino, JYSK)</button>
+      <button id="tabLeaflets" class="tab-btn" onclick="setViewMode('leaflets')">Gazetki (Biedronka.pl)</button>
       <button id="tabSaved" class="tab-btn" onclick="setViewMode('saved')">Zapisane (0)</button>
-      <button id="tabAll" class="tab-btn" onclick="setViewMode('all')">Wszystko razem</button>
+      <button id="tabAll" class="tab-btn" onclick="setViewMode('all')">Wszystko</button>
     </div>
 
     <div id="categoryPills" class="cat-pills"></div>
 
     <div class="panel">
       <div class="row">
-        <input id="keywordsInput" type="text" placeholder="Słowa kluczowe po przecinku (puste = wszystkie), np. kawa, lego, słuchawki" />
+        <input id="keywordsInput" type="text" placeholder="Słowa kluczowe po przecinku (puste = wszystkie), np. kawa, lego, kurtka, wiertarka" />
         <button onclick="saveConfigAndScan()">Zapisz filtry i skanuj</button>
       </div>
       <div id="sourcesCheckboxes" class="sources-list"></div>
@@ -487,21 +506,28 @@ HTML_PAGE = """<!DOCTYPE html>
 
     <div class="panel">
       <div class="row">
-        <input id="searchInput" type="text" placeholder="Szukaj na widocznej liście (produkt, sklep, rabat)..." oninput="renderDeals()" />
-        <select id="sourceFilter" onchange="renderDeals()">
-          <option value="">Wszystkie źródła</option>
+        <input id="searchInput" type="text" placeholder="Szukaj na liście (produkt, sklep, kategoria)..." oninput="resetPageAndRender()" />
+        <select id="sourceFilter" onchange="resetPageAndRender()">
+          <option value="">Wszystkie sklepy</option>
         </select>
-        <select id="discountFilter" onchange="renderDeals()">
+        <select id="discountFilter" onchange="resetPageAndRender()">
           <option value="0">Każdy rabat</option>
           <option value="20">Rabat od -20%</option>
           <option value="40">Rabat od -40%</option>
           <option value="60">Rabat od -60%</option>
           <option value="cheapest">Tylko najtaniej na Ceneo</option>
         </select>
-        <select id="sortSelect" onchange="renderDeals()">
+        <select id="sortSelect" onchange="resetPageAndRender()">
           <option value="best">Największe okazje od góry</option>
           <option value="savings">Największa oszczędność (zł)</option>
           <option value="newest">Kolejność ze źródeł</option>
+        </select>
+        <select id="pageSizeSelect" onchange="resetPageAndRender()" title="Ile pozycji na stronie">
+          <option value="15">15 / str.</option>
+          <option value="20" selected>20 / str.</option>
+          <option value="25">25 / str.</option>
+          <option value="35">35 / str.</option>
+          <option value="9999">Wszystkie</option>
         </select>
         <button class="btn-secondary" onclick="clearFilters()">Wyczyść</button>
       </div>
@@ -509,7 +535,9 @@ HTML_PAGE = """<!DOCTYPE html>
 
     <div id="statusBar" class="status-bar">Ładowanie...</div>
     <div id="errorBox" class="error-box" style="display:none;"></div>
+    <div id="paginationTop" class="pagination-bar" style="display:none;"></div>
     <div id="dealsContainer" class="grid"></div>
+    <div id="paginationBottom" class="pagination-bar" style="display:none;"></div>
   </div>
 
   <script>
@@ -519,16 +547,18 @@ HTML_PAGE = """<!DOCTYPE html>
     let autoTimer = null;
     let viewMode = 'products';
     let activeGroup = '';
+    let currentPage = 1;
     let savedIds = new Set(JSON.parse(localStorage.getItem('luis_saved_deals') || '[]'));
 
     function classifyGroup(d) {
       if (d.is_leaflet) return 'Gazetki';
       const txt = [d.category, d.title, d.merchant].filter(Boolean).join(' ').toLowerCase();
-      if (/elektronik|słuchawk|tv|telewizor|laptop|monitor|smartfon|iphone|ssd|dysk|dac|projektor|ładowark|usb|kamera|audio|głośnik|soundbar|powerbank/.test(txt)) return 'Elektronika';
-      if (/dom|ogród|kuchni|mebl|szafa|odkurzacz|kosiark|robot|pościel|narzędzi|parkside|warsztat|jysk/.test(txt)) return 'Dom i ogród';
-      if (/kawa|spożywcz|jedzen|napoje|lody|biedronk|lidl|dino|piwo|czekolad|herbata/.test(txt)) return 'Spożywcze i markety';
-      if (/moda|odzież|buty|sneakers|koszul|spodnie|piżam|uroda|perfum|sephora|zdrowi/.test(txt)) return 'Moda i uroda';
-      if (/lego|zabawk|dziec|gry|planszow|figurk/.test(txt)) return 'Zabawki i rozrywka';
+      if (/odzież|ubrani|obuwi|buty|sneakers|kurtk|koszul|spodnie|piżam|sukien|uroda|perfum|krem|szampon|rossmann|droger|makijaż/.test(txt)) return 'Odzież i uroda';
+      if (/budowlan|narzędzi|warsztat|wiertark|kosiark|castorama|ogród|dom i warsztat|mebl|szafa|odkurzacz|robot sprzątaj|pościel|lampa|kuchni/.test(txt)) return 'Budowlane i dom';
+      if (/spożywcz|jedzen|kawa|herbata|lody|napoje|dino|lidl\.pl|mleko|masło|mięso|pieczark|czekolad|ser\b/.test(txt)) return 'Spożywcze i markety';
+      if (/smyk|lego|zabawk|dziec|klocki|gry planszowe|wózek|fotelik/.test(txt)) return 'Dzieci i zabawki';
+      if (/elektronik|słuchawk|tv|telewizor|laptop|monitor|smartfon|iphone|ssd|dysk|dac|projektor|ładowark|usb|kamera|audio|głośnik|soundbar|powerbank/.test(txt)) return 'Elektronika i okazje';
+      if (d.store_group) return d.store_group;
       return 'Inne';
     }
 
@@ -547,6 +577,7 @@ HTML_PAGE = """<!DOCTYPE html>
 
     function setGroupFilter(groupName) {
       activeGroup = groupName;
+      currentPage = 1;
       renderCategoryPills();
       renderDeals();
     }
@@ -563,7 +594,14 @@ HTML_PAGE = """<!DOCTYPE html>
         const g = classifyGroup(d);
         counts[g] = (counts[g] || 0) + 1;
       });
-      const order = ['Elektronika', 'Dom i ogród', 'Spożywcze i markety', 'Moda i uroda', 'Zabawki i rozrywka', 'Inne'];
+      const order = [
+        'Odzież i uroda',
+        'Spożywcze i markety',
+        'Budowlane i dom',
+        'Elektronika i okazje',
+        'Dzieci i zabawki',
+        'Inne'
+      ];
       const pills = [`<button class="cat-pill ${activeGroup === '' ? 'active' : ''}" onclick="setGroupFilter('')">Wszystkie (${base.length})</button>`];
       order.forEach(g => {
         if (counts[g]) {
@@ -576,6 +614,7 @@ HTML_PAGE = """<!DOCTYPE html>
     function setViewMode(mode) {
       viewMode = mode;
       activeGroup = '';
+      currentPage = 1;
       document.getElementById('tabProducts').classList.toggle('active', mode === 'products');
       document.getElementById('tabLeaflets').classList.toggle('active', mode === 'leaflets');
       document.getElementById('tabSaved').classList.toggle('active', mode === 'saved');
@@ -584,6 +623,17 @@ HTML_PAGE = """<!DOCTYPE html>
       updateSourceDropdown();
       renderCategoryPills();
       renderDeals();
+    }
+
+    function resetPageAndRender() {
+      currentPage = 1;
+      renderDeals();
+    }
+
+    function changePage(newPage) {
+      currentPage = newPage;
+      renderDeals();
+      window.scrollTo({ top: 0, behavior: 'smooth' });
     }
 
     function updateNotifyButton() {
@@ -673,7 +723,7 @@ HTML_PAGE = """<!DOCTYPE html>
       const status = document.getElementById('statusBar');
       btn.disabled = true;
       btn.textContent = 'Skanowanie...';
-      status.textContent = 'Pobieranie ofert i porównywanie cen w sklepach...';
+      status.textContent = 'Pobieranie ofert bezpośrednio ze sklepów i porównywanie cen...';
       try {
         const res = await fetch('/api/scan', { method: 'POST' });
         const data = await res.json();
@@ -722,7 +772,7 @@ HTML_PAGE = """<!DOCTYPE html>
       const current = select.value;
       const visible = modeFilteredDeals();
       const sources = [...new Set(visible.map(d => d.source))];
-      select.innerHTML = '<option value="">Wszystkie źródła</option>' +
+      select.innerHTML = '<option value="">Wszystkie sklepy</option>' +
         sources.map(s => `<option value="${escapeHtml(s)}">${escapeHtml(s)}</option>`).join('');
       if (sources.includes(current)) select.value = current;
     }
@@ -740,6 +790,7 @@ HTML_PAGE = """<!DOCTYPE html>
       }
       incoming.forEach(d => knownIds.add(d.deal_id));
       allDeals = incoming;
+      currentPage = 1;
 
       updateSourceDropdown();
       updateSavedTabCount();
@@ -748,7 +799,7 @@ HTML_PAGE = """<!DOCTYPE html>
       const productCount = allDeals.filter(d => !d.is_leaflet).length;
       const leafletCount = allDeals.filter(d => Boolean(d.is_leaflet)).length;
       document.getElementById('tabProducts').textContent = `Produkty i promocje (${productCount})`;
-      document.getElementById('tabLeaflets').textContent = `Gazetki (${leafletCount})`;
+      document.getElementById('tabLeaflets').textContent = `Gazetki Biedronka (${leafletCount})`;
       document.getElementById('tabAll').textContent = `Wszystko (${allDeals.length})`;
 
       const status = document.getElementById('statusBar');
@@ -772,11 +823,57 @@ HTML_PAGE = """<!DOCTYPE html>
       renderDeals();
     }
 
+    function renderPaginationBars(totalItems, pageSize) {
+      const topBar = document.getElementById('paginationTop');
+      const botBar = document.getElementById('paginationBottom');
+      const totalPages = Math.max(1, Math.ceil(totalItems / pageSize));
+      if (currentPage > totalPages) currentPage = totalPages;
+
+      if (totalItems === 0 || pageSize >= 9999 || totalPages <= 1) {
+        const info = totalItems > 0 ? `Wyświetlono <strong>${totalItems}</strong> z <strong>${totalItems}</strong> pozycji` : '';
+        if (info) {
+          topBar.style.display = 'flex';
+          topBar.innerHTML = `<span>${info}</span>`;
+        } else {
+          topBar.style.display = 'none';
+        }
+        botBar.style.display = 'none';
+        return;
+      }
+
+      const startIdx = (currentPage - 1) * pageSize + 1;
+      const endIdx = Math.min(totalItems, currentPage * pageSize);
+      const html = `
+        <span>Pozycje <strong>${startIdx}–${endIdx}</strong> z <strong>${totalItems}</strong> &bull; Strona <strong>${currentPage}</strong> z <strong>${totalPages}</strong></span>
+        <div class="pagination-btns">
+          <button class="btn-secondary btn-small" ${currentPage <= 1 ? 'disabled' : ''} onclick="changePage(${currentPage - 1})">&larr; Poprzednia</button>
+          <button class="btn-secondary btn-small" ${currentPage >= totalPages ? 'disabled' : ''} onclick="changePage(${currentPage + 1})">Następna &rarr;</button>
+        </div>
+      `;
+      topBar.style.display = 'flex';
+      topBar.innerHTML = html;
+      botBar.style.display = 'flex';
+      botBar.innerHTML = html;
+    }
+
+    function buildCleanQuery(title) {
+      return String(title || '')
+        .replace(/\[[^\]]*\]|\([^)]*\)/g, ' ')
+        .replace(/\b(za|od|tylko|jedyne|cena|kat\.?|zamiast|promocja|wyprzedaż|black\s*friday|weekend|rabat\w*|taniej|amazon\w*|allegro|x-kom|empik|dino|lidl|biedronka|smyk|rossmann|castorama)\b/gi, ' ')
+        .replace(/\d[\d\s.,]*\s*(?:zł|pln|€|\$)/gi, ' ')
+        .trim()
+        .split(/\s+/)
+        .filter(w => w.length >= 2)
+        .slice(0, 5)
+        .join(' ');
+    }
+
     function renderDeals() {
       const q = document.getElementById('searchInput').value.trim().toLowerCase();
       const src = document.getElementById('sourceFilter').value;
       const discMin = document.getElementById('discountFilter').value;
       const sortMode = document.getElementById('sortSelect').value;
+      const pageSize = Number(document.getElementById('pageSizeSelect').value || 20);
 
       let filtered = modeFilteredDeals().filter(d => {
         if (src && d.source !== src) return false;
@@ -784,7 +881,7 @@ HTML_PAGE = """<!DOCTYPE html>
         if (discMin === 'cheapest' && d.price_status !== 'cheapest') return false;
         if (discMin !== 'cheapest' && Number(discMin) > 0 && (d.discount_pct || 0) < Number(discMin)) return false;
         if (!q) return true;
-        return [d.title, d.summary, d.merchant, d.category, d.price, d.price_verdict]
+        return [d.title, d.summary, d.merchant, d.category, d.store_group, d.price, d.price_verdict]
           .filter(Boolean).join(' ').toLowerCase().includes(q);
       });
 
@@ -801,13 +898,18 @@ HTML_PAGE = """<!DOCTYPE html>
         );
       }
 
+      renderPaginationBars(filtered.length, pageSize);
+
       const container = document.getElementById('dealsContainer');
       if (filtered.length === 0) {
         container.innerHTML = '<div class="empty">Brak pozycji w tym widoku. Zmień filtry, przełącz zakładkę lub kliknij <strong>Odśwież skan</strong>.</div>';
         return;
       }
 
-      container.innerHTML = filtered.map(d => {
+      const start = (currentPage - 1) * pageSize;
+      const pageItems = pageSize >= 9999 ? filtered : filtered.slice(start, start + pageSize);
+
+      container.innerHTML = pageItems.map(d => {
         const discountLabel = d.discount_pct === 100
           ? 'GRATIS'
           : (d.discount_pct > 0 ? `-${d.discount_pct}%` : (d.savings_pln > 0 ? `-${Math.round(d.savings_pln)} zł` : ''));
@@ -826,16 +928,21 @@ HTML_PAGE = """<!DOCTYPE html>
           : '';
 
         const historyEntries = Array.isArray(d.price_history) ? d.price_history : [];
-        const ceneoUrl = `https://www.ceneo.pl/;szukaj-${encodeURIComponent(d.title.slice(0, 60))}`;
+        const cleanQ = buildCleanQuery(d.title) || d.title.slice(0, 50);
+        const ceneoUrl = d.ceneo_url || `https://www.ceneo.pl/;szukaj-${encodeURIComponent(cleanQ).replace(/%20/g, '+')}`;
+        const pepperArchiveUrl = `https://www.pepper.pl/search?q=${encodeURIComponent(cleanQ)}`;
+
         const historyBlock = !d.is_leaflet
           ? `<details class="history-box">
-               <summary>Historia i porównanie cen (${historyEntries.length})</summary>
+               <summary>Archiwum i porównanie cen (${historyEntries.length})</summary>
+               ${d.lowest_30d ? `<div style="margin-top:4px;color:#cbd5e1;">Najniższa z 30 dni (Omnibus): <strong>${escapeHtml(d.lowest_30d)}</strong></div>` : ''}
                ${historyEntries.length > 0
                  ? `<ul class="history-list">${historyEntries.map(h => `<li><strong>${escapeHtml(h.price)}</strong> — ${escapeHtml(h.note || '')} (${escapeHtml(h.date)})</li>`).join('')}</ul>`
-                 : `<div style="margin-top:4px;color:var(--muted);">Brak zapisanych porównań. Kliknij przycisk poniżej, żeby sprawdzić inne sklepy.</div>`}
+                 : `<div style="margin-top:4px;color:var(--muted);">Brak zapisanych wcześniejszych notowań. Kolejne skany zbudują historię.</div>`}
                <div class="history-actions">
                  <button class="btn-secondary btn-small" onclick='compareDeal(${JSON.stringify(d.deal_id)}, this)'>Porównaj w sklepach (Ceneo)</button>
-                 <a class="history-ext" href="${ceneoUrl}" target="_blank" rel="noopener noreferrer">Ceneo &rarr;</a>
+                 <a class="history-ext" href="${escapeHtml(ceneoUrl)}" target="_blank" rel="noopener noreferrer">Ceneo &rarr;</a>
+                 <a class="history-ext" href="${escapeHtml(pepperArchiveUrl)}" target="_blank" rel="noopener noreferrer">Archiwum Pepper &rarr;</a>
                </div>
              </details>`
           : '';
@@ -847,7 +954,7 @@ HTML_PAGE = """<!DOCTYPE html>
               <div class="badges">
                 <span class="badge">${escapeHtml(d.source)}</span>
                 ${d.merchant ? `<span class="badge merchant">${escapeHtml(d.merchant)}</span>` : ''}
-                ${d.category ? `<span class="badge cat">${escapeHtml(d.category)}</span>` : ''}
+                <span class="badge cat">${escapeHtml(classifyGroup(d))}</span>
               </div>
               ${verdictBlock}
               <a class="title" href="${escapeHtml(d.link)}" target="_blank" rel="noopener noreferrer">${escapeHtml(d.title)}</a>
@@ -871,7 +978,9 @@ HTML_PAGE = """<!DOCTYPE html>
       document.getElementById('sourceFilter').value = '';
       document.getElementById('discountFilter').value = '0';
       document.getElementById('sortSelect').value = 'best';
+      document.getElementById('pageSizeSelect').value = '20';
       activeGroup = '';
+      currentPage = 1;
       renderCategoryPills();
       renderDeals();
     }
@@ -906,7 +1015,7 @@ def _read_cached_deals(config_path: Path) -> dict[str, Any]:
 
 
 def _perform_live_scan(config_path: Path) -> dict[str, Any]:
-    """Fetch all enabled feeds, store promos & leaflets, update history/cache, and return JSON."""
+    """Fetch all enabled feeds and direct stores, update history/cache, and return JSON."""
     base_dir = config_path.parent
     config = monitor_okazji.load_config(config_path)
     keywords = [str(k).strip() for k in config.get("keywords", []) if str(k).strip()]
@@ -987,6 +1096,7 @@ def _compare_single_deal(config_path: Path, deal_id: str, title: str, price: str
             entries = entries[-20:]
             history_map[key] = entries
 
+            item["ceneo_url"] = res.get("ceneo_url", item.get("ceneo_url", ""))
             item["price_status"] = res.get("status", "")
             item["price_verdict"] = res.get("verdict", "")
             item["compared_offers"] = res.get("offers", [])

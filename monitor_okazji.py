@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Unified deal, store promotion, leaflet & cross-store price comparison monitor."""
+"""Unified deal, direct-store promotion, archive & cross-store price monitor."""
 
 from __future__ import annotations
 
@@ -36,21 +36,11 @@ DISCOUNT_PCT_RE = re.compile(
     re.IGNORECASE,
 )
 OLD_PRICE_RE = re.compile(
-    r"(?:zamiast|cena\s*kat\.?|katalogowa|poprzednia|średnia\s*cena[^:]*:|najniższa\s*cena[^:]*:|normalnie|regularna)\s*(?:ok\.?\s*)?(\d[\d\s.,]{0,12})\s*(?:zł|PLN)",
+    r"(?:zamiast|cena\s*kat\.?|katalogowa|poprzednia|średnia\s*cena[^:]*:|najniższa\s*cena[^:]*:|normalnie|regularna|cena\s*przed\s*obniżką:?)\s*(?:ok\.?\s*)?(\d[\d\s.,]{0,12})\s*(?:zł|PLN)",
     re.IGNORECASE,
 )
 SAVINGS_PLN_RE = re.compile(
     r"(?:do\s+)?(\d[\d\s.,]{0,10})\s*(?:zł|PLN)\s*(?:taniej|oszczędności|rabatu)",
-    re.IGNORECASE,
-)
-BLIX_LEAFLET_RE = re.compile(
-    r'data-leaflet-id="(\d+)"[^>]*data-leaflet-name="([^"]+)"[^>]*'
-    r'data-brand-name="([^"]+)"[^>]*data-brand-slug="([^"]+)"[^>]*'
-    r'data-brand-logo="([^"]+)"',
-    re.IGNORECASE,
-)
-BLIX_IMG_RE = re.compile(
-    r"https://imgproxy\.blix\.pl/image/leaflet/(\d+)/[^\"'\s<>]+",
     re.IGNORECASE,
 )
 LIDL_GRID_RE = re.compile(r'data-grid-data="([^"]+)"')
@@ -63,7 +53,7 @@ WHITESPACE_RE = re.compile(r"\s+")
 
 @dataclass(frozen=True)
 class Deal:
-    """Normalized representation of a deal, store product, or promotional leaflet."""
+    """Normalized representation of a deal, direct store promotion, or leaflet."""
 
     source: str
     deal_id: str
@@ -74,12 +64,15 @@ class Deal:
     image_url: str = ""
     price: str = ""
     old_price: str = ""
+    lowest_30d: str = ""
     merchant: str = ""
     category: str = ""
+    store_group: str = ""
     discount_pct: int = 0
     savings_pln: float = 0.0
     deal_score: float = 0.0
     is_leaflet: bool = False
+    ceneo_url: str = ""
     price_status: str = ""
     price_verdict: str = ""
     compared_offers: list[dict[str, str]] = field(default_factory=list)
@@ -108,7 +101,6 @@ def parse_pln_number(raw: str) -> float | None:
         return None
     num_str = m.group(1).replace(" ", "")
     if "," in num_str and "." in num_str:
-        # Handle Polish thousands separator like 1.999,00 or 1.999
         if num_str.rfind(",") > num_str.rfind("."):
             num_str = num_str.replace(".", "").replace(",", ".")
         else:
@@ -197,7 +189,7 @@ def compute_discount_metrics(
 
 
 def sort_deals_by_best(deals: list[Deal]) -> list[Deal]:
-    """Sort deals from biggest discount/deal score at the top (leaflets after products unless equal)."""
+    """Sort deals from biggest discount/deal score at the top."""
     return sorted(
         deals,
         key=lambda d: (0 if d.is_leaflet else 1, d.deal_score, d.discount_pct, d.savings_pln),
@@ -288,7 +280,9 @@ def _extract_merchant_and_price(
     return merchant, price
 
 
-def parse_feed(xml_bytes: bytes, source_name: str, limit: int = 30) -> list[Deal]:
+def parse_feed(
+    xml_bytes: bytes, source_name: str, store_group: str = "", limit: int = 30
+) -> list[Deal]:
     """Parse RSS 2.0 or Atom XML bytes into a list of Deal objects."""
     root = ET.fromstring(xml_bytes.lstrip())
     root_name = _local_name(root.tag)
@@ -337,6 +331,7 @@ def parse_feed(xml_bytes: bytes, source_name: str, limit: int = 30) -> list[Deal
                 old_price=old_price,
                 merchant=merchant,
                 category=category,
+                store_group=store_group,
                 discount_pct=discount_pct,
                 savings_pln=savings_pln,
                 deal_score=deal_score,
@@ -345,7 +340,9 @@ def parse_feed(xml_bytes: bytes, source_name: str, limit: int = 30) -> list[Deal
     return deals
 
 
-def parse_lidl_page(html_bytes: bytes, source_name: str, limit: int = 30) -> list[Deal]:
+def parse_lidl_page(
+    html_bytes: bytes, source_name: str, store_group: str = "Spożywcze i markety", limit: int = 30
+) -> list[Deal]:
     """Parse promotional product cards directly from Lidl.pl HTML data-grid-data JSON."""
     page = html_bytes.decode("utf-8", errors="ignore")
     deals: list[Deal] = []
@@ -396,8 +393,10 @@ def parse_lidl_page(html_bytes: bytes, source_name: str, limit: int = 30) -> lis
                 image_url=image,
                 price=price_str,
                 old_price=old_str,
+                lowest_30d=old_str,
                 merchant="Lidl.pl",
                 category=category,
+                store_group=store_group,
                 discount_pct=pct,
                 savings_pln=abs_disc,
                 deal_score=score,
@@ -409,8 +408,91 @@ def parse_lidl_page(html_bytes: bytes, source_name: str, limit: int = 30) -> lis
     return deals
 
 
+def parse_dino_page(
+    html_bytes: bytes, source_name: str, store_group: str = "Spożywcze i markety", limit: int = 30
+) -> list[Deal]:
+    """Parse promotional products directly from marketdino.pl HTML."""
+    page = html_bytes.decode("utf-8", errors="ignore")
+    parts = page.split("Cena przed obniżką:")
+    if len(parts) < 2:
+        return []
+
+    deals: list[Deal] = []
+    seen_titles: set[str] = set()
+    for idx in range(len(parts) - 1):
+        before = parts[idx][-1400:]
+        after = parts[idx + 1][:1200]
+
+        img_matches = re.findall(
+            r'src="(https://api\.marketdino\.pl/media/[^"]+\.(?:webp|png|jpg|jpeg)[^"]*)"',
+            before,
+            re.IGNORECASE,
+        )
+        image_url = html.unescape(img_matches[-1]) if img_matches else ""
+
+        alt_matches = re.findall(r'alt="([^"]{3,120})"', before)
+        title = ""
+        if alt_matches:
+            title = re.sub(r"\s*widok\s*\d+$", "", alt_matches[-1], flags=re.IGNORECASE).strip()
+        if not title:
+            tokens = [t.strip() for t in clean_html(before[-350:], max_len=350).split() if len(t.strip()) > 1]
+            title = " ".join(tokens[-4:])
+        if not title or title in seen_titles:
+            continue
+        seen_titles.add(title)
+
+        old_m = re.search(r"(\d+[.,]\d{2})\s*zł", after)
+        old_val = parse_pln_number(old_m.group(1)) if old_m else None
+        old_price = format_pln(old_val) if old_val else ""
+
+        pv_m = re.search(r"product-price-view[^>]*>(.*?)</div>\s*</div>", after, re.S)
+        cur_price = ""
+        pct = 0
+        if pv_m:
+            pv_txt = clean_html(pv_m.group(1), max_len=120)
+            pct_m = re.search(r"-(\d{1,2})\s*%", pv_txt)
+            if pct_m:
+                pct = int(pct_m.group(1))
+            num_m = re.search(r"(\d+)\s+(\d{2})", pv_txt)
+            if num_m:
+                cur_val = parse_pln_number(f"{num_m.group(1)},{num_m.group(2)}")
+                if cur_val:
+                    cur_price = format_pln(cur_val)
+
+        old_price, discount_pct, savings_pln, deal_score = compute_discount_metrics(
+            title, f"-{pct}%" if pct else "", cur_price, explicit_old_price=old_price
+        )
+        discount_pct = max(discount_pct, pct)
+        deal_score = max(deal_score, round(discount_pct * 2.0 + min(savings_pln / 20.0, 40.0), 2))
+
+        deals.append(
+            Deal(
+                source=source_name,
+                deal_id=f"dino:{title.lower()}",
+                title=f"Dino: {title}",
+                link="https://marketdino.pl/",
+                published="Aktualna oferta Dino",
+                summary="Promocja bezpośrednio ze strony marketdino.pl.",
+                image_url=image_url,
+                price=cur_price,
+                old_price=old_price,
+                lowest_30d=old_price,
+                merchant="Dino",
+                category="Spożywcze",
+                store_group=store_group,
+                discount_pct=discount_pct,
+                savings_pln=savings_pln,
+                deal_score=deal_score,
+                is_leaflet=False,
+            )
+        )
+        if len(deals) >= limit:
+            break
+    return deals
+
+
 def parse_biedronka_home_page(
-    html_bytes: bytes, source_name: str, limit: int = 30
+    html_bytes: bytes, source_name: str, store_group: str = "Budowlane i dom", limit: int = 30
 ) -> list[Deal]:
     """Parse promotional product cards directly from home.biedronka.pl."""
     page = html_bytes.decode("utf-8", errors="ignore")
@@ -442,13 +524,11 @@ def parse_biedronka_home_page(
         if not title:
             continue
 
-        # Biedronka Home formats prices like "269 00 zł" or "1.999 00 zł"
         raw_text = clean_html(chunk[:2600], max_len=900)
         prices = re.findall(r"(\d[\d.]*\s\d{2})\s*zł", raw_text)
         parsed_prices: list[float] = []
         for p in prices:
-            normalized = p.replace(" ", ",")
-            val = parse_pln_number(normalized)
+            val = parse_pln_number(p.replace(" ", ","))
             if val is not None:
                 parsed_prices.append(val)
 
@@ -479,8 +559,10 @@ def parse_biedronka_home_page(
                 image_url=image_url,
                 price=cur_price,
                 old_price=old_price,
+                lowest_30d=old_price,
                 merchant="Biedronka Home",
-                category="Dom i ogród",
+                category="Dom i warsztat",
+                store_group=store_group,
                 discount_pct=discount_pct,
                 savings_pln=savings_pln,
                 deal_score=deal_score,
@@ -492,42 +574,273 @@ def parse_biedronka_home_page(
     return deals
 
 
-def parse_blix_page(
-    html_bytes: bytes, source_name: str, base_url: str, limit: int = 20
+def parse_biedronka_gazetki_page(
+    html_bytes: bytes, source_name: str, store_group: str = "Spożywcze i markety", limit: int = 15
 ) -> list[Deal]:
-    """Parse promotional leaflets from a Blix.pl store page (Biedronka, Lidl, Dino, JYSK)."""
+    """Parse promotional leaflets directly from biedronka.pl/pl/gazetki (no Blix)."""
     page = html_bytes.decode("utf-8", errors="ignore")
-    leaflet_images: dict[str, str] = {}
-    for img_match in BLIX_IMG_RE.finditer(page):
-        lid = img_match.group(1)
-        leaflet_images.setdefault(lid, img_match.group(0))
-
-    seen_leaflets: set[str] = set()
+    pattern = re.compile(
+        r'href="(https://www\.biedronka\.pl/pl/press,id,([^,]+),title,([^"]+))"[^>]*>(.*?)</a>',
+        re.S,
+    )
     deals: list[Deal] = []
-    for m in BLIX_LEAFLET_RE.finditer(page):
-        lid, lname, brand_name, brand_slug, brand_logo = m.groups()
-        if lid in seen_leaflets:
+    seen: set[str] = set()
+    for link, gid, slug, inner in pattern.findall(page):
+        if gid in seen:
             continue
-        seen_leaflets.add(lid)
-        clean_name = html.unescape(lname).strip()
-        clean_brand = html.unescape(brand_name).strip()
-        link = f"https://blix.pl/sklep/{brand_slug}/gazetka/{lid}/?pageNumber=1"
-        img = leaflet_images.get(lid, brand_logo)
-        title = f"{clean_brand}: Gazetka — {clean_name}"
+        seen.add(gid)
+        img_m = re.search(r'src="(https://cdn\.biedronka\.pl/[^"]+)"', inner)
+        image_url = img_m.group(1) if img_m else ""
+        readable_title = slug.replace("-", " ").strip().capitalize()
         deals.append(
             Deal(
                 source=source_name,
-                deal_id=f"blix:{brand_slug}:{lid}",
-                title=title,
+                deal_id=f"biedronka-gazetka:{gid}",
+                title=f"Biedronka: {readable_title}",
                 link=link,
-                published="Aktualna gazetka Blix",
-                summary=f"Przeglądaj aktualną gazetkę promocyjną sklepu {clean_brand} ({clean_name}) w Blix.pl.",
-                image_url=img,
+                published="Oficjalna gazetka Biedronka.pl",
+                summary="Bezpośrednia gazetka promocyjna ze strony biedronka.pl.",
+                image_url=image_url,
                 price="Gazetka",
-                merchant=clean_brand,
+                merchant="Biedronka.pl",
                 category="Gazetki marketowe",
+                store_group=store_group,
                 deal_score=0.0,
                 is_leaflet=True,
+            )
+        )
+        if len(deals) >= limit:
+            break
+    return deals
+
+
+def parse_smyk_page(
+    html_bytes: bytes, source_name: str, store_group: str = "Dzieci i zabawki", limit: int = 30
+) -> list[Deal]:
+    """Parse promotional products directly from smyk.com HTML."""
+    page = html_bytes.decode("utf-8", errors="ignore")
+    parts = page.split('class="horizontal-product__price--new"')
+    if len(parts) < 2:
+        return []
+
+    deals: list[Deal] = []
+    seen_links: set[str] = set()
+    for idx in range(len(parts) - 1):
+        before = parts[idx][-2400:]
+        after = parts[idx + 1][:700]
+
+        link_m = re.findall(r'href="(/pl/pl/p/[^"]+)"', before)
+        if not link_m:
+            continue
+        rel_link = link_m[-1]
+        if rel_link in seen_links:
+            continue
+        seen_links.add(rel_link)
+        link = f"https://www.smyk.com{rel_link}"
+
+        aria_m = re.findall(r'aria-label="([^"]{6,180})"', before)
+        title = html.unescape(aria_m[-1]).strip() if aria_m else rel_link.split("/")[-1]
+
+        img_m = re.findall(r'src="(https://img\.smyk\.com/[^"]+)"', before)
+        image_url = html.unescape(img_m[-1]) if img_m else ""
+
+        cur_txt = clean_html(after[:120], max_len=120)
+        cur_m = re.search(r"(\d[\d\s]*[.,]\d{2})\s*zł", cur_txt)
+        cur_val = parse_pln_number(cur_m.group(1)) if cur_m else None
+        cur_price = format_pln(cur_val) if cur_val else ""
+
+        old_m = re.search(r'horizontal-product__price--old"[^>]*>(.*?)</span>', after, re.S)
+        old_val = parse_pln_number(clean_html(old_m.group(1))) if old_m else None
+        old_price = format_pln(old_val) if old_val else ""
+
+        omni_m = re.search(r'horizontal-product__omnibus--price"[^>]*>(.*?)</span>', after, re.S)
+        omni_val = parse_pln_number(clean_html(omni_m.group(1))) if omni_m else None
+        lowest_30d = format_pln(omni_val) if omni_val else old_price
+
+        red_m = re.search(r"-(\d{1,2})\s*%", after)
+        pct = int(red_m.group(1)) if red_m else 0
+
+        old_price, discount_pct, savings_pln, deal_score = compute_discount_metrics(
+            title, f"-{pct}%", cur_price, explicit_old_price=old_price
+        )
+        discount_pct = max(discount_pct, pct)
+        deal_score = max(deal_score, round(discount_pct * 2.0 + min(savings_pln / 20.0, 40.0), 2))
+
+        deals.append(
+            Deal(
+                source=source_name,
+                deal_id=f"smyk:{rel_link}",
+                title=title,
+                link=link,
+                published="Aktualna oferta Smyk.com",
+                summary=f"Promocja ze sklepu Smyk.com{f' • Najniższa z 30 dni: {lowest_30d}' if lowest_30d else ''}.",
+                image_url=image_url,
+                price=cur_price,
+                old_price=old_price,
+                lowest_30d=lowest_30d,
+                merchant="Smyk.com",
+                category="Dzieci i zabawki",
+                store_group=store_group,
+                discount_pct=discount_pct,
+                savings_pln=savings_pln,
+                deal_score=deal_score,
+                is_leaflet=False,
+            )
+        )
+        if len(deals) >= limit:
+            break
+    return deals
+
+
+def _find_rossmann_products(obj: Any) -> list[dict[str, Any]]:
+    """Recursively locate product list in Rossmann Next.js __NEXT_DATA__ JSON."""
+    if isinstance(obj, list) and obj and isinstance(obj[0], dict):
+        if "price" in obj[0] and "navigateUrl" in obj[0] and "pictures" in obj[0]:
+            return obj
+    if isinstance(obj, dict):
+        for val in obj.values():
+            found = _find_rossmann_products(val)
+            if found:
+                return found
+    elif isinstance(obj, list):
+        for val in obj:
+            found = _find_rossmann_products(val)
+            if found:
+                return found
+    return []
+
+
+def parse_rossmann_page(
+    html_bytes: bytes, source_name: str, store_group: str = "Odzież i uroda", limit: int = 30
+) -> list[Deal]:
+    """Parse promotional products directly from Rossmann.pl __NEXT_DATA__ JSON."""
+    page = html_bytes.decode("utf-8", errors="ignore")
+    m = re.search(r'<script[^>]+id="__NEXT_DATA__"[^>]*>(.*?)</script>', page, re.S)
+    if not m:
+        return []
+    try:
+        data = json.loads(m.group(1))
+    except json.JSONDecodeError:
+        return []
+
+    products = _find_rossmann_products(data)
+    deals: list[Deal] = []
+    for p in products[:limit]:
+        brand = str(p.get("brand") or "").strip()
+        caption = str(p.get("caption") or p.get("fallbackCaption") or p.get("name") or "").strip()
+        title = f"{brand} {caption}".strip()
+        if not title:
+            continue
+
+        pid = str(p.get("id") or title)
+        nav = str(p.get("navigateUrl") or "").strip()
+        link = f"https://www.rossmann.pl{nav}" if nav.startswith("/") else nav
+
+        pics = p.get("pictures") or []
+        image_url = ""
+        if pics and isinstance(pics[0], dict):
+            image_url = str(pics[0].get("medium") or pics[0].get("small") or "").strip()
+
+        cur_num = p.get("price")
+        old_num = p.get("oldPrice")
+        low_num = p.get("lastLowestPriceV2")
+        cur_price = format_pln(float(cur_num)) if isinstance(cur_num, (int, float)) else ""
+        old_price = format_pln(float(old_num)) if isinstance(old_num, (int, float)) else ""
+        lowest_30d = format_pln(float(low_num)) if isinstance(low_num, (int, float)) else old_price
+
+        old_price, discount_pct, savings_pln, deal_score = compute_discount_metrics(
+            title, "", cur_price, explicit_old_price=old_price
+        )
+        cat = str(p.get("category") or "Uroda").strip()
+        deals.append(
+            Deal(
+                source=source_name,
+                deal_id=f"rossmann:{pid}",
+                title=title,
+                link=link,
+                published="Aktualna promocja Rossmann.pl",
+                summary=f"Promocja w drogerii Rossmann.pl{f' • Najniższa z 30 dni: {lowest_30d}' if lowest_30d else ''}.",
+                image_url=image_url,
+                price=cur_price,
+                old_price=old_price,
+                lowest_30d=lowest_30d,
+                merchant="Rossmann.pl",
+                category=cat,
+                store_group=store_group,
+                discount_pct=discount_pct,
+                savings_pln=savings_pln,
+                deal_score=deal_score,
+                is_leaflet=False,
+            )
+        )
+    return deals
+
+
+def parse_castorama_page(
+    html_bytes: bytes, source_name: str, store_group: str = "Budowlane i dom", limit: int = 30
+) -> list[Deal]:
+    """Parse promotional product cards directly from Castorama.pl HTML."""
+    page = html_bytes.decode("utf-8", errors="ignore")
+    chunks = page.split('data-testid="product-link"')[1:]
+    deals: list[Deal] = []
+    seen: set[str] = set()
+
+    for chunk in chunks:
+        blk = chunk[:4500]
+        href_m = re.search(r'href="(/[^"]+\.prd)"', blk)
+        if not href_m:
+            continue
+        rel_url = href_m.group(1)
+        if rel_url in seen:
+            continue
+        seen.add(rel_url)
+        link = f"https://www.castorama.pl{rel_url}"
+
+        slug_title = rel_url.strip("/").split("/")[0].replace("-", " ").capitalize()
+        title_m = re.search(r'data-testid="product-title"[^>]*>(.*?)</', blk, re.S)
+        title = clean_html(title_m.group(1), max_len=180) if title_m else slug_title
+
+        img_m = re.search(r'(?:srcSet|src)="(https://media2\.castorama\.pl/[^"\s]+)"', blk)
+        image_url = html.unescape(img_m.group(1)) if img_m else ""
+
+        old_m = re.search(r"Oryginalna cena\s*(?:<!--\s*-->\s*)?(\d[\d\s.,]*)\s*zł", blk)
+        old_val = parse_pln_number(old_m.group(1)) if old_m else None
+        old_price = format_pln(old_val) if old_val else ""
+
+        txt = clean_html(blk, max_len=1200)
+        prices = re.findall(r"(\d[\d\s]*[.,]\d{2}|\d[\d\s]+)\s*zł", txt)
+        cur_price = ""
+        for p in reversed(prices):
+            val = parse_pln_number(p)
+            if val and (not old_val or val != old_val):
+                cur_price = format_pln(val)
+                break
+        if not cur_price and prices:
+            val = parse_pln_number(prices[-1])
+            cur_price = format_pln(val) if val else ""
+
+        old_price, discount_pct, savings_pln, deal_score = compute_discount_metrics(
+            title, txt, cur_price, explicit_old_price=old_price
+        )
+        deals.append(
+            Deal(
+                source=source_name,
+                deal_id=f"castorama:{rel_url}",
+                title=title,
+                link=link,
+                published="Aktualna oferta Castorama.pl",
+                summary=f"Oferta z marketu budowlanego Castorama.pl{f' • Najniższa z 30 dni: {old_price}' if old_price else ''}.",
+                image_url=image_url,
+                price=cur_price,
+                old_price=old_price,
+                lowest_30d=old_price,
+                merchant="Castorama.pl",
+                category="Budowlane i ogród",
+                store_group=store_group,
+                discount_pct=discount_pct,
+                savings_pln=savings_pln,
+                deal_score=deal_score,
+                is_leaflet=False,
             )
         )
         if len(deals) >= limit:
@@ -557,11 +870,11 @@ def fetch_feed(url: str, timeout: int = 15) -> bytes:
         return response.read()
 
 
-def _build_search_query(title: str) -> str:
-    """Extract clean product/model keywords from a deal title for Ceneo search."""
+def build_search_query(title: str) -> str:
+    """Extract clean product/model keywords from a deal title for Ceneo/Pepper search."""
     cleaned = re.sub(r"\[[^\]]*\]|\([^)]*\)", " ", title)
     cleaned = re.sub(
-        r"\b(?:za|od|tylko|jedyne|cena|kat\.?|zamiast|promocja|wyprzedaż|black\s*friday|weekend|rabat\w*|taniej|w\s+sklepie|na\s+allegro|w\s+amazon\w*|amazon\w*|x-kom|empik|media\s*expert|ceneo|steam|xbox|ps5|ps4|switch)\b",
+        r"\b(?:za|od|tylko|jedyne|cena|kat\.?|zamiast|promocja|wyprzedaż|black\s*friday|weekend|rabat\w*|taniej|w\s+sklepie|na\s+allegro|w\s+amazon\w*|amazon\w*|x-kom|empik|media\s*expert|ceneo|steam|xbox|ps5|ps4|switch|wszystkie|kolory|w\s+tej\s+samej|cenie|dino|lidl|biedronka|smyk|rossmann|castorama)\b",
         " ",
         cleaned,
         flags=re.IGNORECASE,
@@ -569,6 +882,12 @@ def _build_search_query(title: str) -> str:
     cleaned = re.sub(r"\d[\d\s.,]*\s*(?:zł|pln|€|\$)", " ", cleaned, flags=re.IGNORECASE)
     tokens = [t for t in re.findall(r"[A-Za-z0-9ąćęłńóśźżĄĆĘŁŃÓŚŹŻ+-]+", cleaned) if len(t) >= 2]
     return " ".join(tokens[:5])
+
+
+def build_ceneo_search_url(title: str) -> str:
+    """Build a clean Ceneo search URL using '+'-separated product keywords."""
+    query = build_search_query(title) or title[:50]
+    return f"https://www.ceneo.pl/;szukaj-{urllib.parse.quote_plus(query)}"
 
 
 def _parse_ceneo_offers(product_html: str, limit: int = 5) -> list[dict[str, str]]:
@@ -598,7 +917,7 @@ def compare_product_on_ceneo(
     title: str, deal_price_str: str, timeout: int = 8
 ) -> dict[str, Any]:
     """Search Ceneo for the product and compare its market prices against the deal."""
-    query = _build_search_query(title)
+    query = build_search_query(title)
     if not query:
         return {"matched": False, "query": "", "verdict": "", "status": "", "offers": []}
 
@@ -606,7 +925,7 @@ def compare_product_on_ceneo(
     try:
         search_html = fetch_feed(search_url, timeout=timeout).decode("utf-8", errors="ignore")
     except (urllib.error.URLError, TimeoutError, OSError):
-        return {"matched": False, "query": query, "verdict": "", "status": "", "offers": []}
+        return {"matched": False, "query": query, "search_url": search_url, "verdict": "", "status": "", "offers": []}
 
     rows = CENEO_ROW_RE.findall(search_html)
     if not rows:
@@ -619,7 +938,6 @@ def compare_product_on_ceneo(
             "offers": [],
         }
 
-    # Prefer row whose name shares the most query tokens with our deal
     q_tokens = {t.lower() for t in query.split() if len(t) >= 2}
     best_row = None
     best_overlap = -1
@@ -733,7 +1051,7 @@ def enrich_deals_with_ceneo(
                 entries.append({"date": timestamp, "price": off["price"], "note": f"Ceneo: {off['shop']}"})
                 existing_notes.add(tup)
         if not res.get("offers") and res.get("ceneo_min"):
-            tup = (timestamp, "Ceneo min", res["ceneo_min"])
+            tup = (timestamp, "Ceneo (najniższa)", res["ceneo_min"])
             if tup not in existing_notes:
                 entries.append({"date": timestamp, "price": res["ceneo_min"], "note": "Ceneo (najniższa)"})
 
@@ -741,6 +1059,7 @@ def enrich_deals_with_ceneo(
         history_map[key] = entries
         updated_deals[idx] = dataclasses.replace(
             deal,
+            ceneo_url=res.get("ceneo_url", deal.ceneo_url),
             price_status=res.get("status", ""),
             price_verdict=res.get("verdict", ""),
             compared_offers=res.get("offers", []),
@@ -755,7 +1074,7 @@ def matches_filters(
     deal: Deal, keywords: list[str], exclude_keywords: list[str]
 ) -> bool:
     """Check whether a deal matches inclusion and exclusion keyword lists."""
-    haystack = f"{deal.title} {deal.summary} {deal.merchant} {deal.category}".lower()
+    haystack = f"{deal.title} {deal.summary} {deal.merchant} {deal.category} {deal.store_group}".lower()
     if exclude_keywords and any(ex.lower() in haystack for ex in exclude_keywords):
         return False
     if not keywords:
@@ -788,14 +1107,16 @@ def load_price_history(path: Path) -> dict[str, list[dict[str, str]]]:
 def update_and_attach_price_history(
     path: Path, deals: list[Deal], timestamp: str
 ) -> list[Deal]:
-    """Update price history with current observations and attach history to each Deal."""
+    """Update price archive with current/Omnibus observations and attach Ceneo fallback links."""
     history_map = load_price_history(path)
     enriched: list[Deal] = []
 
     for deal in deals:
         key = product_key(deal)
         entries = list(history_map.get(key, []))
-        if deal.old_price and not any(e.get("note") == "przed promocją" for e in entries):
+        if deal.lowest_30d and not any(e.get("note") == "Najniższa z 30 dni (Omnibus)" for e in entries):
+            entries.insert(0, {"date": "30 dni przed obniżką", "price": deal.lowest_30d, "note": "Najniższa z 30 dni (Omnibus)"})
+        elif deal.old_price and not any(e.get("note") == "przed promocją" for e in entries):
             entries.insert(0, {"date": "przed promocją", "price": deal.old_price, "note": "przed promocją"})
         if deal.price and not deal.is_leaflet:
             last_price = entries[-1].get("price") if entries else None
@@ -804,10 +1125,11 @@ def update_and_attach_price_history(
         entries = entries[-20:]
         if entries:
             history_map[key] = entries
-        enriched.append(dataclasses.replace(deal, price_history=entries))
+        ceneo_link = deal.ceneo_url or ("" if deal.is_leaflet else build_ceneo_search_url(deal.title))
+        enriched.append(dataclasses.replace(deal, price_history=entries, ceneo_url=ceneo_link))
 
-    if len(history_map) > 2000:
-        keys = list(history_map.keys())[-2000:]
+    if len(history_map) > 2500:
+        keys = list(history_map.keys())[-2500:]
         history_map = {k: history_map[k] for k in keys}
     path.write_text(json.dumps(history_map, ensure_ascii=False, indent=2), encoding="utf-8")
     return enriched
@@ -896,6 +1218,7 @@ def append_csv(path: Path, deals: list[Deal], timestamp: str) -> None:
                 [
                     "checked_at",
                     "source",
+                    "store_group",
                     "title",
                     "price",
                     "old_price",
@@ -912,6 +1235,7 @@ def append_csv(path: Path, deals: list[Deal], timestamp: str) -> None:
                 [
                     timestamp,
                     deal.source,
+                    deal.store_group,
                     deal.title,
                     deal.price,
                     deal.old_price,
@@ -984,7 +1308,7 @@ def load_config(config_path: Path) -> dict[str, Any]:
 
 
 def fetch_all_sources(config: dict[str, Any]) -> tuple[list[Deal], list[str]]:
-    """Fetch and parse deals from all enabled RSS/Atom, store, and Blix sources."""
+    """Fetch and parse deals from all enabled RSS/Atom and direct store sources."""
     keywords = [str(k).strip() for k in config.get("keywords", []) if str(k).strip()]
     exclude_keywords = [
         str(k).strip() for k in config.get("exclude_keywords", []) if str(k).strip()
@@ -1000,16 +1324,25 @@ def fetch_all_sources(config: dict[str, Any]) -> tuple[list[Deal], list[str]]:
         name = str(source["name"])
         url = str(source["url"])
         source_type = str(source.get("type", "rss")).lower()
+        store_group = str(source.get("store_group", "")).strip()
         try:
             raw_bytes = fetch_feed(url)
-            if source_type == "blix":
-                deals = parse_blix_page(raw_bytes, name, url, limit=max_items)
-            elif source_type == "lidl":
-                deals = parse_lidl_page(raw_bytes, name, limit=max_items)
+            if source_type == "lidl":
+                deals = parse_lidl_page(raw_bytes, name, store_group=store_group, limit=max_items)
+            elif source_type == "dino":
+                deals = parse_dino_page(raw_bytes, name, store_group=store_group, limit=max_items)
             elif source_type == "biedronka_home":
-                deals = parse_biedronka_home_page(raw_bytes, name, limit=max_items)
+                deals = parse_biedronka_home_page(raw_bytes, name, store_group=store_group, limit=max_items)
+            elif source_type == "biedronka_gazetki":
+                deals = parse_biedronka_gazetki_page(raw_bytes, name, store_group=store_group, limit=max_items)
+            elif source_type == "smyk":
+                deals = parse_smyk_page(raw_bytes, name, store_group=store_group, limit=max_items)
+            elif source_type == "rossmann":
+                deals = parse_rossmann_page(raw_bytes, name, store_group=store_group, limit=max_items)
+            elif source_type == "castorama":
+                deals = parse_castorama_page(raw_bytes, name, store_group=store_group, limit=max_items)
             else:
-                deals = parse_feed(raw_bytes, name, limit=max_items)
+                deals = parse_feed(raw_bytes, name, store_group=store_group, limit=max_items)
         except (urllib.error.URLError, TimeoutError, ET.ParseError, OSError) as exc:
             errors.append(f"{name} ({url}): {exc}")
             continue
@@ -1072,7 +1405,7 @@ def run_monitor(config_path: Path, show_all: bool = False, dry_run: bool = False
 
 def main() -> int:
     """CLI entry point."""
-    parser = argparse.ArgumentParser(description="Monitor okazji cenowych i gazetek.")
+    parser = argparse.ArgumentParser(description="Monitor okazji cenowych i sklepów.")
     parser.add_argument(
         "--config",
         default="config.json",

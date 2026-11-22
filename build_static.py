@@ -76,7 +76,7 @@ def build_static_site(project_dir: Path, out_dir: Path) -> int:
     static_html = static_html.replace('href="/icon.svg"', 'href="./icon.svg"')
     static_html = static_html.replace(
         "await loadConfig();\n      const res = await fetch('/api/deals');\n      const data = await res.json();",
-        "const res = await fetch('./deals.json?_=' + Date.now());\n      const data = await res.json();\n      if (data.config) {\n        currentConfig = data.config;\n        document.getElementById('keywordsInput').value = (currentConfig.keywords || []).join(', ');\n        const box = document.getElementById('sourcesCheckboxes');\n        box.innerHTML = (currentConfig.sources || []).map((s, idx) => `\n          <label><input type=\"checkbox\" data-source-idx=\"${idx}\" ${s.enabled ? 'checked' : ''} onchange=\"renderDeals()\" /> ${escapeHtml(s.name)}</label>\n        `).join('');\n      }",
+        "const res = await fetch('./deals.json?_=' + Date.now());\n      const data = await res.json();\n      if (data.config) {\n        currentConfig = data.config;\n        document.getElementById('keywordsInput').value = (currentConfig.keywords || []).join(', ');\n        const box = document.getElementById('sourcesCheckboxes');\n        box.innerHTML = (currentConfig.sources || []).map((s, idx) => `\n          <label><input type=\"checkbox\" data-source-idx=\"${idx}\" ${s.enabled ? 'checked' : ''} onchange=\"currentPage=1;renderDeals()\" /> ${escapeHtml(s.name)}</label>\n        `).join('');\n      }",
     )
     static_html = static_html.replace(
         "fetch('/api/scan', { method: 'POST' })",
@@ -96,7 +96,7 @@ def build_static_site(project_dir: Path, out_dir: Path) -> int:
     )
     static_html = static_html.replace(
         "function clearFilters() {",
-        "function applyStaticFilters() {\n      const raw = document.getElementById('keywordsInput').value;\n      currentConfig.keywords = raw.split(',').map(k => k.trim()).filter(Boolean);\n      const cbs = document.querySelectorAll('#sourcesCheckboxes input[type=\"checkbox\"]');\n      cbs.forEach(cb => { const i = Number(cb.dataset.sourceIdx); if (currentConfig.sources[i]) currentConfig.sources[i].enabled = cb.checked; });\n      renderDeals();\n    }\n    function clearFilters() {",
+        "function applyStaticFilters() {\n      const raw = document.getElementById('keywordsInput').value;\n      currentConfig.keywords = raw.split(',').map(k => k.trim()).filter(Boolean);\n      const cbs = document.querySelectorAll('#sourcesCheckboxes input[type=\"checkbox\"]');\n      cbs.forEach(cb => { const i = Number(cb.dataset.sourceIdx); if (currentConfig.sources[i]) currentConfig.sources[i].enabled = cb.checked; });\n      currentPage = 1;\n      renderDeals();\n    }\n    function clearFilters() {",
     )
     static_html = static_html.replace(
         "let filtered = modeFilteredDeals().filter(d => {",

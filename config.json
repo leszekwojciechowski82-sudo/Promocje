@@ -5,55 +5,64 @@
       "name": "Pepper.pl",
       "url": "https://www.pepper.pl/rss/wszystkie",
       "type": "rss",
+      "store_group": "Elektronika i okazje",
       "enabled": true
     },
     {
       "name": "ŁowcyChin.pl",
       "url": "https://www.lowcychin.pl/feed/",
       "type": "rss",
+      "store_group": "Elektronika i okazje",
       "enabled": true
     },
     {
       "name": "Lidl.pl (Promocje)",
       "url": "https://www.lidl.pl/c/promocje/s10076831",
       "type": "lidl",
+      "store_group": "Spożywcze i markety",
+      "enabled": true
+    },
+    {
+      "name": "Dino (Promocje)",
+      "url": "https://marketdino.pl/",
+      "type": "dino",
+      "store_group": "Spożywcze i markety",
+      "enabled": true
+    },
+    {
+      "name": "Biedronka.pl (Gazetki)",
+      "url": "https://www.biedronka.pl/pl/gazetki",
+      "type": "biedronka_gazetki",
+      "store_group": "Spożywcze i markety",
+      "enabled": true
+    },
+    {
+      "name": "Castorama.pl",
+      "url": "https://www.castorama.pl/",
+      "type": "castorama",
+      "store_group": "Budowlane i dom",
       "enabled": true
     },
     {
       "name": "Biedronka Home",
       "url": "https://home.biedronka.pl/promocje/",
       "type": "biedronka_home",
+      "store_group": "Budowlane i dom",
       "enabled": true
     },
     {
-      "name": "Blix: Biedronka",
-      "url": "https://blix.pl/sklep/biedronka/",
-      "type": "blix",
+      "name": "Rossmann.pl",
+      "url": "https://www.rossmann.pl/promocje",
+      "type": "rossmann",
+      "store_group": "Odzież i uroda",
       "enabled": true
     },
     {
-      "name": "Blix: Lidl",
-      "url": "https://blix.pl/sklep/lidl/",
-      "type": "blix",
+      "name": "Smyk.com",
+      "url": "https://www.smyk.com/",
+      "type": "smyk",
+      "store_group": "Dzieci i zabawki",
       "enabled": true
-    },
-    {
-      "name": "Blix: Dino",
-      "url": "https://blix.pl/sklep/dino/",
-      "type": "blix",
-      "enabled": true
-    },
-    {
-      "name": "Blix: JYSK",
-      "url": "https://blix.pl/sklep/jysk/",
-      "type": "blix",
-      "enabled": true
-    },
-    {
-      "name": "MyDealz.de",
-      "url": "https://www.mydealz.de/rss/alle",
-      "type": "rss",
-      "enabled": false
     }
   ],
   "keywords": [],
