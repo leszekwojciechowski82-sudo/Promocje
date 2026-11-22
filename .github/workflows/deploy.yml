@@ -1,0 +1,37 @@
+name: Aktualizuj Monitor Okazji by Luis (GitHub Pages)
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Pobierz repozytorium
+        uses: actions/checkout@v4
+
+      - name: Ustaw Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Pobierz okazje i zbuduj stronę (docs/)
+        run: python3 build_static.py
+
+      - name: Zapisz historię cen i stronę w repozytorium
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/ seen_deals.json price_history.json latest_deals.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Aktualizacja okazji $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi

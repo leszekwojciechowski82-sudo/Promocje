@@ -1,0 +1,76 @@
+{
+  "app_name": "Monitor Okazji by Luis",
+  "sources": [
+    {
+      "name": "Pepper.pl",
+      "url": "https://www.pepper.pl/rss/wszystkie",
+      "type": "rss",
+      "enabled": true
+    },
+    {
+      "name": "ŁowcyChin.pl",
+      "url": "https://www.lowcychin.pl/feed/",
+      "type": "rss",
+      "enabled": true
+    },
+    {
+      "name": "Łowcy Gier",
+      "url": "https://lowcygier.pl/feed/",
+      "type": "rss",
+      "enabled": true
+    },
+    {
+      "name": "Lidl.pl (Promocje)",
+      "url": "https://www.lidl.pl/c/promocje/s10076831",
+      "type": "lidl",
+      "enabled": true
+    },
+    {
+      "name": "Biedronka Home",
+      "url": "https://home.biedronka.pl/promocje/",
+      "type": "biedronka_home",
+      "enabled": true
+    },
+    {
+      "name": "Blix: Biedronka",
+      "url": "https://blix.pl/sklep/biedronka/",
+      "type": "blix",
+      "enabled": true
+    },
+    {
+      "name": "Blix: Lidl",
+      "url": "https://blix.pl/sklep/lidl/",
+      "type": "blix",
+      "enabled": true
+    },
+    {
+      "name": "Blix: Dino",
+      "url": "https://blix.pl/sklep/dino/",
+      "type": "blix",
+      "enabled": true
+    },
+    {
+      "name": "Blix: JYSK",
+      "url": "https://blix.pl/sklep/jysk/",
+      "type": "blix",
+      "enabled": true
+    },
+    {
+      "name": "MyDealz.de",
+      "url": "https://www.mydealz.de/rss/alle",
+      "type": "rss",
+      "enabled": false
+    }
+  ],
+  "keywords": [],
+  "exclude_keywords": [],
+  "max_items_per_source": 30,
+  "auto_compare_top_n": 8,
+  "macos_notifications": true,
+  "ntfy_topic": "",
+  "report_file": "raport_okazji.md",
+  "csv_file": "historia_okazji.csv",
+  "seen_file": "seen_deals.json",
+  "cache_file": "latest_deals.json",
+  "price_history_file": "price_history.json"
+}

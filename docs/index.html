@@ -1,0 +1,746 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="apple-mobile-web-app-title" content="Monitor Okazji Luis" />
+  <meta name="theme-color" content="#0b1120" />
+  <link rel="manifest" href="./manifest.json" />
+  <link rel="icon" href="./icon.svg" type="image/svg+xml" />
+  <link rel="apple-touch-icon" href="./icon.svg" />
+  <title>Monitor Okazji by Luis</title>
+  <style>
+    :root {
+      --bg: #0b1120;
+      --surface: #131c31;
+      --surface-hover: #1b2742;
+      --border: #253453;
+      --text: #f1f5f9;
+      --muted: #94a3b8;
+      --accent: #38bdf8;
+      --price-text: #4ade80;
+      --discount-bg: #ef4444;
+      --merchant-bg: rgba(249, 115, 22, 0.16);
+      --merchant-text: #fb923c;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background: radial-gradient(circle at top, #172554 0%, var(--bg) 420px);
+      color: var(--text);
+      line-height: 1.5;
+      min-height: 100vh;
+    }
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 24px 16px 56px;
+    }
+    header {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      align-items: center;
+      gap: 14px;
+      margin-bottom: 18px;
+    }
+    h1 {
+      margin: 0;
+      font-size: 1.85rem;
+      font-weight: 800;
+      letter-spacing: -0.02em;
+    }
+    .brand-tag { color: var(--accent); font-weight: 700; }
+    .subtitle { color: var(--muted); font-size: 0.92rem; margin-top: 4px; }
+    .header-actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      align-items: center;
+    }
+    .panel {
+      background: rgba(19, 28, 49, 0.92);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 14px 16px;
+      margin-bottom: 14px;
+    }
+    .row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      align-items: center;
+    }
+    .tabs {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-bottom: 14px;
+    }
+    .tab-btn {
+      background: var(--surface);
+      color: var(--muted);
+      border: 1px solid var(--border);
+      padding: 8px 15px;
+      border-radius: 999px;
+      font-weight: 700;
+      font-size: 0.9rem;
+      cursor: pointer;
+    }
+    .tab-btn.active {
+      background: var(--accent);
+      color: #082f49;
+      border-color: var(--accent);
+    }
+    input[type="text"], select {
+      background: #090e1a;
+      color: var(--text);
+      border: 1px solid var(--border);
+      border-radius: 9px;
+      padding: 10px 13px;
+      font-size: 0.94rem;
+    }
+    input[type="text"] { flex: 1 1 240px; }
+    button {
+      background: var(--accent);
+      color: #082f49;
+      border: none;
+      border-radius: 9px;
+      padding: 10px 16px;
+      font-size: 0.92rem;
+      font-weight: 700;
+      cursor: pointer;
+    }
+    button:hover { background: #7dd3fc; }
+    button:disabled { opacity: 0.6; cursor: wait; }
+    .btn-secondary {
+      background: transparent;
+      color: var(--text);
+      border: 1px solid var(--border);
+    }
+    .btn-secondary:hover { background: var(--surface-hover); }
+    .btn-small {
+      padding: 5px 10px;
+      font-size: 0.78rem;
+      border-radius: 7px;
+    }
+    .btn-notify.active {
+      background: rgba(34, 197, 94, 0.18);
+      color: var(--price-text);
+      border-color: rgba(74, 222, 128, 0.5);
+    }
+    .sources-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 14px;
+      margin-top: 10px;
+      font-size: 0.88rem;
+    }
+    .sources-list label, .inline-toggle {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      cursor: pointer;
+      color: var(--text);
+      font-size: 0.9rem;
+    }
+    .status-bar {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 14px;
+      align-items: center;
+      margin: 12px 0 16px;
+      font-size: 0.9rem;
+      color: var(--muted);
+    }
+    .error-box {
+      background: rgba(245, 158, 11, 0.12);
+      border: 1px solid rgba(245, 158, 11, 0.4);
+      color: #fde68a;
+      padding: 12px 14px;
+      border-radius: 10px;
+      margin-bottom: 18px;
+      font-size: 0.9rem;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(315px, 1fr));
+      gap: 16px;
+    }
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      transition: transform 0.14s ease, border-color 0.14s ease, background 0.14s ease;
+    }
+    .card:hover {
+      background: var(--surface-hover);
+      border-color: #3b82f6;
+      transform: translateY(-2px);
+    }
+    .thumb-wrap {
+      position: relative;
+      height: 178px;
+      background: #ffffff;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      overflow: hidden;
+      border-bottom: 1px solid var(--border);
+    }
+    .thumb-wrap.no-img {
+      background: linear-gradient(135deg, #172554, #1e293b);
+      color: var(--muted);
+      font-size: 0.88rem;
+    }
+    .thumb-wrap img {
+      max-width: 100%;
+      max-height: 100%;
+      object-fit: contain;
+      padding: 10px;
+    }
+    .discount-pill {
+      position: absolute;
+      top: 10px;
+      left: 10px;
+      background: var(--discount-bg);
+      color: #ffffff;
+      padding: 4px 10px;
+      border-radius: 999px;
+      font-size: 0.85rem;
+      font-weight: 800;
+      box-shadow: 0 4px 12px rgba(239, 68, 68, 0.4);
+    }
+    .price-pill {
+      position: absolute;
+      bottom: 10px;
+      right: 10px;
+      background: rgba(15, 23, 42, 0.94);
+      color: var(--price-text);
+      border: 1px solid rgba(74, 222, 128, 0.45);
+      padding: 4px 10px;
+      border-radius: 999px;
+      font-size: 0.92rem;
+      font-weight: 800;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.35);
+      display: inline-flex;
+      align-items: center;
+      gap: 7px;
+    }
+    .old-price {
+      color: #94a3b8;
+      text-decoration: line-through;
+      font-size: 0.78rem;
+      font-weight: 600;
+    }
+    .card-body {
+      padding: 14px 16px 16px;
+      display: flex;
+      flex-direction: column;
+      gap: 9px;
+      flex: 1;
+    }
+    .badges {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      align-items: center;
+    }
+    .badge {
+      display: inline-block;
+      padding: 2px 9px;
+      border-radius: 999px;
+      font-size: 0.76rem;
+      font-weight: 700;
+      background: rgba(56, 189, 248, 0.15);
+      color: var(--accent);
+    }
+    .badge.merchant {
+      background: var(--merchant-bg);
+      color: var(--merchant-text);
+    }
+    .badge.cat {
+      background: rgba(148, 163, 184, 0.16);
+      color: #cbd5e1;
+      font-weight: 500;
+    }
+    .verdict {
+      font-size: 0.8rem;
+      font-weight: 700;
+      padding: 5px 9px;
+      border-radius: 8px;
+      background: rgba(56, 189, 248, 0.12);
+      color: var(--accent);
+      border: 1px solid rgba(56, 189, 248, 0.35);
+    }
+    .verdict.cheapest {
+      background: rgba(34, 197, 94, 0.16);
+      color: #4ade80;
+      border-color: rgba(74, 222, 128, 0.45);
+    }
+    .verdict.cheaper_elsewhere {
+      background: rgba(245, 158, 11, 0.15);
+      color: #fbbf24;
+      border-color: rgba(245, 158, 11, 0.45);
+    }
+    .card a.title {
+      color: var(--text);
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 1rem;
+      line-height: 1.35;
+    }
+    .card a.title:hover { color: var(--accent); text-decoration: underline; }
+    .summary {
+      color: var(--muted);
+      font-size: 0.85rem;
+      margin: 0;
+      flex: 1;
+    }
+    .history-box {
+      background: rgba(9, 14, 26, 0.75);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 7px 10px;
+      font-size: 0.8rem;
+    }
+    .history-box summary {
+      cursor: pointer;
+      color: #cbd5e1;
+      font-weight: 600;
+    }
+    .history-list {
+      margin: 6px 0 6px;
+      padding-left: 16px;
+      color: var(--muted);
+    }
+    .history-list li { margin-bottom: 2px; }
+    .history-actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      align-items: center;
+      margin-top: 6px;
+    }
+    .history-ext {
+      color: var(--accent);
+      text-decoration: none;
+      font-weight: 600;
+    }
+    .history-ext:hover { text-decoration: underline; }
+    .card-footer {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 8px;
+      font-size: 0.78rem;
+      color: var(--muted);
+      padding-top: 6px;
+      border-top: 1px solid rgba(51, 65, 85, 0.55);
+    }
+    .go-link {
+      color: var(--accent);
+      text-decoration: none;
+      font-weight: 600;
+      white-space: nowrap;
+    }
+    .go-link:hover { text-decoration: underline; }
+    .empty {
+      grid-column: 1 / -1;
+      text-align: center;
+      color: var(--muted);
+      padding: 48px 16px;
+      background: var(--surface);
+      border-radius: 14px;
+      border: 1px solid var(--border);
+    }
+    @media (max-width: 600px) {
+      .grid { grid-template-columns: 1fr; }
+      h1 { font-size: 1.5rem; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <div>
+        <h1>Monitor Okazji <span class="brand-tag">by Luis</span></h1>
+        <div class="subtitle">Produkty i promocje posortowane od największych okazji + porównanie cen w sklepach</div>
+      </div>
+      <div class="header-actions">
+        <button id="notifyBtn" class="btn-secondary btn-notify" onclick="toggleNotifications()">Włącz powiadomienia</button>
+        <label class="inline-toggle">
+          <input id="autoRefreshCheck" type="checkbox" onchange="toggleAutoRefresh()" />
+          Auto co 5 min
+        </label>
+        <button id="scanBtn" onclick="runScan()">Odśwież skan</button>
+      </div>
+    </header>
+
+    <div class="tabs">
+      <button id="tabProducts" class="tab-btn active" onclick="setViewMode('products')">Produkty i promocje</button>
+      <button id="tabLeaflets" class="tab-btn" onclick="setViewMode('leaflets')">Gazetki (Biedronka, Lidl, Dino, JYSK)</button>
+      <button id="tabAll" class="tab-btn" onclick="setViewMode('all')">Wszystko razem</button>
+    </div>
+
+    <div class="panel">
+      <div class="row">
+        <input id="keywordsInput" type="text" placeholder="Słowa kluczowe po przecinku (puste = wszystkie), np. kawa, lego, słuchawki" />
+        <button onclick="applyStaticFilters()">Zastosuj filtry</button>
+      </div>
+      <div id="sourcesCheckboxes" class="sources-list"></div>
+    </div>
+
+    <div class="panel">
+      <div class="row">
+        <input id="searchInput" type="text" placeholder="Szukaj na widocznej liście (produkt, sklep, rabat)..." oninput="renderDeals()" />
+        <select id="sourceFilter" onchange="renderDeals()">
+          <option value="">Wszystkie źródła</option>
+        </select>
+        <select id="sortSelect" onchange="renderDeals()">
+          <option value="best">Największe okazje od góry</option>
+          <option value="savings">Największa oszczędność (zł)</option>
+          <option value="newest">Kolejność ze źródeł</option>
+        </select>
+        <button class="btn-secondary" onclick="clearFilters()">Wyczyść</button>
+      </div>
+    </div>
+
+    <div id="statusBar" class="status-bar">Ładowanie...</div>
+    <div id="errorBox" class="error-box" style="display:none;"></div>
+    <div id="dealsContainer" class="grid"></div>
+  </div>
+
+  <script>
+    let allDeals = [];
+    let currentConfig = { sources: [], keywords: [] };
+    let knownIds = new Set();
+    let autoTimer = null;
+    let viewMode = 'products';
+
+    function setViewMode(mode) {
+      viewMode = mode;
+      document.getElementById('tabProducts').classList.toggle('active', mode === 'products');
+      document.getElementById('tabLeaflets').classList.toggle('active', mode === 'leaflets');
+      document.getElementById('tabAll').classList.toggle('active', mode === 'all');
+      document.getElementById('sourceFilter').value = '';
+      updateSourceDropdown();
+      renderDeals();
+    }
+
+    function updateNotifyButton() {
+      const btn = document.getElementById('notifyBtn');
+      if (!('Notification' in window)) {
+        btn.textContent = 'Brak powiadomień w przeglądarce';
+        btn.disabled = true;
+        return;
+      }
+      if (Notification.permission === 'granted') {
+        btn.textContent = 'Powiadomienia włączone';
+        btn.classList.add('active');
+      } else if (Notification.permission === 'denied') {
+        btn.textContent = 'Powiadomienia zablokowane';
+      } else {
+        btn.textContent = 'Włącz powiadomienia';
+        btn.classList.remove('active');
+      }
+    }
+
+    async function toggleNotifications() {
+      if (!('Notification' in window)) return;
+      const perm = await Notification.requestPermission();
+      updateNotifyButton();
+      if (perm === 'granted') {
+        new Notification('Monitor Okazji by Luis', {
+          body: 'Powiadomienia o nowych okazjach zostały włączone.'
+        });
+      }
+    }
+
+    function toggleAutoRefresh() {
+      const checked = document.getElementById('autoRefreshCheck').checked;
+      if (autoTimer) {
+        clearInterval(autoTimer);
+        autoTimer = null;
+      }
+      if (checked) {
+        autoTimer = setInterval(runScan, 5 * 60 * 1000);
+      }
+    }
+
+    async function loadConfig() {
+      const res = await fetch('/api/config');
+      currentConfig = await res.json();
+      document.getElementById('keywordsInput').value = (currentConfig.keywords || []).join(', ');
+      const box = document.getElementById('sourcesCheckboxes');
+      box.innerHTML = (currentConfig.sources || []).map((s, idx) => `
+        <label>
+          <input type="checkbox" data-source-idx="${idx}" ${s.enabled ? 'checked' : ''} />
+          ${escapeHtml(s.name)}
+        </label>
+      `).join('');
+    }
+
+    async function saveConfigAndScan() {
+      const raw = document.getElementById('keywordsInput').value;
+      const keywords = raw.split(',').map(k => k.trim()).filter(Boolean);
+      const checkboxes = document.querySelectorAll('#sourcesCheckboxes input[type="checkbox"]');
+      checkboxes.forEach(cb => {
+        const idx = Number(cb.dataset.sourceIdx);
+        if (currentConfig.sources[idx]) {
+          currentConfig.sources[idx].enabled = cb.checked;
+        }
+      });
+      currentConfig.keywords = keywords;
+
+      await fetch('/api/config', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(currentConfig)
+      });
+      await runScan();
+    }
+
+    async function loadCached() {
+      updateNotifyButton();
+      const res = await fetch('./deals.json?_=' + Date.now());
+      const data = await res.json();
+      if (data.config) {
+        currentConfig = data.config;
+        document.getElementById('keywordsInput').value = (currentConfig.keywords || []).join(', ');
+        const box = document.getElementById('sourcesCheckboxes');
+        box.innerHTML = (currentConfig.sources || []).map((s, idx) => `
+          <label><input type="checkbox" data-source-idx="${idx}" ${s.enabled ? 'checked' : ''} onchange="renderDeals()" /> ${escapeHtml(s.name)}</label>
+        `).join('');
+      }
+      (data.deals || []).forEach(d => knownIds.add(d.deal_id));
+      applyData(data, false);
+    }
+
+    async function runScan() {
+      const btn = document.getElementById('scanBtn');
+      const status = document.getElementById('statusBar');
+      btn.disabled = true;
+      btn.textContent = 'Skanowanie...';
+      status.textContent = 'Pobieranie ofert i porównywanie cen w sklepach...';
+      try {
+        const res = await fetch('./deals.json?_=' + Date.now());
+        const data = await res.json();
+        applyData(data, true);
+      } catch (err) {
+        status.textContent = 'Błąd podczas skanowania: ' + err;
+      } finally {
+        btn.disabled = false;
+        btn.textContent = 'Odśwież skan';
+      }
+    }
+
+    async function compareDeal(dealId, btnEl) {
+      const idx = allDeals.findIndex(d => d.deal_id === dealId);
+      if (idx === -1) return;
+      const deal = allDeals[idx];
+      btnEl.disabled = true;
+      btnEl.textContent = 'Sprawdzam sklepy...';
+      try {
+        const res = await fetch('/api/compare', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ deal_id: deal.deal_id, title: deal.title, price: deal.price || '' })
+        });
+        const data = await res.json();
+        if (data.deal) {
+          allDeals[idx] = data.deal;
+          renderDeals();
+        } else {
+          btnEl.textContent = data.message || 'Nie znaleziono na Ceneo';
+        }
+      } catch (err) {
+        btnEl.textContent = 'Błąd porównania';
+      }
+    }
+
+    function modeFilteredDeals() {
+      if (viewMode === 'products') return allDeals.filter(d => !d.is_leaflet);
+      if (viewMode === 'leaflets') return allDeals.filter(d => Boolean(d.is_leaflet));
+      return allDeals;
+    }
+
+    function updateSourceDropdown() {
+      const select = document.getElementById('sourceFilter');
+      const current = select.value;
+      const visible = modeFilteredDeals();
+      const sources = [...new Set(visible.map(d => d.source))];
+      select.innerHTML = '<option value="">Wszystkie źródła</option>' +
+        sources.map(s => `<option value="${escapeHtml(s)}">${escapeHtml(s)}</option>`).join('');
+      if (sources.includes(current)) select.value = current;
+    }
+
+    function applyData(data, notifyIfNew) {
+      const incoming = data.deals || [];
+      if (notifyIfNew && knownIds.size > 0 && 'Notification' in window && Notification.permission === 'granted') {
+        const fresh = incoming.filter(d => !knownIds.has(d.deal_id) && !d.is_leaflet);
+        if (fresh.length > 0) {
+          const top = fresh[0];
+          new Notification(`Nowe okazje (${fresh.length}) — Monitor Okazji by Luis`, {
+            body: `${top.title}${top.price ? ' • ' + top.price : ''}`
+          });
+        }
+      }
+      incoming.forEach(d => knownIds.add(d.deal_id));
+      allDeals = incoming;
+
+      updateSourceDropdown();
+
+      const productCount = allDeals.filter(d => !d.is_leaflet).length;
+      const leafletCount = allDeals.filter(d => Boolean(d.is_leaflet)).length;
+      document.getElementById('tabProducts').textContent = `Produkty i promocje (${productCount})`;
+      document.getElementById('tabLeaflets').textContent = `Gazetki (${leafletCount})`;
+      document.getElementById('tabAll').textContent = `Wszystko (${allDeals.length})`;
+
+      const status = document.getElementById('statusBar');
+      const activeKeywords = (currentConfig.keywords || []).length
+        ? currentConfig.keywords.join(', ')
+        : 'brak (wszystkie)';
+      status.innerHTML =
+        `Ostatnia aktualizacja: <strong>${escapeHtml(data.updated_at || 'brak')}</strong> ` +
+        `&bull; Produktów: <strong>${productCount}</strong> ` +
+        `&bull; Gazetek: <strong>${leafletCount}</strong> ` +
+        `&bull; Filtry: <strong>${escapeHtml(activeKeywords)}</strong>`;
+
+      const errBox = document.getElementById('errorBox');
+      if (data.errors && data.errors.length > 0) {
+        errBox.style.display = 'block';
+        errBox.innerHTML = '<strong>Uwagi pobierania:</strong><br>' + data.errors.map(escapeHtml).join('<br>');
+      } else {
+        errBox.style.display = 'none';
+      }
+
+      renderDeals();
+    }
+
+    function renderDeals() {
+      const q = document.getElementById('searchInput').value.trim().toLowerCase();
+      const src = document.getElementById('sourceFilter').value;
+      const sortMode = document.getElementById('sortSelect').value;
+
+      const enabledSet = new Set((currentConfig.sources || []).filter(s => s.enabled).map(s => s.name));
+      const kwList = (currentConfig.keywords || []).map(k => k.toLowerCase());
+      let filtered = modeFilteredDeals().filter(d => {
+        if (enabledSet.size > 0 && !enabledSet.has(d.source)) return false;
+        if (kwList.length > 0) {
+          const hay = [d.title, d.summary, d.merchant, d.category].filter(Boolean).join(' ').toLowerCase();
+          if (!kwList.some(k => hay.includes(k))) return false;
+        }
+        if (src && d.source !== src) return false;
+        if (!q) return true;
+        return [d.title, d.summary, d.merchant, d.category, d.price, d.price_verdict]
+          .filter(Boolean).join(' ').toLowerCase().includes(q);
+      });
+
+      if (sortMode === 'best') {
+        filtered = [...filtered].sort((a, b) =>
+          (b.deal_score || 0) - (a.deal_score || 0) ||
+          (b.discount_pct || 0) - (a.discount_pct || 0) ||
+          (b.savings_pln || 0) - (a.savings_pln || 0)
+        );
+      } else if (sortMode === 'savings') {
+        filtered = [...filtered].sort((a, b) =>
+          (b.savings_pln || 0) - (a.savings_pln || 0) ||
+          (b.discount_pct || 0) - (a.discount_pct || 0)
+        );
+      }
+
+      const container = document.getElementById('dealsContainer');
+      if (filtered.length === 0) {
+        container.innerHTML = '<div class="empty">Brak pozycji w tym widoku. Zmień filtry, przełącz zakładkę lub kliknij <strong>Odśwież skan</strong>.</div>';
+        return;
+      }
+
+      container.innerHTML = filtered.map(d => {
+        const discountLabel = d.discount_pct === 100
+          ? 'GRATIS'
+          : (d.discount_pct > 0 ? `-${d.discount_pct}%` : (d.savings_pln > 0 ? `-${Math.round(d.savings_pln)} zł` : ''));
+        const discountBadge = discountLabel ? `<span class="discount-pill">${escapeHtml(discountLabel)}</span>` : '';
+
+        const priceHtml = d.price
+          ? `<span class="price-pill">${d.old_price ? `<span class="old-price">${escapeHtml(d.old_price)}</span>` : ''}${escapeHtml(d.price)}</span>`
+          : '';
+
+        const imgBlock = d.image_url
+          ? `<div class="thumb-wrap">${discountBadge}<img src="${escapeHtml(d.image_url)}" alt="" loading="lazy" referrerpolicy="no-referrer" />${priceHtml}</div>`
+          : `<div class="thumb-wrap no-img">${discountBadge}<span>${escapeHtml(d.source)}</span>${priceHtml}</div>`;
+
+        const verdictBlock = d.price_verdict
+          ? `<div class="verdict ${escapeHtml(d.price_status || '')}">${escapeHtml(d.price_verdict)}</div>`
+          : '';
+
+        const historyEntries = Array.isArray(d.price_history) ? d.price_history : [];
+        const ceneoUrl = `https://www.ceneo.pl/;szukaj-${encodeURIComponent(d.title.slice(0, 60))}`;
+        const historyBlock = !d.is_leaflet
+          ? `<details class="history-box">
+               <summary>Historia i porównanie cen (${historyEntries.length})</summary>
+               ${historyEntries.length > 0
+                 ? `<ul class="history-list">${historyEntries.map(h => `<li><strong>${escapeHtml(h.price)}</strong> — ${escapeHtml(h.note || '')} (${escapeHtml(h.date)})</li>`).join('')}</ul>`
+                 : `<div style="margin-top:4px;color:var(--muted);">Brak zapisanych porównań. Kliknij przycisk poniżej, żeby sprawdzić inne sklepy.</div>`}
+               <div class="history-actions">
+                 <button class="btn-secondary btn-small" onclick='compareDeal(${JSON.stringify(d.deal_id)}, this)'>Porównaj w sklepach (Ceneo)</button>
+                 <a class="history-ext" href="${ceneoUrl}" target="_blank" rel="noopener noreferrer">Ceneo &rarr;</a>
+               </div>
+             </details>`
+          : '';
+
+        return `
+          <article class="card">
+            ${imgBlock}
+            <div class="card-body">
+              <div class="badges">
+                <span class="badge">${escapeHtml(d.source)}</span>
+                ${d.merchant ? `<span class="badge merchant">${escapeHtml(d.merchant)}</span>` : ''}
+                ${d.category ? `<span class="badge cat">${escapeHtml(d.category)}</span>` : ''}
+              </div>
+              ${verdictBlock}
+              <a class="title" href="${escapeHtml(d.link)}" target="_blank" rel="noopener noreferrer">${escapeHtml(d.title)}</a>
+              ${d.summary ? `<p class="summary">${escapeHtml(d.summary)}</p>` : ''}
+              ${historyBlock}
+              <div class="card-footer">
+                <span>${escapeHtml(d.published || '')}</span>
+                <a class="go-link" href="${escapeHtml(d.link)}" target="_blank" rel="noopener noreferrer">Otwórz &rarr;</a>
+              </div>
+            </div>
+          </article>
+        `;
+      }).join('');
+    }
+
+    function applyStaticFilters() {
+      const raw = document.getElementById('keywordsInput').value;
+      currentConfig.keywords = raw.split(',').map(k => k.trim()).filter(Boolean);
+      const cbs = document.querySelectorAll('#sourcesCheckboxes input[type="checkbox"]');
+      cbs.forEach(cb => { const i = Number(cb.dataset.sourceIdx); if (currentConfig.sources[i]) currentConfig.sources[i].enabled = cb.checked; });
+      renderDeals();
+    }
+    function clearFilters() {
+      document.getElementById('searchInput').value = '';
+      document.getElementById('sourceFilter').value = '';
+      document.getElementById('sortSelect').value = 'best';
+      renderDeals();
+    }
+
+    function escapeHtml(str) {
+      return String(str || '')
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;');
+    }
+
+    loadCached();
+  </script>
+</body>
+</html>
