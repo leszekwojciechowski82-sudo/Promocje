@@ -421,7 +421,8 @@ def parse_dino_page(
     seen_titles: set[str] = set()
     for m in matches:
         before = page[max(0, m.start() - 2600) : m.start()]
-        pv_block = page[m.start() : m.start() + 1000]
+        pv_start = page.find(">", m.start())
+        pv_block = page[pv_start + 1 : pv_start + 1800] if pv_start != -1 else ""
 
         img_matches = re.findall(
             r'src="(https://api\.marketdino\.pl/media/[^"]+\.(?:webp|png|jpg|jpeg)[^"]*)"',
@@ -807,16 +808,16 @@ def parse_morele_page(
 
         new_m = re.search(r'promo-box-new-price[^>]*>(.*?)</div>\s*</div>', blk, re.S)
         new_txt = clean_html(new_m.group(1), max_len=120) if new_m else ""
-        cur_m = re.search(r"(\d[\d\s.,]*)\s*zł", new_txt)
+        code_m = re.search(r"Cena z kodem:\s*([A-Za-z0-9_-]+)", new_txt)
+        code_note = f"Kod: {code_m.group(1)} • " if code_m else ""
+        price_txt = re.sub(r"Cena z kodem:\s*[A-Za-z0-9_-]+", " ", new_txt)
+        cur_m = re.search(r"(?<![A-Za-z0-9])(\d[\d\s.,]*)\s*zł", price_txt)
         cur_price = format_pln(parse_pln_number(cur_m.group(1))) if cur_m and parse_pln_number(cur_m.group(1)) else ""
 
         old_m = re.search(r'promo-box-old-price[^>]*>(.*?)</div>', blk, re.S)
         old_txt = clean_html(old_m.group(1), max_len=120) if old_m else ""
-        old_val_m = re.search(r"(\d[\d\s.,]*)\s*zł", old_txt)
+        old_val_m = re.search(r"(?<![A-Za-z0-9])(\d[\d\s.,]*)\s*zł", old_txt)
         old_price = format_pln(parse_pln_number(old_val_m.group(1))) if old_val_m and parse_pln_number(old_val_m.group(1)) else ""
-
-        code_m = re.search(r"Cena z kodem:\s*([A-Za-z0-9_-]+)", new_txt)
-        code_note = f"Kod: {code_m.group(1)} • " if code_m else ""
 
         old_price, discount_pct, savings_pln, deal_score = compute_discount_metrics(
             title, "", cur_price, explicit_old_price=old_price

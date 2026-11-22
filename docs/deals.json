@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22 23:19",
+  "updated_at": "2026-11-22 23:24",
   "deals": [
     {
       "source": "Smyk.com",
@@ -19,19 +19,10 @@
       "savings_pln": 89.01,
       "deal_score": 204.45,
       "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/199944588",
-      "price_status": "cheapest",
-      "price_verdict": "Najniższa cena rynkowa (Ceneo od 159,99 zł)",
-      "compared_offers": [
-        {
-          "shop": "allegro.pl",
-          "price": "204,90 zł"
-        },
-        {
-          "shop": "smyk.com",
-          "price": "159,99 zł"
-        }
-      ],
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Barbie+Kamper+Przyg%C3%B3d+zestaw+lalka",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
       "price_history": [
         {
           "date": "przed promocją",
@@ -125,6 +116,26 @@
           "date": "2026-11-22 23:19",
           "price": "97,59 zł",
           "note": "Ceneo: amazon.pl"
+        },
+        {
+          "date": "2026-11-22 23:24",
+          "price": "69,99 zł",
+          "note": "Smyk.com"
+        },
+        {
+          "date": "2026-11-22 23:24",
+          "price": "99,99 zł",
+          "note": "Ceneo: electro.pl"
+        },
+        {
+          "date": "2026-11-22 23:24",
+          "price": "99,99 zł",
+          "note": "Ceneo: avans.pl"
+        },
+        {
+          "date": "2026-11-22 23:24",
+          "price": "97,59 zł",
+          "note": "Ceneo: amazon.pl"
         }
       ]
     },
@@ -146,15 +157,10 @@
       "savings_pln": 42.5,
       "deal_score": 106.12,
       "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/140147760",
-      "price_status": "cheapest",
-      "price_verdict": "NAJTANIEJ! O 25,01 zł (-38%) taniej niż Ceneo (od 65 zł)",
-      "compared_offers": [
-        {
-          "shop": "allegro.pl",
-          "price": "65,00 zł"
-        }
-      ],
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Lalaboom+zwinna+kaczuszka+kulko-klocki+sensoryczne",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
       "price_history": [
         {
           "date": "przed promocją",
@@ -175,6 +181,11 @@
           "date": "2026-11-22 23:19",
           "price": "65,00 zł",
           "note": "Ceneo: allegro.pl"
+        },
+        {
+          "date": "2026-11-22 23:24",
+          "price": "39,99 zł",
+          "note": "Smyk.com"
         }
       ]
     },
@@ -236,19 +247,10 @@
       "savings_pln": 80.0,
       "deal_score": 104.0,
       "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/198259510",
-      "price_status": "cheapest",
-      "price_verdict": "NAJTANIEJ! O 2,01 zł (-2%) taniej niż Ceneo (od 82 zł)",
-      "compared_offers": [
-        {
-          "shop": "allegro.pl",
-          "price": "82,00 zł"
-        },
-        {
-          "shop": "empik.com",
-          "price": "82,00 zł"
-        }
-      ],
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Marioinex+Mini+Waffle+Green+Blocks",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
       "price_history": [
         {
           "date": "przed promocją",
@@ -274,6 +276,11 @@
           "date": "2026-11-22 23:19",
           "price": "82,00 zł",
           "note": "Ceneo: empik.com"
+        },
+        {
+          "date": "2026-11-22 23:24",
+          "price": "79,99 zł",
+          "note": "Smyk.com"
         }
       ]
     },
@@ -339,6 +346,16 @@
           "date": "2026-11-22 23:19",
           "price": "10,23 zł",
           "note": "Ceneo (najniższa)"
+        },
+        {
+          "date": "2026-11-22 23:24",
+          "price": "49,99 zł",
+          "note": "Lidl.pl"
+        },
+        {
+          "date": "2026-11-22 23:24",
+          "price": "10,23 zł",
+          "note": "Ceneo (najniższa)"
         }
       ]
     },
@@ -387,6 +404,16 @@
         },
         {
           "date": "2026-11-22 23:19",
+          "price": "150,99 zł",
+          "note": "Ceneo: empik.com"
+        },
+        {
+          "date": "2026-11-22 23:24",
+          "price": "89,99 zł",
+          "note": "Smyk.com"
+        },
+        {
+          "date": "2026-11-22 23:24",
           "price": "150,99 zł",
           "note": "Ceneo: empik.com"
         }
@@ -929,6 +956,36 @@
           "date": "2026-11-22 22:45",
           "price": "49,99 zł",
           "note": "Smyk.com"
+        }
+      ]
+    },
+    {
+      "source": "Dino (Promocje)",
+      "deal_id": "dino:pieczarka kg",
+      "title": "Dino: Pieczarka kg",
+      "link": "https://marketdino.pl/",
+      "published": "Aktualna oferta Dino",
+      "summary": "Promocja bezpośrednio ze strony marketdino.pl.",
+      "image_url": "https://api.marketdino.pl/media/filer_public_thumbnails/filer_public/a6/b0/a6b079f2-8601-40ee-bde1-57f8e88b399b/pieczarka_kg_hero.png__1024x571_ALIAS-desktop_movie_banner_format-WEBP_subsampling-2.webp?v=1",
+      "price": "7,99 zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Dino",
+      "category": "Spożywcze",
+      "store_group": "Spożywcze i markety",
+      "discount_pct": 46,
+      "savings_pln": 0.0,
+      "deal_score": 92.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Pieczarka+kg",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-22 23:24",
+          "price": "7,99 zł",
+          "note": "Dino"
         }
       ]
     },
@@ -1779,6 +1836,16 @@
           "date": "2026-11-22 23:19",
           "price": "289,99 zł",
           "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-22 23:19",
+          "price": "249,99 zł",
+          "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-22 23:24",
+          "price": "289,99 zł",
+          "note": "Rossmann.pl"
         }
       ]
     },
@@ -1832,6 +1899,16 @@
         },
         {
           "date": "2026-11-22 23:19",
+          "price": "249,99 zł",
+          "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-22 23:24",
+          "price": "289,99 zł",
+          "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-22 23:24",
           "price": "249,99 zł",
           "note": "Rossmann.pl"
         }
@@ -2032,6 +2109,16 @@
         },
         {
           "date": "2026-11-22 22:45",
+          "price": "199,99 zł",
+          "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-22 23:19",
+          "price": "299,99 zł",
+          "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-22 23:24",
           "price": "199,99 zł",
           "note": "Rossmann.pl"
         }
@@ -2237,6 +2324,16 @@
         },
         {
           "date": "2026-11-22 23:19",
+          "price": "299,99 zł",
+          "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-22 23:24",
+          "price": "199,99 zł",
+          "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-22 23:24",
           "price": "299,99 zł",
           "note": "Rossmann.pl"
         }
@@ -3073,6 +3170,51 @@
       ]
     },
     {
+      "source": "Morele.net (Alarm)",
+      "deal_id": "morele:https://www.morele.net/zasilacz-preyon-eagle-power-bronze-650w-pepb650w-15248640/?sprzedawca=m",
+      "title": "Zasilacz PREYON Eagle Power Bronze 650W",
+      "link": "https://www.morele.net/zasilacz-preyon-eagle-power-bronze-650w-pepb650w-15248640/?sprzedawca=m",
+      "published": "Morele Alarm Cenowy",
+      "summary": "Kod: BLACK26 • Promocja bezpośrednio w sklepie Morele.net.",
+      "image_url": "https://images.morele.net/i256/15248640_0_i256.jpg",
+      "price": "167 zł",
+      "old_price": "220 zł",
+      "lowest_30d": "220 zł",
+      "merchant": "Morele.net",
+      "category": "Elektronika",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 24,
+      "savings_pln": 53.0,
+      "deal_score": 50.65,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Zasilacz+PREYON+Eagle+Power+Bronze",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "przed promocją",
+          "price": "220 zł",
+          "note": "przed promocją"
+        },
+        {
+          "date": "30 dni przed obniżką",
+          "price": "220 zł",
+          "note": "Najniższa z 30 dni (Omnibus)"
+        },
+        {
+          "date": "2026-11-22 23:19",
+          "price": "26167 zł",
+          "note": "Morele.net"
+        },
+        {
+          "date": "2026-11-22 23:24",
+          "price": "167 zł",
+          "note": "Morele.net"
+        }
+      ]
+    },
+    {
       "source": "Lidl.pl (Promocje)",
       "deal_id": "lidl:100412308",
       "title": "ESMARA MEN Jeansy termiczne straight fit męskie",
@@ -3479,6 +3621,11 @@
       "price_verdict": "",
       "compared_offers": [],
       "price_history": [
+        {
+          "date": "przed promocją",
+          "price": "39,99 zł",
+          "note": "przed promocją"
+        },
         {
           "date": "30 dni przed obniżką",
           "price": "39,99 zł",
@@ -4722,65 +4869,6 @@
       ]
     },
     {
-      "source": "Morele.net (Alarm)",
-      "deal_id": "morele:https://www.morele.net/zasilacz-preyon-eagle-power-bronze-650w-pepb650w-15248640/?sprzedawca=m",
-      "title": "Zasilacz PREYON Eagle Power Bronze 650W",
-      "link": "https://www.morele.net/zasilacz-preyon-eagle-power-bronze-650w-pepb650w-15248640/?sprzedawca=m",
-      "published": "Morele Alarm Cenowy",
-      "summary": "Kod: BLACK26 • Promocja bezpośrednio w sklepie Morele.net.",
-      "image_url": "https://images.morele.net/i256/15248640_0_i256.jpg",
-      "price": "26167 zł",
-      "old_price": "220 zł",
-      "lowest_30d": "220 zł",
-      "merchant": "Morele.net",
-      "category": "Elektronika",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Zasilacz+PREYON+Eagle+Power+Bronze",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "30 dni przed obniżką",
-          "price": "220 zł",
-          "note": "Najniższa z 30 dni (Omnibus)"
-        },
-        {
-          "date": "2026-11-22 23:19",
-          "price": "26167 zł",
-          "note": "Morele.net"
-        }
-      ]
-    },
-    {
-      "source": "Dino (Promocje)",
-      "deal_id": "dino:pieczarka kg",
-      "title": "Dino: Pieczarka kg",
-      "link": "https://marketdino.pl/",
-      "published": "Aktualna oferta Dino",
-      "summary": "Promocja bezpośrednio ze strony marketdino.pl.",
-      "image_url": "https://api.marketdino.pl/media/filer_public_thumbnails/filer_public/a6/b0/a6b079f2-8601-40ee-bde1-57f8e88b399b/pieczarka_kg_hero.png__1024x571_ALIAS-desktop_movie_banner_format-WEBP_subsampling-2.webp?v=1",
-      "price": "",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Dino",
-      "category": "Spożywcze",
-      "store_group": "Spożywcze i markety",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Pieczarka+kg",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": []
-    },
-    {
       "source": "Dino (Promocje)",
       "deal_id": "dino:łopatka wieprzowa bez kości, schłodzona",
       "title": "Dino: Łopatka wieprzowa bez kości, schłodzona",
@@ -4788,7 +4876,7 @@
       "published": "Aktualna oferta Dino",
       "summary": "Promocja bezpośrednio ze strony marketdino.pl.",
       "image_url": "https://api.marketdino.pl/media/filer_public_thumbnails/filer_public/f4/f4/f4f47804-d181-4a64-bf75-70cc0f61b0c4/lopatka_bez_kosci_hero.png__1024x571_ALIAS-desktop_movie_banner_format-WEBP_subsampling-2.webp?v=1",
-      "price": "",
+      "price": "12,49 zł",
       "old_price": "",
       "lowest_30d": "",
       "merchant": "Dino",
@@ -4802,7 +4890,13 @@
       "price_status": "",
       "price_verdict": "",
       "compared_offers": [],
-      "price_history": []
+      "price_history": [
+        {
+          "date": "2026-11-22 23:24",
+          "price": "12,49 zł",
+          "note": "Dino"
+        }
+      ]
     },
     {
       "source": "Dino (Promocje)",
@@ -4812,7 +4906,7 @@
       "published": "Aktualna oferta Dino",
       "summary": "Promocja bezpośrednio ze strony marketdino.pl.",
       "image_url": "https://api.marketdino.pl/media/filer_public_thumbnails/filer_public/12/ed/12edea8b-9330-42c6-a800-ebbc39158226/chipsy_crunchips_hero.png__1024x571_ALIAS-desktop_movie_banner_format-WEBP_subsampling-2.webp?v=1",
-      "price": "",
+      "price": "3,99 zł",
       "old_price": "",
       "lowest_30d": "",
       "merchant": "Dino",
@@ -4826,7 +4920,13 @@
       "price_status": "",
       "price_verdict": "",
       "compared_offers": [],
-      "price_history": []
+      "price_history": [
+        {
+          "date": "2026-11-22 23:24",
+          "price": "3,99 zł",
+          "note": "Dino"
+        }
+      ]
     },
     {
       "source": "Dino (Promocje)",
@@ -4836,7 +4936,7 @@
       "published": "Aktualna oferta Dino",
       "summary": "Promocja bezpośrednio ze strony marketdino.pl.",
       "image_url": "https://api.marketdino.pl/media/filer_public_thumbnails/filer_public/83/e8/83e81f90-3e02-478e-9aa2-dcee1148a0f1/kielbasa_biesiadna_hero.png__1024x571_ALIAS-desktop_movie_banner_format-WEBP_subsampling-2.webp?v=1",
-      "price": "",
+      "price": "12,99 zł",
       "old_price": "",
       "lowest_30d": "",
       "merchant": "Dino",
@@ -4850,7 +4950,13 @@
       "price_status": "",
       "price_verdict": "",
       "compared_offers": [],
-      "price_history": []
+      "price_history": [
+        {
+          "date": "2026-11-22 23:24",
+          "price": "12,99 zł",
+          "note": "Dino"
+        }
+      ]
     },
     {
       "source": "Dino (Promocje)",
@@ -4860,7 +4966,7 @@
       "published": "Aktualna oferta Dino",
       "summary": "Promocja bezpośrednio ze strony marketdino.pl.",
       "image_url": "https://api.marketdino.pl/media/filer_public_thumbnails/filer_public/63/6f/636fb864-1e0e-43b4-a80a-6b3e04d8b94b/ser_mozarella_hero.png__1024x571_ALIAS-desktop_movie_banner_format-WEBP_subsampling-2.webp?v=1",
-      "price": "",
+      "price": "9,99 zł",
       "old_price": "",
       "lowest_30d": "",
       "merchant": "Dino",
@@ -4874,7 +4980,13 @@
       "price_status": "",
       "price_verdict": "",
       "compared_offers": [],
-      "price_history": []
+      "price_history": [
+        {
+          "date": "2026-11-22 23:24",
+          "price": "9,99 zł",
+          "note": "Dino"
+        }
+      ]
     },
     {
       "source": "Castorama.pl",

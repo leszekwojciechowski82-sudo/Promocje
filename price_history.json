@@ -603,6 +603,16 @@
       "date": "2026-11-22 23:19",
       "price": "10,23 zł",
       "note": "Ceneo (najniższa)"
+    },
+    {
+      "date": "2026-11-22 23:24",
+      "price": "49,99 zł",
+      "note": "Lidl.pl"
+    },
+    {
+      "date": "2026-11-22 23:24",
+      "price": "10,23 zł",
+      "note": "Ceneo (najniższa)"
     }
   ],
   "esmara damskie botki": [
@@ -1379,6 +1389,26 @@
       "date": "2026-11-22 23:19",
       "price": "97,59 zł",
       "note": "Ceneo: amazon.pl"
+    },
+    {
+      "date": "2026-11-22 23:24",
+      "price": "69,99 zł",
+      "note": "Smyk.com"
+    },
+    {
+      "date": "2026-11-22 23:24",
+      "price": "99,99 zł",
+      "note": "Ceneo: electro.pl"
+    },
+    {
+      "date": "2026-11-22 23:24",
+      "price": "99,99 zł",
+      "note": "Ceneo: avans.pl"
+    },
+    {
+      "date": "2026-11-22 23:24",
+      "price": "97,59 zł",
+      "note": "Ceneo: amazon.pl"
     }
   ],
   "lalaboom zwinna kaczuszka kulko klocki sensoryczne": [
@@ -1401,6 +1431,11 @@
       "date": "2026-11-22 23:19",
       "price": "65,00 zł",
       "note": "Ceneo: allegro.pl"
+    },
+    {
+      "date": "2026-11-22 23:24",
+      "price": "39,99 zł",
+      "note": "Smyk.com"
     }
   ],
   "marioinex mini waffle green blocks klocki": [
@@ -1428,6 +1463,11 @@
       "date": "2026-11-22 23:19",
       "price": "82,00 zł",
       "note": "Ceneo: empik.com"
+    },
+    {
+      "date": "2026-11-22 23:24",
+      "price": "79,99 zł",
+      "note": "Smyk.com"
     }
   ],
   "vtech bobaski i miś kostka małego": [
@@ -1448,6 +1488,16 @@
     },
     {
       "date": "2026-11-22 23:19",
+      "price": "150,99 zł",
+      "note": "Ceneo: empik.com"
+    },
+    {
+      "date": "2026-11-22 23:24",
+      "price": "89,99 zł",
+      "note": "Smyk.com"
+    },
+    {
+      "date": "2026-11-22 23:24",
       "price": "150,99 zł",
       "note": "Ceneo: empik.com"
     }
@@ -1761,6 +1811,16 @@
       "date": "2026-11-22 23:19",
       "price": "249,99 zł",
       "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-22 23:24",
+      "price": "289,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-22 23:24",
+      "price": "249,99 zł",
+      "note": "Rossmann.pl"
     }
   ],
   "isana kalendarz adwentowy z maskami do": [
@@ -1815,6 +1875,16 @@
     },
     {
       "date": "2026-11-22 23:19",
+      "price": "299,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-22 23:24",
+      "price": "199,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-22 23:24",
       "price": "299,99 zł",
       "note": "Rossmann.pl"
     }
@@ -2397,6 +2467,11 @@
   ],
   "esmara men spodnie dresowe męskie": [
     {
+      "date": "przed promocją",
+      "price": "39,99 zł",
+      "note": "przed promocją"
+    },
+    {
       "date": "30 dni przed obniżką",
       "price": "39,99 zł",
       "note": "Najniższa z 30 dni (Omnibus)"
@@ -2493,6 +2568,11 @@
   ],
   "zasilacz preyon eagle power bronze 650w": [
     {
+      "date": "przed promocją",
+      "price": "220 zł",
+      "note": "przed promocją"
+    },
+    {
       "date": "30 dni przed obniżką",
       "price": "220 zł",
       "note": "Najniższa z 30 dni (Omnibus)"
@@ -2501,6 +2581,46 @@
       "date": "2026-11-22 23:19",
       "price": "26167 zł",
       "note": "Morele.net"
+    },
+    {
+      "date": "2026-11-22 23:24",
+      "price": "167 zł",
+      "note": "Morele.net"
+    }
+  ],
+  "dino pieczarka kg": [
+    {
+      "date": "2026-11-22 23:24",
+      "price": "7,99 zł",
+      "note": "Dino"
+    }
+  ],
+  "dino łopatka wieprzowa bez kości schłodzona": [
+    {
+      "date": "2026-11-22 23:24",
+      "price": "12,49 zł",
+      "note": "Dino"
+    }
+  ],
+  "dino chipsy crunchips pieczone żeberka 130g": [
+    {
+      "date": "2026-11-22 23:24",
+      "price": "3,99 zł",
+      "note": "Dino"
+    }
+  ],
+  "dino kiełbasa biesiadna": [
+    {
+      "date": "2026-11-22 23:24",
+      "price": "12,99 zł",
+      "note": "Dino"
+    }
+  ],
+  "dino zdjęcie produktu ser tarty mozzarella": [
+    {
+      "date": "2026-11-22 23:24",
+      "price": "9,99 zł",
+      "note": "Dino"
     }
   ]
 }
