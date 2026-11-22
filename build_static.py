@@ -62,6 +62,10 @@ def build_static_site(project_dir: Path, out_dir: Path) -> int:
 
     # Adapt web_app HTML_PAGE to work cleanly as a static GitHub Pages site
     static_html = web_app.HTML_PAGE
+    static_html = static_html.replace(
+        '<meta charset="UTF-8" />',
+        '<meta charset="UTF-8" />\n  <meta name="robots" content="noindex, nofollow" />',
+    )
     static_html = static_html.replace('href="/manifest.json"', 'href="./manifest.json"')
     static_html = static_html.replace('href="/icon.svg"', 'href="./icon.svg"')
     static_html = static_html.replace(
@@ -85,6 +89,7 @@ def build_static_site(project_dir: Path, out_dir: Path) -> int:
         "const enabledSet = new Set((currentConfig.sources || []).filter(s => s.enabled).map(s => s.name));\n      const kwList = (currentConfig.keywords || []).map(k => k.toLowerCase());\n      let filtered = modeFilteredDeals().filter(d => {\n        if (enabledSet.size > 0 && !enabledSet.has(d.source)) return false;\n        if (kwList.length > 0) {\n          const hay = [d.title, d.summary, d.merchant, d.category].filter(Boolean).join(' ').toLowerCase();\n          if (!kwList.some(k => hay.includes(k))) return false;\n        }",
     )
     (out_dir / "index.html").write_text(static_html, encoding="utf-8")
+    (out_dir / "robots.txt").write_text("User-agent: *\nDisallow: /\n", encoding="utf-8")
     (out_dir / ".nojekyll").write_text("", encoding="utf-8")
     print(f"Zbudowano statyczny dashboard w {out_dir} ({len(all_deals)} pozycji).")
     return 0
