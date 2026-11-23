@@ -1972,6 +1972,11 @@
       "date": "2026-11-23 00:06",
       "price": "429,99 zł",
       "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-23 05:00",
+      "price": "399,99 zł",
+      "note": "Rossmann.pl"
     }
   ],
   "french avenue woda perfumowana unisex": [
@@ -3168,6 +3173,16 @@
       "date": "2026-11-23 03:50",
       "price": "32,49zł",
       "note": "Lidl"
+    },
+    {
+      "date": "2026-11-23 05:00",
+      "price": "32,49 zł",
+      "note": "Lidl.pl"
+    },
+    {
+      "date": "2026-11-23 05:00",
+      "price": "32,49zł",
+      "note": "Lidl"
     }
   ],
   "w5 zestaw 10 worków próżniowych do": [
@@ -3662,6 +3677,16 @@
       "date": "2026-11-23 03:50",
       "price": "731,04zł",
       "note": "Amazon.pl"
+    },
+    {
+      "date": "2026-11-23 05:00",
+      "price": "701,18zł",
+      "note": "Amazon.pl"
+    },
+    {
+      "date": "2026-11-23 05:00",
+      "price": "731,04zł",
+      "note": "Amazon.pl"
     }
   ],
   "bentley for men intense 100ml woda": [
@@ -3795,6 +3820,11 @@
   ],
   "silvercrest maszynka do lodów freezy 800": [
     {
+      "date": "przed promocją",
+      "price": "499 zł",
+      "note": "przed promocją"
+    },
+    {
       "date": "30 dni przed obniżką",
       "price": "499 zł",
       "note": "Najniższa z 30 dni (Omnibus)"
@@ -3806,6 +3836,11 @@
     }
   ],
   "parkside zestaw bitów 26 31 lub": [
+    {
+      "date": "przed promocją",
+      "price": "24,99 zł",
+      "note": "przed promocją"
+    },
     {
       "date": "30 dni przed obniżką",
       "price": "24,99 zł",
@@ -3843,6 +3878,11 @@
   ],
   "g de g de wózek ogrodowy": [
     {
+      "date": "przed promocją",
+      "price": "439 zł",
+      "note": "przed promocją"
+    },
+    {
       "date": "30 dni przed obniżką",
       "price": "439 zł",
       "note": "Najniższa z 30 dni (Omnibus)"
@@ -3858,6 +3898,41 @@
       "date": "2026-11-23 03:50",
       "price": "126,92zł",
       "note": "Amazon.pl"
+    }
+  ],
+  "parkside performance akumulatorowa wiertarko wkrętarka 20": [
+    {
+      "date": "2026-11-23 05:00",
+      "price": "199zł",
+      "note": "Lidl"
+    }
+  ],
+  "przenośna cyfrowa waga bagażowa do 50kg": [
+    {
+      "date": "2026-11-23 05:00",
+      "price": "9,90zł",
+      "note": "Allegro"
+    }
+  ],
+  "głośnik mobilny marshall acton iii regulacja": [
+    {
+      "date": "2026-11-23 05:00",
+      "price": "699zł",
+      "note": "Media Expert"
+    }
+  ],
+  "karta podarunkowa zalando 200 zł": [
+    {
+      "date": "2026-11-23 05:00",
+      "price": "180zł",
+      "note": "home.pl"
+    }
+  ],
+  "giorgio armani power of you 90ml": [
+    {
+      "date": "2026-11-23 05:00",
+      "price": "268,87zł",
+      "note": "Notino"
     }
   ]
 }
