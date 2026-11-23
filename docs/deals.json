@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 10:06",
+  "updated_at": "2026-11-23 09:07",
   "deals": [
     {
       "source": "Aldi.pl (Oferty)",
@@ -580,6 +580,11 @@
       "compared_offers": [],
       "price_history": [
         {
+          "date": "przed promocją",
+          "price": "249 zł",
+          "note": "przed promocją"
+        },
+        {
           "date": "30 dni przed obniżką",
           "price": "249 zł",
           "note": "Najniższa z 30 dni (Omnibus)"
@@ -953,11 +958,35 @@
     },
     {
       "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/kupony/50-znizki-na-caly-asortyment-mageasy-1397704",
+      "title": "50% zniżki na cały asortyment MAGEASY",
+      "link": "https://www.pepper.pl/kupony/50-znizki-na-caly-asortyment-mageasy-1397704",
+      "published": "Mon, 23 Nov 2026 10:06:08 +0100",
+      "summary": "Ostatnio szukałem czegoś innego niż Spigen do swojego nowego iPhone'a i trafiłem na MAGEASY. Korzystam z niego od kilku miesięcy, a pracuję na budowie, więc telefon ciągle spada, wszędzie jest pełno pyłu i kurzy się. Wystawiam, bo może się…",
+      "image_url": "https://www.pepper.pl/assets/img/default-voucher_ee5e5.svg",
+      "price": "",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "",
+      "category": "Elektronika",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 50,
+      "savings_pln": 0.0,
+      "deal_score": 100.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-50+zni%C5%BCki+na+ca%C5%82y+asortyment",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": []
+    },
+    {
+      "source": "Pepper.pl",
       "deal_id": "https://www.pepper.pl/promocje/hbo-max-50-taniej-przez-12-miesiecy-1397683",
       "title": "HBO Max 50% taniej przez 12 mięsięcy.",
       "link": "https://www.pepper.pl/promocje/hbo-max-50-taniej-przez-12-miesiecy-1397683",
       "published": "Mon, 23 Nov 2026 09:53:05 +0100",
-      "summary": "14,99zł - HBO Max Oferta na subskrybcję HBO Max 12 miesięcy 50% taniej wazna do 30.11. Tylko dla nowych. Pakiet podstawowy już za 14,99 zł/m-c Standard za 19,99 zł/m-c A Premium 24,99 zł/m-c",
+      "summary": "14,99zł - HBO Max Oferta na subskrybcję HBO Max 12 miesięcy 50% taniej wazna do 30.11. Tylko dla nowych. Pakiet podstawowy już za 14,99 zł/m-c Standard za 19,99 zł/m-c A Premium 24,99 zł/m-c Oferta wyłącznie na miesięczne pakiety bazowe. O…",
       "image_url": "https://static.pepper.pl/threads/raw/nIYVR/1397683_1/re/150x150/qt/55/1397683_1.jpg",
       "price": "14,99zł",
       "old_price": "",
@@ -1715,6 +1744,11 @@
       "compared_offers": [],
       "price_history": [
         {
+          "date": "przed promocją",
+          "price": "999 zł",
+          "note": "przed promocją"
+        },
+        {
           "date": "30 dni przed obniżką",
           "price": "999 zł",
           "note": "Najniższa z 30 dni (Omnibus)"
@@ -2220,6 +2254,11 @@
       "compared_offers": [],
       "price_history": [
         {
+          "date": "przed promocją",
+          "price": "259 zł",
+          "note": "przed promocją"
+        },
+        {
           "date": "30 dni przed obniżką",
           "price": "259 zł",
           "note": "Najniższa z 30 dni (Omnibus)"
@@ -2374,6 +2413,11 @@
       "price_verdict": "",
       "compared_offers": [],
       "price_history": [
+        {
+          "date": "przed promocją",
+          "price": "32,49 zł",
+          "note": "przed promocją"
+        },
         {
           "date": "30 dni przed obniżką",
           "price": "32,49 zł",
@@ -3015,6 +3059,11 @@
       "compared_offers": [],
       "price_history": [
         {
+          "date": "przed promocją",
+          "price": "559 zł",
+          "note": "przed promocją"
+        },
+        {
           "date": "30 dni przed obniżką",
           "price": "559 zł",
           "note": "Najniższa z 30 dni (Omnibus)"
@@ -3147,36 +3196,6 @@
       ]
     },
     {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/eveline-cosmetics-final-black-friday-dodatkowe-20-na-wybrane-podklad-1920zl-okazja-zbiorcza-1397670",
-      "title": "Eveline Cosmetics / finał Black Friday / dodatkowe -20% na wybrane / krem 11,99 - okazja zbiorcza",
-      "link": "https://www.pepper.pl/promocje/eveline-cosmetics-final-black-friday-dodatkowe-20-na-wybrane-podklad-1920zl-okazja-zbiorcza-1397670",
-      "published": "Mon, 23 Nov 2026 09:48:25 +0100",
-      "summary": "11,99zł - Eveline Wybrałem tylko te których cena faktycznie jest najniższa. Można znaleźć coś dla drugiej połówki na mikołajki ;) Tytułowy Bogaty krem regenerujący Sleeping Mask Effect 11,99 Ultralekka mgiełka ochronna SPF 50 na i pod maki…",
-      "image_url": "https://static.pepper.pl/threads/raw/PXuDt/1397670_1/re/150x150/qt/55/1397670_1.jpg",
-      "price": "11,99zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Eveline",
-      "category": "Zdrowie i uroda",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 20,
-      "savings_pln": 0.0,
-      "deal_score": 40.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Eveline+Cosmetics+fina%C5%82+dodatkowe+-20",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-23 10:06",
-          "price": "11,99zł",
-          "note": "Eveline"
-        }
-      ]
-    },
-    {
       "source": "Smyk.com",
       "deal_id": "smyk:/pl/pl/p/mustela-emolientowa-ochrona-na-wiatr-i-mroz-zestaw-i8438643",
       "title": "Mustela, emolientowa ochrona na wiatr i mróz, zestaw",
@@ -3199,6 +3218,11 @@
       "price_verdict": "",
       "compared_offers": [],
       "price_history": [
+        {
+          "date": "przed promocją",
+          "price": "53,99 zł",
+          "note": "przed promocją"
+        },
         {
           "date": "30 dni przed obniżką",
           "price": "53,99 zł",
@@ -3229,6 +3253,11 @@
       "price_verdict": "",
       "compared_offers": [],
       "price_history": [
+        {
+          "date": "przed promocją",
+          "price": "110,48 zł",
+          "note": "przed promocją"
+        },
         {
           "date": "30 dni przed obniżką",
           "price": "110,48 zł",
@@ -3265,6 +3294,11 @@
       "compared_offers": [],
       "price_history": [
         {
+          "date": "przed promocją",
+          "price": "628 zł",
+          "note": "przed promocją"
+        },
+        {
           "date": "30 dni przed obniżką",
           "price": "628 zł",
           "note": "Najniższa z 30 dni (Omnibus)"
@@ -3299,6 +3333,11 @@
       "price_verdict": "",
       "compared_offers": [],
       "price_history": [
+        {
+          "date": "przed promocją",
+          "price": "34,99 zł",
+          "note": "przed promocją"
+        },
         {
           "date": "30 dni przed obniżką",
           "price": "34,99 zł",
@@ -3375,6 +3414,11 @@
       "compared_offers": [],
       "price_history": [
         {
+          "date": "przed promocją",
+          "price": "305 zł",
+          "note": "przed promocją"
+        },
+        {
           "date": "30 dni przed obniżką",
           "price": "305 zł",
           "note": "Najniższa z 30 dni (Omnibus)"
@@ -3410,6 +3454,11 @@
       "compared_offers": [],
       "price_history": [
         {
+          "date": "przed promocją",
+          "price": "209 zł",
+          "note": "przed promocją"
+        },
+        {
           "date": "30 dni przed obniżką",
           "price": "209 zł",
           "note": "Najniższa z 30 dni (Omnibus)"
@@ -3444,6 +3493,11 @@
       "price_verdict": "",
       "compared_offers": [],
       "price_history": [
+        {
+          "date": "przed promocją",
+          "price": "141,99 zł",
+          "note": "przed promocją"
+        },
         {
           "date": "30 dni przed obniżką",
           "price": "141,99 zł",
@@ -3519,6 +3573,11 @@
       "price_verdict": "",
       "compared_offers": [],
       "price_history": [
+        {
+          "date": "przed promocją",
+          "price": "184,99 zł",
+          "note": "przed promocją"
+        },
         {
           "date": "30 dni przed obniżką",
           "price": "184,99 zł",
@@ -4078,6 +4137,16 @@
           "date": "2026-11-23 10:06",
           "price": "20 zł",
           "note": "Pepco.pl"
+        },
+        {
+          "date": "2026-11-23 10:06",
+          "price": "50 zł",
+          "note": "Pepco.pl"
+        },
+        {
+          "date": "2026-11-23 09:07",
+          "price": "20 zł",
+          "note": "Pepco.pl"
         }
       ]
     },
@@ -4116,6 +4185,16 @@
         },
         {
           "date": "2026-11-23 10:06",
+          "price": "20 zł",
+          "note": "Pepco.pl"
+        },
+        {
+          "date": "2026-11-23 10:06",
+          "price": "10 zł",
+          "note": "Pepco.pl"
+        },
+        {
+          "date": "2026-11-23 09:07",
           "price": "20 zł",
           "note": "Pepco.pl"
         }
@@ -4643,6 +4722,16 @@
           "date": "2026-11-23 10:06",
           "price": "10 zł",
           "note": "Pepco.pl"
+        },
+        {
+          "date": "2026-11-23 09:07",
+          "price": "20 zł",
+          "note": "Pepco.pl"
+        },
+        {
+          "date": "2026-11-23 09:07",
+          "price": "10 zł",
+          "note": "Pepco.pl"
         }
       ]
     },
@@ -4686,6 +4775,16 @@
         },
         {
           "date": "2026-11-23 10:06",
+          "price": "50 zł",
+          "note": "Pepco.pl"
+        },
+        {
+          "date": "2026-11-23 09:07",
+          "price": "20 zł",
+          "note": "Pepco.pl"
+        },
+        {
+          "date": "2026-11-23 09:07",
           "price": "50 zł",
           "note": "Pepco.pl"
         }
@@ -4758,6 +4857,16 @@
           "date": "2026-11-23 10:06",
           "price": "120 zł",
           "note": "Pepco.pl"
+        },
+        {
+          "date": "2026-11-23 10:06",
+          "price": "105 zł",
+          "note": "Pepco.pl"
+        },
+        {
+          "date": "2026-11-23 09:07",
+          "price": "120 zł",
+          "note": "Pepco.pl"
         }
       ]
     },
@@ -4801,6 +4910,16 @@
         },
         {
           "date": "2026-11-23 10:06",
+          "price": "105 zł",
+          "note": "Pepco.pl"
+        },
+        {
+          "date": "2026-11-23 09:07",
+          "price": "120 zł",
+          "note": "Pepco.pl"
+        },
+        {
+          "date": "2026-11-23 09:07",
           "price": "105 zł",
           "note": "Pepco.pl"
         }
@@ -5013,6 +5132,96 @@
           "date": "2026-11-23 09:07",
           "price": "20 zł",
           "note": "Pepco.pl"
+        }
+      ]
+    },
+    {
+      "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/boney-m-kalimba-de-luna-16-happy-songs-lp-plyta-winylowa-high-resolution-mastering-1397706",
+      "title": "Boney M.: Kalimba De Luna: 16 Happy Songs - LP, płyta winylowa, High Resolution Mastering",
+      "link": "https://www.pepper.pl/promocje/boney-m-kalimba-de-luna-16-happy-songs-lp-plyta-winylowa-high-resolution-mastering-1397706",
+      "published": "Mon, 23 Nov 2026 10:04:32 +0100",
+      "summary": "94,08zł - Amazon.pl Najlepsza cena na rynku, darmowa dostawa. Przy zakupach o minimalnej wartości 250zł otrzymujesz rabat w wysokości 50zł. Winylowa edycja albumu \"Kalimba de Luna\" - kompilacyjnej płyty grupy Boney M. Album swoją premierę…",
+      "image_url": "https://static.pepper.pl/threads/raw/6Mafb/1397706_1/re/150x150/qt/55/1397706_1.jpg",
+      "price": "94,08zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Amazon.pl",
+      "category": "Kultura i rozrywka",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Boney+Kalimba+De+Luna+16",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-23 09:07",
+          "price": "94,08zł",
+          "note": "Amazon.pl"
+        }
+      ]
+    },
+    {
+      "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/kierownica-logitech-rs50-pspc-pedals-shifter-handbreak-1397705",
+      "title": "Kierownica Logitech RS50 PS/PC + pedals + shifter / handbreak",
+      "link": "https://www.pepper.pl/promocje/kierownica-logitech-rs50-pspc-pedals-shifter-handbreak-1397705",
+      "published": "Mon, 23 Nov 2026 10:04:18 +0100",
+      "summary": "2 498zł Najlepsza jak dotąd oferta na pełen zestaw po PC/PS: kierownica + pedały + shifter / handbreak (+ skarpetki ;) ) Pod PC jeszcze lepiej: 2348 zł. Biorąc pod uwagę darmowy shifter / handbreak wychodzi podobnie lub taniej niż wrześnio…",
+      "image_url": "https://static.pepper.pl/threads/raw/qxLEI/1397705_1/re/150x150/qt/55/1397705_1.jpg",
+      "price": "2 498zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "",
+      "category": "Elektronika",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Kierownica+Logitech+RS50+PS+PC",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-23 09:07",
+          "price": "2 498zł",
+          "note": "Pepper.pl"
+        }
+      ]
+    },
+    {
+      "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/sluchawki-bezprzewodowe-sony-wh-ch720n-anc-czarne-1397697",
+      "title": "Słuchawki bezprzewodowe SONY WH-CH720N ANC Czarne",
+      "link": "https://www.pepper.pl/promocje/sluchawki-bezprzewodowe-sony-wh-ch720n-anc-czarne-1397697",
+      "published": "Mon, 23 Nov 2026 10:03:49 +0100",
+      "summary": "229,99zł - MediaMarkt Z kodem rabatowym -30 zl za newsletter spoko sluchawki do codziennego użytku. Posiadają ANC, niestety kolor niebieski zdrożał.. Specyfikacja produktu: Funkcja ANC Łączność bezprzewodowa Mikrofon Czas pracy do 35 godzi…",
+      "image_url": "https://static.pepper.pl/threads/raw/slu4b/1397697_1/re/150x150/qt/55/1397697_1.jpg",
+      "price": "229,99zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "MediaMarkt",
+      "category": "Elektronika",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-S%C5%82uchawki+bezprzewodowe+SONY+WH-CH720N+ANC",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-23 09:07",
+          "price": "229,99zł",
+          "note": "MediaMarkt"
         }
       ]
     },
@@ -5702,96 +5911,6 @@
         {
           "date": "2026-11-23 10:06",
           "price": "25,39zł",
-          "note": "Amazon.pl"
-        }
-      ]
-    },
-    {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/akumulatorowe-nozyce-do-trawy-i-krzewow-top-cut-tc-n36-e-1397672",
-      "title": "Akumulatorowe nożyce do trawy i krzewów TOP CUT TC-N36-E",
-      "link": "https://www.pepper.pl/promocje/akumulatorowe-nozyce-do-trawy-i-krzewow-top-cut-tc-n36-e-1397672",
-      "published": "Mon, 23 Nov 2026 09:49:29 +0100",
-      "summary": "29,99zł - Media Expert Akumulatorowe nożyce do trawy i krzewów TOP CUT TC-N36-E to niezastąpione narzędzie dla każdego miłośnika ogrodnictwa, które łączy w sobie nowoczesną technologię, wygodę i efektywność. Wyposażone w akumulator litowo-…",
-      "image_url": "https://static.pepper.pl/threads/raw/7xV5I/1397672_1/re/150x150/qt/55/1397672_1.jpg",
-      "price": "29,99zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Media Expert",
-      "category": "Ogród i majsterkowanie",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Akumulatorowe+no%C5%BCyce+do+trawy+krzew%C3%B3w",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-23 10:06",
-          "price": "29,99zł",
-          "note": "Media Expert"
-        }
-      ]
-    },
-    {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/kupony/100-zl-premii-za-darmowe-konto-standard-w-revolut-1397610",
-      "title": "100 zł premii dla nowych klientów za rejestrację darmowego konta Standard w Revolut",
-      "link": "https://www.pepper.pl/kupony/100-zl-premii-za-darmowe-konto-standard-w-revolut-1397610",
-      "published": "Mon, 23 Nov 2026 09:49:03 +0100",
-      "summary": "Revolut 100 zł premii dla nowych klientów za rejestrację darmowego konta Standard w Revolut. Warunki: zasilenie konta min. 100 zł oraz płatności kartą min. 100 zł w ciągu 30 dni od otwarcia konta. Promocja trwa do 31.12.2026. Obowiązuje re…",
-      "image_url": "https://static.pepper.pl/merchants/raw/avatar/1819_1/re/352x352/qt/60/1819_1.jpg",
-      "price": "100zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Revolut",
-      "category": "Finanse i ubezpieczenia",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-premii+dla+nowych+klient%C3%B3w+rejestracj%C4%99",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-23 10:06",
-          "price": "100zł",
-          "note": "Revolut"
-        }
-      ]
-    },
-    {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/skorzane-buty-meskie-geox-dublin-za-260zl-303zl-rozm39-47-at-amazonpl-1397671",
-      "title": "Skórzane buty męskie Geox Dublin za 260zł - 303zł (rozm.39-47)@ Amazon.pl",
-      "link": "https://www.pepper.pl/promocje/skorzane-buty-meskie-geox-dublin-za-260zl-303zl-rozm39-47-at-amazonpl-1397671",
-      "published": "Mon, 23 Nov 2026 09:48:39 +0100",
-      "summary": "260,18zł - Amazon.pl Skórzane buty męskie Geox Dublin za 260zł - 303zł z dostawą. W innych sklepach od 494zł. 260,18zł - rozm.42 265,30zł - rozm.43 275,77zł - rozm.40, 41.5, 43.5 295,47zł - rozm.45, 46 303,13zł - rozm.41, 42.5, 44, 47 Wyko…",
-      "image_url": "https://static.pepper.pl/threads/raw/I4qpf/1397671_1/re/150x150/qt/55/1397671_1.jpg",
-      "price": "260,18zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Amazon.pl",
-      "category": "Moda",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Sk%C3%B3rzane+buty+m%C4%99skie+Geox+Dublin",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-23 10:06",
-          "price": "260,18zł",
           "note": "Amazon.pl"
         }
       ]
