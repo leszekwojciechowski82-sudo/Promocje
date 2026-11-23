@@ -3577,6 +3577,16 @@
       "date": "2026-11-23 11:43",
       "price": "50 zł",
       "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-23 12:55",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-23 12:55",
+      "price": "50 zł",
+      "note": "Pepco.pl"
     }
   ],
   "pepco dekoracja tekstylna mini ludzik piernikowy": [
@@ -3637,6 +3647,16 @@
     },
     {
       "date": "2026-11-23 11:43",
+      "price": "10 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-23 12:55",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-23 12:55",
       "price": "10 zł",
       "note": "Pepco.pl"
     }
@@ -3804,6 +3824,16 @@
     },
     {
       "date": "2026-11-23 11:43",
+      "price": "105 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-23 12:55",
+      "price": "120 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-23 12:55",
       "price": "105 zł",
       "note": "Pepco.pl"
     }
@@ -5183,6 +5213,11 @@
   ],
   "lupilu akcesoria do kuchni zabawkowej": [
     {
+      "date": "przed promocją",
+      "price": "45,99 zł",
+      "note": "przed promocją"
+    },
+    {
       "date": "30 dni przed obniżką",
       "price": "45,99 zł",
       "note": "Najniższa z 30 dni (Omnibus)"
@@ -5387,6 +5422,214 @@
       "date": "2026-11-23 11:43",
       "price": "59,99zł",
       "note": "SportStyleStory"
+    }
+  ],
+  "fakturownia 40 rabatu przy zakupie dowolnego": [
+    {
+      "date": "2026-11-23 12:55",
+      "price": "232,91zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "fluff zestaw kosmetyków dla kobiet peeling": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "69,99 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-23 12:55",
+      "price": "54,99 zł",
+      "note": "Rossmann.pl"
+    }
+  ],
+  "1 1 na pampers premium care": [
+    {
+      "date": "2026-11-23 12:55",
+      "price": "60zł",
+      "note": "Pampers"
+    }
+  ],
+  "bujaczek elektryczny kinderkraft lumi 2": [
+    {
+      "date": "2026-11-23 12:55",
+      "price": "229zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "thule velocompact 2 924 bagażnik rowerowy": [
+    {
+      "date": "2026-11-23 12:55",
+      "price": "1 704,60zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "gravitrax zestaw startowy skytrax m": [
+    {
+      "date": "2026-11-23 12:55",
+      "price": "69,99zł",
+      "note": "Empik"
+    }
+  ],
+  "blender tefal quickchef hb6738 1000w rozdrabniacz": [
+    {
+      "date": "2026-11-23 12:55",
+      "price": "189zł",
+      "note": "Allegro"
+    }
+  ],
+  "herbata astra yerba mate jablko porzeczka": [
+    {
+      "date": "2026-11-23 12:55",
+      "price": "1zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "loty czarterowe madera z katowic": [
+    {
+      "date": "2026-11-23 12:55",
+      "price": "609zł",
+      "note": "TUI"
+    }
+  ],
+  "smartfon xiaomi 13 8 256 6": [
+    {
+      "date": "2026-11-23 12:55",
+      "price": "1 439zł",
+      "note": "Xiaomi"
+    }
+  ],
+  "fotel vejlby krzesło pozycyje tkanina ciemnoszary": [
+    {
+      "date": "2026-11-23 12:55",
+      "price": "545zł",
+      "note": "JYSK"
+    }
+  ],
+  "zyskaj 50 zł w promocji dla": [
+    {
+      "date": "2026-11-23 12:55",
+      "price": "50zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "parkside akumulator 12 v 4 ah": [
+    {
+      "date": "2026-11-23 12:55",
+      "price": "69,99zł",
+      "note": "Lidl"
+    }
+  ],
+  "target darts aspar tarcza do darta": [
+    {
+      "date": "2026-11-23 12:55",
+      "price": "167zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "zyskaj 70 zł w promocji z": [
+    {
+      "date": "2026-11-23 12:55",
+      "price": "70zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "zyskaj 50 zł w promocji z": [
+    {
+      "date": "2026-11-23 12:55",
+      "price": "50 zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "tablet apple ipad air 11 m4": [
+    {
+      "date": "2026-11-23 12:55",
+      "price": "3 086,02zł",
+      "note": "Allegro"
+    }
+  ],
+  "nivea antyperspirant w kulce dla kobiet": [
+    {
+      "date": "2026-11-23 12:55",
+      "price": "7,70zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "kawa ziarnista lavazza qualita oro 1kg": [
+    {
+      "date": "2026-11-23 12:55",
+      "price": "52,99zł",
+      "note": "InPost"
+    }
+  ],
+  "fotel materiałowy sense7 spellcaster senshi edition": [
+    {
+      "date": "2026-11-23 12:55",
+      "price": "399zł",
+      "note": "Morele.net"
+    }
+  ],
+  "pendrive philips snow 32 gb usb": [
+    {
+      "date": "2026-11-23 12:55",
+      "price": "29,99zł",
+      "note": "Media Expert"
+    }
+  ],
+  "workpro 14 częściowy zestaw kluczy nasadowych": [
+    {
+      "date": "2026-11-23 12:55",
+      "price": "66,49zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "zestaw klocków mattel brick shop hot": [
+    {
+      "date": "2026-11-23 12:55",
+      "price": "56zł",
+      "note": "InPost"
+    }
+  ],
+  "blik płacę później zyskaj 70 zł": [
+    {
+      "date": "2026-11-23 12:55",
+      "price": "70zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "zestaw 3 siekier hecht do łupania": [
+    {
+      "date": "2026-11-23 12:55",
+      "price": "89,99zł",
+      "note": "Allegro"
+    }
+  ],
+  "zabawka pluszak dla psów trixie junior": [
+    {
+      "date": "2026-11-23 12:55",
+      "price": "53,97zł",
+      "note": "zooplus"
+    }
+  ],
+  "ingersoll rand 119maxh młot pneumatyczny": [
+    {
+      "date": "2026-11-23 12:55",
+      "price": "610,10zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "lego cmf 71052 seria 29": [
+    {
+      "date": "2026-11-23 12:55",
+      "price": "5,99zł",
+      "note": "Carrefour"
+    }
+  ],
+  "karta pamięci micro sd sandisk extreme": [
+    {
+      "date": "2026-11-23 12:55",
+      "price": "119,99zł",
+      "note": "Media Expert"
     }
   ]
 }
