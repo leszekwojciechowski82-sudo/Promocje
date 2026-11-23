@@ -30,6 +30,13 @@
       "enabled": true
     },
     {
+      "name": "Aldi.pl (Oferty)",
+      "url": "https://www.aldi.pl/oferty.html",
+      "type": "aldi",
+      "store_group": "Spożywcze i markety",
+      "enabled": true
+    },
+    {
       "name": "Dino (Promocje)",
       "url": "https://marketdino.pl/",
       "type": "dino",
@@ -61,6 +68,13 @@
       "name": "Rossmann.pl",
       "url": "https://www.rossmann.pl/promocje",
       "type": "rossmann",
+      "store_group": "Odzież i uroda",
+      "enabled": true
+    },
+    {
+      "name": "Pepco.pl",
+      "url": "https://pepco.pl/",
+      "type": "pepco",
       "store_group": "Odzież i uroda",
       "enabled": true
     },

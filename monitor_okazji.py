@@ -408,6 +408,134 @@ def parse_lidl_page(
     return deals
 
 
+def parse_aldi_page(
+    html_bytes: bytes, source_name: str, store_group: str = "Spożywcze i markety", limit: int = 30
+) -> list[Deal]:
+    """Parse promotional product cards directly from Aldi.pl HTML."""
+    page = html_bytes.decode("utf-8", errors="ignore")
+    matches = list(re.finditer(r'data-testid="tag-price-box"', page))
+    if not matches:
+        return []
+
+    deals: list[Deal] = []
+    seen_links: set[str] = set()
+    for m in matches:
+        before = page[max(0, m.start() - 3200) : m.start()]
+        after = page[m.start() : m.start() + 1600]
+        window = before + after
+
+        link_m = re.findall(r'href="(https://www\.aldi\.pl/produkt-szczegoly/[^"]+|/produkt-szczegoly/[^"]+)"', window)
+        if not link_m:
+            continue
+        raw_link = link_m[-1]
+        link = raw_link if raw_link.startswith("http") else f"https://www.aldi.pl{raw_link}"
+        if link in seen_links:
+            continue
+        seen_links.add(link)
+
+        name_m = re.findall(r'product-name[^>]*>([^<]+)<', before)
+        title = html.unescape(name_m[-1]).strip() if name_m else raw_link.rsplit("/", 1)[-1].replace(".html", "").replace("-", " ").capitalize()
+
+        img_m = re.findall(r'(?:data-src|src)="(https://[^"]+\.(?:png|jpg|jpeg|webp)[^"]*)"', before, re.IGNORECASE)
+        image_url = html.unescape(img_m[-1]) if img_m else ""
+
+        cur_m = re.search(r'data-testid="tag-current-price-amount"[^>]*>([^<]+)<', after)
+        cur_val = parse_pln_number(cur_m.group(1)) if cur_m else None
+        cur_price = format_pln(cur_val) if cur_val else ""
+
+        old_m = re.search(r'data-testid="tag-cross-price-label"[^>]*>.*?(\d[\d\s.,]*)\s*<', after, re.S)
+        old_val = parse_pln_number(old_m.group(1)) if old_m else None
+        old_price = format_pln(old_val) if old_val else ""
+
+        promo_m = re.search(r'data-testid="tag-promo-label"[^>]*>([^<]+)<', before[-600:] + after[:300])
+        promo_txt = html.unescape(promo_m.group(1)).strip() if promo_m else ""
+
+        old_price, discount_pct, savings_pln, deal_score = compute_discount_metrics(
+            title, promo_txt, cur_price, explicit_old_price=old_price
+        )
+        deals.append(
+            Deal(
+                source=source_name,
+                deal_id=f"aldi:{link}",
+                title=f"Aldi: {title}",
+                link=link,
+                published="Aktualna oferta Aldi.pl",
+                summary=f"{promo_txt + ' • ' if promo_txt else ''}Promocja bezpośrednio ze sklepu Aldi.pl.",
+                image_url=image_url,
+                price=cur_price,
+                old_price=old_price,
+                lowest_30d=old_price,
+                merchant="Aldi.pl",
+                category="Spożywcze",
+                store_group=store_group,
+                discount_pct=discount_pct,
+                savings_pln=savings_pln,
+                deal_score=deal_score,
+                is_leaflet=False,
+            )
+        )
+        if len(deals) >= limit:
+            break
+    return deals
+
+
+def parse_pepco_page(
+    html_bytes: bytes, source_name: str, store_group: str = "Odzież i uroda", limit: int = 30
+) -> list[Deal]:
+    """Parse promotional products directly from Pepco.pl HTML."""
+    page = html_bytes.decode("utf-8", errors="ignore")
+    matches = list(re.finditer(r'href="(/products/[^"]+)"', page))
+    if not matches:
+        return []
+
+    deals: list[Deal] = []
+    seen_links: set[str] = set()
+    for m in matches:
+        rel_url = m.group(1).strip()
+        if rel_url in seen_links:
+            continue
+        blk = page[max(0, m.start() - 1200) : m.end() + 2200]
+        price_m = re.search(r'aria-label="Product price:\s*([^"]+)"', blk)
+        if not price_m:
+            continue
+        seen_links.add(rel_url)
+        link = f"https://pepco.pl{rel_url}"
+
+        title_m = re.search(r'<h[234][^>]*>(.*?)</h[234]>', blk, re.S)
+        title = clean_html(title_m.group(1), max_len=160) if title_m else rel_url.split("/")[-1].replace("-", " ").capitalize()
+
+        imgs = [
+            html.unescape(u)
+            for u in re.findall(r'(?:data-src|src)="(//[^"]+|https?://[^"]+)"', blk)
+            if ".svg" not in u.lower() and "amplience" not in u.lower()
+        ]
+        image_url = f"https:{imgs[-1]}" if imgs and imgs[-1].startswith("//") else (imgs[-1] if imgs else "")
+
+        cur_val = parse_pln_number(price_m.group(1))
+        cur_price = format_pln(cur_val) if cur_val else clean_html(price_m.group(1), max_len=30)
+
+        deals.append(
+            Deal(
+                source=source_name,
+                deal_id=f"pepco:{rel_url}",
+                title=f"Pepco: {title}",
+                link=link,
+                published="Oferta Pepco.pl",
+                summary="Produkt ze sklepu Pepco.pl (odzież, dom, zabawki).",
+                image_url=image_url,
+                price=cur_price,
+                merchant="Pepco.pl",
+                category="Odzież i dom",
+                store_group=store_group,
+                deal_score=5.0,
+                is_leaflet=False,
+            )
+        )
+        if len(deals) >= limit:
+            break
+    return deals
+
+
 def parse_dino_page(
     html_bytes: bytes, source_name: str, store_group: str = "Spożywcze i markety", limit: int = 30
 ) -> list[Deal]:
@@ -1402,6 +1530,10 @@ def fetch_all_sources(config: dict[str, Any]) -> tuple[list[Deal], list[str]]:
             raw_bytes = fetch_feed(url)
             if source_type == "lidl":
                 deals = parse_lidl_page(raw_bytes, name, store_group=store_group, limit=max_items)
+            elif source_type == "aldi":
+                deals = parse_aldi_page(raw_bytes, name, store_group=store_group, limit=max_items)
+            elif source_type == "pepco":
+                deals = parse_pepco_page(raw_bytes, name, store_group=store_group, limit=max_items)
             elif source_type == "dino":
                 deals = parse_dino_page(raw_bytes, name, store_group=store_group, limit=max_items)
             elif source_type == "biedronka_home":

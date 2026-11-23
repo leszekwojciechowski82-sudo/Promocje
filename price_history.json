@@ -1357,6 +1357,16 @@
       "date": "2026-11-22 23:19",
       "price": "159,99 zł",
       "note": "Ceneo: smyk.com"
+    },
+    {
+      "date": "2026-11-23 09:07",
+      "price": "204,90 zł",
+      "note": "Ceneo: allegro.pl"
+    },
+    {
+      "date": "2026-11-23 09:07",
+      "price": "159,99 zł",
+      "note": "Ceneo: smyk.com"
     }
   ],
   "mega bloks jeżdżący dinozaur do zbudowania": [
@@ -1409,6 +1419,11 @@
       "date": "2026-11-22 23:24",
       "price": "97,59 zł",
       "note": "Ceneo: amazon.pl"
+    },
+    {
+      "date": "2026-11-23 09:07",
+      "price": "69,99 zł",
+      "note": "Smyk.com"
     }
   ],
   "lalaboom zwinna kaczuszka kulko klocki sensoryczne": [
@@ -1500,6 +1515,11 @@
       "date": "2026-11-22 23:24",
       "price": "150,99 zł",
       "note": "Ceneo: empik.com"
+    },
+    {
+      "date": "2026-11-23 09:07",
+      "price": "89,99 zł",
+      "note": "Smyk.com"
     }
   ],
   "fisher price pojazd telefonik dla gadułki": [
@@ -1625,6 +1645,11 @@
     {
       "date": "2026-11-22 22:45",
       "price": "62,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-23 09:07",
+      "price": "109,99 zł",
       "note": "Rossmann.pl"
     }
   ],
@@ -1887,6 +1912,11 @@
       "date": "2026-11-22 23:24",
       "price": "299,99 zł",
       "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-23 09:07",
+      "price": "399,99 zł",
+      "note": "Rossmann.pl"
     }
   ],
   "french avenue woda perfumowana unisex": [
@@ -1903,6 +1933,11 @@
     {
       "date": "2026-11-22 22:45",
       "price": "104,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-23 09:07",
+      "price": "159,99 zł",
       "note": "Rossmann.pl"
     }
   ],
@@ -1966,6 +2001,11 @@
     {
       "date": "2026-11-22 22:45",
       "price": "279,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-23 09:07",
+      "price": "269,99 zł",
       "note": "Rossmann.pl"
     }
   ],
@@ -2621,6 +2661,1119 @@
       "date": "2026-11-22 23:24",
       "price": "9,99 zł",
       "note": "Dino"
+    }
+  ],
+  "aldi chude mięso mielone z szynki": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "11,99 zł",
+      "note": "Aldi.pl"
+    }
+  ],
+  "aldi papier toaletowy 4 warstwowy": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "24,99 zł",
+      "note": "Aldi.pl"
+    }
+  ],
+  "aldi kawa mielona classic intense": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "45,99 zł",
+      "note": "Aldi.pl"
+    },
+    {
+      "date": "2026-11-23 09:07",
+      "price": "29,99 zł",
+      "note": "Ceneo: sklepy-cynamonowe.eu"
+    },
+    {
+      "date": "2026-11-23 09:07",
+      "price": "27,90 zł",
+      "note": "Ceneo: coffee-mat.pl"
+    }
+  ],
+  "1 kg espresso gourmet 80 arabica": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "69zł",
+      "note": "DeLonghi"
+    },
+    {
+      "date": "2026-11-23 09:07",
+      "price": "99,99 zł",
+      "note": "Ceneo: konesso.pl"
+    },
+    {
+      "date": "2026-11-23 09:07",
+      "price": "69,00 zł",
+      "note": "Ceneo: delonghi.com"
+    },
+    {
+      "date": "2026-11-23 09:07",
+      "price": "89,29 zł",
+      "note": "Ceneo: mollo.pl"
+    }
+  ],
+  "kawa delongi 250g": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "19zł",
+      "note": "DeLonghi"
+    },
+    {
+      "date": "2026-11-23 09:07",
+      "price": "37,49 zł",
+      "note": "Ceneo: konesso.pl"
+    },
+    {
+      "date": "2026-11-23 09:07",
+      "price": "49,00 zł",
+      "note": "Ceneo: cafesilesia.pl"
+    },
+    {
+      "date": "2026-11-23 09:07",
+      "price": "49,99 zł",
+      "note": "Ceneo: nextcoffee.pl"
+    }
+  ],
+  "aldi muszynianka": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "3,29 zł",
+      "note": "Aldi.pl"
+    }
+  ],
+  "materac sprężynowy driva 80 200 cm": [
+    {
+      "date": "przed promocją",
+      "price": "3499 zł",
+      "note": "przed promocją"
+    },
+    {
+      "date": "2026-11-23 09:07",
+      "price": "1 000zł",
+      "note": "JYSK"
+    }
+  ],
+  "livarno szafka nocna z drzwiami żaluzjowymi": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "299 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-23 09:07",
+      "price": "89 zł",
+      "note": "Lidl.pl"
+    }
+  ],
+  "livarno poszewki na poduszki renforc 40": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "9,98 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-23 09:07",
+      "price": "2,99 zł",
+      "note": "Lidl.pl"
+    }
+  ],
+  "high peak namiot kempingowy rodzinny high": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "1639 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-23 09:07",
+      "price": "819,50 zł",
+      "note": "Lidl.pl"
+    }
+  ],
+  "aldi masło polskie extra": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "5,99 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-23 09:07",
+      "price": "1,99 zł",
+      "note": "Aldi.pl"
+    }
+  ],
+  "aldi jaja z chowu ekologicznego": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "11,99 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-23 09:07",
+      "price": "6,39 zł",
+      "note": "Aldi.pl"
+    }
+  ],
+  "aldi kaki": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "2,49 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-23 09:07",
+      "price": "1,99 zł",
+      "note": "Aldi.pl"
+    }
+  ],
+  "aldi kiełbasa myśliwska z szynki": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "12,45 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-23 09:07",
+      "price": "5,49 zł",
+      "note": "Aldi.pl"
+    }
+  ],
+  "silvercrest zestaw 6 rolek folii do": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "47,48 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-23 09:07",
+      "price": "23,74 zł",
+      "note": "Lidl.pl"
+    }
+  ],
+  "aldi winerki wieprzowe z cielęciną": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "11,99 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-23 09:07",
+      "price": "5,99 zł",
+      "note": "Aldi.pl"
+    }
+  ],
+  "livarno wózek kuchenny wnękowy bambusowy": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "149 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-23 09:07",
+      "price": "79,50 zł",
+      "note": "Lidl.pl"
+    }
+  ],
+  "laptop apple macbook pro m5 pro": [
+    {
+      "date": "przed promocją",
+      "price": "13499 zł",
+      "note": "przed promocją"
+    },
+    {
+      "date": "2026-11-23 09:07",
+      "price": "9 999zł",
+      "note": "Komputronik"
+    }
+  ],
+  "silvercrest elektryczny młynek do soli i": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "29,99 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-23 09:07",
+      "price": "16,49 zł",
+      "note": "Lidl.pl"
+    }
+  ],
+  "silvercrest maszynka do lodów freezy 800": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "499 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-23 09:07",
+      "price": "299 zł",
+      "note": "Lidl.pl"
+    }
+  ],
+  "silvercrest opiekacz 3 w 1 750": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "99 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-23 09:07",
+      "price": "59 zł",
+      "note": "Lidl.pl"
+    }
+  ],
+  "aldi kawa ziarnista": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "79,99 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-23 09:07",
+      "price": "49,99 zł",
+      "note": "Aldi.pl"
+    }
+  ],
+  "aldi pomidory mięsiste": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "9,99 zł",
+      "note": "Aldi.pl"
+    }
+  ],
+  "aldi awokado hass": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "6,99 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-23 09:07",
+      "price": "4,49 zł",
+      "note": "Aldi.pl"
+    }
+  ],
+  "aldi szynka schab ze świniobicia": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "5,99 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-23 09:07",
+      "price": "3,99 zł",
+      "note": "Aldi.pl"
+    }
+  ],
+  "parkside zestaw do naprawy laminatów i": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "49,99 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-23 09:07",
+      "price": "32,49 zł",
+      "note": "Lidl.pl"
+    }
+  ],
+  "w5 zestaw 10 worków próżniowych do": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "38,99 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-23 09:07",
+      "price": "25,34 zł",
+      "note": "Lidl.pl"
+    }
+  ],
+  "silvercrest grill kontaktowy 3 w 1": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "279 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-23 09:07",
+      "price": "189 zł",
+      "note": "Lidl.pl"
+    }
+  ],
+  "parkside podpora stropu teleskopowa": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "59,99 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-23 09:07",
+      "price": "39,99 zł",
+      "note": "Lidl.pl"
+    }
+  ],
+  "livarno ręcznik kąpielowy frotte 100 x": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "44,99 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-23 09:07",
+      "price": "29,99 zł",
+      "note": "Lidl.pl"
+    }
+  ],
+  "tronic niszczarka tav 300 a3": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "189 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-23 09:07",
+      "price": "129 zł",
+      "note": "Lidl.pl"
+    }
+  ],
+  "crivit legginsy funkcyjne damskie": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "29,99 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-23 09:07",
+      "price": "20,99 zł",
+      "note": "Lidl.pl"
+    }
+  ],
+  "grillmeister akcesoria do wypieku pizzy": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "26,99 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-23 09:07",
+      "price": "18,89 zł",
+      "note": "Lidl.pl"
+    }
+  ],
+  "parkside zestaw bitów 26 31 lub": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "24,99 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-23 09:07",
+      "price": "17,49 zł",
+      "note": "Lidl.pl"
+    }
+  ],
+  "aldi paski z fileta z piersi": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "16,99 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-23 09:07",
+      "price": "11,99 zł",
+      "note": "Aldi.pl"
+    }
+  ],
+  "aldi czekolada mleczna z całymi orzechami": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "6,99 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-23 09:07",
+      "price": "4,99 zł",
+      "note": "Aldi.pl"
+    }
+  ],
+  "aldi kiełbasa krakowska z piersią z": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "6,99 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-23 09:07",
+      "price": "4,99 zł",
+      "note": "Aldi.pl"
+    }
+  ],
+  "parkside wiertarka udarowa psbm 750 c3": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "179 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-23 09:07",
+      "price": "129 zł",
+      "note": "Lidl.pl"
+    }
+  ],
+  "cool club luźna bluzka chłopięca z": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "64 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-23 09:07",
+      "price": "47 zł",
+      "note": "Smyk.com"
+    }
+  ],
+  "aldi kiełbasa z kaczką": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "10,99 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-23 09:07",
+      "price": "7,99 zł",
+      "note": "Aldi.pl"
+    }
+  ],
+  "silvercrest żelazko ze stacją parową 2400": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "249 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-23 09:07",
+      "price": "186 zł",
+      "note": "Lidl.pl"
+    }
+  ],
+  "aldi klementynki": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "24,99 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-23 09:07",
+      "price": "19,99 zł",
+      "note": "Aldi.pl"
+    }
+  ],
+  "silvercrest zestaw 5 garnków ze stali": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "249 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-23 09:07",
+      "price": "199 zł",
+      "note": "Lidl.pl"
+    }
+  ],
+  "parkside zestaw klucza dynamometrycznego 5 elementów": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "84,90 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-23 09:07",
+      "price": "67,49 zł",
+      "note": "Lidl.pl"
+    }
+  ],
+  "lupilu śniegowce chłopięce": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "65,90 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-23 09:07",
+      "price": "52,72 zł",
+      "note": "Lidl.pl"
+    }
+  ],
+  "aldi mięso z uda indyka na": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "11,99 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-23 09:07",
+      "price": "9,99 zł",
+      "note": "Aldi.pl"
+    }
+  ],
+  "lupilu zimowe buty dziecięce": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "56,90 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-23 09:07",
+      "price": "47,99 zł",
+      "note": "Lidl.pl"
+    }
+  ],
+  "vileda zestaw do mycia podłóg z": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "109 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-23 09:07",
+      "price": "92,90 zł",
+      "note": "Lidl.pl"
+    }
+  ],
+  "parkside opalarka phlgb 2000 a1": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "46,99 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-23 09:07",
+      "price": "39,99 zł",
+      "note": "Lidl.pl"
+    }
+  ],
+  "parkside elektryczny odkurzacz dmuchawa do liści": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "95 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-23 09:07",
+      "price": "85 zł",
+      "note": "Lidl.pl"
+    }
+  ],
+  "g de g de wózek ogrodowy": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "439 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-23 09:07",
+      "price": "399 zł",
+      "note": "Lidl.pl"
+    }
+  ],
+  "philips ekspres ciśnieniowy series 800 ep0824": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "909,98 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-23 09:07",
+      "price": "864,41 zł",
+      "note": "Lidl.pl"
+    }
+  ],
+  "pepco maskotka ludzik piernikowy": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-23 09:07",
+      "price": "50 zł",
+      "note": "Pepco.pl"
+    }
+  ],
+  "pepco dekoracja tekstylna mini ludzik piernikowy": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-23 09:07",
+      "price": "10 zł",
+      "note": "Pepco.pl"
+    }
+  ],
+  "pepco koc sherpa z nadrukiem świątecznym": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "10 zł",
+      "note": "Pepco.pl"
+    }
+  ],
+  "pepco koc sherpa w beżową kratę": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "40 zł",
+      "note": "Pepco.pl"
+    }
+  ],
+  "pepco postać pluszowa świąteczna mała": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "40 zł",
+      "note": "Pepco.pl"
+    }
+  ],
+  "pepco pudełko prezentowe kwadratowe świąteczne": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "15 zł",
+      "note": "Pepco.pl"
+    }
+  ],
+  "pepco kubek świąteczny w dekoracyjnym opakowaniu": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "15 zł",
+      "note": "Pepco.pl"
+    }
+  ],
+  "pepco zestaw klocków lego creator magiczny": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "28 zł",
+      "note": "Pepco.pl"
+    }
+  ],
+  "pepco zestaw klocków lego creator flakon": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "28 zł",
+      "note": "Pepco.pl"
+    }
+  ],
+  "pepco zestaw klocków lego city hot": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "77 zł",
+      "note": "Pepco.pl"
+    }
+  ],
+  "pepco zestaw klocków lego city elektryczny": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "28 zł",
+      "note": "Pepco.pl"
+    }
+  ],
+  "pepco zestaw klocków lego city traktor": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "28 zł",
+      "note": "Pepco.pl"
+    }
+  ],
+  "pepco zestaw klocków lego ozdoby z": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "52,50 zł",
+      "note": "Pepco.pl"
+    }
+  ],
+  "pepco kubek termiczny grinch": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "35 zł",
+      "note": "Pepco.pl"
+    }
+  ],
+  "pepco zestaw bombek choinkowych grinch": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "15 zł",
+      "note": "Pepco.pl"
+    }
+  ],
+  "pepco bluza dziewczęca z kapturem i": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "15 zł",
+      "note": "Pepco.pl"
+    }
+  ],
+  "pepco gabinet lekarski w składanej walizce": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "120 zł",
+      "note": "Pepco.pl"
+    }
+  ],
+  "pepco zabawkowy sklep z półkami": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "120 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-23 09:07",
+      "price": "105 zł",
+      "note": "Pepco.pl"
+    }
+  ],
+  "pepco zestaw do gry w minigolfa": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "63 zł",
+      "note": "Pepco.pl"
+    }
+  ],
+  "pepco wyrzutnia blaster na piankowe strzałki": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "70 zł",
+      "note": "Pepco.pl"
+    }
+  ],
+  "pepco ciężarówka z rozkładanym torem": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "70 zł",
+      "note": "Pepco.pl"
+    }
+  ],
+  "pepco zestaw pędzli do makijażu z": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "35 zł",
+      "note": "Pepco.pl"
+    }
+  ],
+  "pepco gąbki do makijażu 6 pak": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "35 zł",
+      "note": "Pepco.pl"
+    }
+  ],
+  "pepco zestaw do robienia loków w": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "15 zł",
+      "note": "Pepco.pl"
+    }
+  ],
+  "pepco zestaw opaska i turban do": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    }
+  ],
+  "70 zł rabatu za każde 500": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "70 zł",
+      "note": "Media Expert"
+    }
+  ],
+  "duży tor samochodowy 260cm elektryczny 2": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "99zł",
+      "note": "Jula"
+    }
+  ],
+  "gra planszowa marvel zombies niezbadana planeta": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "249,95zł",
+      "note": "Portal Games"
+    }
+  ],
+  "kawa ziarnista kimbo aroma gold 1": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "64,99zł",
+      "note": "Allegro"
+    }
+  ],
+  "halogen led statyw budowlany naświetlacz 2x": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "74zł",
+      "note": "Allegro"
+    }
+  ],
+  "odżywka białkowa ostrovit wpc 80 700g": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "82,49zł",
+      "note": "Ostrovit"
+    }
+  ],
+  "pamięć ram ddr5 patriot viper venom": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "1 999zł",
+      "note": "Allegro"
+    }
+  ],
+  "blender z mocnym silnikiem 1 5": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "199zł",
+      "note": "Jula"
+    }
+  ],
+  "acrylic s10 najtańszy streamer spotify z": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "224,11zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "kamera imou cruiser dual 2c 4g": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "179zł",
+      "note": "x-kom"
+    }
+  ],
+  "gta vi standard edition xbox series": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "264,63zł",
+      "note": "LOOTBAR"
+    }
+  ],
+  "bosch 14x zestaw pił otwornic pro": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "425,12zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "kawa gourmet kimbo for de longhi": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "69zł",
+      "note": "DeLonghi"
+    }
+  ],
+  "jabłka czerwone 1kg biedronka": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "2,49zł",
+      "note": "Biedronka"
+    }
+  ],
+  "kross esker 6 0 grx 2x12": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "4 997,02zł",
+      "note": "PGBIKES"
+    }
+  ],
+  "resident evil requiem playstation 5 ps5": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "179zł",
+      "note": "Allegro"
+    }
+  ],
+  "końcówki do szczoteczki sonicznej oclean ultra": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "49zł",
+      "note": "MediaMarkt"
+    }
+  ],
+  "mc smart w najnizszej gistorycznie cenie": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "1 499zł",
+      "note": "Lidl"
+    }
+  ],
+  "buty new balance 550 rozmiary 36": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "184,90zł",
+      "note": "Lounge by Zalando"
+    }
+  ],
+  "urządzenie wielofunkcyjne hp smart tank 580": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "499zł",
+      "note": "Media Expert"
+    }
+  ],
+  "biurko gamingowe ultradesk level v2 regulacja": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "449zł",
+      "note": "Allegro"
+    }
+  ],
+  "nike academy męski dres piłkarski dri": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "209,99zł",
+      "note": "Nike"
+    }
+  ],
+  "ścisk pistoletowy 300 mm bahco siła": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "24,99zł",
+      "note": "Jula"
+    }
+  ],
+  "drzewko podświetlane agreboda w180cm 840 led": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "140zł",
+      "note": "JYSK"
+    }
+  ],
+  "nikon z5 obiektyw nikkor z 24": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "4 999zł",
+      "note": "Media Expert"
+    }
+  ],
+  "aldi czekolada do picia": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "13,99 zł",
+      "note": "Aldi.pl"
+    }
+  ],
+  "aldi przekąski dla kota": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "11,99 zł",
+      "note": "Aldi.pl"
+    }
+  ],
+  "aldi goferki o smaku cynamonowym": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "13,99 zł",
+      "note": "Aldi.pl"
+    }
+  ],
+  "aldi marynowane oliwki bez pestek": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "4,49 zł",
+      "note": "Aldi.pl"
+    }
+  ],
+  "aldi karp wędzony": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "59,90 zł",
+      "note": "Aldi.pl"
+    }
+  ],
+  "aldi pierogi z kapustą i grzybami": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "7,49 zł",
+      "note": "Aldi.pl"
+    }
+  ],
+  "aldi pstrąg łososiowy wędzony w kawałku": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "99,90 zł",
+      "note": "Aldi.pl"
+    }
+  ],
+  "aldi chleb rustykalny z ziarnami": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "5,99 zł",
+      "note": "Aldi.pl"
+    }
+  ],
+  "aldi przekąska z nadzieniem pomidorowym": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "3,49 zł",
+      "note": "Aldi.pl"
+    }
+  ],
+  "aldi szynka serrano xxl": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "21,99 zł",
+      "note": "Aldi.pl"
+    }
+  ],
+  "aldi kabanosy xxl": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "9,99 zł",
+      "note": "Aldi.pl"
+    }
+  ],
+  "tom tailor woda perfumowana dla kobiet": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "67,99 zł",
+      "note": "Rossmann.pl"
+    }
+  ],
+  "victoria s secret mgiełka do ciała": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "94,99 zł",
+      "note": "Rossmann.pl"
+    }
+  ],
+  "s oliver woda perfumowana dla kobiet": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "89,99 zł",
+      "note": "Rossmann.pl"
+    }
+  ],
+  "lattafa woda perfumowana dla kobiet": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "109,99 zł",
+      "note": "Rossmann.pl"
+    }
+  ],
+  "calvin klein woda toaletowa dla kobiet": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "149,99 zł",
+      "note": "Rossmann.pl"
+    }
+  ],
+  "calvin klein woda perfumowana dla kobiet": [
+    {
+      "date": "2026-11-23 09:07",
+      "price": "229,99 zł",
+      "note": "Rossmann.pl"
     }
   ]
 }

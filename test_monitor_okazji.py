@@ -72,6 +72,29 @@ SAMPLE_MORELE = """
 </div>
 """.encode("utf-8")
 
+SAMPLE_ALDI = """
+<div>
+  <a href="https://www.aldi.pl/produkt-szczegoly/kaki-62060000.html">
+    <img src="https://prd.an-pcm.com/dam/products/kaki.png" />
+    <span class="product-name">Kaki</span>
+  </a>
+  <span data-testid="tag-promo-label">60% TANIEJ</span>
+  <div data-testid="tag-price-box">
+    <span data-testid="tag-current-price-amount">1,99</span>
+    <span data-testid="tag-cross-price-label"><span>2,49</span></span>
+  </div>
+</div>
+""".encode("utf-8")
+
+SAMPLE_PEPCO = """
+<div>
+  <a href="/products/maskotka-ludzik-piernikowy-639455">
+    <h3>Maskotka ludzik piernikowy</h3>
+  </a>
+  <div aria-label="Product price: 20 zł">20 zł</div>
+</div>
+""".encode("utf-8")
+
 SAMPLE_SMYK = """
 <div>
   <a aria-label="Hot Wheels City Mega Garaż" href="/pl/pl/p/hot-wheels-i8032404">
@@ -134,6 +157,17 @@ class MonitorOkazjiTests(unittest.TestCase):
         self.assertEqual(morele[0].price, "167 zł")
         self.assertEqual(morele[0].old_price, "220 zł")
         self.assertGreaterEqual(morele[0].discount_pct, 24)
+
+        aldi = monitor_okazji.parse_aldi_page(SAMPLE_ALDI, "Aldi.pl (Oferty)")
+        self.assertEqual(len(aldi), 1)
+        self.assertEqual(aldi[0].price, "1,99 zł")
+        self.assertEqual(aldi[0].old_price, "2,49 zł")
+        self.assertEqual(aldi[0].discount_pct, 60)
+
+        pepco = monitor_okazji.parse_pepco_page(SAMPLE_PEPCO, "Pepco.pl")
+        self.assertEqual(len(pepco), 1)
+        self.assertEqual(pepco[0].price, "20 zł")
+        self.assertIn("Maskotka", pepco[0].title)
 
         smyk = monitor_okazji.parse_smyk_page(SAMPLE_SMYK, "Smyk.com")
         self.assertEqual(len(smyk), 1)
