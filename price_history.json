@@ -2652,6 +2652,11 @@
       "date": "2026-11-22 23:24",
       "price": "3,99 zł",
       "note": "Dino"
+    },
+    {
+      "date": "2026-11-23 15:32",
+      "price": "7,99 zł",
+      "note": "Dino"
     }
   ],
   "dino kiełbasa biesiadna": [
@@ -3344,6 +3349,11 @@
   ],
   "silvercrest zestaw 5 garnków ze stali": [
     {
+      "date": "przed promocją",
+      "price": "249 zł",
+      "note": "przed promocją"
+    },
+    {
       "date": "30 dni przed obniżką",
       "price": "249 zł",
       "note": "Najniższa z 30 dni (Omnibus)"
@@ -3597,6 +3607,16 @@
       "date": "2026-11-23 14:17",
       "price": "50 zł",
       "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-23 15:32",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-23 15:32",
+      "price": "50 zł",
+      "note": "Pepco.pl"
     }
   ],
   "pepco dekoracja tekstylna mini ludzik piernikowy": [
@@ -3677,6 +3697,16 @@
     },
     {
       "date": "2026-11-23 14:17",
+      "price": "10 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-23 15:32",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-23 15:32",
       "price": "10 zł",
       "note": "Pepco.pl"
     }
@@ -3864,6 +3894,16 @@
     },
     {
       "date": "2026-11-23 14:17",
+      "price": "105 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-23 15:32",
+      "price": "120 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-23 15:32",
       "price": "105 zł",
       "note": "Pepco.pl"
     }
@@ -4225,6 +4265,11 @@
     {
       "date": "2026-11-23 10:06",
       "price": "119 zł",
+      "note": "OBI.pl"
+    },
+    {
+      "date": "2026-11-23 15:32",
+      "price": "89,99 zł",
       "note": "OBI.pl"
     }
   ],
@@ -5695,6 +5740,11 @@
   ],
   "monitor lenovo legion 27q 10": [
     {
+      "date": "przed promocją",
+      "price": "719 zł",
+      "note": "przed promocją"
+    },
+    {
       "date": "30 dni przed obniżką",
       "price": "719 zł",
       "note": "Najniższa z 30 dni (Omnibus)"
@@ -5892,6 +5942,202 @@
       "date": "2026-11-23 14:17",
       "price": "$58.41",
       "note": "Aliexpress.com"
+    }
+  ],
+  "aldi woda mineralna": [
+    {
+      "date": "2026-11-23 15:32",
+      "price": "3,29 zł",
+      "note": "Aldi.pl"
+    }
+  ],
+  "kalendarze adwentowe balea alverde craze martinella": [
+    {
+      "date": "2026-11-23 15:32",
+      "price": "22,45zł",
+      "note": "dm"
+    }
+  ],
+  "hot wheels premium boulevard ferrari enzo": [
+    {
+      "date": "2026-11-23 15:32",
+      "price": "38,49zł",
+      "note": "Smyk"
+    }
+  ],
+  "10 par skarpet jednokolorowych bawełniano bambusowe": [
+    {
+      "date": "2026-11-23 15:32",
+      "price": "46,42zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "ekspres do kawy yoer ciśnieniowy kolbowy": [
+    {
+      "date": "2026-11-23 15:32",
+      "price": "389,98zł",
+      "note": "Allegro"
+    }
+  ],
+  "lego speed champions 77260 szybcy i": [
+    {
+      "date": "2026-11-23 15:32",
+      "price": "69,99zł",
+      "note": "Allegro"
+    }
+  ],
+  "myszka endorfy liv wireless": [
+    {
+      "date": "2026-11-23 15:32",
+      "price": "89,89zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "borderlands 4 ripper set ps5 w": [
+    {
+      "date": "2026-11-23 15:32",
+      "price": "159zł",
+      "note": "Blue Games"
+    }
+  ],
+  "apple watch ultra 4 gps": [
+    {
+      "date": "2026-11-23 15:32",
+      "price": "3 499zł",
+      "note": "Lantre"
+    }
+  ],
+  "lody sammontana barattolino 800 ml lody": [
+    {
+      "date": "2026-11-23 15:32",
+      "price": "7,10zł",
+      "note": "Kaufland"
+    }
+  ],
+  "słuchawki jbl quantum 100m2": [
+    {
+      "date": "2026-11-23 15:32",
+      "price": "99zł",
+      "note": "Max Elektro"
+    }
+  ],
+  "zestaw szczotek do wiertarki 3 sztuk": [
+    {
+      "date": "2026-11-23 15:32",
+      "price": "9,20zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "pad sony dualsense edge do ps5": [
+    {
+      "date": "2026-11-23 15:32",
+      "price": "739,99zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "bezdotykowy detektor napięcia uni t ut12d": [
+    {
+      "date": "2026-11-23 15:32",
+      "price": "26,89zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "akumulatorowe narzędzie wielofunkcyjne 20 v pamfwp": [
+    {
+      "date": "2026-11-23 15:32",
+      "price": "299zł",
+      "note": "Lidl"
+    }
+  ],
+  "kask rowerowy kask valegro kolor limonkowy": [
+    {
+      "date": "2026-11-23 15:32",
+      "price": "399,99zł",
+      "note": "Centrum Rowerowe"
+    }
+  ],
+  "ekspres do kawy jura j10": [
+    {
+      "date": "2026-11-23 15:32",
+      "price": "6 999zł",
+      "note": "Media Expert"
+    }
+  ],
+  "bresser 7007402 stacja pogodowa": [
+    {
+      "date": "2026-11-23 15:32",
+      "price": "82,97zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "alkomat elektrochemiczny bacscan f 55": [
+    {
+      "date": "2026-11-23 15:32",
+      "price": "229zł",
+      "note": "Allegro"
+    }
+  ],
+  "dysk ssd sandisk wd blue sn5100": [
+    {
+      "date": "2026-11-23 15:32",
+      "price": "449zł",
+      "note": "MediaMarkt"
+    }
+  ],
+  "smartfon xiaomi 17 ultra 5g 16": [
+    {
+      "date": "2026-11-23 15:32",
+      "price": "4 099zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "gift box planszówkowy 2x gra planszowa": [
+    {
+      "date": "2026-11-23 15:32",
+      "price": "299,99zł",
+      "note": "Allegro"
+    }
+  ],
+  "szafka na leki 30x30x12cm": [
+    {
+      "date": "2026-11-23 15:32",
+      "price": "51,90zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "black week w konesso promocje na": [
+    {
+      "date": "2026-11-23 15:32",
+      "price": "5 zł",
+      "note": "Konesso"
+    }
+  ],
+  "zegarek męski lorus mechanizm kwarcowy stal": [
+    {
+      "date": "2026-11-23 15:32",
+      "price": "168,49zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "paliwo pb 95": [
+    {
+      "date": "2026-11-23 15:32",
+      "price": "5,42zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "murdoku 80 zabójczych łamigłówek": [
+    {
+      "date": "2026-11-23 15:32",
+      "price": "23,81zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "k rcher worki fizelinowe do odkurzacza": [
+    {
+      "date": "2026-11-23 15:32",
+      "price": "39,99 zł",
+      "note": "OBI.pl"
     }
   ]
 }
