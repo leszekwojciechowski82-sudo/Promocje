@@ -3554,16 +3554,6 @@
   ],
   "pepco maskotka ludzik piernikowy": [
     {
-      "date": "2026-11-23 11:43",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-23 11:43",
-      "price": "50 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-23 12:55",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3650,22 +3640,22 @@
     },
     {
       "date": "2026-11-23 21:40",
+      "price": "50 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-23 22:41",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-23 22:41",
       "price": "50 zł",
       "note": "Pepco.pl"
     }
   ],
   "pepco dekoracja tekstylna mini ludzik piernikowy": [
     {
-      "date": "2026-11-23 11:43",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-23 11:43",
-      "price": "10 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-23 12:55",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3752,6 +3742,16 @@
     },
     {
       "date": "2026-11-23 21:40",
+      "price": "10 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-23 22:41",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-23 22:41",
       "price": "10 zł",
       "note": "Pepco.pl"
     }
@@ -3863,16 +3863,6 @@
   ],
   "pepco zabawkowy sklep z półkami": [
     {
-      "date": "2026-11-23 11:43",
-      "price": "120 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-23 11:43",
-      "price": "105 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-23 12:55",
       "price": "120 zł",
       "note": "Pepco.pl"
@@ -3959,6 +3949,16 @@
     },
     {
       "date": "2026-11-23 21:40",
+      "price": "105 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-23 22:41",
+      "price": "120 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-23 22:41",
       "price": "105 zł",
       "note": "Pepco.pl"
     }
@@ -4347,6 +4347,21 @@
     },
     {
       "date": "2026-11-23 21:40",
+      "price": "199,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-23 22:41",
+      "price": "129,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-23 22:41",
+      "price": "229,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-23 22:41",
       "price": "199,99 zł",
       "note": "Rossmann.pl"
     }
@@ -6236,6 +6251,11 @@
       "date": "2026-11-23 15:32",
       "price": "23,81zł",
       "note": "Amazon.pl"
+    },
+    {
+      "date": "2026-11-23 22:41",
+      "price": "23,80zł",
+      "note": "Empik"
     }
   ],
   "k rcher worki fizelinowe do odkurzacza": [
@@ -7702,6 +7722,167 @@
     {
       "date": "2026-11-23 21:40",
       "price": "219,98zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "ławka ze schowkiem livano lidl": [
+    {
+      "date": "2026-11-23 22:41",
+      "price": "88,99zł",
+      "note": "Lidl"
+    }
+  ],
+  "książka włam się do mózgu radosław": [
+    {
+      "date": "2026-11-23 22:41",
+      "price": "49,99zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "pokrowiec na kierownicę samochodową flintronic z": [
+    {
+      "date": "2026-11-23 22:41",
+      "price": "11,99zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "młotowiertarka erbauer sds 1500 w 6": [
+    {
+      "date": "2026-11-23 22:41",
+      "price": "298zł",
+      "note": "Castorama"
+    }
+  ],
+  "buty męskie ecco jamestown sznurowane ze": [
+    {
+      "date": "2026-11-23 22:41",
+      "price": "285,20zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "zestaw do uzupełniania klimatyzacji clim o": [
+    {
+      "date": "2026-11-23 22:41",
+      "price": "34,99zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "samochód zdalnie sterowany snookids 1815 rc": [
+    {
+      "date": "2026-11-23 22:41",
+      "price": "248,18zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "laptop hp 250r g9 intel core": [
+    {
+      "date": "2026-11-23 22:41",
+      "price": "1 772,31zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "ultradźwiękowe urządzenie antycellulitowe cellucavit z terapią": [
+    {
+      "date": "2026-11-23 22:41",
+      "price": "44,58zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "woda kolońska alvarez gomez agua de": [
+    {
+      "date": "2026-11-23 22:41",
+      "price": "47,20zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "piła ukośna akumulatorowa milwaukee m18fms190 0": [
+    {
+      "date": "2026-11-23 22:41",
+      "price": "1 957,16zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "lexus ux fwd hybryda business pakiet": [
+    {
+      "date": "2026-11-23 22:41",
+      "price": "149 900zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "torebka marmo ego szara beżowa": [
+    {
+      "date": "2026-11-23 22:41",
+      "price": "191,10zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "rotmistrz witold pilecki niezłomny bohater autor": [
+    {
+      "date": "2026-11-23 22:41",
+      "price": "8,93zł",
+      "note": "Allegro"
+    }
+  ],
+  "philips hue flux taśma led chromasync": [
+    {
+      "date": "2026-11-23 22:41",
+      "price": "313,89zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "edifier mr3 kompaktowe głośniki 2 0z": [
+    {
+      "date": "2026-11-23 22:41",
+      "price": "299zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "parkside zestaw narzędzi do mechaniki precyzyjnej": [
+    {
+      "date": "2026-11-23 22:41",
+      "price": "14,99zł",
+      "note": "Lidl"
+    }
+  ],
+  "punkt dostępowy zyxel nwa50ax pro ax3000": [
+    {
+      "date": "2026-11-23 22:41",
+      "price": "271,70zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "philips żarowka led e27 13w 100w": [
+    {
+      "date": "2026-11-23 22:41",
+      "price": "40,99zł",
+      "note": "Empik"
+    }
+  ],
+  "loty tam i z powrotem bez": [
+    {
+      "date": "2026-11-23 22:41",
+      "price": "300 zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "5 częściowy zestaw do czyszczenia ściereczka": [
+    {
+      "date": "2026-11-23 22:41",
+      "price": "18,99zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "rower gravel trek checkpoint sl 6": [
+    {
+      "date": "2026-11-23 22:41",
+      "price": "12 445zł",
+      "note": "Sprint-rowery.pl"
+    }
+  ],
+  "celestron travel scope 70 21035 ads": [
+    {
+      "date": "2026-11-23 22:41",
+      "price": "360,77zł",
       "note": "Amazon.pl"
     }
   ]
