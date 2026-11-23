@@ -95,6 +95,15 @@ SAMPLE_PEPCO = """
 </div>
 """.encode("utf-8")
 
+SAMPLE_OBI = """
+<div data-find-artikelnummer="6583413" data-find-kategoriename="Pilarki ukosowe">
+  <img src="https://bilder.obi.pl/d4f2381e/pr07F/image.jpeg" />
+  <a href="/p/6583413/einhell-pila-ukosna" data-ui-name="find-artikelkachel-detailseitenUrl">Einhell Piła ukośna 1500W</a>
+  <span>Najniższa cena z 30 dni przed obniżką: 559,00 zł</span>
+  <span aria-label="459,00 zł">459,00 zł</span>
+</div>
+""".encode("utf-8")
+
 SAMPLE_SMYK = """
 <div>
   <a aria-label="Hot Wheels City Mega Garaż" href="/pl/pl/p/hot-wheels-i8032404">
@@ -168,6 +177,12 @@ class MonitorOkazjiTests(unittest.TestCase):
         self.assertEqual(len(pepco), 1)
         self.assertEqual(pepco[0].price, "20 zł")
         self.assertIn("Maskotka", pepco[0].title)
+
+        obi = monitor_okazji.parse_obi_page(SAMPLE_OBI, "OBI.pl (Promocje)")
+        self.assertEqual(len(obi), 1)
+        self.assertEqual(obi[0].price, "459 zł")
+        self.assertEqual(obi[0].old_price, "559 zł")
+        self.assertGreaterEqual(obi[0].discount_pct, 18)
 
         smyk = monitor_okazji.parse_smyk_page(SAMPLE_SMYK, "Smyk.com")
         self.assertEqual(len(smyk), 1)

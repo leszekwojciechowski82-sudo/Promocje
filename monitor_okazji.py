@@ -906,6 +906,82 @@ def parse_rossmann_page(
     return deals
 
 
+def parse_obi_page(
+    html_bytes: bytes, source_name: str, store_group: str = "Budowlane i dom", limit: int = 30
+) -> list[Deal]:
+    """Parse discounted promotional products directly from OBI.pl category HTML."""
+    page = html_bytes.decode("utf-8", errors="ignore")
+    chunks = page.split('data-find-artikelnummer="')[1:]
+    deals: list[Deal] = []
+    seen: set[str] = set()
+
+    for chunk in chunks:
+        art_id = chunk.split('"', 1)[0].strip()
+        if not art_id or art_id in seen:
+            continue
+
+        # Only include discounted / promotional OBI offers when available
+        if "Najniższa cena" not in chunk and "Poprzednia cena" not in chunk and "Oferta ważna" not in chunk:
+            continue
+
+        link_m = re.search(r'href="(/p/[^"]+)"', chunk)
+        if not link_m:
+            continue
+        seen.add(art_id)
+        link = f"https://www.obi.pl{link_m.group(1)}"
+
+        title_m = re.search(r'find-artikelkachel-detailseitenUrl[^>]*>(.*?)</a>', chunk, re.S)
+        title = clean_html(title_m.group(1), max_len=180) if title_m else ""
+        if not title:
+            continue
+
+        cat_m = re.search(r'data-find-kategoriename="([^"]+)"', chunk[:300])
+        cat = html.unescape(cat_m.group(1)).strip() if cat_m else "Budowlane i technika"
+
+        img_m = re.search(r'(?:data-src|src)="(https://bilder\.obi\.[^"]+)"', chunk)
+        image_url = html.unescape(img_m.group(1)).strip() if img_m else ""
+
+        price_m = re.search(r'aria-label="([^"]*zł[^"]*)"', chunk)
+        cur_val = parse_pln_number(price_m.group(1)) if price_m else None
+        cur_price = format_pln(cur_val) if cur_val else ""
+
+        clean_blk = clean_html(chunk, max_len=3000)
+        old_m = re.search(
+            r"(?:Najniższa cena[^:]*:|Poprzednia cena[^:]*:)\s*(\d[\d\s.,]*)\s*zł",
+            clean_blk,
+        )
+        old_val = parse_pln_number(old_m.group(1)) if old_m else None
+        old_price = format_pln(old_val) if old_val else ""
+
+        old_price, discount_pct, savings_pln, deal_score = compute_discount_metrics(
+            title, clean_blk, cur_price, explicit_old_price=old_price
+        )
+        deals.append(
+            Deal(
+                source=source_name,
+                deal_id=f"obi:{art_id}",
+                title=title,
+                link=link,
+                published="Aktualna promocja OBI.pl",
+                summary=f"Promocja w markecie OBI.pl{f' • Najniższa z 30 dni: {old_price}' if old_price else ''}.",
+                image_url=image_url,
+                price=cur_price,
+                old_price=old_price,
+                lowest_30d=old_price,
+                merchant="OBI.pl",
+                category=cat,
+                store_group=store_group,
+                discount_pct=discount_pct,
+                savings_pln=savings_pln,
+                deal_score=deal_score,
+                is_leaflet=False,
+            )
+        )
+        if len(deals) >= limit:
+            break
+    return deals
+
+
 def parse_morele_page(
     html_bytes: bytes, source_name: str, store_group: str = "Elektronika i okazje", limit: int = 30
 ) -> list[Deal]:
@@ -1546,6 +1622,8 @@ def fetch_all_sources(config: dict[str, Any]) -> tuple[list[Deal], list[str]]:
                 deals = parse_rossmann_page(raw_bytes, name, store_group=store_group, limit=max_items)
             elif source_type == "castorama":
                 deals = parse_castorama_page(raw_bytes, name, store_group=store_group, limit=max_items)
+            elif source_type == "obi":
+                deals = parse_obi_page(raw_bytes, name, store_group=store_group, limit=max_items)
             elif source_type == "morele":
                 deals = parse_morele_page(raw_bytes, name, store_group=store_group, limit=max_items)
             else:

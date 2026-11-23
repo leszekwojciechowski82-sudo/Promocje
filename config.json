@@ -58,6 +58,13 @@
       "enabled": true
     },
     {
+      "name": "OBI.pl (Promocje)",
+      "url": "https://www.obi.pl/technika/c/876",
+      "type": "obi",
+      "store_group": "Budowlane i dom",
+      "enabled": true
+    },
+    {
       "name": "Biedronka Home",
       "url": "https://home.biedronka.pl/promocje/",
       "type": "biedronka_home",
