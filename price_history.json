@@ -3554,16 +3554,6 @@
   ],
   "pepco maskotka ludzik piernikowy": [
     {
-      "date": "2026-11-23 10:53",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-23 10:53",
-      "price": "50 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-23 11:43",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3650,22 +3640,22 @@
     },
     {
       "date": "2026-11-23 20:40",
+      "price": "50 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-23 21:40",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-23 21:40",
       "price": "50 zł",
       "note": "Pepco.pl"
     }
   ],
   "pepco dekoracja tekstylna mini ludzik piernikowy": [
     {
-      "date": "2026-11-23 10:53",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-23 10:53",
-      "price": "10 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-23 11:43",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3752,6 +3742,16 @@
     },
     {
       "date": "2026-11-23 20:40",
+      "price": "10 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-23 21:40",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-23 21:40",
       "price": "10 zł",
       "note": "Pepco.pl"
     }
@@ -3863,16 +3863,6 @@
   ],
   "pepco zabawkowy sklep z półkami": [
     {
-      "date": "2026-11-23 10:53",
-      "price": "120 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-23 10:53",
-      "price": "105 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-23 11:43",
       "price": "120 zł",
       "note": "Pepco.pl"
@@ -3959,6 +3949,16 @@
     },
     {
       "date": "2026-11-23 20:40",
+      "price": "105 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-23 21:40",
+      "price": "120 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-23 21:40",
       "price": "105 zł",
       "note": "Pepco.pl"
     }
@@ -4332,6 +4332,21 @@
     },
     {
       "date": "2026-11-23 20:40",
+      "price": "199,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-23 21:40",
+      "price": "129,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-23 21:40",
+      "price": "229,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-23 21:40",
       "price": "199,99 zł",
       "note": "Rossmann.pl"
     }
@@ -7306,6 +7321,11 @@
   ],
   "e wedel czekotubka krem czekoladowy": [
     {
+      "date": "przed promocją",
+      "price": "5,29 zł",
+      "note": "przed promocją"
+    },
+    {
       "date": "30 dni przed obniżką",
       "price": "5,29 zł",
       "note": "Najniższa z 30 dni (Omnibus)"
@@ -7482,6 +7502,207 @@
       "date": "2026-11-23 20:40",
       "price": "24,95zł",
       "note": "Traficar"
+    }
+  ],
+  "wiim amp ultra transport gratis 10": [
+    {
+      "date": "2026-11-23 21:40",
+      "price": "2 249zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "samsung soundbar hw qs750f 286 23": [
+    {
+      "date": "2026-11-23 21:40",
+      "price": "1 276,59zł",
+      "note": "Amazon.it"
+    }
+  ],
+  "laptop lenovo loq 15ahp9 15 6": [
+    {
+      "date": "2026-11-23 21:40",
+      "price": "3 349zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "kolumny podłogowe pylon audio opal 30": [
+    {
+      "date": "przed promocją",
+      "price": "2099 zł",
+      "note": "przed promocją"
+    },
+    {
+      "date": "2026-11-23 21:40",
+      "price": "1 699zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "roan ivi supermaluch błąd cenowy wózki": [
+    {
+      "date": "2026-11-23 21:40",
+      "price": "11zł",
+      "note": "Super Maluch"
+    }
+  ],
+  "parownica do ubrań premium silvercrest 2400": [
+    {
+      "date": "2026-11-23 21:40",
+      "price": "499zł",
+      "note": "Lidl"
+    }
+  ],
+  "2 sztuki ręcznika dla psa 100": [
+    {
+      "date": "2026-11-23 21:40",
+      "price": "18,99zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "słuchawki apple earpods z wtyczką słuchawkową": [
+    {
+      "date": "2026-11-23 21:40",
+      "price": "45,49zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "klawiatura gamingowa endorfy thock tkl wireless": [
+    {
+      "date": "2026-11-23 21:40",
+      "price": "259zł",
+      "note": "Komputronik"
+    }
+  ],
+  "śledź w sosie pomidorowym z firmy": [
+    {
+      "date": "2026-11-23 21:40",
+      "price": "3,48zł",
+      "note": "Biedronka"
+    }
+  ],
+  "snickers workwear kurtka robocza ze wzmocnieniam": [
+    {
+      "date": "2026-11-23 21:40",
+      "price": "30zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "kombinezon roboczy snickers": [
+    {
+      "date": "2026-11-23 21:40",
+      "price": "30zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "zestaw noży silvercrest 6 sztuk pikutki": [
+    {
+      "date": "2026-11-23 21:40",
+      "price": "7,49zł",
+      "note": "Lidl"
+    }
+  ],
+  "woda perfumowana arabiyat prestige marwa edp": [
+    {
+      "date": "2026-11-23 21:40",
+      "price": "86,63zł",
+      "note": "Fragrant"
+    }
+  ],
+  "power audio jbl partybox encore essential": [
+    {
+      "date": "2026-11-23 21:40",
+      "price": "599zł",
+      "note": "Media Expert"
+    }
+  ],
+  "mountain goat travel 450 ml kubek": [
+    {
+      "date": "2026-11-23 21:40",
+      "price": "30,99zł",
+      "note": "InPost"
+    }
+  ],
+  "endorfy enduro l6 850w 80 plus": [
+    {
+      "date": "2026-11-23 21:40",
+      "price": "329zł",
+      "note": "x-kom"
+    }
+  ],
+  "smartfon apple iphone 17 pro 5g": [
+    {
+      "date": "2026-11-23 21:40",
+      "price": "5 799zł",
+      "note": "MediaMarkt"
+    }
+  ],
+  "męskie buty rowerowe mtb giro tracker": [
+    {
+      "date": "2026-11-23 21:40",
+      "price": "219,29zł",
+      "note": "Bikeinn"
+    }
+  ],
+  "skarpety narciarskie termoaktywne quechua 500 z": [
+    {
+      "date": "2026-11-23 21:40",
+      "price": "17,49zł",
+      "note": "Decathlon"
+    }
+  ],
+  "tomtoc plecak podróżny navigator t66 liteway": [
+    {
+      "date": "2026-11-23 21:40",
+      "price": "270,98zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "kaganiec buldog francuski umożliwia picie ochrona": [
+    {
+      "date": "2026-11-23 21:40",
+      "price": "22,79zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "karnisz elektryczny 2 16 4 2m": [
+    {
+      "date": "2026-11-23 21:40",
+      "price": "267,23zł",
+      "note": "Allegro"
+    }
+  ],
+  "ministerstwo dobrego mydla black week pzeceny": [
+    {
+      "date": "2026-11-23 21:40",
+      "price": "75 zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "verbatim m disc 43823 płyty blu": [
+    {
+      "date": "2026-11-23 21:40",
+      "price": "73,58zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "ravensburger puzzle 3d rakieta apollo saturn": [
+    {
+      "date": "2026-11-23 21:40",
+      "price": "99,99zł",
+      "note": "Empik"
+    }
+  ],
+  "zasilacz seasonic focus gx 1000 white": [
+    {
+      "date": "2026-11-23 21:40",
+      "price": "589zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "2 x gerlach modern zestaw sztućców": [
+    {
+      "date": "2026-11-23 21:40",
+      "price": "219,98zł",
+      "note": "Amazon.pl"
     }
   ]
 }
