@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 00:06",
+  "updated_at": "2026-11-23 01:47",
   "deals": [
     {
       "source": "Lidl.pl (Promocje)",
@@ -25,12 +25,27 @@
       "compared_offers": [],
       "price_history": [
         {
+          "date": "przed promocją",
+          "price": "299 zł",
+          "note": "przed promocją"
+        },
+        {
           "date": "30 dni przed obniżką",
           "price": "299 zł",
           "note": "Najniższa z 30 dni (Omnibus)"
         },
         {
           "date": "2026-11-23 00:06",
+          "price": "89 zł",
+          "note": "Lidl.pl"
+        },
+        {
+          "date": "2026-11-23 00:06",
+          "price": "89zł",
+          "note": "Lidl"
+        },
+        {
+          "date": "2026-11-23 01:47",
           "price": "89 zł",
           "note": "Lidl.pl"
         }
@@ -59,6 +74,11 @@
       "price_verdict": "",
       "compared_offers": [],
       "price_history": [
+        {
+          "date": "przed promocją",
+          "price": "9,98 zł",
+          "note": "przed promocją"
+        },
         {
           "date": "30 dni przed obniżką",
           "price": "9,98 zł",
@@ -94,6 +114,11 @@
       "price_verdict": "",
       "compared_offers": [],
       "price_history": [
+        {
+          "date": "przed promocją",
+          "price": "9,98 zł",
+          "note": "przed promocją"
+        },
         {
           "date": "30 dni przed obniżką",
           "price": "9,98 zł",
@@ -210,6 +235,11 @@
       "compared_offers": [],
       "price_history": [
         {
+          "date": "przed promocją",
+          "price": "149 zł",
+          "note": "przed promocją"
+        },
+        {
           "date": "30 dni przed obniżką",
           "price": "149 zł",
           "note": "Najniższa z 30 dni (Omnibus)"
@@ -244,6 +274,11 @@
       "price_verdict": "",
       "compared_offers": [],
       "price_history": [
+        {
+          "date": "przed promocją",
+          "price": "47,48 zł",
+          "note": "przed promocją"
+        },
         {
           "date": "30 dni przed obniżką",
           "price": "47,48 zł",
@@ -280,6 +315,11 @@
       "compared_offers": [],
       "price_history": [
         {
+          "date": "przed promocją",
+          "price": "809 zł",
+          "note": "przed promocją"
+        },
+        {
           "date": "30 dni przed obniżką",
           "price": "809 zł",
           "note": "Najniższa z 30 dni (Omnibus)"
@@ -315,6 +355,11 @@
       "compared_offers": [],
       "price_history": [
         {
+          "date": "przed promocją",
+          "price": "149 zł",
+          "note": "przed promocją"
+        },
+        {
           "date": "30 dni przed obniżką",
           "price": "149 zł",
           "note": "Najniższa z 30 dni (Omnibus)"
@@ -323,46 +368,6 @@
           "date": "2026-11-23 00:06",
           "price": "79,50 zł",
           "note": "Lidl.pl"
-        }
-      ]
-    },
-    {
-      "source": "Rossmann.pl",
-      "deal_id": "rossmann:183759",
-      "title": "Long4Lashes serum do rzęs, przyspieszające wzrost, na noc",
-      "link": "https://www.rossmann.pl/Produkt/Odzywki-do-rzes/Long4Lashes-serum-do-rzes-przyspieszajace-wzrost-na-noc-3-ml,183759,13007",
-      "published": "Aktualna promocja Rossmann.pl",
-      "summary": "Promocja w drogerii Rossmann.pl • Najniższa z 30 dni: 89,99 zł.",
-      "image_url": "https://pro-fra-s3-productsassets.rossmann.pl/product_7_medium/183759_360_350_1780983588.webp",
-      "price": "48,99 zł",
-      "old_price": "89,99 zł",
-      "lowest_30d": "89,99 zł",
-      "merchant": "Rossmann.pl",
-      "category": "Makijaż i paznokcie-Oczy-Odżywki do rzęs",
-      "store_group": "Odzież i uroda",
-      "discount_pct": 46,
-      "savings_pln": 41.0,
-      "deal_score": 94.05,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Long4Lashes+serum+do+rz%C4%99s+przyspieszaj%C4%85ce",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "przed promocją",
-          "price": "89,99 zł",
-          "note": "przed promocją"
-        },
-        {
-          "date": "30 dni przed obniżką",
-          "price": "89,99 zł",
-          "note": "Najniższa z 30 dni (Omnibus)"
-        },
-        {
-          "date": "2026-11-22 22:45",
-          "price": "48,99 zł",
-          "note": "Rossmann.pl"
         }
       ]
     },
@@ -397,46 +402,6 @@
       ]
     },
     {
-      "source": "Rossmann.pl",
-      "deal_id": "rossmann:2132774",
-      "title": "Eveline Cosmetics podkład do twarzy, rozświetlający, nr 10 Vanilla",
-      "link": "https://www.rossmann.pl/Produkt/Podklady-do-twarzy/Eveline-Cosmetics-Wonder-Match-Lumi-podklad-do-twarzy-rozswietlajacy-nr-10-Vanilla-30-ml,2132774,12004",
-      "published": "Aktualna promocja Rossmann.pl",
-      "summary": "Promocja w drogerii Rossmann.pl • Najniższa z 30 dni: 49,99 zł.",
-      "image_url": "https://pro-fra-s3-productsassets.rossmann.pl/product_1_medium/2132774_360_350_1793997361.webp",
-      "price": "27,49 zł",
-      "old_price": "49,99 zł",
-      "lowest_30d": "49,99 zł",
-      "merchant": "Rossmann.pl",
-      "category": "Makijaż i paznokcie-Twarz-Podkłady do twarzy",
-      "store_group": "Odzież i uroda",
-      "discount_pct": 45,
-      "savings_pln": 22.5,
-      "deal_score": 91.12,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Eveline+Cosmetics+podk%C5%82ad+do+twarzy",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "przed promocją",
-          "price": "49,99 zł",
-          "note": "przed promocją"
-        },
-        {
-          "date": "30 dni przed obniżką",
-          "price": "49,99 zł",
-          "note": "Najniższa z 30 dni (Omnibus)"
-        },
-        {
-          "date": "2026-11-22 22:45",
-          "price": "27,49 zł",
-          "note": "Rossmann.pl"
-        }
-      ]
-    },
-    {
       "source": "Lidl.pl (Promocje)",
       "deal_id": "lidl:100411101",
       "title": "SILVERCREST® Elektryczny młynek do soli i pieprzu pastelowy",
@@ -460,6 +425,11 @@
       "compared_offers": [],
       "price_history": [
         {
+          "date": "przed promocją",
+          "price": "29,99 zł",
+          "note": "przed promocją"
+        },
+        {
           "date": "30 dni przed obniżką",
           "price": "29,99 zł",
           "note": "Najniższa z 30 dni (Omnibus)"
@@ -468,46 +438,6 @@
           "date": "2026-11-23 00:06",
           "price": "16,49 zł",
           "note": "Lidl.pl"
-        }
-      ]
-    },
-    {
-      "source": "Rossmann.pl",
-      "deal_id": "rossmann:354839",
-      "title": "Eveline Cosmetics kredka do brwi, wodoodporna, nr 02 Soft Brown",
-      "link": "https://www.rossmann.pl/Produkt/Kredki-do-brwi/Eveline-Cosmetics-Micro-Precise-kredka-do-brwi-wodoodporna-nr-02-Soft-Brown-1-szt,354839,13017",
-      "published": "Aktualna promocja Rossmann.pl",
-      "summary": "Promocja w drogerii Rossmann.pl • Najniższa z 30 dni: 19,99 zł.",
-      "image_url": "https://pro-fra-s3-productsassets.rossmann.pl/product_1_medium/354839_360_350_1793983763.webp",
-      "price": "10,99 zł",
-      "old_price": "19,99 zł",
-      "lowest_30d": "19,99 zł",
-      "merchant": "Rossmann.pl",
-      "category": "Makijaż i paznokcie-Brwi-Kredki do brwi",
-      "store_group": "Odzież i uroda",
-      "discount_pct": 45,
-      "savings_pln": 9.0,
-      "deal_score": 90.45,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Eveline+Cosmetics+kredka+do+brwi",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "przed promocją",
-          "price": "19,99 zł",
-          "note": "przed promocją"
-        },
-        {
-          "date": "30 dni przed obniżką",
-          "price": "19,99 zł",
-          "note": "Najniższa z 30 dni (Omnibus)"
-        },
-        {
-          "date": "2026-11-22 22:45",
-          "price": "10,99 zł",
-          "note": "Rossmann.pl"
         }
       ]
     },
@@ -614,6 +544,11 @@
       "price_verdict": "",
       "compared_offers": [],
       "price_history": [
+        {
+          "date": "przed promocją",
+          "price": "99 zł",
+          "note": "przed promocją"
+        },
         {
           "date": "30 dni przed obniżką",
           "price": "99 zł",
@@ -747,46 +682,6 @@
       ]
     },
     {
-      "source": "Rossmann.pl",
-      "deal_id": "rossmann:2100394",
-      "title": "Ariel żel do prania tkanin kolorowych",
-      "link": "https://www.rossmann.pl/Produkt/Plyny-i-zele-do-prania/Ariel-zel-do-prania-tkanin-kolorowych-1-8-l,2100394,19229",
-      "published": "Aktualna promocja Rossmann.pl",
-      "summary": "Promocja w drogerii Rossmann.pl • Najniższa z 30 dni: 47,99 zł.",
-      "image_url": "https://pro-fra-s3-productsassets.rossmann.pl/product_1_medium/2100394_360_350_1787829152.webp",
-      "price": "29,99 zł",
-      "old_price": "47,99 zł",
-      "lowest_30d": "47,99 zł",
-      "merchant": "Rossmann.pl",
-      "category": "Dom i ogród-Pranie i płukanie-Płyny i żele do prania",
-      "store_group": "Odzież i uroda",
-      "discount_pct": 38,
-      "savings_pln": 18.0,
-      "deal_score": 76.9,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Ariel+%C5%BCel+do+prania+tkanin",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "przed promocją",
-          "price": "47,99 zł",
-          "note": "przed promocją"
-        },
-        {
-          "date": "30 dni przed obniżką",
-          "price": "47,99 zł",
-          "note": "Najniższa z 30 dni (Omnibus)"
-        },
-        {
-          "date": "2026-11-22 22:45",
-          "price": "29,99 zł",
-          "note": "Rossmann.pl"
-        }
-      ]
-    },
-    {
       "source": "Lidl.pl (Promocje)",
       "deal_id": "lidl:100336203",
       "title": "CATERPILLAR Skarpety robocze męskie, 3 pary",
@@ -809,6 +704,11 @@
       "price_verdict": "",
       "compared_offers": [],
       "price_history": [
+        {
+          "date": "przed promocją",
+          "price": "55,67 zł",
+          "note": "przed promocją"
+        },
         {
           "date": "30 dni przed obniżką",
           "price": "55,67 zł",
@@ -885,6 +785,11 @@
       "compared_offers": [],
       "price_history": [
         {
+          "date": "przed promocją",
+          "price": "69,99 zł",
+          "note": "przed promocją"
+        },
+        {
           "date": "30 dni przed obniżką",
           "price": "69,99 zł",
           "note": "Najniższa z 30 dni (Omnibus)"
@@ -920,6 +825,11 @@
       "compared_offers": [],
       "price_history": [
         {
+          "date": "przed promocją",
+          "price": "49,99 zł",
+          "note": "przed promocją"
+        },
+        {
           "date": "30 dni przed obniżką",
           "price": "49,99 zł",
           "note": "Najniższa z 30 dni (Omnibus)"
@@ -954,6 +864,11 @@
       "price_verdict": "",
       "compared_offers": [],
       "price_history": [
+        {
+          "date": "przed promocją",
+          "price": "38,99 zł",
+          "note": "przed promocją"
+        },
         {
           "date": "30 dni przed obniżką",
           "price": "38,99 zł",
@@ -1030,6 +945,11 @@
       "compared_offers": [],
       "price_history": [
         {
+          "date": "przed promocją",
+          "price": "59,99 zł",
+          "note": "przed promocją"
+        },
+        {
           "date": "30 dni przed obniżką",
           "price": "59,99 zł",
           "note": "Najniższa z 30 dni (Omnibus)"
@@ -1105,6 +1025,11 @@
       "compared_offers": [],
       "price_history": [
         {
+          "date": "przed promocją",
+          "price": "189 zł",
+          "note": "przed promocją"
+        },
+        {
           "date": "30 dni przed obniżką",
           "price": "189 zł",
           "note": "Najniższa z 30 dni (Omnibus)"
@@ -1113,46 +1038,6 @@
           "date": "2026-11-23 00:06",
           "price": "129 zł",
           "note": "Lidl.pl"
-        }
-      ]
-    },
-    {
-      "source": "Rossmann.pl",
-      "deal_id": "rossmann:267193",
-      "title": "Bioelixire serum do włosów z olejkiem z czarnuszki i ceramidami, 3w1",
-      "link": "https://www.rossmann.pl/Produkt/Serum-do-wlosow/Bioelixire-serum-do-wlosow-z-olejkiem-z-czarnuszki-i-ceramidami-3w1-20-ml,267193,13189",
-      "published": "Aktualna promocja Rossmann.pl",
-      "summary": "Promocja w drogerii Rossmann.pl • Najniższa z 30 dni: 5,79 zł.",
-      "image_url": "https://pro-fra-s3-productsassets.rossmann.pl/product_7_medium/267193_360_350_1779969441.webp",
-      "price": "3,99 zł",
-      "old_price": "5,79 zł",
-      "lowest_30d": "5,79 zł",
-      "merchant": "Rossmann.pl",
-      "category": "Włosy-Pielęgnacja włosów-Olejki i serum do włosów-Serum do włosów",
-      "store_group": "Odzież i uroda",
-      "discount_pct": 31,
-      "savings_pln": 1.8,
-      "deal_score": 62.09,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Bioelixire+serum+do+w%C5%82os%C3%B3w+olejkiem",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "przed promocją",
-          "price": "5,79 zł",
-          "note": "przed promocją"
-        },
-        {
-          "date": "30 dni przed obniżką",
-          "price": "5,79 zł",
-          "note": "Najniższa z 30 dni (Omnibus)"
-        },
-        {
-          "date": "2026-11-22 22:45",
-          "price": "3,99 zł",
-          "note": "Rossmann.pl"
         }
       ]
     },
@@ -1179,6 +1064,11 @@
       "price_verdict": "",
       "compared_offers": [],
       "price_history": [
+        {
+          "date": "przed promocją",
+          "price": "29,99 zł",
+          "note": "przed promocją"
+        },
         {
           "date": "30 dni przed obniżką",
           "price": "29,99 zł",
@@ -1215,6 +1105,11 @@
       "compared_offers": [],
       "price_history": [
         {
+          "date": "przed promocją",
+          "price": "26,99 zł",
+          "note": "przed promocją"
+        },
+        {
           "date": "30 dni przed obniżką",
           "price": "26,99 zł",
           "note": "Najniższa z 30 dni (Omnibus)"
@@ -1250,6 +1145,11 @@
       "compared_offers": [],
       "price_history": [
         {
+          "date": "przed promocją",
+          "price": "179 zł",
+          "note": "przed promocją"
+        },
+        {
           "date": "30 dni przed obniżką",
           "price": "179 zł",
           "note": "Najniższa z 30 dni (Omnibus)"
@@ -1284,6 +1184,11 @@
       "price_verdict": "",
       "compared_offers": [],
       "price_history": [
+        {
+          "date": "przed promocją",
+          "price": "249 zł",
+          "note": "przed promocją"
+        },
         {
           "date": "30 dni przed obniżką",
           "price": "249 zł",
@@ -1405,6 +1310,11 @@
       "compared_offers": [],
       "price_history": [
         {
+          "date": "przed promocją",
+          "price": "249 zł",
+          "note": "przed promocją"
+        },
+        {
           "date": "30 dni przed obniżką",
           "price": "249 zł",
           "note": "Najniższa z 30 dni (Omnibus)"
@@ -1440,6 +1350,11 @@
       "compared_offers": [],
       "price_history": [
         {
+          "date": "przed promocją",
+          "price": "84,90 zł",
+          "note": "przed promocją"
+        },
+        {
           "date": "30 dni przed obniżką",
           "price": "84,90 zł",
           "note": "Najniższa z 30 dni (Omnibus)"
@@ -1474,6 +1389,11 @@
       "price_verdict": "",
       "compared_offers": [],
       "price_history": [
+        {
+          "date": "przed promocją",
+          "price": "65,90 zł",
+          "note": "przed promocją"
+        },
         {
           "date": "30 dni przed obniżką",
           "price": "65,90 zł",
@@ -1580,6 +1500,11 @@
       "compared_offers": [],
       "price_history": [
         {
+          "date": "przed promocją",
+          "price": "56,90 zł",
+          "note": "przed promocją"
+        },
+        {
           "date": "30 dni przed obniżką",
           "price": "56,90 zł",
           "note": "Najniższa z 30 dni (Omnibus)"
@@ -1615,6 +1540,11 @@
       "compared_offers": [],
       "price_history": [
         {
+          "date": "przed promocją",
+          "price": "109 zł",
+          "note": "przed promocją"
+        },
+        {
           "date": "30 dni przed obniżką",
           "price": "109 zł",
           "note": "Najniższa z 30 dni (Omnibus)"
@@ -1649,6 +1579,11 @@
       "price_verdict": "",
       "compared_offers": [],
       "price_history": [
+        {
+          "date": "przed promocją",
+          "price": "46,99 zł",
+          "note": "przed promocją"
+        },
         {
           "date": "30 dni przed obniżką",
           "price": "46,99 zł",
@@ -1765,6 +1700,11 @@
       "compared_offers": [],
       "price_history": [
         {
+          "date": "przed promocją",
+          "price": "259 zł",
+          "note": "przed promocją"
+        },
+        {
           "date": "30 dni przed obniżką",
           "price": "259 zł",
           "note": "Najniższa z 30 dni (Omnibus)"
@@ -1773,6 +1713,36 @@
           "date": "2026-11-23 00:06",
           "price": "229 zł",
           "note": "Lidl.pl"
+        }
+      ]
+    },
+    {
+      "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/afnan-turathi-blue-11-1397472",
+      "title": "Afnan turathi blue, 1+1",
+      "link": "https://www.pepper.pl/promocje/afnan-turathi-blue-11-1397472",
+      "published": "Mon, 23 Nov 2026 02:40:59 +0100",
+      "summary": "149,99zł - Rossmann afnan turathi blue w promocji 1+1, 75 zł za 1 szt",
+      "image_url": "https://static.pepper.pl/threads/raw/WIZTe/1397472_1/re/150x150/qt/55/1397472_1.jpg",
+      "price": "149,99zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Rossmann",
+      "category": "Zdrowie i uroda",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 15.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Afnan+turathi+blue+1%2B1",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-23 01:47",
+          "price": "149,99zł",
+          "note": "Rossmann"
         }
       ]
     },
@@ -1808,27 +1778,353 @@
     },
     {
       "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/1-1-na-perfumy-w-rossmannie-1397426",
-      "title": "1+ 1 na perfumy w Rossmannie",
-      "link": "https://www.pepper.pl/promocje/1-1-na-perfumy-w-rossmannie-1397426",
-      "published": "Mon, 23 Nov 2026 00:18:43 +0100",
-      "summary": "Perfumy w Rossmannie 1+1 Wiecej info w aplikacji Rossman Akurat serwery nie wytrzymały ruchu dlatego krótkie info",
-      "image_url": "https://static.pepper.pl/threads/raw/KWwAq/1397426_1/re/150x150/qt/55/1397426_1.jpg",
-      "price": "",
+      "deal_id": "https://www.pepper.pl/promocje/philips-shaver-i9000-prestige-ultra-1397471",
+      "title": "Philips Shaver i9000 Prestige Ultra",
+      "link": "https://www.pepper.pl/promocje/philips-shaver-i9000-prestige-ultra-1397471",
+      "published": "Mon, 23 Nov 2026 02:37:09 +0100",
+      "summary": "1 402,46zł - Amazon.pl Elektryczna brzytwa",
+      "image_url": "https://static.pepper.pl/threads/raw/hrXlu/1397471_1/re/150x150/qt/55/1397471_1.jpg",
+      "price": "1 402,46zł",
       "old_price": "",
       "lowest_30d": "",
-      "merchant": "",
+      "merchant": "Amazon.pl",
+      "category": "Elektronika",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Philips+Shaver+i9000+Prestige+Ultra",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-23 01:47",
+          "price": "1 402,46zł",
+          "note": "Amazon.pl"
+        }
+      ]
+    },
+    {
+      "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/dysk-ssd-wd-blue-sa510-1-tb-m2-1397470",
+      "title": "Dysk SSD WD Blue SA510, 1 TB, M.2",
+      "link": "https://www.pepper.pl/promocje/dysk-ssd-wd-blue-sa510-1-tb-m2-1397470",
+      "published": "Mon, 23 Nov 2026 01:44:33 +0100",
+      "summary": "599zł - RTV Euro AGD WD Blue SA510 1TB M.2 za 599 zł Kod: RBF231107122026C W Ceneo od 875,56 zł Darmowa dostawa :) Dane o produkcie: Pojemność: 1 TB Typ podłączenia: M.2 SATA Format: M.2 2280 Maks. odczyt: 560 MB/s Maks. zapis: 520 MB/s Za…",
+      "image_url": "https://static.pepper.pl/threads/raw/SuWrH/1397470_1/re/150x150/qt/55/1397470_1.jpg",
+      "price": "599zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "RTV Euro AGD",
+      "category": "Elektronika",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Dysk+SSD+WD+Blue+SA510",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-23 01:47",
+          "price": "599zł",
+          "note": "RTV Euro AGD"
+        }
+      ]
+    },
+    {
+      "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/sluchawki-google-pixel-buds-pro-2-1397469",
+      "title": "Słuchawki Google Pixel Buds pro 2",
+      "link": "https://www.pepper.pl/promocje/sluchawki-google-pixel-buds-pro-2-1397469",
+      "published": "Mon, 23 Nov 2026 01:36:35 +0100",
+      "summary": "701,18zł - Amazon.pl Słuchawki Google Pixel Buds pro 2 z dostawą za 720zl. Google Pixel Buds Pro 2, dostępne na Amazon za 701,18 zł, to słuchawki zaprojektowane z myślą o maksymalnym komforcie użytkowania. Dzięki lekkiej konstrukcji i stab…",
+      "image_url": "https://static.pepper.pl/threads/raw/XeRg4/1397469_1/re/150x150/qt/55/1397469_1.jpg",
+      "price": "701,18zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Amazon.pl",
+      "category": "Elektronika",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-S%C5%82uchawki+Google+Pixel+Buds+pro",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-23 01:47",
+          "price": "701,18zł",
+          "note": "Amazon.pl"
+        }
+      ]
+    },
+    {
+      "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/bentley-for-men-intense-100ml-1397468",
+      "title": "Bentley For Men Intense 100ml woda perfumowana dla mężczyzn",
+      "link": "https://www.pepper.pl/promocje/bentley-for-men-intense-100ml-1397468",
+      "published": "Mon, 23 Nov 2026 01:32:00 +0100",
+      "summary": "84,37zł - Notino fragrantica.pl/perfumy/Bentley/Bentley-for-Men-Intense-17666.html Woda perfumowana • Zapach orientalny i korzenny • Nuty głowy: kadzidło, pelargonia i pieprz • Nuty serca: skóra, szałwia muszkatołowa i labdanum • Nuty bazy…",
+      "image_url": "https://static.pepper.pl/threads/raw/C1N2f/1397468_1/re/150x150/qt/55/1397468_1.jpg",
+      "price": "84,37zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Notino",
       "category": "Zdrowie i uroda",
       "store_group": "Elektronika i okazje",
       "discount_pct": 0,
       "savings_pln": 0.0,
-      "deal_score": 15.0,
+      "deal_score": 0.0,
       "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-1%2B+na+perfumy+Rossmannie",
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Bentley+For+Men+Intense+100ml",
       "price_status": "",
       "price_verdict": "",
       "compared_offers": [],
-      "price_history": []
+      "price_history": [
+        {
+          "date": "2026-11-23 01:47",
+          "price": "84,37zł",
+          "note": "Notino"
+        }
+      ]
+    },
+    {
+      "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/lidlpl-grudniowe-rabaty-25300-50500-lub-1251000-at-lidl-1397466",
+      "title": "Lidl.pl Grudniowe rabaty 25/300, 50/500 lub 125/1000 @Lidl",
+      "link": "https://www.pepper.pl/promocje/lidlpl-grudniowe-rabaty-25300-50500-lub-1251000-at-lidl-1397466",
+      "published": "Mon, 23 Nov 2026 01:28:45 +0100",
+      "summary": "Lidl RABAT25 - 25 zł przy zakupach za min. 300 zł RABAT50 - 50 zł przy zakupach za min. 500 zł RABAT125 - 125 zł przy zakupach za min. 1000 zł W celu skorzystania z rabatu należy wpisać kod rabatowy w podsumowaniu koszyka. Promocja obejmuj…",
+      "image_url": "https://static.pepper.pl/threads/raw/2aqPA/1397466_1/re/150x150/qt/55/1397466_1.jpg",
+      "price": "25 zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Lidl",
+      "category": "Artykuły spożywcze",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-pl+Grudniowe+25+300+50",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-23 01:47",
+          "price": "25 zł",
+          "note": "Lidl"
+        }
+      ]
+    },
+    {
+      "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/gogle-picel-buds-pro-2-1397465",
+      "title": "Słuchawki Google Pixel Buds pro 2",
+      "link": "https://www.pepper.pl/promocje/gogle-picel-buds-pro-2-1397465",
+      "published": "Mon, 23 Nov 2026 01:28:30 +0100",
+      "summary": "731,04zł - Amazon.pl Łącznie około 750zl za Pixel Buds Pro 2. Google Pixel Buds Pro 2, dostępne na Amazonie za 731,04 zł, to nowoczesne słuchawki zaprojektowane z myślą o komforcie użytkowania. Dzięki niewielkim rozmiarom i lekkości , zape…",
+      "image_url": "https://static.pepper.pl/threads/raw/ohM94/1397465_1/re/150x150/qt/55/1397465_1.jpg",
+      "price": "731,04zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Amazon.pl",
+      "category": "Elektronika",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-S%C5%82uchawki+Google+Pixel+Buds+pro",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-23 01:47",
+          "price": "701,18zł",
+          "note": "Amazon.pl"
+        },
+        {
+          "date": "2026-11-23 01:47",
+          "price": "731,04zł",
+          "note": "Amazon.pl"
+        }
+      ]
+    },
+    {
+      "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/versace-eros-edp-200ml100ml-23160zl-1397464",
+      "title": "Versace Eros EDP 200ml/100ml-231.60zł",
+      "link": "https://www.pepper.pl/promocje/versace-eros-edp-200ml100ml-23160zl-1397464",
+      "published": "Mon, 23 Nov 2026 01:25:01 +0100",
+      "summary": "298,80zł - Notino https://www.fragrantica.pl/perfumy/Versace/Eros-Eau-de-Parfum-62762.html",
+      "image_url": "https://static.pepper.pl/threads/raw/ktTPq/1397464_1/re/150x150/qt/55/1397464_1.jpg",
+      "price": "298,80zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Notino",
+      "category": "Zdrowie i uroda",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Versace+Eros+EDP+200ml+100ml-",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-23 01:47",
+          "price": "298,80zł",
+          "note": "Notino"
+        }
+      ]
+    },
+    {
+      "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/bvlgari-aqva-pour-homme-woda-toaletowa-100ml-1397463",
+      "title": "Bvlgari Aqva Pour Homme | woda toaletowa 100ml",
+      "link": "https://www.pepper.pl/promocje/bvlgari-aqva-pour-homme-woda-toaletowa-100ml-1397463",
+      "published": "Mon, 23 Nov 2026 01:19:46 +0100",
+      "summary": "259,28zł - Notino • Woda toaletowa • Męski zapach aromatyczny • Twórca: Jacques Cavallier Belletrud • Nuty głowy: mandarynka, pomarańcza, petitgrain • Nuty serca: algi morskie, lawenda, kwiat bawełny • Nuty bazy: cedr Virginia, paczula, bu…",
+      "image_url": "https://static.pepper.pl/threads/raw/GqOm7/1397463_1/re/150x150/qt/55/1397463_1.jpg",
+      "price": "259,28zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Notino",
+      "category": "Zdrowie i uroda",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Bvlgari+Aqva+Pour+Homme+woda",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-23 01:47",
+          "price": "259,28zł",
+          "note": "Notino"
+        }
+      ]
+    },
+    {
+      "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/do-600-zl-nagrody-za-wyrobienie-karty-kredytowej-ing-more-w-ing-bank-slaski-1397462",
+      "title": "Do 600 zł nagrody za wyrobienie karty kredytowej ING More w ING Bank Śląski",
+      "link": "https://www.pepper.pl/promocje/do-600-zl-nagrody-za-wyrobienie-karty-kredytowej-ing-more-w-ing-bank-slaski-1397462",
+      "published": "Mon, 23 Nov 2026 01:15:35 +0100",
+      "summary": "ING Łatwa promocja od ING z nagrodą do 600 zł za wyrobienie karty kredytowej ING More i spełnienie warunków promocji. W skrócie - wystarczy otworzyć kartę kredytową, wyrazić wymagane w regulaminie promocji zgody marketingowe i co miesiąc w…",
+      "image_url": "https://static.pepper.pl/threads/raw/tJICS/1397462_1/re/150x150/qt/55/1397462_1.jpg",
+      "price": "600 zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "ING",
+      "category": "Finanse i ubezpieczenia",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Do+nagrody+wyrobienie+karty+kredytowej",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-23 01:47",
+          "price": "600 zł",
+          "note": "ING"
+        }
+      ]
+    },
+    {
+      "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/parkside-zestaw-do-naprawy-laminatow-i-parkietow-lub-zestaw-do-naprawy-plytek-1397461",
+      "title": "PARKSIDE Zestaw do naprawy laminatów i parkietów lub zestaw do naprawy płytek",
+      "link": "https://www.pepper.pl/promocje/parkside-zestaw-do-naprawy-laminatow-i-parkietow-lub-zestaw-do-naprawy-plytek-1397461",
+      "published": "Mon, 23 Nov 2026 01:14:04 +0100",
+      "summary": "32,49zł - Lidl PARKSIDE® Zestaw do naprawy laminatów i parkietów lub zestaw do naprawy płytek",
+      "image_url": "https://static.pepper.pl/threads/raw/EMezb/1397461_1/re/150x150/qt/55/1397461_1.jpg",
+      "price": "32,49zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Lidl",
+      "category": "Ogród i majsterkowanie",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-PARKSIDE+Zestaw+do+naprawy+laminat%C3%B3w",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "przed promocją",
+          "price": "49,99 zł",
+          "note": "przed promocją"
+        },
+        {
+          "date": "30 dni przed obniżką",
+          "price": "49,99 zł",
+          "note": "Najniższa z 30 dni (Omnibus)"
+        },
+        {
+          "date": "2026-11-23 00:06",
+          "price": "32,49 zł",
+          "note": "Lidl.pl"
+        },
+        {
+          "date": "2026-11-23 01:47",
+          "price": "32,49zł",
+          "note": "Lidl"
+        }
+      ]
+    },
+    {
+      "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/parkside-szczypce-wielofunkcyjne-2-w-1-1397460",
+      "title": "PARKSIDE Szczypce wielofunkcyjne 2 w 1",
+      "link": "https://www.pepper.pl/promocje/parkside-szczypce-wielofunkcyjne-2-w-1-1397460",
+      "published": "Mon, 23 Nov 2026 01:10:01 +0100",
+      "summary": "45zł - Lidl PARKSIDE® Szczypce wielofunkcyjne 2 w 1",
+      "image_url": "https://static.pepper.pl/threads/raw/cympA/1397460_1/re/150x150/qt/55/1397460_1.jpg",
+      "price": "45zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Lidl",
+      "category": "Ogród i majsterkowanie",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-PARKSIDE+Szczypce+wielofunkcyjne",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-23 01:47",
+          "price": "45zł",
+          "note": "Lidl"
+        }
+      ]
     },
     {
       "source": "Pepper.pl",
@@ -2304,6 +2600,11 @@
       "compared_offers": [],
       "price_history": [
         {
+          "date": "przed promocją",
+          "price": "299 zł",
+          "note": "przed promocją"
+        },
+        {
           "date": "30 dni przed obniżką",
           "price": "299 zł",
           "note": "Najniższa z 30 dni (Omnibus)"
@@ -2317,336 +2618,16 @@
           "date": "2026-11-23 00:06",
           "price": "89zł",
           "note": "Lidl"
-        }
-      ]
-    },
-    {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/zarowka-led-e27-osram-classic-wlokno-72w-1521lm-4000k-neutralna-ultra-efficient-klasa-a-1397438",
-      "title": "Żarówka LED E27 Osram Classic włókno 7,2W 1521lm 4000K neutralna Ultra Efficient Klasa A",
-      "link": "https://www.pepper.pl/promocje/zarowka-led-e27-osram-classic-wlokno-72w-1521lm-4000k-neutralna-ultra-efficient-klasa-a-1397438",
-      "published": "Mon, 23 Nov 2026 00:34:55 +0100",
-      "summary": "13,50zł - Allegro Żarówka (lampa) o wysokiej sprawności energetycznej - klasa A, 211 lm/W. W promocji trochę droższa od zwykłej, a w porównaniu do innej mniej efektywnej (zwykle tanie 1521 lm zużywają ok. 13 W), różnica w poborze prądu pow…",
-      "image_url": "https://static.pepper.pl/threads/raw/rDTAl/1397438_1/re/150x150/qt/55/1397438_1.jpg",
-      "price": "13,50zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Allegro",
-      "category": "Dom i mieszkanie",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-%C5%BBar%C3%B3wka+LED+E27+Osram+Classic",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
+        },
         {
-          "date": "2026-11-23 00:06",
-          "price": "13,50zł",
-          "note": "Allegro"
-        }
-      ]
-    },
-    {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/akumulatorowe-nozyce-do-zywoplotu-parkside-performance-ppahs-40-a1-1397437",
-      "title": "Akumulatorowe nożyce do żywopłotu Parkside Performance PPAHS 40 A1",
-      "link": "https://www.pepper.pl/promocje/akumulatorowe-nozyce-do-zywoplotu-parkside-performance-ppahs-40-a1-1397437",
-      "published": "Mon, 23 Nov 2026 00:34:42 +0100",
-      "summary": "243zł - Lidl Akumulatorowe nożyce do żywopłotu parkside performance na dwa akumulatory, dość udany i popularny produkt parkside o ile nie zmienili czegoś jakąś cichą zmianą na gorsze, pomijając wagę pepperki były dość zadowolone.",
-      "image_url": "https://static.pepper.pl/threads/raw/MPDEK/1397437_1/re/150x150/qt/55/1397437_1.jpg",
-      "price": "243zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Lidl",
-      "category": "Ogród i majsterkowanie",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Akumulatorowe+no%C5%BCyce+do+%C5%BCywop%C5%82otu+Parkside",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
+          "date": "2026-11-23 01:47",
+          "price": "89 zł",
+          "note": "Lidl.pl"
+        },
         {
-          "date": "2026-11-23 00:06",
-          "price": "243zł",
-          "note": "Lidl"
-        }
-      ]
-    },
-    {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/parkside-akumulatorowa-sprezarka-i-pompka-20-v-pka-20-li-c3-bez-akumulatora-i-ladowarki-1397436",
-      "title": "PARKSIDE Akumulatorowa sprężarka i pompka, 20 V, PKA 20-Li C3 (bez akumulatora i ładowarki",
-      "link": "https://www.pepper.pl/promocje/parkside-akumulatorowa-sprezarka-i-pompka-20-v-pka-20-li-c3-bez-akumulatora-i-ladowarki-1397436",
-      "published": "Mon, 23 Nov 2026 00:34:24 +0100",
-      "summary": "89zł - Lidl PARKSIDE® Akumulatorowa sprężarka i pompka, 20 V, PKA 20-Li C3 (bez akumulatora i ładowarki",
-      "image_url": "https://static.pepper.pl/threads/raw/USJJq/1397436_1/re/150x150/qt/55/1397436_1.jpg",
-      "price": "89zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Lidl",
-      "category": "Ogród i majsterkowanie",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-PARKSIDE+Akumulatorowa+spr%C4%99%C5%BCarka+pompka+20",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-23 00:06",
+          "date": "2026-11-23 01:47",
           "price": "89zł",
           "note": "Lidl"
-        }
-      ]
-    },
-    {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/dron-dji-neo-ultralekki-i-maly-w-opisie-dron-dji-avata-360-motion-fly-more-combo-z-goggles-n3-fpv-1397435",
-      "title": "Dron DJI Neo Ultralekki i mały | w opisie Dron DJI Avata 360 Motion Fly More Combo z Goggles N3 FPV",
-      "link": "https://www.pepper.pl/promocje/dron-dji-neo-ultralekki-i-maly-w-opisie-dron-dji-avata-360-motion-fly-more-combo-z-goggles-n3-fpv-1397435",
-      "published": "Mon, 23 Nov 2026 00:29:59 +0100",
-      "summary": "555zł - Media Expert Dron DJI Avata 360 Motion Fly More Combo z Goggles N3 FPV, filmy 360°, 8K/60FPS HDR, wbudowana osłona śmigieł - 2999,00 zł Twórz filmy z powietrza Uchwyć każdą chwilę. DJI Neo jest najbardziej kompaktowym dotychczas dr…",
-      "image_url": "https://static.pepper.pl/threads/raw/Pbvoy/1397435_1/re/150x150/qt/55/1397435_1.jpg",
-      "price": "555zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Media Expert",
-      "category": "Elektronika",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Dron+DJI+Neo+Ultralekki+ma%C5%82y",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-23 00:06",
-          "price": "555zł",
-          "note": "Media Expert"
-        }
-      ]
-    },
-    {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/parkside-performance-akumulatorowy-klucz-udarowy-12-v-ppdssa-12-a1-bez-akumulatora-i-ladowarki-1397434",
-      "title": "PARKSIDE PERFORMANCE Akumulatorowy klucz udarowy 12 V »PPDSSA 12 A1«, bez akumulatora i ładowarki.",
-      "link": "https://www.pepper.pl/promocje/parkside-performance-akumulatorowy-klucz-udarowy-12-v-ppdssa-12-a1-bez-akumulatora-i-ladowarki-1397434",
-      "published": "Mon, 23 Nov 2026 00:28:51 +0100",
-      "summary": "99zł - Lidl • Napięcie: 12 V • Silnik bezszczotkowy • Maksymalny moment zrywający: 350 Nm • Kompaktowa konstrukcja • W zestawie walizka i 4 nasadki udarowe • Kompatybilny z akumulatorami PARKSIDE X 12 V Team • Akumulator i ładowarka nie są…",
-      "image_url": "https://static.pepper.pl/threads/raw/sauCG/1397434_1/re/150x150/qt/55/1397434_1.jpg",
-      "price": "99zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Lidl",
-      "category": "Ogród i majsterkowanie",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-PARKSIDE+PERFORMANCE+Akumulatorowy+klucz+udarowy",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-23 00:06",
-          "price": "99zł",
-          "note": "Lidl"
-        }
-      ]
-    },
-    {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/barbie-fantastyczna-wrozka-z-funkcja-zmiany-koloru-lalka-modowa-ze-skrzydlami-i-strojem-zmieniajacymi-kolor-akcesoria-3-jcp76-1397433",
-      "title": "Barbie Fantastyczna wróżka z funkcją zmiany koloru Lalka modowa ze skrzydłami i strojem zmieniającymi kolor, akcesoria, 3+, JCP76",
-      "link": "https://www.pepper.pl/promocje/barbie-fantastyczna-wrozka-z-funkcja-zmiany-koloru-lalka-modowa-ze-skrzydlami-i-strojem-zmieniajacymi-kolor-akcesoria-3-jcp76-1397433",
-      "published": "Mon, 23 Nov 2026 00:28:22 +0100",
-      "summary": "43,98zł - Amazon.pl Z tą lalką Barbie czeka Cię magiczna barwna transformacja! Zamocz różdżkę z gąbeczką w zimnej wodzie Przetrzyj skrzydełka, aby zmienić serduszka z różowych w czerwone! Przesuń różdżką z gąbeczką po gorsecie lalki i zach…",
-      "image_url": "https://static.pepper.pl/threads/raw/E3Ifb/1397433_1/re/150x150/qt/55/1397433_1.jpg",
-      "price": "43,98zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Amazon.pl",
-      "category": "Rodzina i dzieci",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Barbie+Fantastyczna+wr%C3%B3%C5%BCka+funkcj%C4%85+zmiany",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-23 00:06",
-          "price": "43,98zł",
-          "note": "Amazon.pl"
-        }
-      ]
-    },
-    {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/parkside-zestaw-do-transportu-mebli-14-elementow-1397430",
-      "title": "PARKSIDE Zestaw do transportu mebli, 14 elementów",
-      "link": "https://www.pepper.pl/promocje/parkside-zestaw-do-transportu-mebli-14-elementow-1397430",
-      "published": "Mon, 23 Nov 2026 00:22:42 +0100",
-      "summary": "26,99zł - Lidl PARKSIDE® Zestaw do transportu mebli, 14 elementów",
-      "image_url": "https://static.pepper.pl/threads/raw/fppvk/1397430_1/re/150x150/qt/55/1397430_1.jpg",
-      "price": "26,99zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Lidl",
-      "category": "Ogród i majsterkowanie",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-PARKSIDE+Zestaw+do+transportu+mebli",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-23 00:06",
-          "price": "26,99zł",
-          "note": "Lidl"
-        }
-      ]
-    },
-    {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/crivit-silnik-elektryczny-do-deski-sup-1397429",
-      "title": "CRIVIT Silnik elektryczny do deski SUP",
-      "link": "https://www.pepper.pl/promocje/crivit-silnik-elektryczny-do-deski-sup-1397429",
-      "published": "Mon, 23 Nov 2026 00:20:43 +0100",
-      "summary": "719,40zł - Lidl Opis Wymiary: ok. 27,9 x 10,5 x 26,5 cm Moc silnika: maks. 400 W Cechy: kompatybilny z popularnymi deskami SUP (US-Box lub płetwa wsuwana) CRIVIT Silnik elektryczny do deski SUP Większy ciąg, mniej wysiłku Przekształć swoją…",
-      "image_url": "https://static.pepper.pl/threads/raw/8DTdq/1397429_1/re/150x150/qt/55/1397429_1.jpg",
-      "price": "719,40zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Lidl",
-      "category": "Sport i turystyka",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-CRIVIT+Silnik+elektryczny+do+deski",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-23 00:06",
-          "price": "719,40zł",
-          "note": "Lidl"
-        }
-      ]
-    },
-    {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/papier-do-drukarki-hp-climate-choice-a4-500-arkuszy-1397428",
-      "title": "Papier do drukarki HP Climate Choice A4 500 arkuszy",
-      "link": "https://www.pepper.pl/promocje/papier-do-drukarki-hp-climate-choice-a4-500-arkuszy-1397428",
-      "published": "Mon, 23 Nov 2026 00:20:19 +0100",
-      "summary": "10,49zł - Media Expert Papier do drukarki HP Climate Choice idealny do drukowania i kopiowania dużych ilości codziennych dokumentów. Zaprojektowany tak, aby działał bez zacięć, oszczędzając czas i pieniądze, wydłużając żywotność sprzętu i…",
-      "image_url": "https://static.pepper.pl/threads/raw/w9l7W/1397428_1/re/150x150/qt/55/1397428_1.jpg",
-      "price": "10,49zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Media Expert",
-      "category": "Elektronika",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Papier+do+drukarki+HP+Climate",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-23 00:06",
-          "price": "10,49zł",
-          "note": "Media Expert"
-        }
-      ]
-    },
-    {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/sluchawki-dokanalowe-hama-spirit-touch-anc-czarny-1397427",
-      "title": "Słuchawki dokanałowe HAMA Spirit Touch ANC Czarny",
-      "link": "https://www.pepper.pl/promocje/sluchawki-dokanalowe-hama-spirit-touch-anc-czarny-1397427",
-      "published": "Mon, 23 Nov 2026 00:18:51 +0100",
-      "summary": "49,99zł - Media Expert Słuchawki dokanałowe HAMA Spirit Touch ANC Czarny Parametry techniczne: Wersja Bluetooth: 5.4 (Klasa 2, zasięg 10 m) Odtwarzanie muzyki: Do 20 godzin. (16 godz. z ANC) Czas rozmowy: Do 16 godz. Technologie: Aktywna r…",
-      "image_url": "https://static.pepper.pl/threads/raw/giJWe/1397427_1/re/150x150/qt/55/1397427_1.jpg",
-      "price": "49,99zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Media Expert",
-      "category": "Elektronika",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-S%C5%82uchawki+dokana%C5%82owe+HAMA+Spirit+Touch",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-23 00:06",
-          "price": "49,99zł",
-          "note": "Media Expert"
-        }
-      ]
-    },
-    {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/koziol-roboczy-skladany-hard-head-400kg-965x76cm-1397424",
-      "title": "Kozioł roboczy składany hard head 400kg 96,5x76cm",
-      "link": "https://www.pepper.pl/promocje/koziol-roboczy-skladany-hard-head-400kg-965x76cm-1397424",
-      "published": "Mon, 23 Nov 2026 00:17:44 +0100",
-      "summary": "69zł - Jula Kozioł roboczy z wycięciami na listwy. Jeśli potrzebujesz stabilnego i elastycznego kozła roboczego z wycięciami na listwy, ten model marki Hard Head to dobry wybór. Przy maksymalnym obciążeniu 400 kg przydaje się przy okazji r…",
-      "image_url": "https://static.pepper.pl/threads/raw/hC289/1397424_1/re/150x150/qt/55/1397424_1.jpg",
-      "price": "69zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Jula",
-      "category": "Ogród i majsterkowanie",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Kozio%C5%82+roboczy+sk%C5%82adany+hard+head",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-23 00:06",
-          "price": "69zł",
-          "note": "Jula"
         }
       ]
     },
@@ -3630,30 +3611,6 @@
     },
     {
       "source": "Biedronka Home",
-      "deal_id": "biedronka-home:000000000000845150",
-      "title": "TEFAL",
-      "link": "https://home.biedronka.pl/tefal-generator-pary-tefal-power-pro-compact-200-sv6213e0-2400-w-17-l-000000000000845150.html",
-      "published": "Biedronka Home",
-      "summary": "Promocja ze sklepu Biedronka Home (chwilowo niedostępny online).",
-      "image_url": "https://home.biedronka.pl/dw/image/v2/BJJL_PRD/on/demandware.static/-/Sites-PL_Master_Catalog/default/dwbbc0e599/images/hi-res/845150_8.jpg?sw=270&sh=270&sm=fit",
-      "price": "",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Biedronka Home",
-      "category": "Dom i warsztat",
-      "store_group": "Budowlane i dom",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-TEFAL",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": []
-    },
-    {
-      "source": "Biedronka Home",
       "deal_id": "biedronka-home:000000000000756986",
       "title": "DREAME",
       "link": "https://home.biedronka.pl/dreame-robot-sprzatajacy-dreame-l40-ultra-a-24-kpa-z-funkcja-mopowania-bialy-000000000000756986.html",
@@ -3671,6 +3628,30 @@
       "deal_score": 0.0,
       "is_leaflet": false,
       "ceneo_url": "https://www.ceneo.pl/;szukaj-DREAME",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": []
+    },
+    {
+      "source": "Biedronka Home",
+      "deal_id": "biedronka-home:000000000000845150",
+      "title": "TEFAL",
+      "link": "https://home.biedronka.pl/tefal-generator-pary-tefal-power-pro-compact-200-sv6213e0-2400-w-17-l-000000000000845150.html",
+      "published": "Biedronka Home",
+      "summary": "Promocja ze sklepu Biedronka Home (chwilowo niedostępny online).",
+      "image_url": "https://home.biedronka.pl/dw/image/v2/BJJL_PRD/on/demandware.static/-/Sites-PL_Master_Catalog/default/dwbbc0e599/images/hi-res/845150_8.jpg?sw=270&sh=270&sm=fit",
+      "price": "",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Biedronka Home",
+      "category": "Dom i warsztat",
+      "store_group": "Budowlane i dom",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-TEFAL",
       "price_status": "",
       "price_verdict": "",
       "compared_offers": [],
@@ -3726,30 +3707,6 @@
     },
     {
       "source": "Biedronka Home",
-      "deal_id": "biedronka-home:000000000000493234",
-      "title": "MG HOME",
-      "link": "https://home.biedronka.pl/mg-home-zestaw-garnkow-mg-home-rose-gold-6-elementow-aluminium-000000000000493234.html",
-      "published": "Biedronka Home",
-      "summary": "Promocja ze sklepu Biedronka Home (chwilowo niedostępny online).",
-      "image_url": "https://home.biedronka.pl/dw/image/v2/BJJL_PRD/on/demandware.static/-/Sites-PL_Master_Catalog/default/dw85d56703/images/hi-res/493234_6MOOD2.jpg?sw=270&sh=270&sm=fit",
-      "price": "",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Biedronka Home",
-      "category": "Dom i warsztat",
-      "store_group": "Budowlane i dom",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-MG+HOME",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": []
-    },
-    {
-      "source": "Biedronka Home",
       "deal_id": "biedronka-home:000000000000597722",
       "title": "HOFFEN EXPERT",
       "link": "https://home.biedronka.pl/hoffen-expert-air-fryer-frytkownica-dwukomorowa-hoffen-expert-2400-w-35-l-i-6-l-czarna-000000000000597722.html",
@@ -3767,30 +3724,6 @@
       "deal_score": 0.0,
       "is_leaflet": false,
       "ceneo_url": "https://www.ceneo.pl/;szukaj-HOFFEN+EXPERT",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": []
-    },
-    {
-      "source": "Biedronka Home",
-      "deal_id": "biedronka-home:000000000000747684",
-      "title": "DREAME",
-      "link": "https://home.biedronka.pl/dreame-odkurzacz-pionowy-mopujacy-dreame-h15s-21-kpa-z-funkcja-samoczyszczenia-i-suszenia-000000000000747684.html",
-      "published": "Biedronka Home",
-      "summary": "Promocja ze sklepu Biedronka Home (chwilowo niedostępny online).",
-      "image_url": "https://home.biedronka.pl/dw/image/v2/BJJL_PRD/on/demandware.static/-/Sites-PL_Master_Catalog/default/dw884566af/images/hi-res/747684_99994.jpg?sw=270&sh=270&sm=fit",
-      "price": "",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Biedronka Home",
-      "category": "Dom i warsztat",
-      "store_group": "Budowlane i dom",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-DREAME",
       "price_status": "",
       "price_verdict": "",
       "compared_offers": [],
@@ -3846,6 +3779,54 @@
     },
     {
       "source": "Biedronka Home",
+      "deal_id": "biedronka-home:000000000000747684",
+      "title": "DREAME",
+      "link": "https://home.biedronka.pl/dreame-odkurzacz-pionowy-mopujacy-dreame-h15s-21-kpa-z-funkcja-samoczyszczenia-i-suszenia-000000000000747684.html",
+      "published": "Biedronka Home",
+      "summary": "Promocja ze sklepu Biedronka Home (chwilowo niedostępny online).",
+      "image_url": "https://home.biedronka.pl/dw/image/v2/BJJL_PRD/on/demandware.static/-/Sites-PL_Master_Catalog/default/dw884566af/images/hi-res/747684_99994.jpg?sw=270&sh=270&sm=fit",
+      "price": "",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Biedronka Home",
+      "category": "Dom i warsztat",
+      "store_group": "Budowlane i dom",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-DREAME",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": []
+    },
+    {
+      "source": "Biedronka Home",
+      "deal_id": "biedronka-home:000000000000493234",
+      "title": "MG HOME",
+      "link": "https://home.biedronka.pl/mg-home-zestaw-garnkow-mg-home-rose-gold-6-elementow-aluminium-000000000000493234.html",
+      "published": "Biedronka Home",
+      "summary": "Promocja ze sklepu Biedronka Home (chwilowo niedostępny online).",
+      "image_url": "https://home.biedronka.pl/dw/image/v2/BJJL_PRD/on/demandware.static/-/Sites-PL_Master_Catalog/default/dw85d56703/images/hi-res/493234_6MOOD2.jpg?sw=270&sh=270&sm=fit",
+      "price": "",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Biedronka Home",
+      "category": "Dom i warsztat",
+      "store_group": "Budowlane i dom",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-MG+HOME",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": []
+    },
+    {
+      "source": "Biedronka Home",
       "deal_id": "biedronka-home:000000000000818116",
       "title": "HUSLOG",
       "link": "https://home.biedronka.pl/huslog-blender-reczny-3-w-1-huslog-blendmaster-z-akcesoriami-1500-w-czarny-000000000000818116.html",
@@ -3863,30 +3844,6 @@
       "deal_score": 0.0,
       "is_leaflet": false,
       "ceneo_url": "https://www.ceneo.pl/;szukaj-HUSLOG",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": []
-    },
-    {
-      "source": "Biedronka Home",
-      "deal_id": "biedronka-home:000000000000817964",
-      "title": "PHILIPS",
-      "link": "https://home.biedronka.pl/philips-ekspres-cisnieniowy-automatyczny-philips-ep2223%2f40-15-barow-1500-w-bialy-000000000000817964.html",
-      "published": "Biedronka Home",
-      "summary": "Promocja ze sklepu Biedronka Home (chwilowo niedostępny online).",
-      "image_url": "https://home.biedronka.pl/dw/image/v2/BJJL_PRD/on/demandware.static/-/Sites-PL_Master_Catalog/default/dw7cba20fc/images/hi-res/817964_4ZOOM.jpg?sw=270&sh=270&sm=fit",
-      "price": "",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Biedronka Home",
-      "category": "Dom i warsztat",
-      "store_group": "Budowlane i dom",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-PHILIPS",
       "price_status": "",
       "price_verdict": "",
       "compared_offers": [],
@@ -3918,12 +3875,12 @@
     },
     {
       "source": "Biedronka Home",
-      "deal_id": "biedronka-home:000000000000600433",
-      "title": "DREAME",
-      "link": "https://home.biedronka.pl/dreame-odkurzacz-pioracy-dreame-n10-12-kpa-450-w-000000000000600433.html",
+      "deal_id": "biedronka-home:000000000000438424",
+      "title": "MG HOME",
+      "link": "https://home.biedronka.pl/mg-home-zestaw-garnkow-mg-home-verso-10-elementow-z-wkladem-do-gotowania-na-parze-000000000000438424.html",
       "published": "Biedronka Home",
       "summary": "Promocja ze sklepu Biedronka Home (chwilowo niedostępny online).",
-      "image_url": "https://home.biedronka.pl/dw/image/v2/BJJL_PRD/on/demandware.static/-/Sites-PL_Master_Catalog/default/dw6605dc30/images/hi-res/600433_994.jpg?sw=270&sh=270&sm=fit",
+      "image_url": "https://home.biedronka.pl/dw/image/v2/BJJL_PRD/on/demandware.static/-/Sites-PL_Master_Catalog/default/dw859a41be/images/hi-res/438424_9.jpg?sw=270&sh=270&sm=fit",
       "price": "",
       "old_price": "",
       "lowest_30d": "",
@@ -3934,7 +3891,7 @@
       "savings_pln": 0.0,
       "deal_score": 0.0,
       "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-DREAME",
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-MG+HOME",
       "price_status": "",
       "price_verdict": "",
       "compared_offers": [],
@@ -3966,12 +3923,12 @@
     },
     {
       "source": "Biedronka Home",
-      "deal_id": "biedronka-home:000000000000438424",
-      "title": "MG HOME",
-      "link": "https://home.biedronka.pl/mg-home-zestaw-garnkow-mg-home-verso-10-elementow-z-wkladem-do-gotowania-na-parze-000000000000438424.html",
+      "deal_id": "biedronka-home:000000000000600433",
+      "title": "DREAME",
+      "link": "https://home.biedronka.pl/dreame-odkurzacz-pioracy-dreame-n10-12-kpa-450-w-000000000000600433.html",
       "published": "Biedronka Home",
       "summary": "Promocja ze sklepu Biedronka Home (chwilowo niedostępny online).",
-      "image_url": "https://home.biedronka.pl/dw/image/v2/BJJL_PRD/on/demandware.static/-/Sites-PL_Master_Catalog/default/dw859a41be/images/hi-res/438424_9.jpg?sw=270&sh=270&sm=fit",
+      "image_url": "https://home.biedronka.pl/dw/image/v2/BJJL_PRD/on/demandware.static/-/Sites-PL_Master_Catalog/default/dw6605dc30/images/hi-res/600433_994.jpg?sw=270&sh=270&sm=fit",
       "price": "",
       "old_price": "",
       "lowest_30d": "",
@@ -3982,7 +3939,55 @@
       "savings_pln": 0.0,
       "deal_score": 0.0,
       "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-MG+HOME",
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-DREAME",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": []
+    },
+    {
+      "source": "Biedronka Home",
+      "deal_id": "biedronka-home:000000000000817964",
+      "title": "PHILIPS",
+      "link": "https://home.biedronka.pl/philips-ekspres-cisnieniowy-automatyczny-philips-ep2223%2f40-15-barow-1500-w-bialy-000000000000817964.html",
+      "published": "Biedronka Home",
+      "summary": "Promocja ze sklepu Biedronka Home (chwilowo niedostępny online).",
+      "image_url": "https://home.biedronka.pl/dw/image/v2/BJJL_PRD/on/demandware.static/-/Sites-PL_Master_Catalog/default/dw7cba20fc/images/hi-res/817964_4ZOOM.jpg?sw=270&sh=270&sm=fit",
+      "price": "",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Biedronka Home",
+      "category": "Dom i warsztat",
+      "store_group": "Budowlane i dom",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-PHILIPS",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": []
+    },
+    {
+      "source": "Biedronka Home",
+      "deal_id": "biedronka-home:000000000000818130",
+      "title": "HUSLOG",
+      "link": "https://home.biedronka.pl/huslog-robot-planetarny-3-w-1-huslog-mixmaster-1300-w-5-l-z-blenderem-i-maszynka-do-miesa-czarny-000000000000818130.html",
+      "published": "Biedronka Home",
+      "summary": "Promocja ze sklepu Biedronka Home (chwilowo niedostępny online).",
+      "image_url": "https://home.biedronka.pl/dw/image/v2/BJJL_PRD/on/demandware.static/-/Sites-PL_Master_Catalog/default/dw36a83724/images/hi-res/818130_7.jpg?sw=270&sh=270&sm=fit",
+      "price": "",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Biedronka Home",
+      "category": "Dom i warsztat",
+      "store_group": "Budowlane i dom",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-HUSLOG",
       "price_status": "",
       "price_verdict": "",
       "compared_offers": [],
@@ -4014,12 +4019,12 @@
     },
     {
       "source": "Biedronka Home",
-      "deal_id": "biedronka-home:000000000000493223",
-      "title": "MG HOME",
-      "link": "https://home.biedronka.pl/mg-home-zestaw-nozy-w-bloku-mg-home-rose-gold-7-elementow-z-nozyczkami-000000000000493223.html",
+      "deal_id": "biedronka-home:000000000000488676",
+      "title": "REBELTEC",
+      "link": "https://home.biedronka.pl/rebeltec-powerbank-rebeltec-p20-lcdpd-20000-mah-225-w-czarny-000000000000488676.html",
       "published": "Biedronka Home",
       "summary": "Promocja ze sklepu Biedronka Home (chwilowo niedostępny online).",
-      "image_url": "https://home.biedronka.pl/dw/image/v2/BJJL_PRD/on/demandware.static/-/Sites-PL_Master_Catalog/default/dw3a462521/images/hi-res/493223_6MOOD2.jpg?sw=270&sh=270&sm=fit",
+      "image_url": "https://home.biedronka.pl/dw/image/v2/BJJL_PRD/on/demandware.static/-/Sites-PL_Master_Catalog/default/dw482f8b04/images/hi-res/488676_5MOOD.jpg?sw=270&sh=270&sm=fit",
       "price": "",
       "old_price": "",
       "lowest_30d": "",
@@ -4030,7 +4035,31 @@
       "savings_pln": 0.0,
       "deal_score": 0.0,
       "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-MG+HOME",
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-REBELTEC",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": []
+    },
+    {
+      "source": "Biedronka Home",
+      "deal_id": "biedronka-home:000000000000822418",
+      "title": "NAC",
+      "link": "https://home.biedronka.pl/nac-regal-warsztatowy-180-x-90-x-40-cm-nac-czarny-000000000000822418.html",
+      "published": "Biedronka Home",
+      "summary": "Promocja ze sklepu Biedronka Home (chwilowo niedostępny online).",
+      "image_url": "https://home.biedronka.pl/dw/image/v2/BJJL_PRD/on/demandware.static/-/Sites-PL_Master_Catalog/default/dw872d413d/images/hi-res/822418_8.jpg?sw=270&sh=270&sm=fit",
+      "price": "",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Biedronka Home",
+      "category": "Dom i warsztat",
+      "store_group": "Budowlane i dom",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-NAC",
       "price_status": "",
       "price_verdict": "",
       "compared_offers": [],
@@ -4062,12 +4091,12 @@
     },
     {
       "source": "Biedronka Home",
-      "deal_id": "biedronka-home:000000000000572552",
-      "title": "EXTRALINK",
-      "link": "https://home.biedronka.pl/extralink-regal-warsztatowy-180-x-90-x-40-cm-extralink-czarny-000000000000572552.html",
+      "deal_id": "biedronka-home:000000000000493223",
+      "title": "MG HOME",
+      "link": "https://home.biedronka.pl/mg-home-zestaw-nozy-w-bloku-mg-home-rose-gold-7-elementow-z-nozyczkami-000000000000493223.html",
       "published": "Biedronka Home",
       "summary": "Promocja ze sklepu Biedronka Home (chwilowo niedostępny online).",
-      "image_url": "https://home.biedronka.pl/dw/image/v2/BJJL_PRD/on/demandware.static/-/Sites-PL_Master_Catalog/default/dw11f01707/images/hi-res/572552_7.jpg?sw=270&sh=270&sm=fit",
+      "image_url": "https://home.biedronka.pl/dw/image/v2/BJJL_PRD/on/demandware.static/-/Sites-PL_Master_Catalog/default/dw3a462521/images/hi-res/493223_6MOOD2.jpg?sw=270&sh=270&sm=fit",
       "price": "",
       "old_price": "",
       "lowest_30d": "",
@@ -4078,7 +4107,7 @@
       "savings_pln": 0.0,
       "deal_score": 0.0,
       "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-EXTRALINK",
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-MG+HOME",
       "price_status": "",
       "price_verdict": "",
       "compared_offers": [],
@@ -4086,12 +4115,12 @@
     },
     {
       "source": "Biedronka Home",
-      "deal_id": "biedronka-home:000000000000488676",
-      "title": "REBELTEC",
-      "link": "https://home.biedronka.pl/rebeltec-powerbank-rebeltec-p20-lcdpd-20000-mah-225-w-czarny-000000000000488676.html",
+      "deal_id": "biedronka-home:000000000000764670",
+      "title": "SAM COOK",
+      "link": "https://home.biedronka.pl/sam-cook-ekspres-cisnieniowy-mpm-sam-cook-psc-170%2fb-15-barow-1650-w-czarny-000000000000764670.html",
       "published": "Biedronka Home",
       "summary": "Promocja ze sklepu Biedronka Home (chwilowo niedostępny online).",
-      "image_url": "https://home.biedronka.pl/dw/image/v2/BJJL_PRD/on/demandware.static/-/Sites-PL_Master_Catalog/default/dw482f8b04/images/hi-res/488676_5MOOD.jpg?sw=270&sh=270&sm=fit",
+      "image_url": "https://home.biedronka.pl/dw/image/v2/BJJL_PRD/on/demandware.static/-/Sites-PL_Master_Catalog/default/dw7d037e2a/images/hi-res/764670_995.jpg?sw=270&sh=270&sm=fit",
       "price": "",
       "old_price": "",
       "lowest_30d": "",
@@ -4102,7 +4131,7 @@
       "savings_pln": 0.0,
       "deal_score": 0.0,
       "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-REBELTEC",
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-SAM+COOK",
       "price_status": "",
       "price_verdict": "",
       "compared_offers": [],
@@ -4110,12 +4139,12 @@
     },
     {
       "source": "Biedronka Home",
-      "deal_id": "biedronka-home:000000000000715527",
-      "title": "DREAME",
-      "link": "https://home.biedronka.pl/dreame-odkurzacz-pionowy-mopujacy-dreame-h14-ae-18-kpa-000000000000715527.html",
+      "deal_id": "biedronka-home:000000000000673311",
+      "title": "TRACER",
+      "link": "https://home.biedronka.pl/tracer-tablet-do-auta-carplay-android-auto-tracer-1026%e2%80%9d-2-kamery-przod-tyl-000000000000673311.html",
       "published": "Biedronka Home",
       "summary": "Promocja ze sklepu Biedronka Home (chwilowo niedostępny online).",
-      "image_url": "https://home.biedronka.pl/dw/image/v2/BJJL_PRD/on/demandware.static/-/Sites-PL_Master_Catalog/default/dwa08d2e4d/images/hi-res/715527_9991.jpg?sw=270&sh=270&sm=fit",
+      "image_url": "https://home.biedronka.pl/dw/image/v2/BJJL_PRD/on/demandware.static/-/Sites-PL_Master_Catalog/default/dwad037d60/images/hi-res/673311_91.jpg?sw=270&sh=270&sm=fit",
       "price": "",
       "old_price": "",
       "lowest_30d": "",
@@ -4126,31 +4155,7 @@
       "savings_pln": 0.0,
       "deal_score": 0.0,
       "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-DREAME",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": []
-    },
-    {
-      "source": "Biedronka Home",
-      "deal_id": "biedronka-home:000000000000748512",
-      "title": "BLOW",
-      "link": "https://home.biedronka.pl/blow-kamera-zewnetrzna-blow-t-135-5mp-tuya-wifi-obrotowa-000000000000748512.html",
-      "published": "Biedronka Home",
-      "summary": "Promocja ze sklepu Biedronka Home (chwilowo niedostępny online).",
-      "image_url": "https://home.biedronka.pl/dw/image/v2/BJJL_PRD/on/demandware.static/-/Sites-PL_Master_Catalog/default/dwe1d47ec3/images/hi-res/748512_91.jpg?sw=270&sh=270&sm=fit",
-      "price": "",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Biedronka Home",
-      "category": "Dom i warsztat",
-      "store_group": "Budowlane i dom",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-BLOW",
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-TRACER",
       "price_status": "",
       "price_verdict": "",
       "compared_offers": [],
@@ -4206,12 +4211,12 @@
     },
     {
       "source": "Biedronka Home",
-      "deal_id": "biedronka-home:000000000000673311",
-      "title": "TRACER",
-      "link": "https://home.biedronka.pl/tracer-tablet-do-auta-carplay-android-auto-tracer-1026%e2%80%9d-2-kamery-przod-tyl-000000000000673311.html",
+      "deal_id": "biedronka-home:000000000000748512",
+      "title": "BLOW",
+      "link": "https://home.biedronka.pl/blow-kamera-zewnetrzna-blow-t-135-5mp-tuya-wifi-obrotowa-000000000000748512.html",
       "published": "Biedronka Home",
       "summary": "Promocja ze sklepu Biedronka Home (chwilowo niedostępny online).",
-      "image_url": "https://home.biedronka.pl/dw/image/v2/BJJL_PRD/on/demandware.static/-/Sites-PL_Master_Catalog/default/dwad037d60/images/hi-res/673311_91.jpg?sw=270&sh=270&sm=fit",
+      "image_url": "https://home.biedronka.pl/dw/image/v2/BJJL_PRD/on/demandware.static/-/Sites-PL_Master_Catalog/default/dwe1d47ec3/images/hi-res/748512_91.jpg?sw=270&sh=270&sm=fit",
       "price": "",
       "old_price": "",
       "lowest_30d": "",
@@ -4222,7 +4227,7 @@
       "savings_pln": 0.0,
       "deal_score": 0.0,
       "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-TRACER",
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-BLOW",
       "price_status": "",
       "price_verdict": "",
       "compared_offers": [],
@@ -4230,12 +4235,12 @@
     },
     {
       "source": "Biedronka Home",
-      "deal_id": "biedronka-home:000000000000672876",
-      "title": "TEFAL",
-      "link": "https://home.biedronka.pl/tefal-czajnik-elektryczny-stalowy-tefal-subito-17-l-2400-w-srebrny-000000000000672876.html",
+      "deal_id": "biedronka-home:000000000000681717",
+      "title": "DREAME",
+      "link": "https://home.biedronka.pl/dreame-odkurzacz-pionowy-dreame-v11-essential-bezprzewodowy-20-kpa-z-akcesoriami-000000000000681717.html",
       "published": "Biedronka Home",
       "summary": "Promocja ze sklepu Biedronka Home (chwilowo niedostępny online).",
-      "image_url": "https://home.biedronka.pl/dw/image/v2/BJJL_PRD/on/demandware.static/-/Sites-PL_Master_Catalog/default/dw838c0d4f/images/hi-res/672876_9.jpg?sw=270&sh=270&sm=fit",
+      "image_url": "https://home.biedronka.pl/dw/image/v2/BJJL_PRD/on/demandware.static/-/Sites-PL_Master_Catalog/default/dwd2c97308/images/hi-res/681717_9994.jpg?sw=270&sh=270&sm=fit",
       "price": "",
       "old_price": "",
       "lowest_30d": "",
@@ -4246,100 +4251,11 @@
       "savings_pln": 0.0,
       "deal_score": 0.0,
       "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-TEFAL",
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-DREAME",
       "price_status": "",
       "price_verdict": "",
       "compared_offers": [],
       "price_history": []
-    },
-    {
-      "source": "Biedronka Home",
-      "deal_id": "biedronka-home:000000000000674121",
-      "title": "AMW",
-      "link": "https://home.biedronka.pl/amw-koldra-pierze-160-x-200-cm-amw-kacze-pierze-i-puch-rozowa-000000000000674121.html",
-      "published": "Biedronka Home",
-      "summary": "Promocja ze sklepu Biedronka Home (chwilowo niedostępny online).",
-      "image_url": "https://home.biedronka.pl/dw/image/v2/BJJL_PRD/on/demandware.static/-/Sites-PL_Master_Catalog/default/dw62422adf/images/hi-res/674121_6MOOD2.jpg?sw=270&sh=270&sm=fit",
-      "price": "",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Biedronka Home",
-      "category": "Dom i warsztat",
-      "store_group": "Budowlane i dom",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-AMW",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": []
-    },
-    {
-      "source": "Rossmann.pl",
-      "deal_id": "rossmann:2070681",
-      "title": "Carolina Herrera woda perfumowana dla kobiet",
-      "link": "https://www.rossmann.pl/Produkt/Wody-perfumowane/Carolina-Herrera-Good-Girl-woda-perfumowana-dla-kobiet-30-ml,2070681,13266",
-      "published": "Aktualna promocja Rossmann.pl",
-      "summary": "Promocja w drogerii Rossmann.pl.",
-      "image_url": "https://pro-fra-s3-productsassets.rossmann.pl/product_7_medium/2070681_360_350_1781245101.webp",
-      "price": "299,99 zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Rossmann.pl",
-      "category": "Perfumy-Perfumy damskie-Wody perfumowane",
-      "store_group": "Odzież i uroda",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Carolina+Herrera+woda+perfumowana+dla",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "przed promocją",
-          "price": "299,99 zł",
-          "note": "przed promocją"
-        },
-        {
-          "date": "30 dni przed obniżką",
-          "price": "209,99 zł",
-          "note": "Najniższa z 30 dni (Omnibus)"
-        },
-        {
-          "date": "2026-11-22 22:45",
-          "price": "199,99 zł",
-          "note": "Rossmann.pl"
-        },
-        {
-          "date": "2026-11-22 23:19",
-          "price": "299,99 zł",
-          "note": "Rossmann.pl"
-        },
-        {
-          "date": "2026-11-22 23:24",
-          "price": "199,99 zł",
-          "note": "Rossmann.pl"
-        },
-        {
-          "date": "2026-11-22 23:24",
-          "price": "299,99 zł",
-          "note": "Rossmann.pl"
-        },
-        {
-          "date": "2026-11-22 22:25",
-          "price": "199,99 zł",
-          "note": "Rossmann.pl"
-        },
-        {
-          "date": "2026-11-22 22:25",
-          "price": "299,99 zł",
-          "note": "Rossmann.pl"
-        }
-      ]
     },
     {
       "source": "Rossmann.pl",
@@ -4407,51 +4323,6 @@
         {
           "date": "2026-11-23 00:06",
           "price": "429,99 zł",
-          "note": "Rossmann.pl"
-        }
-      ]
-    },
-    {
-      "source": "Rossmann.pl",
-      "deal_id": "rossmann:2080395",
-      "title": "Lancôme woda perfumowana dla kobiet, z możliwością ponownego uzupełnienia",
-      "link": "https://www.rossmann.pl/Produkt/Wody-perfumowane/Lancome-La-Vie-est-Belle-woda-perfumowana-dla-kobiet-z-mozliwoscia-ponownego-uzupelnienia-50-ml,2080395,13266",
-      "published": "Aktualna promocja Rossmann.pl",
-      "summary": "Promocja w drogerii Rossmann.pl.",
-      "image_url": "https://pro-fra-s3-productsassets.rossmann.pl/product_8_medium/2080395_360_350_1782412387.webp",
-      "price": "399,99 zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Rossmann.pl",
-      "category": "Perfumy-Perfumy damskie-Wody perfumowane",
-      "store_group": "Odzież i uroda",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Lanc+me+woda+perfumowana+dla",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "przed promocją",
-          "price": "399,99 zł",
-          "note": "przed promocją"
-        },
-        {
-          "date": "30 dni przed obniżką",
-          "price": "399,99 zł",
-          "note": "Najniższa z 30 dni (Omnibus)"
-        },
-        {
-          "date": "2026-11-22 22:45",
-          "price": "279,99 zł",
-          "note": "Rossmann.pl"
-        },
-        {
-          "date": "2026-11-23 00:06",
-          "price": "399,99 zł",
           "note": "Rossmann.pl"
         }
       ]
@@ -4533,50 +4404,185 @@
           "date": "2026-11-23 00:06",
           "price": "439,99 zł",
           "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-23 00:06",
+          "price": "379,99 zł",
+          "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-23 01:47",
+          "price": "439,99 zł",
+          "note": "Rossmann.pl"
         }
       ]
     },
     {
       "source": "Rossmann.pl",
-      "deal_id": "rossmann:2115473",
-      "title": "Giorgio Armani woda toaletowa dla mężczyzn",
-      "link": "https://www.rossmann.pl/Produkt/Wody-toaletowe/Giorgio-Armani-Emporio-Armani-Stronger-With-You-woda-toaletowa-dla-mezczyzn-50-ml,2115473,13260",
+      "deal_id": "rossmann:2140450",
+      "title": "Tom Tailor woda perfumowana dla kobiet",
+      "link": "https://www.rossmann.pl/Produkt/Wody-perfumowane/Tom-Tailor-Perfectly-Me-woda-perfumowana-dla-kobiet-30-ml,2140450,13266",
       "published": "Aktualna promocja Rossmann.pl",
       "summary": "Promocja w drogerii Rossmann.pl.",
-      "image_url": "https://pro-fra-s3-productsassets.rossmann.pl/product_8_medium/2115473_360_350_1782487802.webp",
-      "price": "299,99 zł",
+      "image_url": "https://pro-fra-s3-productsassets.rossmann.pl/product_7_medium/2140450_360_350_1785229084.webp",
+      "price": "67,99 zł",
       "old_price": "",
       "lowest_30d": "",
       "merchant": "Rossmann.pl",
-      "category": "Mężczyzna-Perfumy męskie-Wody toaletowe",
+      "category": "Perfumy-Perfumy damskie-Wody perfumowane",
       "store_group": "Odzież i uroda",
       "discount_pct": 0,
       "savings_pln": 0.0,
       "deal_score": 0.0,
       "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Giorgio+Armani+woda+toaletowa+dla",
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Tom+Tailor+woda+perfumowana+dla",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-23 01:47",
+          "price": "67,99 zł",
+          "note": "Rossmann.pl"
+        }
+      ]
+    },
+    {
+      "source": "Rossmann.pl",
+      "deal_id": "rossmann:2081988",
+      "title": "Yves Saint Laurent woda perfumowana dla kobiet",
+      "link": "https://www.rossmann.pl/Produkt/Wody-perfumowane/Yves-Saint-Laurent-Libre-woda-perfumowana-dla-kobiet-50-ml,2081988,13266",
+      "published": "Aktualna promocja Rossmann.pl",
+      "summary": "Promocja w drogerii Rossmann.pl.",
+      "image_url": "https://pro-fra-s3-productsassets.rossmann.pl/product_7_medium/2081988_360_350_1782902150.webp",
+      "price": "399,99 zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Rossmann.pl",
+      "category": "Perfumy-Perfumy damskie-Wody perfumowane",
+      "store_group": "Odzież i uroda",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Yves+Saint+Laurent+woda+perfumowana",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-23 01:47",
+          "price": "399,99 zł",
+          "note": "Rossmann.pl"
+        }
+      ]
+    },
+    {
+      "source": "Rossmann.pl",
+      "deal_id": "rossmann:2092144",
+      "title": "Prada woda perfumowana dla kobiet",
+      "link": "https://www.rossmann.pl/Produkt/Wody-perfumowane/Prada-Paradoxe-woda-perfumowana-dla-kobiet-50-ml,2092144,13266",
+      "published": "Aktualna promocja Rossmann.pl",
+      "summary": "Promocja w drogerii Rossmann.pl.",
+      "image_url": "https://pro-fra-s3-productsassets.rossmann.pl/product_1_medium/2092144_360_350_1785433997.webp",
+      "price": "429,99 zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Rossmann.pl",
+      "category": "Perfumy-Perfumy damskie-Wody perfumowane",
+      "store_group": "Odzież i uroda",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Prada+woda+perfumowana+dla+kobiet",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-23 01:47",
+          "price": "429,99 zł",
+          "note": "Rossmann.pl"
+        }
+      ]
+    },
+    {
+      "source": "Rossmann.pl",
+      "deal_id": "rossmann:256018",
+      "title": "Lancôme woda perfumowana dla kobiet, z możliwością ponownego uzupełnienia",
+      "link": "https://www.rossmann.pl/Produkt/Wody-perfumowane/Lancome-La-Vie-est-Belle-woda-perfumowana-dla-kobiet-z-mozliwoscia-ponownego-uzupelnienia-30-ml,256018,13266",
+      "published": "Aktualna promocja Rossmann.pl",
+      "summary": "Promocja w drogerii Rossmann.pl.",
+      "image_url": "https://pro-fra-s3-productsassets.rossmann.pl/product_7_medium/256018_360_350_1784009964.webp",
+      "price": "269,99 zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Rossmann.pl",
+      "category": "Perfumy-Perfumy damskie-Wody perfumowane",
+      "store_group": "Odzież i uroda",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Lanc+me+woda+perfumowana+dla",
       "price_status": "",
       "price_verdict": "",
       "compared_offers": [],
       "price_history": [
         {
           "date": "przed promocją",
-          "price": "299,99 zł",
+          "price": "399,99 zł",
           "note": "przed promocją"
         },
         {
           "date": "30 dni przed obniżką",
-          "price": "299,99 zł",
+          "price": "399,99 zł",
           "note": "Najniższa z 30 dni (Omnibus)"
         },
         {
           "date": "2026-11-22 22:45",
-          "price": "209,99 zł",
+          "price": "279,99 zł",
           "note": "Rossmann.pl"
         },
         {
           "date": "2026-11-23 00:06",
-          "price": "299,99 zł",
+          "price": "399,99 zł",
+          "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-23 01:47",
+          "price": "269,99 zł",
+          "note": "Rossmann.pl"
+        }
+      ]
+    },
+    {
+      "source": "Rossmann.pl",
+      "deal_id": "rossmann:2140449",
+      "title": "s.Oliver woda perfumowana dla kobiet",
+      "link": "https://www.rossmann.pl/Produkt/Wody-perfumowane/sOliver-Simply-Us-woda-perfumowana-dla-kobiet-30-ml,2140449,13266",
+      "published": "Aktualna promocja Rossmann.pl",
+      "summary": "Promocja w drogerii Rossmann.pl.",
+      "image_url": "https://pro-fra-s3-productsassets.rossmann.pl/product_7_medium/2140449_360_350_1788178638.webp",
+      "price": "89,99 zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Rossmann.pl",
+      "category": "Perfumy-Perfumy damskie-Wody perfumowane",
+      "store_group": "Odzież i uroda",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Oliver+woda+perfumowana+dla+kobiet",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-23 01:47",
+          "price": "89,99 zł",
           "note": "Rossmann.pl"
         }
       ]
@@ -4628,13 +4634,13 @@
     },
     {
       "source": "Rossmann.pl",
-      "deal_id": "rossmann:2133894",
-      "title": "Giorgio Armani woda perfumowana dla kobiet",
-      "link": "https://www.rossmann.pl/Produkt/Wody-perfumowane/Giorgio-Armani-Emporio-Armani-Power-Of-You-woda-perfumowana-dla-kobiet-50-ml,2133894,13266",
+      "deal_id": "rossmann:2088601",
+      "title": "Lattafa woda perfumowana dla kobiet",
+      "link": "https://www.rossmann.pl/Produkt/Wody-perfumowane/Lattafa-Yara-woda-perfumowana-dla-kobiet-100-ml,2088601,13266",
       "published": "Aktualna promocja Rossmann.pl",
       "summary": "Promocja w drogerii Rossmann.pl.",
-      "image_url": "https://pro-fra-s3-productsassets.rossmann.pl/product_8_medium/2133894_360_350_1782503573.webp",
-      "price": "379,99 zł",
+      "image_url": "https://pro-fra-s3-productsassets.rossmann.pl/product_8_medium/2088601_360_350_1782424880.webp",
+      "price": "109,99 zł",
       "old_price": "",
       "lowest_30d": "",
       "merchant": "Rossmann.pl",
@@ -4644,69 +4650,44 @@
       "savings_pln": 0.0,
       "deal_score": 0.0,
       "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Giorgio+Armani+woda+perfumowana+dla",
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Lattafa+woda+perfumowana+dla+kobiet",
       "price_status": "",
       "price_verdict": "",
       "compared_offers": [],
       "price_history": [
         {
-          "date": "przed promocją",
-          "price": "379,99 zł",
-          "note": "przed promocją"
-        },
-        {
-          "date": "30 dni przed obniżką",
-          "price": "299,99 zł",
-          "note": "Najniższa z 30 dni (Omnibus)"
-        },
-        {
-          "date": "2026-11-22 22:45",
-          "price": "289,99 zł",
+          "date": "2026-11-23 01:47",
+          "price": "109,99 zł",
           "note": "Rossmann.pl"
-        },
+        }
+      ]
+    },
+    {
+      "source": "Rossmann.pl",
+      "deal_id": "rossmann:2110717",
+      "title": "Victoria's Secret mgiełka do ciała, perfumowana",
+      "link": "https://www.rossmann.pl/Produkt/Mgielki-zapachowe/Victorias-Secret-Bare-Vanilla-mgielka-do-ciala-perfumowana-250-ml,2110717,13268",
+      "published": "Aktualna promocja Rossmann.pl",
+      "summary": "Promocja w drogerii Rossmann.pl.",
+      "image_url": "https://pro-fra-s3-productsassets.rossmann.pl/product_1_medium/2110717_360_350_1781868114.webp",
+      "price": "94,99 zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Rossmann.pl",
+      "category": "Perfumy-Perfumy damskie-Mgiełki zapachowe",
+      "store_group": "Odzież i uroda",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Victoria+Secret+mgie%C5%82ka+do+cia%C5%82a",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
         {
-          "date": "2026-11-22 22:45",
-          "price": "249,99 zł",
-          "note": "Rossmann.pl"
-        },
-        {
-          "date": "2026-11-22 23:19",
-          "price": "289,99 zł",
-          "note": "Rossmann.pl"
-        },
-        {
-          "date": "2026-11-22 23:19",
-          "price": "249,99 zł",
-          "note": "Rossmann.pl"
-        },
-        {
-          "date": "2026-11-22 23:24",
-          "price": "289,99 zł",
-          "note": "Rossmann.pl"
-        },
-        {
-          "date": "2026-11-22 23:24",
-          "price": "249,99 zł",
-          "note": "Rossmann.pl"
-        },
-        {
-          "date": "2026-11-22 22:25",
-          "price": "289,99 zł",
-          "note": "Rossmann.pl"
-        },
-        {
-          "date": "2026-11-22 22:25",
-          "price": "249,99 zł",
-          "note": "Rossmann.pl"
-        },
-        {
-          "date": "2026-11-23 00:06",
-          "price": "439,99 zł",
-          "note": "Rossmann.pl"
-        },
-        {
-          "date": "2026-11-23 00:06",
-          "price": "379,99 zł",
+          "date": "2026-11-23 01:47",
+          "price": "94,99 zł",
           "note": "Rossmann.pl"
         }
       ]
@@ -4752,6 +4733,66 @@
         {
           "date": "2026-11-23 00:06",
           "price": "159,99 zł",
+          "note": "Rossmann.pl"
+        }
+      ]
+    },
+    {
+      "source": "Rossmann.pl",
+      "deal_id": "rossmann:190719",
+      "title": "Calvin Klein woda toaletowa dla kobiet",
+      "link": "https://www.rossmann.pl/Produkt/Wody-toaletowe/Calvin-Klein-CK-IN2U-woda-toaletowa-dla-kobiet-150-ml,190719,13267",
+      "published": "Aktualna promocja Rossmann.pl",
+      "summary": "Promocja w drogerii Rossmann.pl.",
+      "image_url": "https://pro-fra-s3-productsassets.rossmann.pl/product_7_medium/190719_360_350_1781524260.webp",
+      "price": "149,99 zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Rossmann.pl",
+      "category": "Perfumy-Perfumy damskie-Wody toaletowe",
+      "store_group": "Odzież i uroda",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Calvin+Klein+woda+toaletowa+dla",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-23 01:47",
+          "price": "149,99 zł",
+          "note": "Rossmann.pl"
+        }
+      ]
+    },
+    {
+      "source": "Rossmann.pl",
+      "deal_id": "rossmann:192825",
+      "title": "Calvin Klein woda perfumowana dla kobiet",
+      "link": "https://www.rossmann.pl/Produkt/Wody-perfumowane/Calvin-Klein-Euphoria-woda-perfumowana-dla-kobiet-100-ml,192825,13266",
+      "published": "Aktualna promocja Rossmann.pl",
+      "summary": "Promocja w drogerii Rossmann.pl.",
+      "image_url": "https://pro-fra-s3-productsassets.rossmann.pl/product_7_medium/192825_360_350_1792483921.webp",
+      "price": "229,99 zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Rossmann.pl",
+      "category": "Perfumy-Perfumy damskie-Wody perfumowane",
+      "store_group": "Odzież i uroda",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Calvin+Klein+woda+perfumowana+dla",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-23 01:47",
+          "price": "229,99 zł",
           "note": "Rossmann.pl"
         }
       ]
