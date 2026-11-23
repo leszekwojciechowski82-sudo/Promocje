@@ -3554,16 +3554,6 @@
   ],
   "pepco maskotka ludzik piernikowy": [
     {
-      "date": "2026-11-23 09:47",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-23 09:47",
-      "price": "50 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-23 10:53",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3650,22 +3640,22 @@
     },
     {
       "date": "2026-11-23 19:53",
+      "price": "50 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-23 20:40",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-23 20:40",
       "price": "50 zł",
       "note": "Pepco.pl"
     }
   ],
   "pepco dekoracja tekstylna mini ludzik piernikowy": [
     {
-      "date": "2026-11-23 09:47",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-23 09:47",
-      "price": "10 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-23 10:53",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3752,6 +3742,16 @@
     },
     {
       "date": "2026-11-23 19:53",
+      "price": "10 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-23 20:40",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-23 20:40",
       "price": "10 zł",
       "note": "Pepco.pl"
     }
@@ -3863,16 +3863,6 @@
   ],
   "pepco zabawkowy sklep z półkami": [
     {
-      "date": "2026-11-23 09:47",
-      "price": "120 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-23 09:47",
-      "price": "105 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-23 10:53",
       "price": "120 zł",
       "note": "Pepco.pl"
@@ -3959,6 +3949,16 @@
     },
     {
       "date": "2026-11-23 19:53",
+      "price": "105 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-23 20:40",
+      "price": "120 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-23 20:40",
       "price": "105 zł",
       "note": "Pepco.pl"
     }
@@ -4317,6 +4317,21 @@
     },
     {
       "date": "2026-11-23 19:53",
+      "price": "199,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-23 20:40",
+      "price": "129,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-23 20:40",
+      "price": "229,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-23 20:40",
       "price": "199,99 zł",
       "note": "Rossmann.pl"
     }
@@ -7019,6 +7034,11 @@
   ],
   "einhell odkurzacz pionowy te sv 18": [
     {
+      "date": "przed promocją",
+      "price": "699 zł",
+      "note": "przed promocją"
+    },
+    {
       "date": "30 dni przed obniżką",
       "price": "699 zł",
       "note": "Najniższa z 30 dni (Omnibus)"
@@ -7235,6 +7255,233 @@
       "date": "2026-11-23 19:53",
       "price": "299,99 zł",
       "note": "Rossmann.pl"
+    }
+  ],
+  "piekarnik whirlpool omsk58cu1sb czarny elektryczny parowy": [
+    {
+      "date": "2026-11-23 20:40",
+      "price": "1 099zł",
+      "note": "Media Expert"
+    }
+  ],
+  "soundbar hisense sur15s czarny media expert": [
+    {
+      "date": "2026-11-23 20:40",
+      "price": "1 199zł",
+      "note": "Media Expert"
+    }
+  ],
+  "smartfon oppo find x10 pro max": [
+    {
+      "date": "2026-11-23 20:40",
+      "price": "5 748,55zł",
+      "note": "GShopper"
+    }
+  ],
+  "gra painkiller 2025 pc steam": [
+    {
+      "date": "2026-11-23 20:40",
+      "price": "14,50zł",
+      "note": "Steam"
+    }
+  ],
+  "szklanki do kawy premier housewares 4": [
+    {
+      "date": "przed promocją",
+      "price": "60,87 zł",
+      "note": "przed promocją"
+    },
+    {
+      "date": "2026-11-23 20:40",
+      "price": "19,21zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "zestaw narzędzi precyzyjnych parkside lidl": [
+    {
+      "date": "2026-11-23 20:40",
+      "price": "7,99zł",
+      "note": "Lidl"
+    }
+  ],
+  "e wedel czekotubka krem czekoladowy": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "5,29 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-23 20:40",
+      "price": "4,79 zł",
+      "note": "Rossmann.pl"
+    }
+  ],
+  "lego bmw m4 gt3 42226": [
+    {
+      "date": "2026-11-23 20:40",
+      "price": "117,49zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "elektryczny rower górski mtb focus jarifa2": [
+    {
+      "date": "2026-11-23 20:40",
+      "price": "9 986,46zł",
+      "note": "SPORT 11"
+    }
+  ],
+  "teraz już wiecie co robić na": [
+    {
+      "date": "2026-11-23 20:40",
+      "price": "46,74zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "kontroler bezprzewodowy xbox series x s": [
+    {
+      "date": "2026-11-23 20:40",
+      "price": "154,31zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "projekt łazienki": [
+    {
+      "date": "2026-11-23 20:40",
+      "price": "1zł",
+      "note": "Castorama"
+    }
+  ],
+  "akumulatorki aa 1600 mah li ion": [
+    {
+      "date": "2026-11-23 20:40",
+      "price": "16,99zł",
+      "note": "Allegro"
+    }
+  ],
+  "echosonda garmin striker vivid 9sv z": [
+    {
+      "date": "2026-11-23 20:40",
+      "price": "1 999zł",
+      "note": "Allegro"
+    }
+  ],
+  "prasa do owoców g de op9": [
+    {
+      "date": "2026-11-23 20:40",
+      "price": "181,30zł",
+      "note": "Lidl"
+    }
+  ],
+  "komputer licznik rowerowy garmin edge 1050": [
+    {
+      "date": "2026-11-23 20:40",
+      "price": "2 335,38zł",
+      "note": "SPORTISSIMO"
+    }
+  ],
+  "suszarka do włosów chuban 1600w 6": [
+    {
+      "date": "2026-11-23 20:40",
+      "price": "176,18zł",
+      "note": "AliExpress"
+    }
+  ],
+  "myjka parowa polti vaporetto smart 120": [
+    {
+      "date": "2026-11-23 20:40",
+      "price": "662,97zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "blaupunkt cr85wh radiobudzik z ładowarką indukcyjną": [
+    {
+      "date": "2026-11-23 20:40",
+      "price": "99,99zł",
+      "note": "x-kom"
+    }
+  ],
+  "ozzy osbourne blizzard of ozz kolorowa": [
+    {
+      "date": "2026-11-23 20:40",
+      "price": "69,97zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "worki próżniowe na ubrania 6szt 76x100cm": [
+    {
+      "date": "2026-11-23 20:40",
+      "price": "28,89zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "ziaja krem do rąk cashmere and": [
+    {
+      "date": "2026-11-23 20:40",
+      "price": "4,39zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "woda perfumowana jennifer lopez promise edp": [
+    {
+      "date": "2026-11-23 20:40",
+      "price": "87,29zł",
+      "note": "Amazon.de"
+    }
+  ],
+  "energy club fitness włocławek wschód wyjątkowa": [
+    {
+      "date": "2026-11-23 20:40",
+      "price": "999zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "kawa ziarnista woseba mocca fix gold": [
+    {
+      "date": "2026-11-23 20:40",
+      "price": "15,74zł",
+      "note": "Lidl"
+    }
+  ],
+  "waterwipes sensitive bio chusteczki nawilżane dla": [
+    {
+      "date": "2026-11-23 20:40",
+      "price": "103,99zł",
+      "note": "InPost"
+    }
+  ],
+  "robot sprzątający narwal freo 20 564": [
+    {
+      "date": "2026-11-23 20:40",
+      "price": "2 515,44zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "gra 007 first light pc steam": [
+    {
+      "date": "2026-11-23 20:40",
+      "price": "114,50zł",
+      "note": "Steam"
+    }
+  ],
+  "paski oraz opaski do apple watcha": [
+    {
+      "date": "2026-11-23 20:40",
+      "price": "3zł",
+      "note": "Lantre"
+    }
+  ],
+  "stacja zasilania dji power 1000 v2": [
+    {
+      "date": "2026-11-23 20:40",
+      "price": "1 949zł",
+      "note": "MegaDron"
+    }
+  ],
+  "traficar pakiet 5h": [
+    {
+      "date": "2026-11-23 20:40",
+      "price": "24,95zł",
+      "note": "Traficar"
     }
   ]
 }
