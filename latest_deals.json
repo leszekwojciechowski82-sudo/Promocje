@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 01:47",
+  "updated_at": "2026-11-23 02:46",
   "deals": [
     {
       "source": "Lidl.pl (Promocje)",
@@ -46,6 +46,16 @@
         },
         {
           "date": "2026-11-23 01:47",
+          "price": "89 zł",
+          "note": "Lidl.pl"
+        },
+        {
+          "date": "2026-11-23 01:47",
+          "price": "89zł",
+          "note": "Lidl"
+        },
+        {
+          "date": "2026-11-23 02:46",
           "price": "89 zł",
           "note": "Lidl.pl"
         }
@@ -207,46 +217,6 @@
         {
           "date": "2026-11-22 21:16",
           "price": "99 zł",
-          "note": "Lidl.pl"
-        }
-      ]
-    },
-    {
-      "source": "Lidl.pl (Promocje)",
-      "deal_id": "lidl:100401342",
-      "title": "SILVERCREST® Przystawka do krojenia warzyw do Termorobota MC",
-      "link": "https://www.lidl.pl/p/silvercrest-przystawka-do-krojenia-warzyw-do-termorobota-mc/p100401342",
-      "published": "Aktualna oferta Lidl.pl",
-      "summary": "Megaokazja • Promocja bezpośrednio ze sklepu Lidl.pl.",
-      "image_url": "https://www.lidl.pl/assets/gcp0a64f5b3d3e047808b11c4fb8c8c6ec9.jpg",
-      "price": "74,50 zł",
-      "old_price": "149 zł",
-      "lowest_30d": "149 zł",
-      "merchant": "Lidl.pl",
-      "category": "Kategorie/Dom & Kuchnia/Małe AGD & Kuchnia/Roboty kuchenne",
-      "store_group": "Spożywcze i markety",
-      "discount_pct": 50,
-      "savings_pln": 74.5,
-      "deal_score": 103.72,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-SILVERCREST+Przystawka+do+krojenia+warzyw",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "przed promocją",
-          "price": "149 zł",
-          "note": "przed promocją"
-        },
-        {
-          "date": "30 dni przed obniżką",
-          "price": "149 zł",
-          "note": "Najniższa z 30 dni (Omnibus)"
-        },
-        {
-          "date": "2026-11-23 00:06",
-          "price": "74,50 zł",
           "note": "Lidl.pl"
         }
       ]
@@ -838,6 +808,16 @@
           "date": "2026-11-23 00:06",
           "price": "32,49 zł",
           "note": "Lidl.pl"
+        },
+        {
+          "date": "2026-11-23 01:47",
+          "price": "32,49zł",
+          "note": "Lidl"
+        },
+        {
+          "date": "2026-11-23 02:46",
+          "price": "32,49 zł",
+          "note": "Lidl.pl"
         }
       ]
     },
@@ -1042,6 +1022,46 @@
       ]
     },
     {
+      "source": "Rossmann.pl",
+      "deal_id": "rossmann:267193",
+      "title": "Bioelixire serum do włosów z olejkiem z czarnuszki i ceramidami, 3w1",
+      "link": "https://www.rossmann.pl/Produkt/Serum-do-wlosow/Bioelixire-serum-do-wlosow-z-olejkiem-z-czarnuszki-i-ceramidami-3w1-20-ml,267193,13189",
+      "published": "Aktualna promocja Rossmann.pl",
+      "summary": "Promocja w drogerii Rossmann.pl • Najniższa z 30 dni: 5,79 zł.",
+      "image_url": "https://pro-fra-s3-productsassets.rossmann.pl/product_7_medium/267193_360_350_1779969441.webp",
+      "price": "3,99 zł",
+      "old_price": "5,79 zł",
+      "lowest_30d": "5,79 zł",
+      "merchant": "Rossmann.pl",
+      "category": "Włosy-Pielęgnacja włosów-Olejki i serum do włosów-Serum do włosów",
+      "store_group": "Odzież i uroda",
+      "discount_pct": 31,
+      "savings_pln": 1.8,
+      "deal_score": 62.09,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Bioelixire+serum+do+w%C5%82os%C3%B3w+olejkiem",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "przed promocją",
+          "price": "5,79 zł",
+          "note": "przed promocją"
+        },
+        {
+          "date": "30 dni przed obniżką",
+          "price": "5,79 zł",
+          "note": "Najniższa z 30 dni (Omnibus)"
+        },
+        {
+          "date": "2026-11-22 22:45",
+          "price": "3,99 zł",
+          "note": "Rossmann.pl"
+        }
+      ]
+    },
+    {
       "source": "Lidl.pl (Promocje)",
       "deal_id": "lidl:100407896",
       "title": "CRIVIT Legginsy funkcyjne damskie",
@@ -1197,6 +1217,41 @@
         {
           "date": "2026-11-23 00:06",
           "price": "186 zł",
+          "note": "Lidl.pl"
+        }
+      ]
+    },
+    {
+      "source": "Lidl.pl (Promocje)",
+      "deal_id": "lidl:100406637",
+      "title": "PARKSIDE® Akumulatorowa lampa LED 20 V PLLA 20 Li A1(bez akumulatora i bez ładowarki)",
+      "link": "https://www.lidl.pl/p/parkside-akumulatorowa-lampa-led-20-v-plla-20-li-a1-bez-akumulatora-i-bez-ladowarki/p100406637",
+      "published": "Aktualna oferta Lidl.pl",
+      "summary": "Megaokazja • Promocja bezpośrednio ze sklepu Lidl.pl.",
+      "image_url": "https://www.lidl.pl/assets/gcp08cae911dfc64ea98bf9dad4157ffa9b.jpg",
+      "price": "37,99 zł",
+      "old_price": "51,90 zł",
+      "lowest_30d": "51,90 zł",
+      "merchant": "Lidl.pl",
+      "category": "Kategorie/Warsztat/Warsztat/Wyposażenie warsztatu/Oświetlenie robocze",
+      "store_group": "Spożywcze i markety",
+      "discount_pct": 26,
+      "savings_pln": 13.91,
+      "deal_score": 52.7,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-PARKSIDE+Akumulatorowa+lampa+LED+20",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "30 dni przed obniżką",
+          "price": "51,90 zł",
+          "note": "Najniższa z 30 dni (Omnibus)"
+        },
+        {
+          "date": "2026-11-23 02:46",
+          "price": "37,99 zł",
           "note": "Lidl.pl"
         }
       ]
@@ -1443,6 +1498,41 @@
           "date": "2026-11-22 22:45",
           "price": "15,99 zł",
           "note": "Rossmann.pl"
+        }
+      ]
+    },
+    {
+      "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/dodatkowe-20-na-wybrane-produkty-deskorolki-blaty-buty-odziez-w-skatedeluxe-np-enjoi-whitey-panda-775-za-27920-zamiast-479-1397473",
+      "title": "Dodatkowe 20% na wybrane produkty (deskorolki, blaty, buty, odzież) w skatedeluxe, np. Enjoi Whitey Panda 7.75'' za 279,20 zamiast 479",
+      "link": "https://www.pepper.pl/promocje/dodatkowe-20-na-wybrane-produkty-deskorolki-blaty-buty-odziez-w-skatedeluxe-np-enjoi-whitey-panda-775-za-27920-zamiast-479-1397473",
+      "published": "Mon, 23 Nov 2026 02:57:34 +0100",
+      "summary": "279,20zł W dobrych cenach są np. kompletne deskorolki kilku dobrych marek - idealne na początek, dużo lepsze niż marketowe. Np. kompletna deskorolka Enjoi Whitey Panda 7.75'' (rozmiar dla młodszych lub drobniejszych ludzi), która już była…",
+      "image_url": "https://static.pepper.pl/threads/raw/keT7z/1397473_1/re/150x150/qt/55/1397473_1.jpg",
+      "price": "279,20zł",
+      "old_price": "479279,20 zł",
+      "lowest_30d": "",
+      "merchant": "",
+      "category": "Sport i turystyka",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 0,
+      "savings_pln": 479000.0,
+      "deal_score": 40.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Dodatkowe+20+na+wybrane+produkty",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "przed promocją",
+          "price": "479279,20 zł",
+          "note": "przed promocją"
+        },
+        {
+          "date": "2026-11-23 02:46",
+          "price": "279,20zł",
+          "note": "Pepper.pl"
         }
       ]
     },
@@ -1778,11 +1868,41 @@
     },
     {
       "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/wiertarko-wkretarka-ryobi-50nm-z-zestawem-koncowek-akumulatorem-i-ladowarka-1397475",
+      "title": "Wiertarko-wkrętarka ryobi 50Nm z zestawem końcówek, akumulatorem I ładowarką",
+      "link": "https://www.pepper.pl/promocje/wiertarko-wkretarka-ryobi-50nm-z-zestawem-koncowek-akumulatorem-i-ladowarka-1397475",
+      "published": "Mon, 23 Nov 2026 03:12:15 +0100",
+      "summary": "299zł - Jula • Wiertarko-wkrętarka Ryobi ONE+ • W zestawie: urządzenie, ładowarka, wiertła, końcówki i akumulator • Model R18DD32-1C20GA60J",
+      "image_url": "https://static.pepper.pl/threads/raw/oG3g8/1397475_1/re/150x150/qt/55/1397475_1.jpg",
+      "price": "299zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Jula",
+      "category": "Ogród i majsterkowanie",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Wiertarko-wkr%C4%99tarka+ryobi+50Nm+zestawem+ko%C5%84c%C3%B3wek",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-23 02:46",
+          "price": "299zł",
+          "note": "Jula"
+        }
+      ]
+    },
+    {
+      "source": "Pepper.pl",
       "deal_id": "https://www.pepper.pl/promocje/philips-shaver-i9000-prestige-ultra-1397471",
       "title": "Philips Shaver i9000 Prestige Ultra",
       "link": "https://www.pepper.pl/promocje/philips-shaver-i9000-prestige-ultra-1397471",
       "published": "Mon, 23 Nov 2026 02:37:09 +0100",
-      "summary": "1 402,46zł - Amazon.pl Elektryczna brzytwa",
+      "summary": "1 402,46zł - Amazon.pl Elektryczna brzytwa Philips Shaver i9000 Prestige Ultra, dostępna na Amazon za 1402.46, to elektryczna maszynka do golenia, która wyróżnia się zaawansowanymi funkcjami i wysoką jakością wykonania. System Triple Actio…",
       "image_url": "https://static.pepper.pl/threads/raw/hrXlu/1397471_1/re/150x150/qt/55/1397471_1.jpg",
       "price": "1 402,46zł",
       "old_price": "",
@@ -1861,6 +1981,16 @@
       "price_history": [
         {
           "date": "2026-11-23 01:47",
+          "price": "701,18zł",
+          "note": "Amazon.pl"
+        },
+        {
+          "date": "2026-11-23 01:47",
+          "price": "731,04zł",
+          "note": "Amazon.pl"
+        },
+        {
+          "date": "2026-11-23 02:46",
           "price": "701,18zł",
           "note": "Amazon.pl"
         }
@@ -1956,6 +2086,16 @@
         },
         {
           "date": "2026-11-23 01:47",
+          "price": "731,04zł",
+          "note": "Amazon.pl"
+        },
+        {
+          "date": "2026-11-23 02:46",
+          "price": "701,18zł",
+          "note": "Amazon.pl"
+        },
+        {
+          "date": "2026-11-23 02:46",
           "price": "731,04zł",
           "note": "Amazon.pl"
         }
@@ -2091,6 +2231,16 @@
         },
         {
           "date": "2026-11-23 01:47",
+          "price": "32,49zł",
+          "note": "Lidl"
+        },
+        {
+          "date": "2026-11-23 02:46",
+          "price": "32,49 zł",
+          "note": "Lidl.pl"
+        },
+        {
+          "date": "2026-11-23 02:46",
           "price": "32,49zł",
           "note": "Lidl"
         }
@@ -2543,91 +2693,6 @@
           "date": "2026-11-23 00:06",
           "price": "1 299zł",
           "note": "Media Expert"
-        }
-      ]
-    },
-    {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/uchwyt-samochodowy-na-telefon-ivoler-do-kratki-nawiewu-47-7-cali-metalowy-haczyk-1397440",
-      "title": "Uchwyt samochodowy na telefon ivoler do kratki nawiewu, 4,7–7 cali, metalowy haczyk",
-      "link": "https://www.pepper.pl/promocje/uchwyt-samochodowy-na-telefon-ivoler-do-kratki-nawiewu-47-7-cali-metalowy-haczyk-1397440",
-      "published": "Mon, 23 Nov 2026 00:35:44 +0100",
-      "summary": "7,87zł - Amazon.pl Uchwyt samochodowy na telefon ivoler do kratki nawiewu Marka: ivoler Montaż: kratka wentylacyjna (metalowy haczyk w kształcie litery L z blokadą mechaniczną) Kompatybilność: smartfony o przekątnej od 4,7 do 7 cali (równi…",
-      "image_url": "https://static.pepper.pl/threads/raw/qhV1X/1397440_1/re/150x150/qt/55/1397440_1.jpg",
-      "price": "7,87zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Amazon.pl",
-      "category": "Sport i turystyka",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Uchwyt+samochodowy+na+telefon+ivoler",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-23 00:06",
-          "price": "7,87zł",
-          "note": "Amazon.pl"
-        }
-      ]
-    },
-    {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/livarno-szafka-nocna-z-drzwiami-zaluzjowymi-1397439",
-      "title": "LIVARNO Szafka nocna z drzwiami żaluzjowymi",
-      "link": "https://www.pepper.pl/promocje/livarno-szafka-nocna-z-drzwiami-zaluzjowymi-1397439",
-      "published": "Mon, 23 Nov 2026 00:35:18 +0100",
-      "summary": "89zł - Lidl Bardzo fajna szafka nocna w dobrej promocji! w eleganckim dębowym wyglądzie z charakterystycznym profilem lamelowym łatwa w pielęgnacji dzięki powłoce z żywicy melaminowej 2 lekkobieżne przesuwne drzwi żaluzjowe z wyfrezowanymi…",
-      "image_url": "https://static.pepper.pl/threads/raw/sriBh/1397439_1/re/150x150/qt/55/1397439_1.jpg",
-      "price": "89zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Lidl",
-      "category": "Dom i mieszkanie",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-LIVARNO+Szafka+nocna+drzwiami+%C5%BCaluzjowymi",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "przed promocją",
-          "price": "299 zł",
-          "note": "przed promocją"
-        },
-        {
-          "date": "30 dni przed obniżką",
-          "price": "299 zł",
-          "note": "Najniższa z 30 dni (Omnibus)"
-        },
-        {
-          "date": "2026-11-23 00:06",
-          "price": "89 zł",
-          "note": "Lidl.pl"
-        },
-        {
-          "date": "2026-11-23 00:06",
-          "price": "89zł",
-          "note": "Lidl"
-        },
-        {
-          "date": "2026-11-23 01:47",
-          "price": "89 zł",
-          "note": "Lidl.pl"
-        },
-        {
-          "date": "2026-11-23 01:47",
-          "price": "89zł",
-          "note": "Lidl"
         }
       ]
     },
@@ -4259,76 +4324,6 @@
     },
     {
       "source": "Rossmann.pl",
-      "deal_id": "rossmann:2069059",
-      "title": "Carolina Herrera woda perfumowana dla kobiet",
-      "link": "https://www.rossmann.pl/Produkt/Wody-perfumowane/Carolina-Herrera-Good-Girl-woda-perfumowana-dla-kobiet-50-ml,2069059,13266",
-      "published": "Aktualna promocja Rossmann.pl",
-      "summary": "Promocja w drogerii Rossmann.pl.",
-      "image_url": "https://pro-fra-s3-productsassets.rossmann.pl/product_7_medium/2069059_360_350_1781588410.webp",
-      "price": "429,99 zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Rossmann.pl",
-      "category": "Perfumy-Perfumy damskie-Wody perfumowane",
-      "store_group": "Odzież i uroda",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Carolina+Herrera+woda+perfumowana+dla",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "przed promocją",
-          "price": "299,99 zł",
-          "note": "przed promocją"
-        },
-        {
-          "date": "30 dni przed obniżką",
-          "price": "209,99 zł",
-          "note": "Najniższa z 30 dni (Omnibus)"
-        },
-        {
-          "date": "2026-11-22 22:45",
-          "price": "199,99 zł",
-          "note": "Rossmann.pl"
-        },
-        {
-          "date": "2026-11-22 23:19",
-          "price": "299,99 zł",
-          "note": "Rossmann.pl"
-        },
-        {
-          "date": "2026-11-22 23:24",
-          "price": "199,99 zł",
-          "note": "Rossmann.pl"
-        },
-        {
-          "date": "2026-11-22 23:24",
-          "price": "299,99 zł",
-          "note": "Rossmann.pl"
-        },
-        {
-          "date": "2026-11-22 22:25",
-          "price": "199,99 zł",
-          "note": "Rossmann.pl"
-        },
-        {
-          "date": "2026-11-22 22:25",
-          "price": "299,99 zł",
-          "note": "Rossmann.pl"
-        },
-        {
-          "date": "2026-11-23 00:06",
-          "price": "429,99 zł",
-          "note": "Rossmann.pl"
-        }
-      ]
-    },
-    {
-      "source": "Rossmann.pl",
       "deal_id": "rossmann:2082422",
       "title": "Giorgio Armani woda perfumowana dla kobiet, z możliwością ponownego uzupełnienia",
       "link": "https://www.rossmann.pl/Produkt/Wody-perfumowane/Giorgio-Armani-Si-woda-perfumowana-dla-kobiet-z-mozliwoscia-ponownego-uzupelnienia-50-ml,2082422,13266",
@@ -4479,36 +4474,6 @@
     },
     {
       "source": "Rossmann.pl",
-      "deal_id": "rossmann:2092144",
-      "title": "Prada woda perfumowana dla kobiet",
-      "link": "https://www.rossmann.pl/Produkt/Wody-perfumowane/Prada-Paradoxe-woda-perfumowana-dla-kobiet-50-ml,2092144,13266",
-      "published": "Aktualna promocja Rossmann.pl",
-      "summary": "Promocja w drogerii Rossmann.pl.",
-      "image_url": "https://pro-fra-s3-productsassets.rossmann.pl/product_1_medium/2092144_360_350_1785433997.webp",
-      "price": "429,99 zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Rossmann.pl",
-      "category": "Perfumy-Perfumy damskie-Wody perfumowane",
-      "store_group": "Odzież i uroda",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Prada+woda+perfumowana+dla+kobiet",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-23 01:47",
-          "price": "429,99 zł",
-          "note": "Rossmann.pl"
-        }
-      ]
-    },
-    {
-      "source": "Rossmann.pl",
       "deal_id": "rossmann:256018",
       "title": "Lancôme woda perfumowana dla kobiet, z możliwością ponownego uzupełnienia",
       "link": "https://www.rossmann.pl/Produkt/Wody-perfumowane/Lancome-La-Vie-est-Belle-woda-perfumowana-dla-kobiet-z-mozliwoscia-ponownego-uzupelnienia-30-ml,256018,13266",
@@ -4553,6 +4518,36 @@
         {
           "date": "2026-11-23 01:47",
           "price": "269,99 zł",
+          "note": "Rossmann.pl"
+        }
+      ]
+    },
+    {
+      "source": "Rossmann.pl",
+      "deal_id": "rossmann:2141680",
+      "title": "Victoria's Secret mgiełka do ciała perfumowana, dla kobiet",
+      "link": "https://www.rossmann.pl/Produkt/Mgielki-zapachowe/Victorias-Secret-Bare-Vanilla-Shimmer-mgielka-do-ciala-perfumowana-dla-kobiet-250-ml,2141680,13268",
+      "published": "Aktualna promocja Rossmann.pl",
+      "summary": "Promocja w drogerii Rossmann.pl.",
+      "image_url": "https://pro-fra-s3-productsassets.rossmann.pl/product_1_medium/2141680_360_350_1779700195.webp",
+      "price": "94,99 zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Rossmann.pl",
+      "category": "Perfumy-Perfumy damskie-Mgiełki zapachowe",
+      "store_group": "Odzież i uroda",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Victoria+Secret+mgie%C5%82ka+do+cia%C5%82a",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-23 01:47",
+          "price": "94,99 zł",
           "note": "Rossmann.pl"
         }
       ]

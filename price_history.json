@@ -2951,6 +2951,11 @@
       "date": "2026-11-23 01:47",
       "price": "89zł",
       "note": "Lidl"
+    },
+    {
+      "date": "2026-11-23 02:46",
+      "price": "89 zł",
+      "note": "Lidl.pl"
     }
   ],
   "livarno komplet 2 poszewek na poduszki": [
@@ -3141,6 +3146,16 @@
     },
     {
       "date": "2026-11-23 01:47",
+      "price": "32,49zł",
+      "note": "Lidl"
+    },
+    {
+      "date": "2026-11-23 02:46",
+      "price": "32,49 zł",
+      "note": "Lidl.pl"
+    },
+    {
+      "date": "2026-11-23 02:46",
       "price": "32,49zł",
       "note": "Lidl"
     }
@@ -3617,6 +3632,16 @@
       "date": "2026-11-23 01:47",
       "price": "731,04zł",
       "note": "Amazon.pl"
+    },
+    {
+      "date": "2026-11-23 02:46",
+      "price": "701,18zł",
+      "note": "Amazon.pl"
+    },
+    {
+      "date": "2026-11-23 02:46",
+      "price": "731,04zł",
+      "note": "Amazon.pl"
     }
   ],
   "bentley for men intense 100ml woda": [
@@ -3715,6 +3740,37 @@
       "date": "2026-11-23 01:47",
       "price": "229,99 zł",
       "note": "Rossmann.pl"
+    }
+  ],
+  "parkside akumulatorowa lampa led 20 v": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "51,90 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-23 02:46",
+      "price": "37,99 zł",
+      "note": "Lidl.pl"
+    }
+  ],
+  "dodatkowe 20 na wybrane produkty deskorolki": [
+    {
+      "date": "przed promocją",
+      "price": "479279,20 zł",
+      "note": "przed promocją"
+    },
+    {
+      "date": "2026-11-23 02:46",
+      "price": "279,20zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "wiertarko wkrętarka ryobi 50nm z zestawem": [
+    {
+      "date": "2026-11-23 02:46",
+      "price": "299zł",
+      "note": "Jula"
     }
   ]
 }
