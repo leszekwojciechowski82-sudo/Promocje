@@ -3554,16 +3554,6 @@
   ],
   "pepco maskotka ludzik piernikowy": [
     {
-      "date": "2026-11-23 09:07",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-23 09:07",
-      "price": "50 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-23 09:47",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3650,22 +3640,22 @@
     },
     {
       "date": "2026-11-23 18:46",
+      "price": "50 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-23 19:53",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-23 19:53",
       "price": "50 zł",
       "note": "Pepco.pl"
     }
   ],
   "pepco dekoracja tekstylna mini ludzik piernikowy": [
     {
-      "date": "2026-11-23 09:07",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-23 09:07",
-      "price": "10 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-23 09:47",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3752,6 +3742,16 @@
     },
     {
       "date": "2026-11-23 18:46",
+      "price": "10 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-23 19:53",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-23 19:53",
       "price": "10 zł",
       "note": "Pepco.pl"
     }
@@ -3863,16 +3863,6 @@
   ],
   "pepco zabawkowy sklep z półkami": [
     {
-      "date": "2026-11-23 09:07",
-      "price": "120 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-23 09:07",
-      "price": "105 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-23 09:47",
       "price": "120 zł",
       "note": "Pepco.pl"
@@ -3959,6 +3949,16 @@
     },
     {
       "date": "2026-11-23 18:46",
+      "price": "105 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-23 19:53",
+      "price": "120 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-23 19:53",
       "price": "105 zł",
       "note": "Pepco.pl"
     }
@@ -4303,6 +4303,21 @@
     {
       "date": "2026-11-23 09:07",
       "price": "229,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-23 19:53",
+      "price": "129,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-23 19:53",
+      "price": "229,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-23 19:53",
+      "price": "199,99 zł",
       "note": "Rossmann.pl"
     }
   ],
@@ -6985,6 +7000,240 @@
     {
       "date": "2026-11-23 18:46",
       "price": "149,99 zł",
+      "note": "Rossmann.pl"
+    }
+  ],
+  "lenor perełki zapachowe xxl 1 1": [
+    {
+      "date": "2026-11-23 19:53",
+      "price": "17,50zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "bombki choinkowe decoris": [
+    {
+      "date": "2026-11-23 19:53",
+      "price": "27,81zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "einhell odkurzacz pionowy te sv 18": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "699 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-23 19:53",
+      "price": "429 zł",
+      "note": "OBI.pl"
+    }
+  ],
+  "bob snail kalendarz adwentowy z przekąskami": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "59,99 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-23 19:53",
+      "price": "44,99 zł",
+      "note": "Rossmann.pl"
+    }
+  ],
+  "klawiatura gamingowa aula win60 he format": [
+    {
+      "date": "2026-11-23 19:53",
+      "price": "134zł",
+      "note": "Banggood"
+    }
+  ],
+  "lego icons władca pierścieni rivendell 10316": [
+    {
+      "date": "2026-11-23 19:53",
+      "price": "1 689zł",
+      "note": "Allegro"
+    }
+  ],
+  "body z wbudowanym biustonoszem o kroju": [
+    {
+      "date": "2026-11-23 19:53",
+      "price": "47,49zł",
+      "note": "Tezenis"
+    }
+  ],
+  "sukienka mini z dekoltem bardotka błyszcząca": [
+    {
+      "date": "2026-11-23 19:53",
+      "price": "54,50zł",
+      "note": "Bershka"
+    }
+  ],
+  "apple watch ultra 4 czarny": [
+    {
+      "date": "2026-11-23 19:53",
+      "price": "3 499zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "miód nektarowy wielokwiatowy kremowany pasieka tkaczuk": [
+    {
+      "date": "2026-11-23 19:53",
+      "price": "37,07zł",
+      "note": "Allegro"
+    }
+  ],
+  "stojak na słuchawki pad pady rgb": [
+    {
+      "date": "2026-11-23 19:53",
+      "price": "48,18zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "zegarek mechaniczny timex steel turquoise automatic": [
+    {
+      "date": "2026-11-23 19:53",
+      "price": "748zł",
+      "note": "Amazon.de"
+    }
+  ],
+  "shaker z sitkiem corength 300 ml": [
+    {
+      "date": "2026-11-23 19:53",
+      "price": "19,98zł",
+      "note": "Decathlon"
+    }
+  ],
+  "perplexus beast labirynt kulkowy 3d kula": [
+    {
+      "date": "2026-11-23 19:53",
+      "price": "46,59zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "koszulka fuji pitbull": [
+    {
+      "date": "2026-11-23 19:53",
+      "price": "49zł",
+      "note": "Pitbull"
+    }
+  ],
+  "uno elite formuła 1 2025 edycja": [
+    {
+      "date": "2026-11-23 19:53",
+      "price": "19,99zł",
+      "note": "Smyk"
+    }
+  ],
+  "buty do biegania damskie nike revolution": [
+    {
+      "date": "2026-11-23 19:53",
+      "price": "199,99zł",
+      "note": "Nike"
+    }
+  ],
+  "kurtka zimowa pitbull pikowana z kapturem": [
+    {
+      "date": "2026-11-23 19:53",
+      "price": "199zł",
+      "note": "Pitbull"
+    }
+  ],
+  "gra marvel s guardians of the": [
+    {
+      "date": "2026-11-23 19:53",
+      "price": "129,99zł",
+      "note": "MediaMarkt"
+    }
+  ],
+  "parkside kółka meblowe zestaw 8szt": [
+    {
+      "date": "2026-11-23 19:53",
+      "price": "7,49zł",
+      "note": "Lidl"
+    }
+  ],
+  "salaterka ceramiczna tuyines duża misa do": [
+    {
+      "date": "2026-11-23 19:53",
+      "price": "49,40zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "naszyjnik z koniczyną stal nierdzewna cyrkonia": [
+    {
+      "date": "2026-11-23 19:53",
+      "price": "5,68zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "gra batman arkham collection ps4": [
+    {
+      "date": "2026-11-23 19:53",
+      "price": "25,90zł",
+      "note": "PlayStation Store"
+    }
+  ],
+  "słuchawki bose quietcomfort czarne": [
+    {
+      "date": "2026-11-23 19:53",
+      "price": "685,64zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "parkside wiertarka stołowa ptbmod 710 d4": [
+    {
+      "date": "2026-11-23 19:53",
+      "price": "379zł",
+      "note": "Lidl"
+    }
+  ],
+  "msi zasilacz mag a1250gl pcie5 1250w": [
+    {
+      "date": "2026-11-23 19:53",
+      "price": "599zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "wkładki z podparciem łuku stopy 2": [
+    {
+      "date": "2026-11-23 19:53",
+      "price": "5,46zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "gra divinity original sin the source": [
+    {
+      "date": "2026-11-23 19:53",
+      "price": "38,34zł",
+      "note": "Steam"
+    }
+  ],
+  "bransoletki damskie mikovivi 3 szt złote": [
+    {
+      "date": "2026-11-23 19:53",
+      "price": "5,92zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "odżywka do włosów alfaparf semi di": [
+    {
+      "date": "2026-11-23 19:53",
+      "price": "67,97zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "zestaw rzutek koto tribute darts czarne": [
+    {
+      "date": "2026-11-23 19:53",
+      "price": "27,16zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "mugler woda perfumowana dla kobiet z": [
+    {
+      "date": "2026-11-23 19:53",
+      "price": "299,99 zł",
       "note": "Rossmann.pl"
     }
   ]
