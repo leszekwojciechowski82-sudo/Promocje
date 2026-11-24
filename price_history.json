@@ -3561,6 +3561,16 @@
       "date": "2026-11-24 16:37",
       "price": "53,52 zł",
       "note": "Lidl.pl"
+    },
+    {
+      "date": "2026-11-24 17:43",
+      "price": "52,72 zł",
+      "note": "Lidl.pl"
+    },
+    {
+      "date": "2026-11-24 17:43",
+      "price": "53,52 zł",
+      "note": "Lidl.pl"
     }
   ],
   "aldi mięso z uda indyka na": [
@@ -3684,16 +3694,6 @@
   ],
   "pepco maskotka ludzik piernikowy": [
     {
-      "date": "2026-11-24 05:32",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-24 05:32",
-      "price": "50 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-24 06:53",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3780,22 +3780,22 @@
     },
     {
       "date": "2026-11-24 16:37",
+      "price": "50 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 17:43",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 17:43",
       "price": "50 zł",
       "note": "Pepco.pl"
     }
   ],
   "pepco dekoracja tekstylna mini ludzik piernikowy": [
     {
-      "date": "2026-11-24 05:32",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-24 05:32",
-      "price": "10 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-24 06:53",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3882,6 +3882,16 @@
     },
     {
       "date": "2026-11-24 16:37",
+      "price": "10 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 17:43",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 17:43",
       "price": "10 zł",
       "note": "Pepco.pl"
     }
@@ -3993,16 +4003,6 @@
   ],
   "pepco zabawkowy sklep z półkami": [
     {
-      "date": "2026-11-24 05:32",
-      "price": "120 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-24 05:32",
-      "price": "105 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-24 06:53",
       "price": "120 zł",
       "note": "Pepco.pl"
@@ -4089,6 +4089,16 @@
     },
     {
       "date": "2026-11-24 16:37",
+      "price": "105 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 17:43",
+      "price": "120 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 17:43",
       "price": "105 zł",
       "note": "Pepco.pl"
     }
@@ -4431,21 +4441,6 @@
   ],
   "calvin klein woda perfumowana dla kobiet": [
     {
-      "date": "2026-11-24 09:38",
-      "price": "129,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
-      "date": "2026-11-24 09:38",
-      "price": "199,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
-      "date": "2026-11-24 10:46",
-      "price": "229,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
       "date": "2026-11-24 10:46",
       "price": "129,99 zł",
       "note": "Rossmann.pl"
@@ -4527,6 +4522,21 @@
     },
     {
       "date": "2026-11-24 16:37",
+      "price": "199,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-24 17:43",
+      "price": "129,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-24 17:43",
+      "price": "229,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-24 17:43",
       "price": "199,99 zł",
       "note": "Rossmann.pl"
     }
@@ -11283,6 +11293,221 @@
       "date": "2026-11-24 16:37",
       "price": "769zł",
       "note": "eSky.pl"
+    }
+  ],
+  "owoce kaki 1 1 gratis 2": [
+    {
+      "date": "2026-11-24 17:43",
+      "price": "2,49zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "krewetki gotowane marinero 250g 1 1": [
+    {
+      "date": "2026-11-24 17:43",
+      "price": "10,99zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "kawa ziarnista dallmayr home barista 1": [
+    {
+      "date": "2026-11-24 17:43",
+      "price": "39,99zł",
+      "note": "Biedronka"
+    }
+  ],
+  "praliny toffifee 200 g 7 99": [
+    {
+      "date": "2026-11-24 17:43",
+      "price": "7,99zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "ser mozzarella delikate 125 g 1": [
+    {
+      "date": "2026-11-24 17:43",
+      "price": "1,49zł",
+      "note": "Biedronka"
+    }
+  ],
+  "papier toaletowy queen supreme 9 rolek": [
+    {
+      "date": "2026-11-24 17:43",
+      "price": "10zł",
+      "note": "Biedronka"
+    }
+  ],
+  "napój energetyczny red bull 250 ml": [
+    {
+      "date": "2026-11-24 17:43",
+      "price": "3,25zł",
+      "note": "Biedronka"
+    }
+  ],
+  "lego kalendarz adwentowy z klockami 317": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "139,99 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-24 17:43",
+      "price": "99,99 zł",
+      "note": "Rossmann.pl"
+    }
+  ],
+  "asics novablast 6": [
+    {
+      "date": "2026-11-24 17:43",
+      "price": "461zł",
+      "note": "Zalando"
+    }
+  ],
+  "kinder maxi 42g biedronka": [
+    {
+      "date": "2026-11-24 17:43",
+      "price": "0,99zł",
+      "note": "Biedronka"
+    }
+  ],
+  "koc elektryczny cecotec 180 130 cm": [
+    {
+      "date": "2026-11-24 17:43",
+      "price": "69,99zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "bezprzewodowy mop parowy tineco floor one": [
+    {
+      "date": "2026-11-24 17:43",
+      "price": "937,90zł",
+      "note": "AliExpress"
+    }
+  ],
+  "żwirek drewniany zbrylający cat s best": [
+    {
+      "date": "2026-11-24 17:43",
+      "price": "62,99zł",
+      "note": "InPost"
+    }
+  ],
+  "znajdź sprzedawcę choinek na mapie": [
+    {
+      "date": "2026-11-24 17:43",
+      "price": "46zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "lalka barbie w stroju w groszki": [
+    {
+      "date": "2026-11-24 17:43",
+      "price": "22,49zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "schwiizer sch mli crema mild kawa": [
+    {
+      "date": "2026-11-24 17:43",
+      "price": "58,66zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "breville barista max vcf126x ekspres do": [
+    {
+      "date": "2026-11-24 17:43",
+      "price": "902zł",
+      "note": "Amazon.it"
+    }
+  ],
+  "the verve urban hymns winyl": [
+    {
+      "date": "2026-11-24 17:43",
+      "price": "94,03zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "woseba bio organic 1kg kawa ziarnista": [
+    {
+      "date": "2026-11-24 17:43",
+      "price": "69,99zł",
+      "note": "Allegro"
+    }
+  ],
+  "banany 1 kg luz w aldi": [
+    {
+      "date": "2026-11-24 17:43",
+      "price": "2,99zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "banany kg biedronka": [
+    {
+      "date": "2026-11-24 17:43",
+      "price": "2,99zł",
+      "note": "Biedronka"
+    }
+  ],
+  "only duża torebka damska czarna shopperka": [
+    {
+      "date": "2026-11-24 17:43",
+      "price": "39,99zł",
+      "note": "Allegro"
+    }
+  ],
+  "słuchawki przewodowe fresh n rebel flow": [
+    {
+      "date": "2026-11-24 17:43",
+      "price": "17,99zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "cytryny 4 99 zł kg biedronka": [
+    {
+      "date": "2026-11-24 17:43",
+      "price": "4,99zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "nous a7z gniazdko zigbee z pomiarem": [
+    {
+      "date": "2026-11-24 17:43",
+      "price": "111zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "victorinox swiss classic pikutek zestaw 6": [
+    {
+      "date": "2026-11-24 17:43",
+      "price": "106,05zł",
+      "note": "Amazon.de"
+    }
+  ],
+  "filet z kurczaka 14 99 zł": [
+    {
+      "date": "2026-11-24 17:43",
+      "price": "14,99zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "miód balsam do ust ministerstwo": [
+    {
+      "date": "2026-11-24 17:43",
+      "price": "37,50zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "jaja z chowu ściółkowego moja kurka": [
+    {
+      "date": "2026-11-24 17:43",
+      "price": "5,49zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "yves saint laurent perfumy dla kobiet": [
+    {
+      "date": "2026-11-24 17:43",
+      "price": "429,99 zł",
+      "note": "Rossmann.pl"
     }
   ]
 }
