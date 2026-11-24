@@ -3571,6 +3571,16 @@
       "date": "2026-11-24 17:43",
       "price": "53,52 zł",
       "note": "Lidl.pl"
+    },
+    {
+      "date": "2026-11-24 18:44",
+      "price": "52,72 zł",
+      "note": "Lidl.pl"
+    },
+    {
+      "date": "2026-11-24 18:44",
+      "price": "53,52 zł",
+      "note": "Lidl.pl"
     }
   ],
   "aldi mięso z uda indyka na": [
@@ -3694,16 +3704,6 @@
   ],
   "pepco maskotka ludzik piernikowy": [
     {
-      "date": "2026-11-24 06:53",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-24 06:53",
-      "price": "50 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-24 08:19",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3790,22 +3790,22 @@
     },
     {
       "date": "2026-11-24 17:43",
+      "price": "50 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 18:44",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 18:44",
       "price": "50 zł",
       "note": "Pepco.pl"
     }
   ],
   "pepco dekoracja tekstylna mini ludzik piernikowy": [
     {
-      "date": "2026-11-24 06:53",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-24 06:53",
-      "price": "10 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-24 08:19",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3892,6 +3892,16 @@
     },
     {
       "date": "2026-11-24 17:43",
+      "price": "10 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 18:44",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 18:44",
       "price": "10 zł",
       "note": "Pepco.pl"
     }
@@ -4003,16 +4013,6 @@
   ],
   "pepco zabawkowy sklep z półkami": [
     {
-      "date": "2026-11-24 06:53",
-      "price": "120 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-24 06:53",
-      "price": "105 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-24 08:19",
       "price": "120 zł",
       "note": "Pepco.pl"
@@ -4099,6 +4099,16 @@
     },
     {
       "date": "2026-11-24 17:43",
+      "price": "105 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 18:44",
+      "price": "120 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 18:44",
       "price": "105 zł",
       "note": "Pepco.pl"
     }
@@ -4442,11 +4452,6 @@
   "calvin klein woda perfumowana dla kobiet": [
     {
       "date": "2026-11-24 10:46",
-      "price": "129,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
-      "date": "2026-11-24 10:46",
       "price": "199,99 zł",
       "note": "Rossmann.pl"
     },
@@ -4538,6 +4543,11 @@
     {
       "date": "2026-11-24 17:43",
       "price": "199,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-24 18:44",
+      "price": "129,99 zł",
       "note": "Rossmann.pl"
     }
   ],
@@ -11501,12 +11511,220 @@
       "date": "2026-11-24 17:43",
       "price": "5,49zł",
       "note": "Pepper.pl"
+    },
+    {
+      "date": "2026-11-24 18:44",
+      "price": "1zł",
+      "note": "Pepper.pl"
     }
   ],
   "yves saint laurent perfumy dla kobiet": [
     {
       "date": "2026-11-24 17:43",
       "price": "429,99 zł",
+      "note": "Rossmann.pl"
+    }
+  ],
+  "lodówka midea mdrs925cie46m pełny no frost": [
+    {
+      "date": "2026-11-24 18:44",
+      "price": "1 139,70zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "irobot roomb 675 combo": [
+    {
+      "date": "2026-11-24 18:44",
+      "price": "1 772,40zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "cypr pafos chlorakas 4 dni bez": [
+    {
+      "date": "2026-11-24 18:44",
+      "price": "539zł",
+      "note": "eSky.pl"
+    }
+  ],
+  "automatyczny robot do mycia szyb just": [
+    {
+      "date": "2026-11-24 18:44",
+      "price": "167,59zł",
+      "note": "AliExpress"
+    }
+  ],
+  "crema aroma 1kg": [
+    {
+      "date": "2026-11-24 18:44",
+      "price": "32,99zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "biowin szynkowar słuszny kęs 1 5kg": [
+    {
+      "date": "2026-11-24 18:44",
+      "price": "52,15zł",
+      "note": "Allegro"
+    }
+  ],
+  "konsola nintendo switch 2 the legend": [
+    {
+      "date": "2026-11-24 18:44",
+      "price": "2 503,92zł",
+      "note": "Morele.net"
+    }
+  ],
+  "szybka ładowarka gan sitecom usb c": [
+    {
+      "date": "2026-11-24 18:44",
+      "price": "29,99zł",
+      "note": "Action"
+    }
+  ],
+  "saturator sodastream terra czarny 2 x": [
+    {
+      "date": "2026-11-24 18:44",
+      "price": "199zł",
+      "note": "Allegro"
+    }
+  ],
+  "zestaw yerba mate green 10x50g matero": [
+    {
+      "date": "2026-11-24 18:44",
+      "price": "42,99zł",
+      "note": "Allegro"
+    }
+  ],
+  "koszule martin moore made in poland": [
+    {
+      "date": "2026-11-24 18:44",
+      "price": "114,40zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "farba tablicowa czarna deco chat 250ml": [
+    {
+      "date": "2026-11-24 18:44",
+      "price": "9,99zł",
+      "note": "ALDI"
+    }
+  ],
+  "krem pod oczy l oreal paris": [
+    {
+      "date": "2026-11-24 18:44",
+      "price": "34,19zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "18szt zamienne uszczelki do sodastream silikonowa": [
+    {
+      "date": "2026-11-24 18:44",
+      "price": "10,99zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "koszule martin moore": [
+    {
+      "date": "2026-11-24 18:44",
+      "price": "114,40zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "2 duże ręczniki do wycierania zwierząt": [
+    {
+      "date": "2026-11-24 18:44",
+      "price": "15,19zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "mortal kombat 1 ps5 ps store": [
+    {
+      "date": "2026-11-24 18:44",
+      "price": "32,85zł",
+      "note": "PlayStation Store"
+    }
+  ],
+  "zestaw na prezent l oreal revitalift": [
+    {
+      "date": "2026-11-24 18:44",
+      "price": "82,74zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "gra hades pc steam": [
+    {
+      "date": "2026-11-24 18:44",
+      "price": "28,74zł",
+      "note": "Steam"
+    }
+  ],
+  "makita d 72877 tct zestaw wierteł": [
+    {
+      "date": "2026-11-24 18:44",
+      "price": "18,45zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "rexel 6131 zszywki srebrny 1000 sztuk": [
+    {
+      "date": "2026-11-24 18:44",
+      "price": "2,77zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "komputer gamingowy 7500f rtx 5060ti 16gb": [
+    {
+      "date": "2026-11-24 18:44",
+      "price": "4 899zł",
+      "note": "KRSystem"
+    }
+  ],
+  "konsola sony playstation 5 pro": [
+    {
+      "date": "2026-11-24 18:44",
+      "price": "3 275zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "rower szosowy bianchi infinito 105 di2": [
+    {
+      "date": "2026-11-24 18:44",
+      "price": "12 674,25zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "kakao wawel 150g": [
+    {
+      "date": "2026-11-24 18:44",
+      "price": "9,45zł",
+      "note": "Auchan"
+    }
+  ],
+  "yves saint laurent libre intense pour": [
+    {
+      "date": "2026-11-24 18:44",
+      "price": "289,99zł",
+      "note": "Allegro"
+    }
+  ],
+  "versace eros najim pour homme perfumy": [
+    {
+      "date": "2026-11-24 18:44",
+      "price": "269,99zł",
+      "note": "Empik"
+    }
+  ],
+  "karta pamięci goodram 32 gb microsdhc": [
+    {
+      "date": "2026-11-24 18:44",
+      "price": "26,99zł",
+      "note": "Empik"
+    }
+  ],
+  "jaguar woda toaletowa dla mężczyzn": [
+    {
+      "date": "2026-11-24 18:44",
+      "price": "89,99 zł",
       "note": "Rossmann.pl"
     }
   ]
