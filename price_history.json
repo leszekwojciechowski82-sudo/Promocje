@@ -3594,16 +3594,6 @@
   ],
   "pepco maskotka ludzik piernikowy": [
     {
-      "date": "2026-11-23 19:53",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-23 19:53",
-      "price": "50 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-23 20:40",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3690,22 +3680,22 @@
     },
     {
       "date": "2026-11-24 05:32",
+      "price": "50 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 06:53",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 06:53",
       "price": "50 zł",
       "note": "Pepco.pl"
     }
   ],
   "pepco dekoracja tekstylna mini ludzik piernikowy": [
     {
-      "date": "2026-11-23 19:53",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-23 19:53",
-      "price": "10 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-23 20:40",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3792,6 +3782,16 @@
     },
     {
       "date": "2026-11-24 05:32",
+      "price": "10 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 06:53",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 06:53",
       "price": "10 zł",
       "note": "Pepco.pl"
     }
@@ -3903,16 +3903,6 @@
   ],
   "pepco zabawkowy sklep z półkami": [
     {
-      "date": "2026-11-23 19:53",
-      "price": "120 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-23 19:53",
-      "price": "105 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-23 20:40",
       "price": "120 zł",
       "note": "Pepco.pl"
@@ -3999,6 +3989,16 @@
     },
     {
       "date": "2026-11-24 05:32",
+      "price": "105 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 06:53",
+      "price": "120 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 06:53",
       "price": "105 zł",
       "note": "Pepco.pl"
     }
@@ -4341,21 +4341,6 @@
   ],
   "calvin klein woda perfumowana dla kobiet": [
     {
-      "date": "2026-11-23 22:41",
-      "price": "229,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
-      "date": "2026-11-23 22:41",
-      "price": "199,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
-      "date": "2026-11-23 23:39",
-      "price": "129,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
       "date": "2026-11-23 23:39",
       "price": "229,99 zł",
       "note": "Rossmann.pl"
@@ -4437,6 +4422,21 @@
     },
     {
       "date": "2026-11-24 05:32",
+      "price": "199,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-24 06:53",
+      "price": "129,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-24 06:53",
+      "price": "229,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-24 06:53",
       "price": "199,99 zł",
       "note": "Rossmann.pl"
     }
@@ -5908,6 +5908,11 @@
     }
   ],
   "livarno komplet 2 poszewek na poduszki": [
+    {
+      "date": "przed promocją",
+      "price": "9,98 zł",
+      "note": "przed promocją"
+    },
     {
       "date": "30 dni przed obniżką",
       "price": "9,98 zł",
@@ -8907,6 +8912,167 @@
       "date": "2026-11-24 05:32",
       "price": "1 799zł",
       "note": "RTV Euro AGD"
+    }
+  ],
+  "seria dark souls 50 na steam": [
+    {
+      "date": "2026-11-24 06:53",
+      "price": "99,99zł",
+      "note": "Steam"
+    }
+  ],
+  "nintendo alarmo": [
+    {
+      "date": "2026-11-24 06:53",
+      "price": "219,90zł",
+      "note": "Rozetka"
+    }
+  ],
+  "laptop gamingowy asus tuf gaming a16": [
+    {
+      "date": "2026-11-24 06:53",
+      "price": "1 589zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "armani stronger with you powerfully woda": [
+    {
+      "date": "2026-11-24 06:53",
+      "price": "276,43zł",
+      "note": "parfumdreams.de"
+    }
+  ],
+  "monsieur cuisine compact lidlomix wersja mini": [
+    {
+      "date": "2026-11-24 06:53",
+      "price": "649zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "słuchawki asus rog pelta core czarne": [
+    {
+      "date": "2026-11-24 06:53",
+      "price": "299zł",
+      "note": "Komputronik"
+    }
+  ],
+  "nakładka do gotowania na parze waroma": [
+    {
+      "date": "2026-11-24 06:53",
+      "price": "34,50zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "ninntendo talking flower": [
+    {
+      "date": "2026-11-24 06:53",
+      "price": "69,89zł",
+      "note": "Empik"
+    }
+  ],
+  "głośnik bluetooth anker soundcore 3 szary": [
+    {
+      "date": "2026-11-24 06:53",
+      "price": "129zł",
+      "note": "Allegro"
+    }
+  ],
+  "laser krzyżowy parkside w kaufland": [
+    {
+      "date": "2026-11-24 06:53",
+      "price": "49,99zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "gra forza horizon 6": [
+    {
+      "date": "2026-11-24 06:53",
+      "price": "224,25zł",
+      "note": "Steam"
+    }
+  ],
+  "kask rowerowy bolle react mips wszystkie": [
+    {
+      "date": "2026-11-24 06:53",
+      "price": "145zł",
+      "note": "Private Sport Shop"
+    }
+  ],
+  "chanel allure homme sport woda toaletowa": [
+    {
+      "date": "2026-11-24 06:53",
+      "price": "491zł",
+      "note": "Flaconi"
+    }
+  ],
+  "gra gta san andreas definitive android": [
+    {
+      "date": "2026-11-24 06:53",
+      "price": "45zł",
+      "note": "Google Play"
+    }
+  ],
+  "brennenstuhl wysokiej jakości gumowy przedłużacz 25": [
+    {
+      "date": "2026-11-24 06:53",
+      "price": "110,96zł",
+      "note": "Amazon.de"
+    }
+  ],
+  "panel led yeelight smart cube light": [
+    {
+      "date": "2026-11-24 06:53",
+      "price": "39zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "gra red dead redemption pc 1879": [
+    {
+      "date": "2026-11-24 06:53",
+      "price": "60,58zł",
+      "note": "Xbox"
+    }
+  ],
+  "ekspozycja laptop gamingowy hp omen 17": [
+    {
+      "date": "2026-11-24 06:53",
+      "price": "2 549zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "procesor amd ryzen 5700x 153 33": [
+    {
+      "date": "2026-11-24 06:53",
+      "price": "625,59zł",
+      "note": "AliExpress"
+    }
+  ],
+  "laptop hp victus rtx5060": [
+    {
+      "date": "2026-11-24 06:53",
+      "price": "1 999zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "canyon shadder gkw 11 mechanic rgb": [
+    {
+      "date": "2026-11-24 06:53",
+      "price": "99zł",
+      "note": "x-kom"
+    }
+  ],
+  "baseus enerfill ładowarka usb c 100w": [
+    {
+      "date": "2026-11-24 06:53",
+      "price": "119zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "zestaw narzędzi do mechaniki precyzyjnej i": [
+    {
+      "date": "2026-11-24 06:53",
+      "price": "190,58zł",
+      "note": "Amazon.de"
     }
   ]
 }
