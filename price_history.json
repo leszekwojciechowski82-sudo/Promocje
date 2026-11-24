@@ -3104,6 +3104,11 @@
   ],
   "aldi pomidory mięsiste": [
     {
+      "date": "przed promocją",
+      "price": "15,99 zł",
+      "note": "przed promocją"
+    },
+    {
       "date": "30 dni przed obniżką",
       "price": "15,99 zł",
       "note": "Najniższa z 30 dni (Omnibus)"
@@ -3516,6 +3521,16 @@
       "date": "2026-11-24 11:46",
       "price": "53,52 zł",
       "note": "Lidl.pl"
+    },
+    {
+      "date": "2026-11-24 12:55",
+      "price": "52,72 zł",
+      "note": "Lidl.pl"
+    },
+    {
+      "date": "2026-11-24 12:55",
+      "price": "53,52 zł",
+      "note": "Lidl.pl"
     }
   ],
   "aldi mięso z uda indyka na": [
@@ -3639,16 +3654,6 @@
   ],
   "pepco maskotka ludzik piernikowy": [
     {
-      "date": "2026-11-24 00:43",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-24 00:43",
-      "price": "50 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-24 02:04",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3735,22 +3740,22 @@
     },
     {
       "date": "2026-11-24 11:46",
+      "price": "50 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 12:55",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 12:55",
       "price": "50 zł",
       "note": "Pepco.pl"
     }
   ],
   "pepco dekoracja tekstylna mini ludzik piernikowy": [
     {
-      "date": "2026-11-24 00:43",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-24 00:43",
-      "price": "10 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-24 02:04",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3837,6 +3842,16 @@
     },
     {
       "date": "2026-11-24 11:46",
+      "price": "10 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 12:55",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 12:55",
       "price": "10 zł",
       "note": "Pepco.pl"
     }
@@ -3948,16 +3963,6 @@
   ],
   "pepco zabawkowy sklep z półkami": [
     {
-      "date": "2026-11-24 00:43",
-      "price": "120 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-24 00:43",
-      "price": "105 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-24 02:04",
       "price": "120 zł",
       "note": "Pepco.pl"
@@ -4044,6 +4049,16 @@
     },
     {
       "date": "2026-11-24 11:46",
+      "price": "105 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 12:55",
+      "price": "120 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 12:55",
       "price": "105 zł",
       "note": "Pepco.pl"
     }
@@ -4386,21 +4401,6 @@
   ],
   "calvin klein woda perfumowana dla kobiet": [
     {
-      "date": "2026-11-24 04:30",
-      "price": "229,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
-      "date": "2026-11-24 04:30",
-      "price": "199,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
-      "date": "2026-11-24 05:32",
-      "price": "129,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
       "date": "2026-11-24 05:32",
       "price": "229,99 zł",
       "note": "Rossmann.pl"
@@ -4482,6 +4482,21 @@
     },
     {
       "date": "2026-11-24 11:46",
+      "price": "199,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-24 12:55",
+      "price": "229,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-24 12:55",
+      "price": "129,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-24 12:55",
       "price": "199,99 zł",
       "note": "Rossmann.pl"
     }
@@ -9469,6 +9484,11 @@
       "date": "2026-11-24 09:38",
       "price": "109 zł",
       "note": "Smyk.com"
+    },
+    {
+      "date": "2026-11-24 12:55",
+      "price": "159,99 zł",
+      "note": "Smyk.com"
     }
   ],
   "cool club czapka z daszkiem chłopięca": [
@@ -9539,6 +9559,16 @@
     {
       "date": "2026-11-24 10:46",
       "price": "57 zł",
+      "note": "Smyk.com"
+    },
+    {
+      "date": "2026-11-24 12:55",
+      "price": "21 zł",
+      "note": "Smyk.com"
+    },
+    {
+      "date": "2026-11-24 12:55",
+      "price": "59,99 zł",
       "note": "Smyk.com"
     }
   ],
@@ -10046,6 +10076,11 @@
   ],
   "velvet ręcznik papierowy 3 warstwowe": [
     {
+      "date": "przed promocją",
+      "price": "12,99 zł",
+      "note": "przed promocją"
+    },
+    {
       "date": "30 dni przed obniżką",
       "price": "12,99 zł",
       "note": "Najniższa z 30 dni (Omnibus)"
@@ -10215,6 +10250,344 @@
       "date": "2026-11-24 11:46",
       "price": "49,99zł",
       "note": "IKEA"
+    }
+  ],
+  "cool club kapcie chłopięce slip on": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "59,99 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-24 12:55",
+      "price": "34 zł",
+      "note": "Smyk.com"
+    }
+  ],
+  "cool club majtki bokserki chłopięce mix": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "69,99 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-24 12:55",
+      "price": "49 zł",
+      "note": "Smyk.com"
+    }
+  ],
+  "tronic zestaw 8 akumulatorków": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "35,99 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-24 12:55",
+      "price": "24,99 zł",
+      "note": "Lidl.pl"
+    }
+  ],
+  "cool club podkoszulek chłopięcy biały szary": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "29,99 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-24 12:55",
+      "price": "21 zł",
+      "note": "Smyk.com"
+    }
+  ],
+  "cool club kurtka dziewczęca z kapturem": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "49 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-24 12:55",
+      "price": "35 zł",
+      "note": "Smyk.com"
+    }
+  ],
+  "15 na torby i plecaki sparco": [
+    {
+      "date": "2026-11-24 12:55",
+      "price": "686zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "słuchawki powietrzne huawei freearc możliwe 254": [
+    {
+      "date": "2026-11-24 12:55",
+      "price": "299,99zł",
+      "note": "Huawei"
+    }
+  ],
+  "etui na tablet xiaomi do pad": [
+    {
+      "date": "2026-11-24 12:55",
+      "price": "2zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "ekspres ciśnieniowy de longhi magnifica s": [
+    {
+      "date": "2026-11-24 12:55",
+      "price": "945,99zł",
+      "note": "MediaMarkt"
+    }
+  ],
+  "gilotyna papierowa a4 nożyce frez maksymalna": [
+    {
+      "date": "2026-11-24 12:55",
+      "price": "19zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "buty unisex puma st runner v2": [
+    {
+      "date": "2026-11-24 12:55",
+      "price": "143,99zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "pad sony dualsense czarny kabel usb": [
+    {
+      "date": "2026-11-24 12:55",
+      "price": "259,99zł",
+      "note": "Media Expert"
+    }
+  ],
+  "elden ring pl playstation 5 gra": [
+    {
+      "date": "2026-11-24 12:55",
+      "price": "91,87zł",
+      "note": "Allegro"
+    }
+  ],
+  "monopoly kraków dostępne z empik premium": [
+    {
+      "date": "2026-11-24 12:55",
+      "price": "73,79zł",
+      "note": "Empik"
+    }
+  ],
+  "cien żel lub peeling do twarzy": [
+    {
+      "date": "2026-11-24 12:55",
+      "price": "2,34zł",
+      "note": "Lidl"
+    }
+  ],
+  "wodoodporna i ciepła kurtka turystyczna męska": [
+    {
+      "date": "2026-11-24 12:55",
+      "price": "299,99zł",
+      "note": "Decathlon"
+    }
+  ],
+  "cien chusteczki do demakijażu 25 szt": [
+    {
+      "date": "2026-11-24 12:55",
+      "price": "1,34zł",
+      "note": "Lidl"
+    }
+  ],
+  "kolumny pylon audio ruby 30 cena": [
+    {
+      "date": "2026-11-24 12:55",
+      "price": "4 899zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "karty podarunkowe zalando 200zł": [
+    {
+      "date": "2026-11-24 12:55",
+      "price": "200zł",
+      "note": "Allegro"
+    }
+  ],
+  "świetlna wianek bożonarodzeniowy 33cm": [
+    {
+      "date": "2026-11-24 12:55",
+      "price": "49,99zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "layers of fear the final masterpiece": [
+    {
+      "date": "2026-11-24 12:55",
+      "price": "149,31zł",
+      "note": "UNIBLO"
+    }
+  ],
+  "projektor blackview pv1000 max szary": [
+    {
+      "date": "2026-11-24 12:55",
+      "price": "1 181zł",
+      "note": "MediaMarkt"
+    }
+  ],
+  "marion serum i maska w płachcie": [
+    {
+      "date": "2026-11-24 12:55",
+      "price": "1,79zł",
+      "note": "Lidl"
+    }
+  ],
+  "kamera sferyczna insta360 x5 essentials bundle": [
+    {
+      "date": "2026-11-24 12:55",
+      "price": "1 999zł",
+      "note": "Media Expert"
+    }
+  ],
+  "siodełko rowerowe wodoodporne oddychające rockbros 4": [
+    {
+      "date": "2026-11-24 12:55",
+      "price": "55,19zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "zamrażarka do zabudowy candy cmt5518evwf 220l": [
+    {
+      "date": "2026-11-24 12:55",
+      "price": "2 089zł",
+      "note": "Media Expert"
+    }
+  ],
+  "avicii forever 2lp winyl": [
+    {
+      "date": "2026-11-24 12:55",
+      "price": "140zł",
+      "note": "Allegro"
+    }
+  ],
+  "męska koszulka merino danish endurance extreme": [
+    {
+      "date": "2026-11-24 12:55",
+      "price": "139,95zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "maskotka simba spidey marvel 25 cm": [
+    {
+      "date": "2026-11-24 12:55",
+      "price": "32,99zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "osram lampa warsztatowa ledinspect pocket200 ledil408": [
+    {
+      "date": "2026-11-24 12:55",
+      "price": "57,73zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "kediers obudowa pc wentylatory x6 pwm": [
+    {
+      "date": "2026-11-24 12:55",
+      "price": "79zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "kontroler sony dualsense biały do playstation": [
+    {
+      "date": "2026-11-24 12:55",
+      "price": "249,99zł",
+      "note": "Avans"
+    }
+  ],
+  "czapka zimowa męska diverse hoker szary": [
+    {
+      "date": "2026-11-24 12:55",
+      "price": "38,77zł",
+      "note": "Allegro"
+    }
+  ],
+  "sweter męski velilla seria 100 ze": [
+    {
+      "date": "2026-11-24 12:55",
+      "price": "41,43zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "oczyszczacz powietrza z nawilżaczem combo z": [
+    {
+      "date": "2026-11-24 12:55",
+      "price": "$40.3",
+      "note": "Aliexpress.com"
+    }
+  ],
+  "cool club skarpetki chłopięce mix zestaw": [
+    {
+      "date": "2026-11-24 12:55",
+      "price": "29,99 zł",
+      "note": "Smyk.com"
+    }
+  ],
+  "cool club kombinezon dziewczęcy z kapturem": [
+    {
+      "date": "2026-11-24 12:55",
+      "price": "159,99 zł",
+      "note": "Smyk.com"
+    }
+  ],
+  "cool club antypoślizgowe skarpetki dziewczęce mix": [
+    {
+      "date": "2026-11-24 12:55",
+      "price": "29,99 zł",
+      "note": "Smyk.com"
+    }
+  ],
+  "cool club czapka chłopięca z pomponem": [
+    {
+      "date": "2026-11-24 12:55",
+      "price": "39,99 zł",
+      "note": "Smyk.com"
+    }
+  ],
+  "cool club rękawiczki narciarskie chłopięce na": [
+    {
+      "date": "2026-11-24 12:55",
+      "price": "49,99 zł",
+      "note": "Smyk.com"
+    }
+  ],
+  "cool club buty zimowe chłopięce ocieplane": [
+    {
+      "date": "2026-11-24 12:55",
+      "price": "149,99 zł",
+      "note": "Smyk.com"
+    },
+    {
+      "date": "2026-11-24 12:55",
+      "price": "159,99 zł",
+      "note": "Smyk.com"
+    }
+  ],
+  "ricokids kolejka magnetyczna tor elektryczny klocki": [
+    {
+      "date": "2026-11-24 12:55",
+      "price": "192,99 zł",
+      "note": "Smyk.com"
+    }
+  ],
+  "connetix ball run launcher pack klocki": [
+    {
+      "date": "2026-11-24 12:55",
+      "price": "204 zł",
+      "note": "Smyk.com"
+    }
+  ],
+  "ricokids klocki magnetyczne świecące 150 elementów": [
+    {
+      "date": "2026-11-24 12:55",
+      "price": "150,99 zł",
+      "note": "Smyk.com"
     }
   ]
 }
