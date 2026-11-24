@@ -2204,6 +2204,16 @@
       "date": "2026-11-22 22:45",
       "price": "54 zł",
       "note": "Smyk.com"
+    },
+    {
+      "date": "2026-11-24 03:18",
+      "price": "59 zł",
+      "note": "Smyk.com"
+    },
+    {
+      "date": "2026-11-24 03:18",
+      "price": "54 zł",
+      "note": "Smyk.com"
     }
   ],
   "barbie dom w malibu zestaw do": [
@@ -2273,6 +2283,16 @@
     },
     {
       "date": "2026-11-23 23:39",
+      "price": "47 zł",
+      "note": "Smyk.com"
+    },
+    {
+      "date": "2026-11-24 03:18",
+      "price": "14 zł",
+      "note": "Smyk.com"
+    },
+    {
+      "date": "2026-11-24 03:18",
       "price": "47 zł",
       "note": "Smyk.com"
     }
@@ -3446,6 +3466,11 @@
       "date": "2026-11-23 09:07",
       "price": "52,72 zł",
       "note": "Lidl.pl"
+    },
+    {
+      "date": "2026-11-24 03:18",
+      "price": "53,52 zł",
+      "note": "Lidl.pl"
     }
   ],
   "aldi mięso z uda indyka na": [
@@ -3569,16 +3594,6 @@
   ],
   "pepco maskotka ludzik piernikowy": [
     {
-      "date": "2026-11-23 16:48",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-23 16:48",
-      "price": "50 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-23 17:49",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3665,22 +3680,22 @@
     },
     {
       "date": "2026-11-24 02:04",
+      "price": "50 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 03:18",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 03:18",
       "price": "50 zł",
       "note": "Pepco.pl"
     }
   ],
   "pepco dekoracja tekstylna mini ludzik piernikowy": [
     {
-      "date": "2026-11-23 16:48",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-23 16:48",
-      "price": "10 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-23 17:49",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3767,6 +3782,16 @@
     },
     {
       "date": "2026-11-24 02:04",
+      "price": "10 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 03:18",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 03:18",
       "price": "10 zł",
       "note": "Pepco.pl"
     }
@@ -3878,16 +3903,6 @@
   ],
   "pepco zabawkowy sklep z półkami": [
     {
-      "date": "2026-11-23 16:48",
-      "price": "120 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-23 16:48",
-      "price": "105 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-23 17:49",
       "price": "120 zł",
       "note": "Pepco.pl"
@@ -3974,6 +3989,16 @@
     },
     {
       "date": "2026-11-24 02:04",
+      "price": "105 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 03:18",
+      "price": "120 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 03:18",
       "price": "105 zł",
       "note": "Pepco.pl"
     }
@@ -4316,21 +4341,6 @@
   ],
   "calvin klein woda perfumowana dla kobiet": [
     {
-      "date": "2026-11-23 19:53",
-      "price": "229,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
-      "date": "2026-11-23 19:53",
-      "price": "199,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
-      "date": "2026-11-23 20:40",
-      "price": "129,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
       "date": "2026-11-23 20:40",
       "price": "229,99 zł",
       "note": "Rossmann.pl"
@@ -4412,6 +4422,21 @@
     },
     {
       "date": "2026-11-24 02:04",
+      "price": "199,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-24 03:18",
+      "price": "129,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-24 03:18",
+      "price": "229,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-24 03:18",
       "price": "199,99 zł",
       "note": "Rossmann.pl"
     }
@@ -8386,6 +8411,275 @@
     {
       "date": "2026-11-24 02:04",
       "price": "99zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "karta pamięci sandisk ultra go microsdxc": [
+    {
+      "date": "2026-11-24 03:18",
+      "price": "600zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "nawilżacz ewaporacyjny vestfrost vp h2i60wh higrostat": [
+    {
+      "date": "2026-11-24 03:18",
+      "price": "499zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "lodówka electrolux 800 lnt7me36g2 inteligentny no": [
+    {
+      "date": "2026-11-24 03:18",
+      "price": "1 049,70zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "lodówka amica fy3279 6gdfb pełny no": [
+    {
+      "date": "2026-11-24 03:18",
+      "price": "989,70zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "lodówka samsung rb38t607bs9 pełny no frost": [
+    {
+      "date": "2026-11-24 03:18",
+      "price": "989,70zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "lodówka samsung bespoke rb38c7b6cap funkcje ai": [
+    {
+      "date": "2026-11-24 03:18",
+      "price": "869,70zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "lodówka dreame drb450wmbceu pełny no frost": [
+    {
+      "date": "2026-11-24 03:18",
+      "price": "689,70zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "livarno lampa led do łazienki 33": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "82,90 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-24 03:18",
+      "price": "23 zł",
+      "note": "Lidl.pl"
+    }
+  ],
+  "silvercrest frytkownica beztłuszczowa air fryer 2000": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "249 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-24 03:18",
+      "price": "124,50 zł",
+      "note": "Lidl.pl"
+    }
+  ],
+  "silvercrest tortownica keksówka forma do babki": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "19,99 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-24 03:18",
+      "price": "11,99 zł",
+      "note": "Lidl.pl"
+    }
+  ],
+  "parkside performance myjka wysokociśnieniowa phdp 180": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "1299 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-24 03:18",
+      "price": "899 zł",
+      "note": "Lidl.pl"
+    }
+  ],
+  "livarno zestaw mebli dziecięcych": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "139 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-24 03:18",
+      "price": "85,99 zł",
+      "note": "Lidl.pl"
+    }
+  ],
+  "cool club piżama chłopięca mix lilo": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "59,99 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-24 03:18",
+      "price": "39 zł",
+      "note": "Smyk.com"
+    }
+  ],
+  "crivit namiot rodzinny 4 osobowy": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "439 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-24 03:18",
+      "price": "307,30 zł",
+      "note": "Lidl.pl"
+    }
+  ],
+  "crivit szorty funkcyjne damskie": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "25,99 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-24 03:18",
+      "price": "18,19 zł",
+      "note": "Lidl.pl"
+    }
+  ],
+  "ultimate speed zestaw 2 podpórek samochodowych": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "69,90 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-24 03:18",
+      "price": "59 zł",
+      "note": "Lidl.pl"
+    }
+  ],
+  "girlanda led govee h7025 15m": [
+    {
+      "date": "2026-11-24 03:18",
+      "price": "149zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "taśma led govee h61a8 10m": [
+    {
+      "date": "2026-11-24 03:18",
+      "price": "222zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "kuchnia elektryczna amica": [
+    {
+      "date": "2026-11-24 03:18",
+      "price": "644,70zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "laptop gamingowy hp victus 15 15": [
+    {
+      "date": "2026-11-24 03:18",
+      "price": "1 999zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "płyta gazowa smeg cortina sr76po 60cm": [
+    {
+      "date": "2026-11-24 03:18",
+      "price": "584,70zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "kurtyna govee h70bc": [
+    {
+      "date": "2026-11-24 03:18",
+      "price": "155zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "telefon myphone bueno lte brązowy": [
+    {
+      "date": "2026-11-24 03:18",
+      "price": "69zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "oczyszczacz powietrza coway cartridge": [
+    {
+      "date": "2026-11-24 03:18",
+      "price": "274zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "smartfon realme 12 8 512gb 6": [
+    {
+      "date": "2026-11-24 03:18",
+      "price": "209,70zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "powerbank sbs ttbb10000lcdtcpd20k 10000mah pd 20w": [
+    {
+      "date": "2026-11-24 03:18",
+      "price": "14,69zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "parownica do ubrań steamery cirrus 3": [
+    {
+      "date": "2026-11-24 03:18",
+      "price": "239zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "żelazko tefal ultimate 3 fv9852 durilium": [
+    {
+      "date": "2026-11-24 03:18",
+      "price": "179zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "zmywarka candy zmywarka candy rapido cip": [
+    {
+      "date": "2026-11-24 03:18",
+      "price": "290,70zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "myszka gamingowa cougar airblader czarny": [
+    {
+      "date": "2026-11-24 03:18",
+      "price": "49,99zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "smartfon infinix note edge 5g 8": [
+    {
+      "date": "2026-11-24 03:18",
+      "price": "420zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "pralka whirlpool biwmwg81485pl 8kg 1400obr min": [
+    {
+      "date": "2026-11-24 03:18",
+      "price": "510zł",
       "note": "RTV Euro AGD"
     }
   ]
