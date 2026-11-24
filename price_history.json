@@ -3531,6 +3531,16 @@
       "date": "2026-11-24 12:55",
       "price": "53,52 zł",
       "note": "Lidl.pl"
+    },
+    {
+      "date": "2026-11-24 14:12",
+      "price": "52,72 zł",
+      "note": "Lidl.pl"
+    },
+    {
+      "date": "2026-11-24 14:12",
+      "price": "53,52 zł",
+      "note": "Lidl.pl"
     }
   ],
   "aldi mięso z uda indyka na": [
@@ -3654,16 +3664,6 @@
   ],
   "pepco maskotka ludzik piernikowy": [
     {
-      "date": "2026-11-24 02:04",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-24 02:04",
-      "price": "50 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-24 03:18",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3750,22 +3750,22 @@
     },
     {
       "date": "2026-11-24 12:55",
+      "price": "50 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 14:12",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 14:12",
       "price": "50 zł",
       "note": "Pepco.pl"
     }
   ],
   "pepco dekoracja tekstylna mini ludzik piernikowy": [
     {
-      "date": "2026-11-24 02:04",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-24 02:04",
-      "price": "10 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-24 03:18",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3852,6 +3852,16 @@
     },
     {
       "date": "2026-11-24 12:55",
+      "price": "10 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 14:12",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 14:12",
       "price": "10 zł",
       "note": "Pepco.pl"
     }
@@ -3963,16 +3973,6 @@
   ],
   "pepco zabawkowy sklep z półkami": [
     {
-      "date": "2026-11-24 02:04",
-      "price": "120 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-24 02:04",
-      "price": "105 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-24 03:18",
       "price": "120 zł",
       "note": "Pepco.pl"
@@ -4059,6 +4059,16 @@
     },
     {
       "date": "2026-11-24 12:55",
+      "price": "105 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 14:12",
+      "price": "120 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 14:12",
       "price": "105 zł",
       "note": "Pepco.pl"
     }
@@ -4401,21 +4411,6 @@
   ],
   "calvin klein woda perfumowana dla kobiet": [
     {
-      "date": "2026-11-24 05:32",
-      "price": "229,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
-      "date": "2026-11-24 05:32",
-      "price": "199,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
-      "date": "2026-11-24 06:53",
-      "price": "129,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
       "date": "2026-11-24 06:53",
       "price": "229,99 zł",
       "note": "Rossmann.pl"
@@ -4497,6 +4492,21 @@
     },
     {
       "date": "2026-11-24 12:55",
+      "price": "199,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-24 14:12",
+      "price": "129,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-24 14:12",
+      "price": "229,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-24 14:12",
       "price": "199,99 zł",
       "note": "Rossmann.pl"
     }
@@ -10278,6 +10288,11 @@
   ],
   "tronic zestaw 8 akumulatorków": [
     {
+      "date": "przed promocją",
+      "price": "35,99 zł",
+      "note": "przed promocją"
+    },
+    {
       "date": "30 dni przed obniżką",
       "price": "35,99 zł",
       "note": "Najniższa z 30 dni (Omnibus)"
@@ -10588,6 +10603,252 @@
       "date": "2026-11-24 12:55",
       "price": "150,99 zł",
       "note": "Smyk.com"
+    }
+  ],
+  "poziomica laserowa niteo samopoziomująca ze statywem": [
+    {
+      "date": "2026-11-24 14:12",
+      "price": "69,90zł",
+      "note": "Biedronka Home"
+    }
+  ],
+  "zasilacz redragon guard gc gu02p 650w": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "289 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-24 14:12",
+      "price": "129 zł",
+      "note": "Morele.net"
+    }
+  ],
+  "irving kalendarz adwentowy z herbatami 24": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "29,99 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-24 14:12",
+      "price": "19,99 zł",
+      "note": "Rossmann.pl"
+    }
+  ],
+  "samochód opel mokka 136 km manual": [
+    {
+      "date": "przed promocją",
+      "price": "113500 zł",
+      "note": "przed promocją"
+    },
+    {
+      "date": "2026-11-24 14:12",
+      "price": "88 500zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "rower szosowy cube 1131310 attain c": [
+    {
+      "date": "2026-11-24 14:12",
+      "price": "6 884,10zł",
+      "note": "Ski Team"
+    }
+  ],
+  "książka dla dzieci moja wielka wyszukiwanka": [
+    {
+      "date": "2026-11-24 14:12",
+      "price": "23,47zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "4fizjo my walk bieżnia elektryczna": [
+    {
+      "date": "2026-11-24 14:12",
+      "price": "390,99zł",
+      "note": "InPost"
+    }
+  ],
+  "5 par skarpetek z śmieszną grafiką": [
+    {
+      "date": "2026-11-24 14:12",
+      "price": "29,99zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "nintendo switch 2": [
+    {
+      "date": "2026-11-24 14:12",
+      "price": "2 029zł",
+      "note": "Allegro"
+    }
+  ],
+  "paletka aa wings do konturowania hit": [
+    {
+      "date": "2026-11-24 14:12",
+      "price": "28,99zł",
+      "note": "Rossmann"
+    }
+  ],
+  "zestaw narzędzi enventor 280 elementów klucze": [
+    {
+      "date": "2026-11-24 14:12",
+      "price": "180,49zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "tasak do kości shi ba zi": [
+    {
+      "date": "2026-11-24 14:12",
+      "price": "56,99zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "radiobudzik kenwood cr st40dab m": [
+    {
+      "date": "2026-11-24 14:12",
+      "price": "225,96zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "chusteczki nawilżone waterwipes 1080 szt 13": [
+    {
+      "date": "2026-11-24 14:12",
+      "price": "144,04zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "audio pro a48 w 320 w": [
+    {
+      "date": "2026-11-24 14:12",
+      "price": "2 829zł",
+      "note": "Media Expert"
+    }
+  ],
+  "ładowarka ugreen usb c 30w zasilacz": [
+    {
+      "date": "2026-11-24 14:12",
+      "price": "39,99zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "lego star wars klocki hełm kylo": [
+    {
+      "date": "2026-11-24 14:12",
+      "price": "208,99zł",
+      "note": "Empik"
+    }
+  ],
+  "zestaw garnków ze stali nierdzewnej tefal": [
+    {
+      "date": "2026-11-24 14:12",
+      "price": "249zł",
+      "note": "Allegro"
+    }
+  ],
+  "lego super mario 72046 game boy": [
+    {
+      "date": "2026-11-24 14:12",
+      "price": "159,99zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "ładowarka sieciowa kuulaa gan 65w 2x": [
+    {
+      "date": "2026-11-24 14:12",
+      "price": "28,49zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "gra resident evil 4 remake fanatical": [
+    {
+      "date": "2026-11-24 14:12",
+      "price": "38,35zł",
+      "note": "Fanatical"
+    }
+  ],
+  "huawei gt runner 2 amoled pomarańczowy": [
+    {
+      "date": "2026-11-24 14:12",
+      "price": "899zł",
+      "note": "x-kom"
+    }
+  ],
+  "dekoder opticum hbttv t box dvb": [
+    {
+      "date": "2026-11-24 14:12",
+      "price": "101,70zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "kubek termiczny goat travel 450 ml": [
+    {
+      "date": "2026-11-24 14:12",
+      "price": "30,99zł",
+      "note": "InPost"
+    }
+  ],
+  "soundbar aiwa he 950bt 2 0": [
+    {
+      "date": "2026-11-24 14:12",
+      "price": "128zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "baza simracingowa simagic alpha evo 12nm": [
+    {
+      "date": "2026-11-24 14:12",
+      "price": "1 696zł",
+      "note": "Allegro"
+    }
+  ],
+  "toshiba canvio flex 4tb hdd 5000mb": [
+    {
+      "date": "2026-11-24 14:12",
+      "price": "749zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "ciśnieniomierz garmin index bpm": [
+    {
+      "date": "2026-11-24 14:12",
+      "price": "569zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "męski zegarek invicta 6621": [
+    {
+      "date": "2026-11-24 14:12",
+      "price": "258,76zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "ecoflow powerbank rapid pro x 27650": [
+    {
+      "date": "2026-11-24 14:12",
+      "price": "799zł",
+      "note": "x-kom"
+    }
+  ],
+  "gra baldurs gate 3": [
+    {
+      "date": "2026-11-24 14:12",
+      "price": "114,35zł",
+      "note": "Kinguin"
+    }
+  ],
+  "zmywarka nadblatowa blitzwolf bw cdw1 z": [
+    {
+      "date": "2026-11-24 14:12",
+      "price": "$213.99",
+      "note": "Banggood.com"
+    }
+  ],
+  "zmywarka nadblatowa blitzhome bh 4 cdw": [
+    {
+      "date": "2026-11-24 14:12",
+      "price": "$241.99",
+      "note": "Banggood.com"
     }
   ]
 }
