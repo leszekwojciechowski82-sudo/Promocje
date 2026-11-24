@@ -1861,6 +1861,11 @@
       "date": "2026-11-24 00:43",
       "price": "329,99 zł",
       "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-24 08:19",
+      "price": "429,99 zł",
+      "note": "Rossmann.pl"
     }
   ],
   "isana kalendarz adwentowy z maskami do": [
@@ -3594,16 +3599,6 @@
   ],
   "pepco maskotka ludzik piernikowy": [
     {
-      "date": "2026-11-23 20:40",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-23 20:40",
-      "price": "50 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-23 21:40",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3690,22 +3685,22 @@
     },
     {
       "date": "2026-11-24 06:53",
+      "price": "50 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 08:19",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 08:19",
       "price": "50 zł",
       "note": "Pepco.pl"
     }
   ],
   "pepco dekoracja tekstylna mini ludzik piernikowy": [
     {
-      "date": "2026-11-23 20:40",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-23 20:40",
-      "price": "10 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-23 21:40",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3792,6 +3787,16 @@
     },
     {
       "date": "2026-11-24 06:53",
+      "price": "10 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 08:19",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 08:19",
       "price": "10 zł",
       "note": "Pepco.pl"
     }
@@ -3903,16 +3908,6 @@
   ],
   "pepco zabawkowy sklep z półkami": [
     {
-      "date": "2026-11-23 20:40",
-      "price": "120 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-23 20:40",
-      "price": "105 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-23 21:40",
       "price": "120 zł",
       "note": "Pepco.pl"
@@ -3999,6 +3994,16 @@
     },
     {
       "date": "2026-11-24 06:53",
+      "price": "105 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 08:19",
+      "price": "120 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 08:19",
       "price": "105 zł",
       "note": "Pepco.pl"
     }
@@ -4341,16 +4346,6 @@
   ],
   "calvin klein woda perfumowana dla kobiet": [
     {
-      "date": "2026-11-23 23:39",
-      "price": "229,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
-      "date": "2026-11-23 23:39",
-      "price": "199,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
       "date": "2026-11-24 00:43",
       "price": "129,99 zł",
       "note": "Rossmann.pl"
@@ -4438,6 +4433,16 @@
     {
       "date": "2026-11-24 06:53",
       "price": "199,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-24 08:19",
+      "price": "229,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-24 08:19",
+      "price": "129,99 zł",
       "note": "Rossmann.pl"
     }
   ],
@@ -8827,6 +8832,11 @@
   ],
   "livarno skrzynia do siedzenia ze schowkiem": [
     {
+      "date": "przed promocją",
+      "price": "70,90 zł",
+      "note": "przed promocją"
+    },
+    {
       "date": "30 dni przed obniżką",
       "price": "70,90 zł",
       "note": "Najniższa z 30 dni (Omnibus)"
@@ -9073,6 +9083,202 @@
       "date": "2026-11-24 06:53",
       "price": "190,58zł",
       "note": "Amazon.de"
+    }
+  ],
+  "hogwart s legacy 90 na steam": [
+    {
+      "date": "2026-11-24 08:19",
+      "price": "26,90zł",
+      "note": "Steam"
+    }
+  ],
+  "fallout 4 75 na steam": [
+    {
+      "date": "2026-11-24 08:19",
+      "price": "19,75zł",
+      "note": "Steam"
+    }
+  ],
+  "chess com 50 na plany roczne": [
+    {
+      "date": "2026-11-24 08:19",
+      "price": "250zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "błąd cenowy akumulator a7 varta agm": [
+    {
+      "date": "2026-11-24 08:19",
+      "price": "1zł",
+      "note": "Allegro"
+    }
+  ],
+  "karty decathlon o nominale 20 zł": [
+    {
+      "date": "2026-11-24 08:19",
+      "price": "20 zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "fifine am8t bez ramienia 208 pln": [
+    {
+      "date": "2026-11-24 08:19",
+      "price": "241,37zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "płaszcze męskie z wełną brązowy i": [
+    {
+      "date": "2026-11-24 08:19",
+      "price": "299zł",
+      "note": "Pako Lorente"
+    }
+  ],
+  "gramofon 1 by one z wbudowanymi": [
+    {
+      "date": "2026-11-24 08:19",
+      "price": "323,21zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "buty do biegania męskie hoka stinson": [
+    {
+      "date": "2026-11-24 08:19",
+      "price": "456,49zł",
+      "note": "Sportano"
+    }
+  ],
+  "japonia tokio haneda loty z poznania": [
+    {
+      "date": "2026-11-24 08:19",
+      "price": "2 851zł",
+      "note": "Skyscanner"
+    }
+  ],
+  "buty adidas runfalcon 5": [
+    {
+      "date": "2026-11-24 08:19",
+      "price": "97,44zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "klucz zabezpieczający yubico yubikey 5c nfc": [
+    {
+      "date": "2026-11-24 08:19",
+      "price": "170zł",
+      "note": "Ceneo"
+    }
+  ],
+  "żarówka osram led z czujnikiem ruchu": [
+    {
+      "date": "2026-11-24 08:19",
+      "price": "20,15zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "dysk ssd msi spatium m450 v1": [
+    {
+      "date": "2026-11-24 08:19",
+      "price": "499zł",
+      "note": "Morele.net"
+    }
+  ],
+  "onimusha way of the sword nintendo": [
+    {
+      "date": "2026-11-24 08:19",
+      "price": "203,30zł",
+      "note": "Allegro"
+    }
+  ],
+  "mckinley męska kurtka softshelowa wodoodporność 10": [
+    {
+      "date": "2026-11-24 08:19",
+      "price": "88zł",
+      "note": "Picksport"
+    }
+  ],
+  "termofor 1l 3 w 1 koala": [
+    {
+      "date": "2026-11-24 08:19",
+      "price": "14,69zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "sonoff airguard co2 sawf 08p miernik": [
+    {
+      "date": "2026-11-24 08:19",
+      "price": "153,90zł",
+      "note": "Allegro"
+    }
+  ],
+  "rasasi hawas highness edp 100 ml": [
+    {
+      "date": "2026-11-24 08:19",
+      "price": "140,50zł",
+      "note": "Elnino-Parfum"
+    }
+  ],
+  "myszka bezprzewodowa logitech mx anywhere 3s": [
+    {
+      "date": "2026-11-24 08:19",
+      "price": "239zł",
+      "note": "Allegro"
+    }
+  ],
+  "zegarek męski casio g shock original": [
+    {
+      "date": "2026-11-24 08:19",
+      "price": "259zł",
+      "note": "Allegro"
+    }
+  ],
+  "klocki lego speed champions 77253 hipersamochód": [
+    {
+      "date": "2026-11-24 08:19",
+      "price": "66,99zł",
+      "note": "Allegro"
+    }
+  ],
+  "zestaw kosmetyków cerave": [
+    {
+      "date": "2026-11-24 08:19",
+      "price": "99,99zł",
+      "note": "Allegro"
+    }
+  ],
+  "szlifierka kątowa makita ga5030r 125 mm": [
+    {
+      "date": "2026-11-24 08:19",
+      "price": "199zł",
+      "note": "Allegro"
+    }
+  ],
+  "koronkowa sukienka mini gorsetowa fioletowa i": [
+    {
+      "date": "2026-11-24 08:19",
+      "price": "59,99zł",
+      "note": "House"
+    }
+  ],
+  "tanie bluzy z kapturem ostatnie rozmiary": [
+    {
+      "date": "2026-11-24 08:19",
+      "price": "19,99zł",
+      "note": "Ozonee"
+    }
+  ],
+  "wieża gogen msc472btdab": [
+    {
+      "date": "2026-11-24 08:19",
+      "price": "125,70zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "ps5 gra alan wake ii edycja": [
+    {
+      "date": "2026-11-24 08:19",
+      "price": "99,89zł",
+      "note": "Empik"
     }
   ]
 }
