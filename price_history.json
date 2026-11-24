@@ -3594,16 +3594,6 @@
   ],
   "pepco maskotka ludzik piernikowy": [
     {
-      "date": "2026-11-23 18:46",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-23 18:46",
-      "price": "50 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-23 19:53",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3690,22 +3680,22 @@
     },
     {
       "date": "2026-11-24 04:30",
+      "price": "50 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 05:32",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 05:32",
       "price": "50 zł",
       "note": "Pepco.pl"
     }
   ],
   "pepco dekoracja tekstylna mini ludzik piernikowy": [
     {
-      "date": "2026-11-23 18:46",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-23 18:46",
-      "price": "10 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-23 19:53",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3792,6 +3782,16 @@
     },
     {
       "date": "2026-11-24 04:30",
+      "price": "10 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 05:32",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 05:32",
       "price": "10 zł",
       "note": "Pepco.pl"
     }
@@ -3903,16 +3903,6 @@
   ],
   "pepco zabawkowy sklep z półkami": [
     {
-      "date": "2026-11-23 18:46",
-      "price": "120 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-23 18:46",
-      "price": "105 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-23 19:53",
       "price": "120 zł",
       "note": "Pepco.pl"
@@ -3999,6 +3989,16 @@
     },
     {
       "date": "2026-11-24 04:30",
+      "price": "105 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 05:32",
+      "price": "120 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 05:32",
       "price": "105 zł",
       "note": "Pepco.pl"
     }
@@ -4341,21 +4341,6 @@
   ],
   "calvin klein woda perfumowana dla kobiet": [
     {
-      "date": "2026-11-23 21:40",
-      "price": "229,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
-      "date": "2026-11-23 21:40",
-      "price": "199,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
-      "date": "2026-11-23 22:41",
-      "price": "129,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
       "date": "2026-11-23 22:41",
       "price": "229,99 zł",
       "note": "Rossmann.pl"
@@ -4437,6 +4422,21 @@
     },
     {
       "date": "2026-11-24 04:30",
+      "price": "199,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-24 05:32",
+      "price": "129,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-24 05:32",
+      "price": "229,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-24 05:32",
       "price": "199,99 zł",
       "note": "Rossmann.pl"
     }
@@ -8753,6 +8753,11 @@
   ],
   "stanley agregat prądotwórczy benzynowy sg 2400": [
     {
+      "date": "przed promocją",
+      "price": "1599 zł",
+      "note": "przed promocją"
+    },
+    {
       "date": "30 dni przed obniżką",
       "price": "1599 zł",
       "note": "Najniższa z 30 dni (Omnibus)"
@@ -8764,6 +8769,11 @@
     }
   ],
   "silvercrest podstawka pod termorobot mc biała": [
+    {
+      "date": "przed promocją",
+      "price": "79,99 zł",
+      "note": "przed promocją"
+    },
     {
       "date": "30 dni przed obniżką",
       "price": "79,99 zł",
@@ -8807,6 +8817,95 @@
     {
       "date": "2026-11-24 04:30",
       "price": "56,99zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "livarno skrzynia do siedzenia ze schowkiem": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "70,90 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-24 05:32",
+      "price": "48,99 zł",
+      "note": "Lidl.pl"
+    }
+  ],
+  "pad microsoft xbox series czerwony": [
+    {
+      "date": "2026-11-24 05:32",
+      "price": "193,12zł",
+      "note": "Allegro"
+    }
+  ],
+  "laptop gamingowy hp victus 15 6": [
+    {
+      "date": "2026-11-24 05:32",
+      "price": "1 999zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "mistrzyni loda poradnik seksu oralnego dla": [
+    {
+      "date": "2026-11-24 05:32",
+      "price": "35,91zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "lego technic 42220 monster jam sparkle": [
+    {
+      "date": "2026-11-24 05:32",
+      "price": "64,28zł",
+      "note": "Amazon.de"
+    }
+  ],
+  "showman wołodymyr zełenski i inwazja która": [
+    {
+      "date": "2026-11-24 05:32",
+      "price": "16,99zł",
+      "note": "Virtualo"
+    }
+  ],
+  "gra sid meier s civilization vii": [
+    {
+      "date": "2026-11-24 05:32",
+      "price": "74,89zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "murdle t2 100 zagadek kryminalnych do": [
+    {
+      "date": "2026-11-24 05:32",
+      "price": "24,50zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "gra god of war 3 remastered": [
+    {
+      "date": "2026-11-24 05:32",
+      "price": "39,99zł",
+      "note": "Media Expert"
+    }
+  ],
+  "hot wheels city myjnia htn80": [
+    {
+      "date": "2026-11-24 05:32",
+      "price": "79,97zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "papier do drukarek hp home office": [
+    {
+      "date": "2026-11-24 05:32",
+      "price": "10zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "laptop hp omnibook 3 16 by0028nwx": [
+    {
+      "date": "2026-11-24 05:32",
+      "price": "1 799zł",
       "note": "RTV Euro AGD"
     }
   ]
