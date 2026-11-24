@@ -3493,16 +3493,6 @@
   ],
   "lupilu śniegowce chłopięce": [
     {
-      "date": "2026-11-24 12:55",
-      "price": "52,72 zł",
-      "note": "Lidl.pl"
-    },
-    {
-      "date": "2026-11-24 12:55",
-      "price": "53,52 zł",
-      "note": "Lidl.pl"
-    },
-    {
       "date": "2026-11-24 14:12",
       "price": "52,72 zł",
       "note": "Lidl.pl"
@@ -3589,6 +3579,16 @@
     },
     {
       "date": "2026-11-24 22:45",
+      "price": "53,52 zł",
+      "note": "Lidl.pl"
+    },
+    {
+      "date": "2026-11-24 23:39",
+      "price": "52,72 zł",
+      "note": "Lidl.pl"
+    },
+    {
+      "date": "2026-11-24 23:39",
       "price": "53,52 zł",
       "note": "Lidl.pl"
     }
@@ -3714,16 +3714,6 @@
   ],
   "pepco maskotka ludzik piernikowy": [
     {
-      "date": "2026-11-24 12:55",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-24 12:55",
-      "price": "50 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-24 14:12",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3810,22 +3800,22 @@
     },
     {
       "date": "2026-11-24 22:45",
+      "price": "50 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 23:39",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 23:39",
       "price": "50 zł",
       "note": "Pepco.pl"
     }
   ],
   "pepco dekoracja tekstylna mini ludzik piernikowy": [
     {
-      "date": "2026-11-24 12:55",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-24 12:55",
-      "price": "10 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-24 14:12",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3912,6 +3902,16 @@
     },
     {
       "date": "2026-11-24 22:45",
+      "price": "10 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 23:39",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 23:39",
       "price": "10 zł",
       "note": "Pepco.pl"
     }
@@ -4023,16 +4023,6 @@
   ],
   "pepco zabawkowy sklep z półkami": [
     {
-      "date": "2026-11-24 12:55",
-      "price": "120 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-24 12:55",
-      "price": "105 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-24 14:12",
       "price": "120 zł",
       "note": "Pepco.pl"
@@ -4119,6 +4109,16 @@
     },
     {
       "date": "2026-11-24 22:45",
+      "price": "105 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 23:39",
+      "price": "120 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 23:39",
       "price": "105 zł",
       "note": "Pepco.pl"
     }
@@ -12595,6 +12595,174 @@
       "date": "2026-11-24 22:45",
       "price": "4,49 zł",
       "note": "Dino"
+    }
+  ],
+  "mus 200g owolovo 3 3 gratis": [
+    {
+      "date": "2026-11-24 23:39",
+      "price": "1,72zł",
+      "note": "Dino"
+    }
+  ],
+  "parówki z szynki 500g xxl pikok": [
+    {
+      "date": "2026-11-24 23:39",
+      "price": "5,49zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "mysz msi versa 300 wireless biały": [
+    {
+      "date": "2026-11-24 23:39",
+      "price": "114,76zł",
+      "note": "Media Expert"
+    }
+  ],
+  "bilety na przejazdy pociągami polregio": [
+    {
+      "date": "2026-11-24 23:39",
+      "price": "1zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "nishman woda po goleniu woda kolońska": [
+    {
+      "date": "2026-11-24 23:39",
+      "price": "20,90zł",
+      "note": "Allegro"
+    }
+  ],
+  "kettlebell 8kg odważnik do ćwiczeń treningowy": [
+    {
+      "date": "2026-11-24 23:39",
+      "price": "34,99zł",
+      "note": "Decathlon"
+    }
+  ],
+  "czekolada ritter sport 100 f cena": [
+    {
+      "date": "2026-11-24 23:39",
+      "price": "4,49zł",
+      "note": "Lidl"
+    }
+  ],
+  "pny 5 pack 64gb attach x": [
+    {
+      "date": "2026-11-24 23:39",
+      "price": "100zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "realme gt 8 pro 16 512": [
+    {
+      "date": "2026-11-24 23:39",
+      "price": "3 399zł",
+      "note": "Proshop"
+    }
+  ],
+  "odmrażacz do szyb k2 moris 5": [
+    {
+      "date": "2026-11-24 23:39",
+      "price": "27,05zł",
+      "note": "Allegro"
+    }
+  ],
+  "parkside czarny kalesony męskie długie": [
+    {
+      "date": "2026-11-24 23:39",
+      "price": "19,99zł",
+      "note": "Lidl"
+    }
+  ],
+  "parkside szczypce 1000v": [
+    {
+      "date": "2026-11-24 23:39",
+      "price": "15,99zł",
+      "note": "Lidl"
+    }
+  ],
+  "smartwatch garmin lily 2 active złoty": [
+    {
+      "date": "2026-11-24 23:39",
+      "price": "999zł",
+      "note": "Media Expert"
+    }
+  ],
+  "lodówka gorenje nrk620eabxl4 200 cm no": [
+    {
+      "date": "2026-11-24 23:39",
+      "price": "1 499zł",
+      "note": "MediaMarkt"
+    }
+  ],
+  "telewizor led sony k 55xr35m2 55": [
+    {
+      "date": "2026-11-24 23:39",
+      "price": "2 999zł",
+      "note": "MediaMarkt"
+    }
+  ],
+  "słuchawki bezprzewodowe marshall major v bluetooth": [
+    {
+      "date": "2026-11-24 23:39",
+      "price": "229zł",
+      "note": "MediaMarkt"
+    }
+  ],
+  "majonezy winiary lub kielecki słoik 700ml": [
+    {
+      "date": "2026-11-24 23:39",
+      "price": "5,72zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "jajka 10 szt m opak cena": [
+    {
+      "date": "2026-11-24 23:39",
+      "price": "4,49zł",
+      "note": "Lidl"
+    }
+  ],
+  "wolnostojąca kuchenka mikrofalowa amica amgf20e1s quickstart": [
+    {
+      "date": "2026-11-24 23:39",
+      "price": "199zł",
+      "note": "MediaMarkt"
+    }
+  ],
+  "tablet apple ipad mini 8 3": [
+    {
+      "date": "2026-11-24 23:39",
+      "price": "1 999zł",
+      "note": "MediaMarkt"
+    }
+  ],
+  "banany kg lidl": [
+    {
+      "date": "2026-11-24 23:39",
+      "price": "2,99zł",
+      "note": "Lidl"
+    }
+  ],
+  "mugler a men edt 100ml perfumy": [
+    {
+      "date": "2026-11-24 23:39",
+      "price": "172,73zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "torebka damska ze skóry cholewiński walizka": [
+    {
+      "date": "2026-11-24 23:39",
+      "price": "119zł",
+      "note": "Biedronka"
+    }
+  ],
+  "elektrostymulator medivon odinflex pro": [
+    {
+      "date": "2026-11-24 23:39",
+      "price": "799zł",
+      "note": "Media Expert"
     }
   ]
 }
