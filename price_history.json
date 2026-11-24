@@ -3594,16 +3594,6 @@
   ],
   "pepco maskotka ludzik piernikowy": [
     {
-      "date": "2026-11-23 17:49",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-23 17:49",
-      "price": "50 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-23 18:46",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3690,22 +3680,22 @@
     },
     {
       "date": "2026-11-24 03:18",
+      "price": "50 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 04:30",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 04:30",
       "price": "50 zł",
       "note": "Pepco.pl"
     }
   ],
   "pepco dekoracja tekstylna mini ludzik piernikowy": [
     {
-      "date": "2026-11-23 17:49",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-23 17:49",
-      "price": "10 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-23 18:46",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3792,6 +3782,16 @@
     },
     {
       "date": "2026-11-24 03:18",
+      "price": "10 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 04:30",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 04:30",
       "price": "10 zł",
       "note": "Pepco.pl"
     }
@@ -3903,16 +3903,6 @@
   ],
   "pepco zabawkowy sklep z półkami": [
     {
-      "date": "2026-11-23 17:49",
-      "price": "120 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-23 17:49",
-      "price": "105 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-23 18:46",
       "price": "120 zł",
       "note": "Pepco.pl"
@@ -3999,6 +3989,16 @@
     },
     {
       "date": "2026-11-24 03:18",
+      "price": "105 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 04:30",
+      "price": "120 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 04:30",
       "price": "105 zł",
       "note": "Pepco.pl"
     }
@@ -4341,21 +4341,6 @@
   ],
   "calvin klein woda perfumowana dla kobiet": [
     {
-      "date": "2026-11-23 20:40",
-      "price": "229,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
-      "date": "2026-11-23 20:40",
-      "price": "199,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
-      "date": "2026-11-23 21:40",
-      "price": "129,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
       "date": "2026-11-23 21:40",
       "price": "229,99 zł",
       "note": "Rossmann.pl"
@@ -4437,6 +4422,21 @@
     },
     {
       "date": "2026-11-24 03:18",
+      "price": "199,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-24 04:30",
+      "price": "129,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-24 04:30",
+      "price": "229,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-24 04:30",
       "price": "199,99 zł",
       "note": "Rossmann.pl"
     }
@@ -8465,6 +8465,11 @@
   ],
   "livarno lampa led do łazienki 33": [
     {
+      "date": "przed promocją",
+      "price": "82,90 zł",
+      "note": "przed promocją"
+    },
+    {
       "date": "30 dni przed obniżką",
       "price": "82,90 zł",
       "note": "Najniższa z 30 dni (Omnibus)"
@@ -8476,6 +8481,11 @@
     }
   ],
   "silvercrest frytkownica beztłuszczowa air fryer 2000": [
+    {
+      "date": "przed promocją",
+      "price": "249 zł",
+      "note": "przed promocją"
+    },
     {
       "date": "30 dni przed obniżką",
       "price": "249 zł",
@@ -8489,6 +8499,11 @@
   ],
   "silvercrest tortownica keksówka forma do babki": [
     {
+      "date": "przed promocją",
+      "price": "19,99 zł",
+      "note": "przed promocją"
+    },
+    {
       "date": "30 dni przed obniżką",
       "price": "19,99 zł",
       "note": "Najniższa z 30 dni (Omnibus)"
@@ -8501,6 +8516,11 @@
   ],
   "parkside performance myjka wysokociśnieniowa phdp 180": [
     {
+      "date": "przed promocją",
+      "price": "1299 zł",
+      "note": "przed promocją"
+    },
+    {
       "date": "30 dni przed obniżką",
       "price": "1299 zł",
       "note": "Najniższa z 30 dni (Omnibus)"
@@ -8512,6 +8532,11 @@
     }
   ],
   "livarno zestaw mebli dziecięcych": [
+    {
+      "date": "przed promocją",
+      "price": "139 zł",
+      "note": "przed promocją"
+    },
     {
       "date": "30 dni przed obniżką",
       "price": "139 zł",
@@ -8537,6 +8562,11 @@
   ],
   "crivit namiot rodzinny 4 osobowy": [
     {
+      "date": "przed promocją",
+      "price": "439 zł",
+      "note": "przed promocją"
+    },
+    {
       "date": "30 dni przed obniżką",
       "price": "439 zł",
       "note": "Najniższa z 30 dni (Omnibus)"
@@ -8549,6 +8579,11 @@
   ],
   "crivit szorty funkcyjne damskie": [
     {
+      "date": "przed promocją",
+      "price": "25,99 zł",
+      "note": "przed promocją"
+    },
+    {
       "date": "30 dni przed obniżką",
       "price": "25,99 zł",
       "note": "Najniższa z 30 dni (Omnibus)"
@@ -8560,6 +8595,11 @@
     }
   ],
   "ultimate speed zestaw 2 podpórek samochodowych": [
+    {
+      "date": "przed promocją",
+      "price": "69,90 zł",
+      "note": "przed promocją"
+    },
     {
       "date": "30 dni przed obniżką",
       "price": "69,90 zł",
@@ -8680,6 +8720,93 @@
     {
       "date": "2026-11-24 03:18",
       "price": "510zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "kaufland 1 1 gratis der waschkonig": [
+    {
+      "date": "2026-11-24 04:30",
+      "price": "8,49zł",
+      "note": "Kaufland"
+    }
+  ],
+  "lodówka midea space master mdrb600mme46 pełny": [
+    {
+      "date": "2026-11-24 04:30",
+      "price": "584,70zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "radioodbiornik sangean fusion 110 rcr 11wf": [
+    {
+      "date": "2026-11-24 04:30",
+      "price": "429,99zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "lodówka bosch serie 4 kgn56xleb pełny": [
+    {
+      "date": "2026-11-24 04:30",
+      "price": "839,70zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "stanley agregat prądotwórczy benzynowy sg 2400": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "1599 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-24 04:30",
+      "price": "999 zł",
+      "note": "OBI.pl"
+    }
+  ],
+  "silvercrest podstawka pod termorobot mc biała": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "79,99 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-24 04:30",
+      "price": "47,99 zł",
+      "note": "Lidl.pl"
+    }
+  ],
+  "lg oled65c67la lg oled evo tv": [
+    {
+      "date": "2026-11-24 04:30",
+      "price": "6 225zł",
+      "note": "mediamarkt.de"
+    }
+  ],
+  "kobyłki składane koziołek warsztatowy 1szt parkside": [
+    {
+      "date": "2026-11-24 04:30",
+      "price": "49,99zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "odkurzacz pionowy grenintol s119 500 w": [
+    {
+      "date": "2026-11-24 04:30",
+      "price": "253,39zł",
+      "note": "AliExpress"
+    }
+  ],
+  "adam elements vinota c2 8w1 magsafe": [
+    {
+      "date": "2026-11-24 04:30",
+      "price": "119zł",
+      "note": "x-kom"
+    }
+  ],
+  "słuchawki bezprzewodowe creative zen air pro": [
+    {
+      "date": "2026-11-24 04:30",
+      "price": "56,99zł",
       "note": "RTV Euro AGD"
     }
   ]
