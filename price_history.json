@@ -2032,6 +2032,11 @@
       "date": "2026-11-23 09:07",
       "price": "269,99 zł",
       "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-24 09:38",
+      "price": "619,99 zł",
+      "note": "Rossmann.pl"
     }
   ],
   "finish kapsułki do zmywarki fresh": [
@@ -2351,6 +2356,11 @@
       "date": "2026-11-22 22:45",
       "price": "199,99 zł",
       "note": "Smyk.com"
+    },
+    {
+      "date": "2026-11-24 09:38",
+      "price": "199,99zł",
+      "note": "Smyk"
     }
   ],
   "sence zestaw kosmetyków dla kobiet maska": [
@@ -3359,6 +3369,11 @@
       "date": "2026-11-23 09:07",
       "price": "47 zł",
       "note": "Smyk.com"
+    },
+    {
+      "date": "2026-11-24 09:38",
+      "price": "29 zł",
+      "note": "Smyk.com"
     }
   ],
   "aldi kiełbasa z kaczką": [
@@ -3599,16 +3614,6 @@
   ],
   "pepco maskotka ludzik piernikowy": [
     {
-      "date": "2026-11-23 21:40",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-23 21:40",
-      "price": "50 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-23 22:41",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3695,22 +3700,22 @@
     },
     {
       "date": "2026-11-24 08:19",
+      "price": "50 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 09:38",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 09:38",
       "price": "50 zł",
       "note": "Pepco.pl"
     }
   ],
   "pepco dekoracja tekstylna mini ludzik piernikowy": [
     {
-      "date": "2026-11-23 21:40",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-23 21:40",
-      "price": "10 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-23 22:41",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3797,6 +3802,16 @@
     },
     {
       "date": "2026-11-24 08:19",
+      "price": "10 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 09:38",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 09:38",
       "price": "10 zł",
       "note": "Pepco.pl"
     }
@@ -3908,16 +3923,6 @@
   ],
   "pepco zabawkowy sklep z półkami": [
     {
-      "date": "2026-11-23 21:40",
-      "price": "120 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-23 21:40",
-      "price": "105 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-23 22:41",
       "price": "120 zł",
       "note": "Pepco.pl"
@@ -4004,6 +4009,16 @@
     },
     {
       "date": "2026-11-24 08:19",
+      "price": "105 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 09:38",
+      "price": "120 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 09:38",
       "price": "105 zł",
       "note": "Pepco.pl"
     }
@@ -4346,26 +4361,6 @@
   ],
   "calvin klein woda perfumowana dla kobiet": [
     {
-      "date": "2026-11-24 00:43",
-      "price": "129,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
-      "date": "2026-11-24 00:43",
-      "price": "229,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
-      "date": "2026-11-24 00:43",
-      "price": "199,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
-      "date": "2026-11-24 02:04",
-      "price": "129,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
       "date": "2026-11-24 02:04",
       "price": "229,99 zł",
       "note": "Rossmann.pl"
@@ -4443,6 +4438,26 @@
     {
       "date": "2026-11-24 08:19",
       "price": "129,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-24 09:38",
+      "price": "229,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-24 09:38",
+      "price": "279,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-24 09:38",
+      "price": "129,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-24 09:38",
+      "price": "199,99 zł",
       "note": "Rossmann.pl"
     }
   ],
@@ -6593,6 +6608,11 @@
     }
   ],
   "silvercrest przystawka do krojenia warzyw do": [
+    {
+      "date": "przed promocją",
+      "price": "149 zł",
+      "note": "przed promocją"
+    },
     {
       "date": "30 dni przed obniżką",
       "price": "149 zł",
@@ -9279,6 +9299,424 @@
       "date": "2026-11-24 08:19",
       "price": "99,89zł",
       "note": "Empik"
+    }
+  ],
+  "parkside wciągarka linowa ręczna przeciągarka linowa": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "91,90 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-24 09:38",
+      "price": "27,49 zł",
+      "note": "Lidl.pl"
+    }
+  ],
+  "cool club czapka chłopięca szara": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "34,99 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-24 09:38",
+      "price": "17 zł",
+      "note": "Smyk.com"
+    }
+  ],
+  "cool club czapka chłopięca musztardowa": [
+    {
+      "date": "przed promocją",
+      "price": "29,99 zł",
+      "note": "przed promocją"
+    },
+    {
+      "date": "30 dni przed obniżką",
+      "price": "29,99 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-24 09:38",
+      "price": "15 zł",
+      "note": "Smyk.com"
+    }
+  ],
+  "cool club czapka chłopięca prążkowana czarna": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "29,99 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-24 09:38",
+      "price": "15 zł",
+      "note": "Smyk.com"
+    }
+  ],
+  "cool club czapka chłopięca bordowa": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "29,99 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-24 09:38",
+      "price": "15 zł",
+      "note": "Smyk.com"
+    }
+  ],
+  "finestea kalendarz adwentowy z herbatami 24": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "26,99 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-24 09:38",
+      "price": "18,99 zł",
+      "note": "Rossmann.pl"
+    }
+  ],
+  "crivit deska sup allround jednokomorowa": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "809 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-24 09:38",
+      "price": "485,40 zł",
+      "note": "Lidl.pl"
+    }
+  ],
+  "cool club czapka chłopięca prążkowana szara": [
+    {
+      "date": "przed promocją",
+      "price": "29,99 zł",
+      "note": "przed promocją"
+    },
+    {
+      "date": "30 dni przed obniżką",
+      "price": "17 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-24 09:38",
+      "price": "9 zł",
+      "note": "Smyk.com"
+    },
+    {
+      "date": "2026-11-24 09:38",
+      "price": "21 zł",
+      "note": "Smyk.com"
+    }
+  ],
+  "lego star wars 75446 grogu mandalorian": [
+    {
+      "date": "2026-11-24 09:38",
+      "price": "298,99zł",
+      "note": "Media Expert"
+    }
+  ],
+  "cool club kombinezon chłopięcy z kapturem": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "159,99 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-24 09:38",
+      "price": "109 zł",
+      "note": "Smyk.com"
+    }
+  ],
+  "cool club czapka z daszkiem chłopięca": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "25 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-24 09:38",
+      "price": "17 zł",
+      "note": "Smyk.com"
+    }
+  ],
+  "cool club płaszcz dziewczęcy z kapturem": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "199,99 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-24 09:38",
+      "price": "139 zł",
+      "note": "Smyk.com"
+    }
+  ],
+  "cool club sukienka dziewczęca z długim": [
+    {
+      "date": "przed promocją",
+      "price": "89,99 zł",
+      "note": "przed promocją"
+    },
+    {
+      "date": "30 dni przed obniżką",
+      "price": "69,99 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-24 09:38",
+      "price": "49 zł",
+      "note": "Smyk.com"
+    },
+    {
+      "date": "2026-11-24 09:38",
+      "price": "64 zł",
+      "note": "Smyk.com"
+    },
+    {
+      "date": "2026-11-24 09:38",
+      "price": "57 zł",
+      "note": "Smyk.com"
+    }
+  ],
+  "cool club czapka chłopięca prążkowana brązowa": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "29,99 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-24 09:38",
+      "price": "21 zł",
+      "note": "Smyk.com"
+    }
+  ],
+  "cool club czapka chłopięca beżowa": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "29,99 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-24 09:38",
+      "price": "21 zł",
+      "note": "Smyk.com"
+    }
+  ],
+  "cool club czapka chłopięca brązowo beżowa": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "29,99 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-24 09:38",
+      "price": "21 zł",
+      "note": "Smyk.com"
+    }
+  ],
+  "cool club komplet dziewczęcy sukienka z": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "89,99 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-24 09:38",
+      "price": "64 zł",
+      "note": "Smyk.com"
+    }
+  ],
+  "smartwatch yaxo tampa funkcje ai titanium": [
+    {
+      "date": "2026-11-24 09:38",
+      "price": "39,90zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "męski t shirt essential navy blue": [
+    {
+      "date": "2026-11-24 09:38",
+      "price": "5,99zł",
+      "note": "SFD"
+    }
+  ],
+  "d perlla 6 częściowy zestaw noży": [
+    {
+      "date": "2026-11-24 09:38",
+      "price": "46,41zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "samsung galaxy watch 7 lte sm": [
+    {
+      "date": "2026-11-24 09:38",
+      "price": "889zł",
+      "note": "Allegro"
+    }
+  ],
+  "uchwyt akumulatorowy smallrig do dji osmo": [
+    {
+      "date": "2026-11-24 09:38",
+      "price": "116,27zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "deftones adrenaline lp płyta winylowa 180g": [
+    {
+      "date": "2026-11-24 09:38",
+      "price": "89,97zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "konsola nintendo switch 2 nowa wersja": [
+    {
+      "date": "2026-11-24 09:38",
+      "price": "1 849zł",
+      "note": "Allegro"
+    }
+  ],
+  "12 torebek prezentowych 32 x 25": [
+    {
+      "date": "2026-11-24 09:38",
+      "price": "34,19zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "zimowa kurta damska reebok wszystkie rozmiary": [
+    {
+      "date": "2026-11-24 09:38",
+      "price": "121,35zł",
+      "note": "SportSpar"
+    }
+  ],
+  "szlafrok z koronki mistery essence": [
+    {
+      "date": "2026-11-24 09:38",
+      "price": "54,99zł",
+      "note": "Tezenis"
+    }
+  ],
+  "zasilacz asus tuf gaming gold evo": [
+    {
+      "date": "2026-11-24 09:38",
+      "price": "395,99zł",
+      "note": "Morele.net"
+    }
+  ],
+  "pad steelseries stratus do pc android": [
+    {
+      "date": "2026-11-24 09:38",
+      "price": "32,50zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "pad sony dualsense midnight black cfi": [
+    {
+      "date": "2026-11-24 09:38",
+      "price": "258,89zł",
+      "note": "Empik"
+    }
+  ],
+  "żel pod prysznic nivea men energy": [
+    {
+      "date": "2026-11-24 09:38",
+      "price": "6,29zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "fa men xtreme sport energy boost": [
+    {
+      "date": "2026-11-24 09:38",
+      "price": "49,99zł",
+      "note": "Allegro"
+    }
+  ],
+  "zasilacz redragon guard gc gu02p 650": [
+    {
+      "date": "2026-11-24 09:38",
+      "price": "129zł",
+      "note": "Morele.net"
+    }
+  ],
+  "lego batman legacy of the dark": [
+    {
+      "date": "2026-11-24 09:38",
+      "price": "169zł",
+      "note": "Allegro"
+    }
+  ],
+  "2x 1kg kawa ziarnista eduscho crema": [
+    {
+      "date": "2026-11-24 09:38",
+      "price": "60,98zł",
+      "note": "InPost"
+    }
+  ],
+  "pad sony dualsense playstation 5 galactit": [
+    {
+      "date": "2026-11-24 09:38",
+      "price": "259,99zł",
+      "note": "Media Expert"
+    }
+  ],
+  "joggery damskie 100 bawełna w opisie": [
+    {
+      "date": "2026-11-24 09:38",
+      "price": "32,49zł",
+      "note": "Tezenis"
+    }
+  ],
+  "szczoteczka elektryczna soniczna do zębów etui": [
+    {
+      "date": "2026-11-24 09:38",
+      "price": "69zł",
+      "note": "Allegro"
+    }
+  ],
+  "metallica through the never 3d blu": [
+    {
+      "date": "2026-11-24 09:38",
+      "price": "56,08zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "philips oneblade 360 2 zestawy po": [
+    {
+      "date": "2026-11-24 09:38",
+      "price": "247zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "parkside akumulatorowa podkaszarka do trawy 20": [
+    {
+      "date": "2026-11-24 09:38",
+      "price": "59zł",
+      "note": "Lidl"
+    }
+  ],
+  "panele winylowe samoprzylepne boccho 2steps bzy610": [
+    {
+      "date": "2026-11-24 09:38",
+      "price": "2,95zł",
+      "note": "podlogi-drzwi.pl"
+    }
+  ],
+  "kawa ziarnista eduscho family 1 kg": [
+    {
+      "date": "2026-11-24 09:38",
+      "price": "116zł",
+      "note": "InPost"
+    }
+  ],
+  "chanel chance eau fraiche woda perfumowana": [
+    {
+      "date": "2026-11-24 09:38",
+      "price": "557zł",
+      "note": "Flaconi"
     }
   ]
 }
