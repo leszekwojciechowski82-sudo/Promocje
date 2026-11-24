@@ -3493,16 +3493,6 @@
   ],
   "lupilu śniegowce chłopięce": [
     {
-      "date": "2026-11-23 09:07",
-      "price": "52,72 zł",
-      "note": "Lidl.pl"
-    },
-    {
-      "date": "2026-11-24 03:18",
-      "price": "53,52 zł",
-      "note": "Lidl.pl"
-    },
-    {
       "date": "2026-11-24 11:46",
       "price": "52,72 zł",
       "note": "Lidl.pl"
@@ -3589,6 +3579,16 @@
     },
     {
       "date": "2026-11-24 20:43",
+      "price": "53,52 zł",
+      "note": "Lidl.pl"
+    },
+    {
+      "date": "2026-11-24 21:45",
+      "price": "52,72 zł",
+      "note": "Lidl.pl"
+    },
+    {
+      "date": "2026-11-24 21:45",
       "price": "53,52 zł",
       "note": "Lidl.pl"
     }
@@ -3714,16 +3714,6 @@
   ],
   "pepco maskotka ludzik piernikowy": [
     {
-      "date": "2026-11-24 10:46",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-24 10:46",
-      "price": "50 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-24 11:46",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3810,22 +3800,22 @@
     },
     {
       "date": "2026-11-24 20:43",
+      "price": "50 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 21:45",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 21:45",
       "price": "50 zł",
       "note": "Pepco.pl"
     }
   ],
   "pepco dekoracja tekstylna mini ludzik piernikowy": [
     {
-      "date": "2026-11-24 10:46",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-24 10:46",
-      "price": "10 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-24 11:46",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3912,6 +3902,16 @@
     },
     {
       "date": "2026-11-24 20:43",
+      "price": "10 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 21:45",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 21:45",
       "price": "10 zł",
       "note": "Pepco.pl"
     }
@@ -4023,16 +4023,6 @@
   ],
   "pepco zabawkowy sklep z półkami": [
     {
-      "date": "2026-11-24 10:46",
-      "price": "120 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-24 10:46",
-      "price": "105 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-24 11:46",
       "price": "120 zł",
       "note": "Pepco.pl"
@@ -4119,6 +4109,16 @@
     },
     {
       "date": "2026-11-24 20:43",
+      "price": "105 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 21:45",
+      "price": "120 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 21:45",
       "price": "105 zł",
       "note": "Pepco.pl"
     }
@@ -4462,14 +4462,19 @@
       "date": "2026-11-24 19:53",
       "price": "99,99 zł",
       "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-24 21:45",
+      "price": "149,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-24 21:45",
+      "price": "99,99 zł",
+      "note": "Rossmann.pl"
     }
   ],
   "calvin klein woda perfumowana dla kobiet": [
-    {
-      "date": "2026-11-24 12:55",
-      "price": "229,99 zł",
-      "note": "Rossmann.pl"
-    },
     {
       "date": "2026-11-24 12:55",
       "price": "129,99 zł",
@@ -4563,6 +4568,11 @@
     {
       "date": "2026-11-24 20:43",
       "price": "229,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-24 21:45",
+      "price": "129,99 zł",
       "note": "Rossmann.pl"
     }
   ],
@@ -9559,6 +9569,16 @@
       "date": "2026-11-24 12:55",
       "price": "159,99 zł",
       "note": "Smyk.com"
+    },
+    {
+      "date": "2026-11-24 21:45",
+      "price": "109 zł",
+      "note": "Smyk.com"
+    },
+    {
+      "date": "2026-11-24 21:45",
+      "price": "159,99 zł",
+      "note": "Smyk.com"
     }
   ],
   "cool club czapka z daszkiem chłopięca": [
@@ -9638,6 +9658,16 @@
     },
     {
       "date": "2026-11-24 12:55",
+      "price": "59,99 zł",
+      "note": "Smyk.com"
+    },
+    {
+      "date": "2026-11-24 21:45",
+      "price": "21 zł",
+      "note": "Smyk.com"
+    },
+    {
+      "date": "2026-11-24 21:45",
       "price": "59,99 zł",
       "note": "Smyk.com"
     }
@@ -10324,6 +10354,11 @@
   ],
   "cool club kapcie chłopięce slip on": [
     {
+      "date": "przed promocją",
+      "price": "59,99 zł",
+      "note": "przed promocją"
+    },
+    {
       "date": "30 dni przed obniżką",
       "price": "59,99 zł",
       "note": "Najniższa z 30 dni (Omnibus)"
@@ -10335,6 +10370,11 @@
     }
   ],
   "cool club majtki bokserki chłopięce mix": [
+    {
+      "date": "przed promocją",
+      "price": "69,99 zł",
+      "note": "przed promocją"
+    },
     {
       "date": "30 dni przed obniżką",
       "price": "69,99 zł",
@@ -10365,6 +10405,11 @@
   ],
   "cool club podkoszulek chłopięcy biały szary": [
     {
+      "date": "przed promocją",
+      "price": "29,99 zł",
+      "note": "przed promocją"
+    },
+    {
       "date": "30 dni przed obniżką",
       "price": "29,99 zł",
       "note": "Najniższa z 30 dni (Omnibus)"
@@ -10376,6 +10421,11 @@
     }
   ],
   "cool club kurtka dziewczęca z kapturem": [
+    {
+      "date": "przed promocją",
+      "price": "49 zł",
+      "note": "przed promocją"
+    },
     {
       "date": "30 dni przed obniżką",
       "price": "49 zł",
@@ -10640,6 +10690,16 @@
     },
     {
       "date": "2026-11-24 12:55",
+      "price": "159,99 zł",
+      "note": "Smyk.com"
+    },
+    {
+      "date": "2026-11-24 21:45",
+      "price": "149,99 zł",
+      "note": "Smyk.com"
+    },
+    {
+      "date": "2026-11-24 21:45",
       "price": "159,99 zł",
       "note": "Smyk.com"
     }
@@ -12145,6 +12205,193 @@
       "date": "2026-11-24 20:43",
       "price": "374zł",
       "note": "RTV Euro AGD"
+    }
+  ],
+  "kawa melitta originals crema 1000g tchibo": [
+    {
+      "date": "2026-11-24 21:45",
+      "price": "59,99zł",
+      "note": "Neonet"
+    }
+  ],
+  "hiskin kalendarz adwentowy z ozdobami świątecznymi": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "59,99 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-24 21:45",
+      "price": "49,99 zł",
+      "note": "Rossmann.pl"
+    }
+  ],
+  "słuchawki dokanałowe soundcore liberty 5 anc": [
+    {
+      "date": "2026-11-24 21:45",
+      "price": "173,52zł",
+      "note": "Ceneo"
+    }
+  ],
+  "zestaw 15 adapterów do wentyli rowerowych": [
+    {
+      "date": "2026-11-24 21:45",
+      "price": "9,89zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "wago 2273 204 złączka instalacyjna czerwony": [
+    {
+      "date": "2026-11-24 21:45",
+      "price": "65,49zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "słuchawki apple airpods 5 z bezprzewodowym": [
+    {
+      "date": "2026-11-24 21:45",
+      "price": "599zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "nawilżacz powietrza xiaomi smart evaporative humidifier": [
+    {
+      "date": "2026-11-24 21:45",
+      "price": "229zł",
+      "note": "Eltrox"
+    }
+  ],
+  "klocki cada biblioteka w domku na": [
+    {
+      "date": "2026-11-24 21:45",
+      "price": "199,58zł",
+      "note": "Allegro"
+    }
+  ],
+  "tasma led 40m": [
+    {
+      "date": "2026-11-24 21:45",
+      "price": "75,37zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "smartwatch garmin fenix 8 47 mm": [
+    {
+      "date": "2026-11-24 21:45",
+      "price": "2 399zł",
+      "note": "MediaMarkt"
+    }
+  ],
+  "zegarek męski tissot le locle automatic": [
+    {
+      "date": "2026-11-24 21:45",
+      "price": "2 570zł",
+      "note": "Time Trend"
+    }
+  ],
+  "piecyk gazowy delonghi": [
+    {
+      "date": "2026-11-24 21:45",
+      "price": "519zł",
+      "note": "DeLonghi"
+    }
+  ],
+  "rossmann beauty of joseon relief sun": [
+    {
+      "date": "2026-11-24 21:45",
+      "price": "44,99zł",
+      "note": "Rossmann"
+    }
+  ],
+  "lophe zestaw balsamów do ust 6": [
+    {
+      "date": "2026-11-24 21:45",
+      "price": "9,34zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "sportrabat black week wszystko": [
+    {
+      "date": "2026-11-24 21:45",
+      "price": "6,25zł",
+      "note": "SportRabat"
+    }
+  ],
+  "obiektyw sigma c 56 mm f": [
+    {
+      "date": "2026-11-24 21:45",
+      "price": "1 368zł",
+      "note": "Media Expert"
+    }
+  ],
+  "vasagle kosz na pranie 4 kosze": [
+    {
+      "date": "2026-11-24 21:45",
+      "price": "160,49zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "sandisk extreme pro cfexpress 4 0": [
+    {
+      "date": "2026-11-24 21:45",
+      "price": "3 001zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "gobik wyprzedaż na black friday koszulki": [
+    {
+      "date": "2026-11-24 21:45",
+      "price": "330zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "zaginiona wyspa arnak kręte ścieżki 64": [
+    {
+      "date": "2026-11-24 21:45",
+      "price": "73,07zł",
+      "note": "Empik"
+    }
+  ],
+  "obiektyw viltrox 50mm 1 4 pro": [
+    {
+      "date": "2026-11-24 21:45",
+      "price": "1 755,82zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "elektryczny rower turystyczny focus aventura2 6": [
+    {
+      "date": "2026-11-24 21:45",
+      "price": "8 939,85zł",
+      "note": "SPORT 11"
+    }
+  ],
+  "edifier qd35 kompaktowy system głośników bluetooth": [
+    {
+      "date": "2026-11-24 21:45",
+      "price": "259zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "mini rampa 475x125x62 5cm w dobrej": [
+    {
+      "date": "2026-11-24 21:45",
+      "price": "2 150zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "konsola sony playstation 5 digital edition": [
+    {
+      "date": "2026-11-24 21:45",
+      "price": "2 899zł",
+      "note": "Auchan"
+    }
+  ],
+  "nike court borough low recraft klasyczne": [
+    {
+      "date": "2026-11-24 21:45",
+      "price": "146,52zł",
+      "note": "Amazon.de"
     }
   ]
 }
