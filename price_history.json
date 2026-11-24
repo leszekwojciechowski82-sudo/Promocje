@@ -3569,16 +3569,6 @@
   ],
   "pepco maskotka ludzik piernikowy": [
     {
-      "date": "2026-11-23 15:32",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-23 15:32",
-      "price": "50 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-23 16:48",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3665,22 +3655,22 @@
     },
     {
       "date": "2026-11-24 00:43",
+      "price": "50 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 02:04",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 02:04",
       "price": "50 zł",
       "note": "Pepco.pl"
     }
   ],
   "pepco dekoracja tekstylna mini ludzik piernikowy": [
     {
-      "date": "2026-11-23 15:32",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-23 15:32",
-      "price": "10 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-23 16:48",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3767,6 +3757,16 @@
     },
     {
       "date": "2026-11-24 00:43",
+      "price": "10 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 02:04",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 02:04",
       "price": "10 zł",
       "note": "Pepco.pl"
     }
@@ -3878,16 +3878,6 @@
   ],
   "pepco zabawkowy sklep z półkami": [
     {
-      "date": "2026-11-23 15:32",
-      "price": "120 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-23 15:32",
-      "price": "105 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-23 16:48",
       "price": "120 zł",
       "note": "Pepco.pl"
@@ -3974,6 +3964,16 @@
     },
     {
       "date": "2026-11-24 00:43",
+      "price": "105 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 02:04",
+      "price": "120 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 02:04",
       "price": "105 zł",
       "note": "Pepco.pl"
     }
@@ -4316,16 +4316,6 @@
   ],
   "calvin klein woda perfumowana dla kobiet": [
     {
-      "date": "2026-11-23 09:07",
-      "price": "229,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
-      "date": "2026-11-23 19:53",
-      "price": "129,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
       "date": "2026-11-23 19:53",
       "price": "229,99 zł",
       "note": "Rossmann.pl"
@@ -4407,6 +4397,21 @@
     },
     {
       "date": "2026-11-24 00:43",
+      "price": "199,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-24 02:04",
+      "price": "129,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-24 02:04",
+      "price": "229,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-24 02:04",
       "price": "199,99 zł",
       "note": "Rossmann.pl"
     }
@@ -8270,6 +8275,118 @@
       "date": "2026-11-24 00:43",
       "price": "89,99zł",
       "note": "Amazon.pl"
+    }
+  ],
+  "robot koszący landxcape lx790 600m2 60min": [
+    {
+      "date": "2026-11-24 02:04",
+      "price": "599zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "lodówka tcl rf340bwd0 pełny no frost": [
+    {
+      "date": "2026-11-24 02:04",
+      "price": "524,70zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "budzik raven ebud001 z ładowarką indukcyjną": [
+    {
+      "date": "2026-11-24 02:04",
+      "price": "29,70zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "dpd mobile nadanie paczki s 11x44": [
+    {
+      "date": "2026-11-24 02:04",
+      "price": "5,49zł",
+      "note": "DPD"
+    }
+  ],
+  "samochód osobowy trabant 601 deluxe ok": [
+    {
+      "date": "2026-11-24 02:04",
+      "price": "43,99zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "gra android terraria": [
+    {
+      "date": "2026-11-24 02:04",
+      "price": "12zł",
+      "note": "Google Play"
+    }
+  ],
+  "smartwatch amazfit t rex 3 pro": [
+    {
+      "date": "2026-11-24 02:04",
+      "price": "996,96zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "ekspres delonghi primadonna aromatic ecam630 75tm": [
+    {
+      "date": "2026-11-24 02:04",
+      "price": "1 399,01zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "lodówka beko gn1416240zxn pełny no frost": [
+    {
+      "date": "2026-11-24 02:04",
+      "price": "1 169,70zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "lodówka bosch serie 6 kgn86aidr pełny": [
+    {
+      "date": "2026-11-24 02:04",
+      "price": "1 199,70zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "lodówka sharp sj nfa35ihxbe eu2 pełny": [
+    {
+      "date": "2026-11-24 02:04",
+      "price": "1 079,70zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "ekspres kolbowy smeg": [
+    {
+      "date": "2026-11-24 02:04",
+      "price": "539zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "zwroty za zakupy 30 zł za": [
+    {
+      "date": "2026-11-24 02:04",
+      "price": "30 zł",
+      "note": "Millennium Bank"
+    }
+  ],
+  "płyta ceramiczna amica ph 3200pg 29cm": [
+    {
+      "date": "2026-11-24 02:04",
+      "price": "209,70zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "słuchawki bezprzewodowe cmf by nothing headphone": [
+    {
+      "date": "2026-11-24 02:04",
+      "price": "219zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "nożyce akumulatorowe karcher tlo battery 18": [
+    {
+      "date": "2026-11-24 02:04",
+      "price": "99zł",
+      "note": "RTV Euro AGD"
     }
   ]
 }
