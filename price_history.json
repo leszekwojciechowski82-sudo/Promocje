@@ -3541,6 +3541,16 @@
       "date": "2026-11-24 14:12",
       "price": "53,52 zł",
       "note": "Lidl.pl"
+    },
+    {
+      "date": "2026-11-24 15:29",
+      "price": "52,72 zł",
+      "note": "Lidl.pl"
+    },
+    {
+      "date": "2026-11-24 15:29",
+      "price": "53,52 zł",
+      "note": "Lidl.pl"
     }
   ],
   "aldi mięso z uda indyka na": [
@@ -3664,16 +3674,6 @@
   ],
   "pepco maskotka ludzik piernikowy": [
     {
-      "date": "2026-11-24 03:18",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-24 03:18",
-      "price": "50 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-24 04:30",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3760,22 +3760,22 @@
     },
     {
       "date": "2026-11-24 14:12",
+      "price": "50 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 15:29",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 15:29",
       "price": "50 zł",
       "note": "Pepco.pl"
     }
   ],
   "pepco dekoracja tekstylna mini ludzik piernikowy": [
     {
-      "date": "2026-11-24 03:18",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-24 03:18",
-      "price": "10 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-24 04:30",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3862,6 +3862,16 @@
     },
     {
       "date": "2026-11-24 14:12",
+      "price": "10 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 15:29",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 15:29",
       "price": "10 zł",
       "note": "Pepco.pl"
     }
@@ -3973,16 +3983,6 @@
   ],
   "pepco zabawkowy sklep z półkami": [
     {
-      "date": "2026-11-24 03:18",
-      "price": "120 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-24 03:18",
-      "price": "105 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-24 04:30",
       "price": "120 zł",
       "note": "Pepco.pl"
@@ -4069,6 +4069,16 @@
     },
     {
       "date": "2026-11-24 14:12",
+      "price": "105 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 15:29",
+      "price": "120 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 15:29",
       "price": "105 zł",
       "note": "Pepco.pl"
     }
@@ -4411,21 +4421,6 @@
   ],
   "calvin klein woda perfumowana dla kobiet": [
     {
-      "date": "2026-11-24 06:53",
-      "price": "229,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
-      "date": "2026-11-24 06:53",
-      "price": "199,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
-      "date": "2026-11-24 08:19",
-      "price": "229,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
       "date": "2026-11-24 08:19",
       "price": "129,99 zł",
       "note": "Rossmann.pl"
@@ -4507,6 +4502,21 @@
     },
     {
       "date": "2026-11-24 14:12",
+      "price": "199,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-24 15:29",
+      "price": "229,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-24 15:29",
+      "price": "129,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-24 15:29",
       "price": "199,99 zł",
       "note": "Rossmann.pl"
     }
@@ -5946,6 +5956,11 @@
     {
       "date": "2026-11-23 12:55",
       "price": "89,99zł",
+      "note": "Allegro"
+    },
+    {
+      "date": "2026-11-24 15:29",
+      "price": "94,99zł",
       "note": "Allegro"
     }
   ],
@@ -10614,6 +10629,11 @@
   ],
   "zasilacz redragon guard gc gu02p 650w": [
     {
+      "date": "przed promocją",
+      "price": "289 zł",
+      "note": "przed promocją"
+    },
+    {
       "date": "30 dni przed obniżką",
       "price": "289 zł",
       "note": "Najniższa z 30 dni (Omnibus)"
@@ -10849,6 +10869,207 @@
       "date": "2026-11-24 14:12",
       "price": "$241.99",
       "note": "Banggood.com"
+    }
+  ],
+  "nocleg w grand royal hotel poznań": [
+    {
+      "date": "2026-11-24 15:29",
+      "price": "170zł",
+      "note": "Triverna"
+    }
+  ],
+  "regał trappedal 7 półek kolor ciepły": [
+    {
+      "date": "przed promocją",
+      "price": "399 zł",
+      "note": "przed promocją"
+    },
+    {
+      "date": "2026-11-24 15:29",
+      "price": "200zł",
+      "note": "JYSK"
+    }
+  ],
+  "super combo 50 taniej w allegro": [
+    {
+      "date": "2026-11-24 15:29",
+      "price": "10zł",
+      "note": "Allegro"
+    }
+  ],
+  "hot wheels premium mitsubishi lancer evolution": [
+    {
+      "date": "2026-11-24 15:29",
+      "price": "17,99zł",
+      "note": "Smyk"
+    }
+  ],
+  "kesper deska do krojenia drewno akacjowe": [
+    {
+      "date": "2026-11-24 15:29",
+      "price": "21,31zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "wełniane garnitury od 899 do 1199": [
+    {
+      "date": "2026-11-24 15:29",
+      "price": "899,98zł",
+      "note": "Pako Lorente"
+    }
+  ],
+  "smartfon apple iphone 17 5g 256gb": [
+    {
+      "date": "2026-11-24 15:29",
+      "price": "4 199zł",
+      "note": "Media Expert"
+    }
+  ],
+  "cosori caf tf801 ceur dual blaze": [
+    {
+      "date": "2026-11-24 15:29",
+      "price": "649zł",
+      "note": "Media Expert"
+    }
+  ],
+  "amazfit t rex 3 pro smartwatch": [
+    {
+      "date": "2026-11-24 15:29",
+      "price": "1 099zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "1000 pkt za wydanie 50 zł": [
+    {
+      "date": "2026-11-24 15:29",
+      "price": "50 zł",
+      "note": "Mastercard"
+    }
+  ],
+  "golarka philips s3244 12 na mokro": [
+    {
+      "date": "2026-11-24 15:29",
+      "price": "189zł",
+      "note": "Media Expert"
+    }
+  ],
+  "konsola playstation 5 region japonia możliwy": [
+    {
+      "date": "2026-11-24 15:29",
+      "price": "1 825zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "zegarek automatyczny seiko 5 automatic snxs77": [
+    {
+      "date": "2026-11-24 15:29",
+      "price": "546,49zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "jej orgazm najpierw jak zadowolić kobietę": [
+    {
+      "date": "2026-11-24 15:29",
+      "price": "33,99zł",
+      "note": "Empik"
+    }
+  ],
+  "gra pillars of eternity ii deadfire": [
+    {
+      "date": "2026-11-24 15:29",
+      "price": "19,75zł",
+      "note": "Steam"
+    }
+  ],
+  "plecak nike academy 22l granatowy": [
+    {
+      "date": "2026-11-24 15:29",
+      "price": "68,71zł",
+      "note": "Allegro"
+    }
+  ],
+  "mysz glorious model d 19k dpi": [
+    {
+      "date": "2026-11-24 15:29",
+      "price": "49zł",
+      "note": "Media Expert"
+    }
+  ],
+  "apple ładowarka magsafe usb c 1": [
+    {
+      "date": "2026-11-24 15:29",
+      "price": "99zł",
+      "note": "Lantre"
+    }
+  ],
+  "black friday z manchester united oficjalna": [
+    {
+      "date": "2026-11-24 15:29",
+      "price": "156zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "przełącznik kvm ugreen hdmi 4 in": [
+    {
+      "date": "2026-11-24 15:29",
+      "price": "281,19zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "battlefield v": [
+    {
+      "date": "2026-11-24 15:29",
+      "price": "10,99zł",
+      "note": "Steam"
+    }
+  ],
+  "obiektyw viltrox af 85mm f 1": [
+    {
+      "date": "2026-11-24 15:29",
+      "price": "1 926,92zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "echosonda wędkarska garmin livescope plus lvs34": [
+    {
+      "date": "2026-11-24 15:29",
+      "price": "6 999,99zł",
+      "note": "Media Expert"
+    }
+  ],
+  "kapsułki do zmywarki fairy platinum all": [
+    {
+      "date": "2026-11-24 15:29",
+      "price": "99,99zł",
+      "note": "Media Expert"
+    }
+  ],
+  "taśma kinezjologiczna na kolano 20 szt": [
+    {
+      "date": "2026-11-24 15:29",
+      "price": "19zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "słoiczki na przyprawy comsaf 24 120": [
+    {
+      "date": "2026-11-24 15:29",
+      "price": "79,99zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "obiektyw viltrox af 56 mm f": [
+    {
+      "date": "2026-11-24 15:29",
+      "price": "1 868,91zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "jean paul gaultier perfumy dla kobiet": [
+    {
+      "date": "2026-11-24 15:29",
+      "price": "529,99 zł",
+      "note": "Rossmann.pl"
     }
   ]
 }
