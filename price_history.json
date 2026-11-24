@@ -530,6 +530,11 @@
       "date": "2026-11-22 21:14",
       "price": "142,08zł",
       "note": "Allegro"
+    },
+    {
+      "date": "2026-11-24 11:46",
+      "price": "147,89zł",
+      "note": "Empik"
     }
   ],
   "hot wheels kule do kąpieli 6": [
@@ -3099,6 +3104,11 @@
   ],
   "aldi pomidory mięsiste": [
     {
+      "date": "30 dni przed obniżką",
+      "price": "15,99 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
       "date": "2026-11-23 09:07",
       "price": "9,99 zł",
       "note": "Aldi.pl"
@@ -3496,6 +3506,16 @@
       "date": "2026-11-24 03:18",
       "price": "53,52 zł",
       "note": "Lidl.pl"
+    },
+    {
+      "date": "2026-11-24 11:46",
+      "price": "52,72 zł",
+      "note": "Lidl.pl"
+    },
+    {
+      "date": "2026-11-24 11:46",
+      "price": "53,52 zł",
+      "note": "Lidl.pl"
     }
   ],
   "aldi mięso z uda indyka na": [
@@ -3619,16 +3639,6 @@
   ],
   "pepco maskotka ludzik piernikowy": [
     {
-      "date": "2026-11-23 23:39",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-23 23:39",
-      "price": "50 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-24 00:43",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3715,22 +3725,22 @@
     },
     {
       "date": "2026-11-24 10:46",
+      "price": "50 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 11:46",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 11:46",
       "price": "50 zł",
       "note": "Pepco.pl"
     }
   ],
   "pepco dekoracja tekstylna mini ludzik piernikowy": [
     {
-      "date": "2026-11-23 23:39",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-23 23:39",
-      "price": "10 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-24 00:43",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3817,6 +3827,16 @@
     },
     {
       "date": "2026-11-24 10:46",
+      "price": "10 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 11:46",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 11:46",
       "price": "10 zł",
       "note": "Pepco.pl"
     }
@@ -3928,16 +3948,6 @@
   ],
   "pepco zabawkowy sklep z półkami": [
     {
-      "date": "2026-11-23 23:39",
-      "price": "120 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-23 23:39",
-      "price": "105 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-24 00:43",
       "price": "120 zł",
       "note": "Pepco.pl"
@@ -4024,6 +4034,16 @@
     },
     {
       "date": "2026-11-24 10:46",
+      "price": "105 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 11:46",
+      "price": "120 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 11:46",
       "price": "105 zł",
       "note": "Pepco.pl"
     }
@@ -4366,21 +4386,6 @@
   ],
   "calvin klein woda perfumowana dla kobiet": [
     {
-      "date": "2026-11-24 03:18",
-      "price": "229,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
-      "date": "2026-11-24 03:18",
-      "price": "199,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
-      "date": "2026-11-24 04:30",
-      "price": "129,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
       "date": "2026-11-24 04:30",
       "price": "229,99 zł",
       "note": "Rossmann.pl"
@@ -4462,6 +4467,21 @@
     },
     {
       "date": "2026-11-24 10:46",
+      "price": "199,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-24 11:46",
+      "price": "229,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-24 11:46",
+      "price": "129,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-24 11:46",
       "price": "199,99 zł",
       "note": "Rossmann.pl"
     }
@@ -9982,6 +10002,219 @@
       "date": "2026-11-24 10:46",
       "price": "167,99 zł",
       "note": "Smyk.com"
+    }
+  ],
+  "etui odyssey ultra m 360 iphone": [
+    {
+      "date": "2026-11-24 11:46",
+      "price": "158zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "black friday polskiej marki odzieżowej naoko": [
+    {
+      "date": "2026-11-24 11:46",
+      "price": "264,50zł",
+      "note": "NAOKO"
+    }
+  ],
+  "google one ai plus 400gb chmury": [
+    {
+      "date": "2026-11-24 11:46",
+      "price": "119,99zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "eveline cosmetics błyszczyk serum do ust": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "16,99 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-24 11:46",
+      "price": "9,99 zł",
+      "note": "Rossmann.pl"
+    }
+  ],
+  "dodatkowe 20 na wszystko bez minimalnej": [
+    {
+      "date": "2026-11-24 11:46",
+      "price": "99€",
+      "note": "Picksport"
+    }
+  ],
+  "velvet ręcznik papierowy 3 warstwowe": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "12,99 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-24 11:46",
+      "price": "11,49 zł",
+      "note": "Rossmann.pl"
+    }
+  ],
+  "kklocki lego różne komplety w auchan": [
+    {
+      "date": "2026-11-24 11:46",
+      "price": "64,99zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "mandarynki 1 kg w auchan": [
+    {
+      "date": "2026-11-24 11:46",
+      "price": "2,99zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "chwyty rowerowe adiwo 22 2 mm": [
+    {
+      "date": "2026-11-24 11:46",
+      "price": "11,39zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "ketchup heinz 1 kg cena przy": [
+    {
+      "date": "2026-11-24 11:46",
+      "price": "8,49zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "nivea repair care krem nawilżająco ochronny": [
+    {
+      "date": "2026-11-24 11:46",
+      "price": "16,99zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "interkom motocyklowy sena smh5 bluetooth 3": [
+    {
+      "date": "2026-11-24 11:46",
+      "price": "195,88zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "czujnik dymu heiman mini fotoelektryczny bateria": [
+    {
+      "date": "2026-11-24 11:46",
+      "price": "62,69zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "samsung galaxy s26 zwrot 50 wartości": [
+    {
+      "date": "2026-11-24 11:46",
+      "price": "3 799zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "zegarek męski casio g shock ga": [
+    {
+      "date": "2026-11-24 11:46",
+      "price": "282,67zł",
+      "note": "Allegro"
+    }
+  ],
+  "gra micro machines world series na": [
+    {
+      "date": "2026-11-24 11:46",
+      "price": "2,59zł",
+      "note": "Loaded"
+    }
+  ],
+  "piłki tenisowe tk gruppe 6 szt": [
+    {
+      "date": "2026-11-24 11:46",
+      "price": "20zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "pokemon tcg pitch black kolporter": [
+    {
+      "date": "2026-11-24 11:46",
+      "price": "20,99zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "hoti łopatka do pizzy made in": [
+    {
+      "date": "2026-11-24 11:46",
+      "price": "24,71zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "ebook stanisław bareja pur e z": [
+    {
+      "date": "2026-11-24 11:46",
+      "price": "12zł",
+      "note": "Publio"
+    }
+  ],
+  "madera funchal tydzień w 5 hotelu": [
+    {
+      "date": "2026-11-24 11:46",
+      "price": "2 129zł",
+      "note": "Wakacje.pl"
+    }
+  ],
+  "ekspres do kawy delonghi magnifica evo": [
+    {
+      "date": "2026-11-24 11:46",
+      "price": "1 799zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "lee straight fit mvp dżinsy męskie": [
+    {
+      "date": "2026-11-24 11:46",
+      "price": "88,99zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "zestaw nóż i nożyczki tefal comfort": [
+    {
+      "date": "2026-11-24 11:46",
+      "price": "39,99zł",
+      "note": "Media Expert"
+    }
+  ],
+  "gigabyte b850 aorus elite wifi7 ice": [
+    {
+      "date": "2026-11-24 11:46",
+      "price": "706,13zł",
+      "note": "Amazon.de"
+    }
+  ],
+  "pilot uniwersalny superior electronics ready5 smart": [
+    {
+      "date": "2026-11-24 11:46",
+      "price": "17,76zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "hama 00030394 listwa zasilająca czarny 6": [
+    {
+      "date": "2026-11-24 11:46",
+      "price": "20,99zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "lee slim chino spodnie męskie slim": [
+    {
+      "date": "2026-11-24 11:46",
+      "price": "83,64zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "ikea 365 garnek 3 l na": [
+    {
+      "date": "2026-11-24 11:46",
+      "price": "49,99zł",
+      "note": "IKEA"
     }
   ]
 }
