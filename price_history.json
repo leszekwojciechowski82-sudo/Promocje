@@ -2037,6 +2037,11 @@
       "date": "2026-11-24 09:38",
       "price": "619,99 zł",
       "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-24 10:46",
+      "price": "269,99 zł",
+      "note": "Rossmann.pl"
     }
   ],
   "finish kapsułki do zmywarki fresh": [
@@ -3614,16 +3619,6 @@
   ],
   "pepco maskotka ludzik piernikowy": [
     {
-      "date": "2026-11-23 22:41",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-23 22:41",
-      "price": "50 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-23 23:39",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3710,22 +3705,22 @@
     },
     {
       "date": "2026-11-24 09:38",
+      "price": "50 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 10:46",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 10:46",
       "price": "50 zł",
       "note": "Pepco.pl"
     }
   ],
   "pepco dekoracja tekstylna mini ludzik piernikowy": [
     {
-      "date": "2026-11-23 22:41",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-23 22:41",
-      "price": "10 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-23 23:39",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3812,6 +3807,16 @@
     },
     {
       "date": "2026-11-24 09:38",
+      "price": "10 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 10:46",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 10:46",
       "price": "10 zł",
       "note": "Pepco.pl"
     }
@@ -3923,16 +3928,6 @@
   ],
   "pepco zabawkowy sklep z półkami": [
     {
-      "date": "2026-11-23 22:41",
-      "price": "120 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-23 22:41",
-      "price": "105 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-23 23:39",
       "price": "120 zł",
       "note": "Pepco.pl"
@@ -4019,6 +4014,16 @@
     },
     {
       "date": "2026-11-24 09:38",
+      "price": "105 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 10:46",
+      "price": "120 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-24 10:46",
       "price": "105 zł",
       "note": "Pepco.pl"
     }
@@ -4361,21 +4366,6 @@
   ],
   "calvin klein woda perfumowana dla kobiet": [
     {
-      "date": "2026-11-24 02:04",
-      "price": "229,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
-      "date": "2026-11-24 02:04",
-      "price": "199,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
-      "date": "2026-11-24 03:18",
-      "price": "129,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
       "date": "2026-11-24 03:18",
       "price": "229,99 zł",
       "note": "Rossmann.pl"
@@ -4457,6 +4447,21 @@
     },
     {
       "date": "2026-11-24 09:38",
+      "price": "199,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-24 10:46",
+      "price": "229,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-24 10:46",
+      "price": "129,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-24 10:46",
       "price": "199,99 zł",
       "note": "Rossmann.pl"
     }
@@ -9303,6 +9308,11 @@
   ],
   "parkside wciągarka linowa ręczna przeciągarka linowa": [
     {
+      "date": "przed promocją",
+      "price": "91,90 zł",
+      "note": "przed promocją"
+    },
+    {
       "date": "30 dni przed obniżką",
       "price": "91,90 zł",
       "note": "Najniższa z 30 dni (Omnibus)"
@@ -9380,6 +9390,11 @@
   ],
   "crivit deska sup allround jednokomorowa": [
     {
+      "date": "przed promocją",
+      "price": "809 zł",
+      "note": "przed promocją"
+    },
+    {
       "date": "30 dni przed obniżką",
       "price": "809 zł",
       "note": "Najniższa z 30 dni (Omnibus)"
@@ -9421,6 +9436,11 @@
   ],
   "cool club kombinezon chłopięcy z kapturem": [
     {
+      "date": "przed promocją",
+      "price": "159,99 zł",
+      "note": "przed promocją"
+    },
+    {
       "date": "30 dni przed obniżką",
       "price": "159,99 zł",
       "note": "Najniższa z 30 dni (Omnibus)"
@@ -9444,6 +9464,11 @@
     }
   ],
   "cool club płaszcz dziewczęcy z kapturem": [
+    {
+      "date": "przed promocją",
+      "price": "199,99 zł",
+      "note": "przed promocją"
+    },
     {
       "date": "30 dni przed obniżką",
       "price": "199,99 zł",
@@ -9480,9 +9505,29 @@
       "date": "2026-11-24 09:38",
       "price": "57 zł",
       "note": "Smyk.com"
+    },
+    {
+      "date": "2026-11-24 10:46",
+      "price": "49 zł",
+      "note": "Smyk.com"
+    },
+    {
+      "date": "2026-11-24 10:46",
+      "price": "64 zł",
+      "note": "Smyk.com"
+    },
+    {
+      "date": "2026-11-24 10:46",
+      "price": "57 zł",
+      "note": "Smyk.com"
     }
   ],
   "cool club czapka chłopięca prążkowana brązowa": [
+    {
+      "date": "przed promocją",
+      "price": "29,99 zł",
+      "note": "przed promocją"
+    },
     {
       "date": "30 dni przed obniżką",
       "price": "29,99 zł",
@@ -9495,6 +9540,11 @@
     }
   ],
   "cool club czapka chłopięca beżowa": [
+    {
+      "date": "przed promocją",
+      "price": "29,99 zł",
+      "note": "przed promocją"
+    },
     {
       "date": "30 dni przed obniżką",
       "price": "29,99 zł",
@@ -9519,6 +9569,11 @@
     }
   ],
   "cool club komplet dziewczęcy sukienka z": [
+    {
+      "date": "przed promocją",
+      "price": "89,99 zł",
+      "note": "przed promocją"
+    },
     {
       "date": "30 dni przed obniżką",
       "price": "89,99 zł",
@@ -9717,6 +9772,216 @@
       "date": "2026-11-24 09:38",
       "price": "557zł",
       "note": "Flaconi"
+    }
+  ],
+  "canal plus seriale i filmy z": [
+    {
+      "date": "2026-11-24 10:46",
+      "price": "48,78zł",
+      "note": "Canal Plus"
+    }
+  ],
+  "bezproblemowa ciężarówka transportowa ciągnąca piasek dekoracja": [
+    {
+      "date": "2026-11-24 10:46",
+      "price": "95,99zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "smartfon apple iphone 17 pro max": [
+    {
+      "date": "2026-11-24 10:46",
+      "price": "6 049zł",
+      "note": "Allegro"
+    }
+  ],
+  "hanna hi772 mini fotometr kh i": [
+    {
+      "date": "2026-11-24 10:46",
+      "price": "271,20zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "przesunąć horyzont 20 lat później wojciechowska": [
+    {
+      "date": "2026-11-24 10:46",
+      "price": "35,57zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "zestaw patelni zwieger rocca 24cm 28cm": [
+    {
+      "date": "2026-11-24 10:46",
+      "price": "39,99zł",
+      "note": "Allegro"
+    }
+  ],
+  "łóżko vasagle kacy rmb864w01 213 5": [
+    {
+      "date": "2026-11-24 10:46",
+      "price": "793,09zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "thrustmaster t128 force feedback kierownica i": [
+    {
+      "date": "2026-11-24 10:46",
+      "price": "501,62zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "deska zjazdowa sanki 1 2 osobowe": [
+    {
+      "date": "2026-11-24 10:46",
+      "price": "59zł",
+      "note": "Jula"
+    }
+  ],
+  "ekspres melitta f630 211 latteselect srebrny": [
+    {
+      "date": "2026-11-24 10:46",
+      "price": "1 999zł",
+      "note": "Media Expert"
+    }
+  ],
+  "brykiet ceramiczny campingaz 40 sztuk 205636": [
+    {
+      "date": "2026-11-24 10:46",
+      "price": "25zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "różowe bezprzewodowe razer kraken kitty v2": [
+    {
+      "date": "2026-11-24 10:46",
+      "price": "227,98zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "zapłać w smyk blikiem płacę później": [
+    {
+      "date": "2026-11-24 10:46",
+      "price": "50 zł",
+      "note": "Smyk"
+    }
+  ],
+  "wioślarz rowerg concept 2": [
+    {
+      "date": "2026-11-24 10:46",
+      "price": "4 999zł",
+      "note": "Decathlon"
+    }
+  ],
+  "prostownica do włosów remington pearl pro": [
+    {
+      "date": "2026-11-24 10:46",
+      "price": "103,40zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "hot wheels zestaw 10 samochodów wyścigowych": [
+    {
+      "date": "2026-11-24 10:46",
+      "price": "43,58zł",
+      "note": "Amazon.de"
+    }
+  ],
+  "kapsułki do prania bryza 4w1 color": [
+    {
+      "date": "2026-11-24 10:46",
+      "price": "29,99zł",
+      "note": "Media Expert"
+    }
+  ],
+  "450 zł za otwarcie konta w": [
+    {
+      "date": "2026-11-24 10:46",
+      "price": "450 zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "odkurzacz akumulatorowy stanley sfmcv002b xj body": [
+    {
+      "date": "2026-11-24 10:46",
+      "price": "329zł",
+      "note": "Morele.net"
+    }
+  ],
+  "płyn do prania woolite keratin therapy": [
+    {
+      "date": "2026-11-24 10:46",
+      "price": "29,99zł",
+      "note": "Media Expert"
+    }
+  ],
+  "golarka philips oneblade z ostrzem 360": [
+    {
+      "date": "2026-11-24 10:46",
+      "price": "93,89zł",
+      "note": "Allegro"
+    }
+  ],
+  "pluszowa figurka simpsons marge 30 cm": [
+    {
+      "date": "2026-11-24 10:46",
+      "price": "30,08zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "longsleeve trekkingowy męski patagonia cap cool": [
+    {
+      "date": "2026-11-24 10:46",
+      "price": "297,98zł",
+      "note": "Sportano"
+    }
+  ],
+  "nawilżające serum do twarzy jean len": [
+    {
+      "date": "2026-11-24 10:46",
+      "price": "18,43zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "vasagle stolik kawowy z podnoszonym blatem": [
+    {
+      "date": "2026-11-24 10:46",
+      "price": "278,33zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "aeropress 85r11 zaparzacz do kawy i": [
+    {
+      "date": "2026-11-24 10:46",
+      "price": "103,01zł",
+      "note": "Ceneo"
+    }
+  ],
+  "elegoo żywica sla 8k water washable": [
+    {
+      "date": "2026-11-24 10:46",
+      "price": "630zł",
+      "note": "Elegoo"
+    }
+  ],
+  "powerbank canyon pb 301 30 000": [
+    {
+      "date": "2026-11-24 10:46",
+      "price": "94,99zł",
+      "note": "x-kom"
+    }
+  ],
+  "słodki kubek z kotem vicloon filiżanka": [
+    {
+      "date": "2026-11-24 10:46",
+      "price": "15,47zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "babyono kocyk z wełny merino ecru": [
+    {
+      "date": "2026-11-24 10:46",
+      "price": "167,99 zł",
+      "note": "Smyk.com"
     }
   ]
 }
