@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 02:12",
+  "updated_at": "2026-11-25 03:26",
   "deals": [
     {
       "source": "Pepper.pl",
@@ -137,6 +137,121 @@
       ]
     },
     {
+      "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/instax-mini-30-zdjec-za-85-zl-283-zlszt-inne-warianty-w-opisie-1399720",
+      "title": "Instax Mini- 30 zdjęć za 85 zł (2,83 zł/szt.) inne warianty w opisie",
+      "link": "https://www.pepper.pl/promocje/instax-mini-30-zdjec-za-85-zl-283-zlszt-inne-warianty-w-opisie-1399720",
+      "published": "Wed, 25 Nov 2026 04:00:59 +0100",
+      "summary": "35zł - Amazon.pl Przy zakupie 3 paczek wkładów po 10 zdjęć (szare „Stone Gray” lub czarne „Contact Sheet”) w koszyku nalicza się promocja -20 zł. Zamiast 105 zł zapłacisz 85 zł za 30 zdjęć, czyli około 2,83 zł za zdjęcie. Dostawa gratis z…",
+      "image_url": "https://static.pepper.pl/threads/raw/Ye23k/1399720_1/re/150x150/qt/55/1399720_1.jpg",
+      "price": "35zł",
+      "old_price": "105 zł",
+      "lowest_30d": "",
+      "merchant": "Amazon.pl",
+      "category": "Kultura i rozrywka",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 100,
+      "savings_pln": 70.0,
+      "deal_score": 203.5,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Instax+Mini-+30+zdj%C4%99%C4%87+inne",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "przed promocją",
+          "price": "105 zł",
+          "note": "przed promocją"
+        },
+        {
+          "date": "2026-11-25 03:26",
+          "price": "35zł",
+          "note": "Amazon.pl"
+        }
+      ]
+    },
+    {
+      "source": "Smyk.com",
+      "deal_id": "smyk:/pl/pl/p/barbie-deluxe-style-modna-szafa--lalka-barbie-fashionistas-gratis-zestaw-promocyjny-i8467438",
+      "title": "Barbie, Deluxe Style, Modna szafa + lalka Barbie Fashionistas GRATIS, zestaw promocyjny",
+      "link": "https://www.smyk.com/pl/pl/p/barbie-deluxe-style-modna-szafa--lalka-barbie-fashionistas-gratis-zestaw-promocyjny-i8467438",
+      "published": "Aktualna oferta Smyk.com",
+      "summary": "Promocja ze sklepu Smyk.com • Najniższa z 30 dni: 219,99 zł.",
+      "image_url": "https://img.smyk.com/pl/pl/390x/https://bin.smyk.com/pl/pl/media/product/1600/1/barbie-deluxe-style-modna-szafa--lalka-barbie-fashionistas-gratis-zestaw-promocyjny-8467438.jpg",
+      "price": "169,99 zł",
+      "old_price": "219,99 zł",
+      "lowest_30d": "219,99 zł",
+      "merchant": "Smyk.com",
+      "category": "Dzieci i zabawki",
+      "store_group": "Dzieci i zabawki",
+      "discount_pct": 100,
+      "savings_pln": 50.0,
+      "deal_score": 202.5,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Barbie+Deluxe+Style+Modna+szafa",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "przed promocją",
+          "price": "219,99 zł",
+          "note": "przed promocją"
+        },
+        {
+          "date": "30 dni przed obniżką",
+          "price": "219,99 zł",
+          "note": "Najniższa z 30 dni (Omnibus)"
+        },
+        {
+          "date": "2026-11-23 17:49",
+          "price": "169,99 zł",
+          "note": "Smyk.com"
+        }
+      ]
+    },
+    {
+      "source": "Smyk.com",
+      "deal_id": "smyk:/pl/pl/p/baby-born-emma-lalka-bobas-43-cm-zestaw-z-dodatkowym-ubrankiem-onesie--5-pack-pieluszek-gratis-i8176719",
+      "title": "Baby Born, Emma, lalka bobas, 43 cm, zestaw z dodatkowym ubrankiem onesie + 5-pack pieluszek gratis",
+      "link": "https://www.smyk.com/pl/pl/p/baby-born-emma-lalka-bobas-43-cm-zestaw-z-dodatkowym-ubrankiem-onesie--5-pack-pieluszek-gratis-i8176719",
+      "published": "Aktualna oferta Smyk.com",
+      "summary": "Promocja ze sklepu Smyk.com • Najniższa z 30 dni: 199,99 zł.",
+      "image_url": "https://img.smyk.com/pl/pl/390x/https://bin.smyk.com/pl/pl/media/product/1600/1/baby-born-emma-lalka-bobas-43-cm-zestaw-z-dodatkowym-ubrankiem-onesie--5-pack-pieluszek-gratis-8176719.jpg",
+      "price": "189,99 zł",
+      "old_price": "199,99 zł",
+      "lowest_30d": "199,99 zł",
+      "merchant": "Smyk.com",
+      "category": "Dzieci i zabawki",
+      "store_group": "Dzieci i zabawki",
+      "discount_pct": 100,
+      "savings_pln": 10.0,
+      "deal_score": 200.5,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Baby+Born+Emma+lalka+bobas",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "przed promocją",
+          "price": "199,99 zł",
+          "note": "przed promocją"
+        },
+        {
+          "date": "30 dni przed obniżką",
+          "price": "199,99 zł",
+          "note": "Najniższa z 30 dni (Omnibus)"
+        },
+        {
+          "date": "2026-11-23 17:49",
+          "price": "189,99 zł",
+          "note": "Smyk.com"
+        }
+      ]
+    },
+    {
       "source": "Aldi.pl (Oferty)",
       "deal_id": "aldi:https://www.aldi.pl/produkt-szczegoly/woda-mineralna-80216160000.html",
       "title": "Aldi: Woda mineralna",
@@ -199,11 +314,11 @@
     {
       "source": "Lidl.pl (Promocje)",
       "deal_id": "lidl:100411932",
-      "title": "LIVARNO® Szafka nocna z drzwiami żaluzjowymi",
-      "link": "https://www.lidl.pl/p/livarno-szafka-nocna-z-drzwiami-zaluzjowymi/p100411932",
+      "title": "LIVARNO® Szafka nocna z drzwiami żaluzjowymi (dąb ciemny)",
+      "link": "https://www.lidl.pl/p/livarno-szafka-nocna-z-drzwiami-zaluzjowymi/p100411932001",
       "published": "Aktualna oferta Lidl.pl",
       "summary": "Megaokazja • Promocja bezpośrednio ze sklepu Lidl.pl.",
-      "image_url": "https://www.lidl.pl/assets/gcp9a6a340c1fff4b57b4747a973e203cf3.png",
+      "image_url": "https://www.lidl.pl/assets/gcpaba6fe5523b44eab8555af16a02ddfb2.png",
       "price": "89 zł",
       "old_price": "299 zł",
       "lowest_30d": "299 zł",
@@ -238,52 +353,12 @@
     },
     {
       "source": "Lidl.pl (Promocje)",
-      "deal_id": "lidl:100404667",
-      "title": "CRIVIT Samochodowy materac dmuchany",
-      "link": "https://www.lidl.pl/p/crivit-samochodowy-materac-dmuchany/p100404667",
-      "published": "Aktualna oferta Lidl.pl",
-      "summary": "Megaokazja • Promocja bezpośrednio ze sklepu Lidl.pl.",
-      "image_url": "https://www.lidl.pl/assets/gcpef9a1caf3193476a9e4cbebffcd706c4.jpg",
-      "price": "38,70 zł",
-      "old_price": "129 zł",
-      "lowest_30d": "129 zł",
-      "merchant": "Lidl.pl",
-      "category": "Kategorie/Sport i wypoczynek/Kemping/Sprzęt kempingowy/Materace dmuchane",
-      "store_group": "Spożywcze i markety",
-      "discount_pct": 70,
-      "savings_pln": 90.3,
-      "deal_score": 144.51,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-CRIVIT+Samochodowy+materac+dmuchany",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "przed promocją",
-          "price": "129 zł",
-          "note": "przed promocją"
-        },
-        {
-          "date": "30 dni przed obniżką",
-          "price": "129 zł",
-          "note": "Najniższa z 30 dni (Omnibus)"
-        },
-        {
-          "date": "2026-11-25 00:47",
-          "price": "38,70 zł",
-          "note": "Lidl.pl"
-        }
-      ]
-    },
-    {
-      "source": "Lidl.pl (Promocje)",
       "deal_id": "lidl:100408445",
-      "title": "LIVARNO® Komplet 2 poszewek na poduszki, 40 x 40 cm",
-      "link": "https://www.lidl.pl/p/livarno-komplet-2-poszewek-na-poduszki-40-x-40-cm/p100408445",
+      "title": "LIVARNO® Komplet 2 poszewek na poduszki, 40 x 40 cm (kwiaty / niebieskie)",
+      "link": "https://www.lidl.pl/p/livarno-komplet-2-poszewek-na-poduszki-40-x-40-cm/p100408445001",
       "published": "Aktualna oferta Lidl.pl",
       "summary": "Megaokazja • Promocja bezpośrednio ze sklepu Lidl.pl.",
-      "image_url": "https://www.lidl.pl/assets/gcp1c9ea2302e8a4afc948909198ab2b56a.jpg",
+      "image_url": "https://www.lidl.pl/assets/gcp468ef9ece4174326b9aa30add6f60b30.jpg",
       "price": "2,99 zł",
       "old_price": "9,98 zł",
       "lowest_30d": "9,98 zł",
@@ -517,6 +592,86 @@
       ]
     },
     {
+      "source": "Smyk.com",
+      "deal_id": "smyk:/pl/pl/p/mega-bloks-jezdzacy-dinozaur-do-zbudowania-klocki-25-elementow-i8420802",
+      "title": "Mega Bloks, Jeżdżący dinozaur do zbudowania, klocki, 25 elementów",
+      "link": "https://www.smyk.com/pl/pl/p/mega-bloks-jezdzacy-dinozaur-do-zbudowania-klocki-25-elementow-i8420802",
+      "published": "Aktualna oferta Smyk.com",
+      "summary": "Promocja ze sklepu Smyk.com • Najniższa z 30 dni: 159,99 zł.",
+      "image_url": "https://img.smyk.com/pl/pl/390x/https://bin.smyk.com/pl/pl/media/product/1600/1/mega-bloks-jezdzacy-dinozaur-do-zbudowania-klocki-25-elementow-8420802.jpg",
+      "price": "69,99 zł",
+      "old_price": "159,99 zł",
+      "lowest_30d": "159,99 zł",
+      "merchant": "Smyk.com",
+      "category": "Dzieci i zabawki",
+      "store_group": "Dzieci i zabawki",
+      "discount_pct": 56,
+      "savings_pln": 90.0,
+      "deal_score": 116.5,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Mega+Bloks+Je%C5%BCd%C5%BC%C4%85cy+dinozaur+do",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "przed promocją",
+          "price": "159,99 zł",
+          "note": "przed promocją"
+        },
+        {
+          "date": "30 dni przed obniżką",
+          "price": "159,99 zł",
+          "note": "Najniższa z 30 dni (Omnibus)"
+        },
+        {
+          "date": "2026-11-22 22:45",
+          "price": "69,99 zł",
+          "note": "Smyk.com"
+        },
+        {
+          "date": "2026-11-22 23:19",
+          "price": "99,99 zł",
+          "note": "Ceneo: electro.pl"
+        },
+        {
+          "date": "2026-11-22 23:19",
+          "price": "99,99 zł",
+          "note": "Ceneo: avans.pl"
+        },
+        {
+          "date": "2026-11-22 23:19",
+          "price": "97,59 zł",
+          "note": "Ceneo: amazon.pl"
+        },
+        {
+          "date": "2026-11-22 23:24",
+          "price": "69,99 zł",
+          "note": "Smyk.com"
+        },
+        {
+          "date": "2026-11-22 23:24",
+          "price": "99,99 zł",
+          "note": "Ceneo: electro.pl"
+        },
+        {
+          "date": "2026-11-22 23:24",
+          "price": "99,99 zł",
+          "note": "Ceneo: avans.pl"
+        },
+        {
+          "date": "2026-11-22 23:24",
+          "price": "97,59 zł",
+          "note": "Ceneo: amazon.pl"
+        },
+        {
+          "date": "2026-11-23 09:07",
+          "price": "69,99 zł",
+          "note": "Smyk.com"
+        }
+      ]
+    },
+    {
       "source": "Aldi.pl (Oferty)",
       "deal_id": "aldi:https://www.aldi.pl/produkt-szczegoly/kielbasa-mysliwska-z-szynki-42430003.html",
       "title": "Aldi: Kiełbasa myśliwska z szynki",
@@ -553,6 +708,41 @@
           "date": "2026-11-23 09:07",
           "price": "5,49 zł",
           "note": "Aldi.pl"
+        }
+      ]
+    },
+    {
+      "source": "Lidl.pl (Promocje)",
+      "deal_id": "lidl:100408122",
+      "title": "LIVARNO® Nakładka na materac, 140 x 200 cm",
+      "link": "https://www.lidl.pl/p/livarno-nakladka-na-materac-140-x-200-cm/p100408122",
+      "published": "Aktualna oferta Lidl.pl",
+      "summary": "Megaokazja • Promocja bezpośrednio ze sklepu Lidl.pl.",
+      "image_url": "https://www.lidl.pl/assets/gcpdd5abe88f0bd4b4f85243aa65390327d.jpg",
+      "price": "79 zł",
+      "old_price": "169 zł",
+      "lowest_30d": "169 zł",
+      "merchant": "Lidl.pl",
+      "category": "Kategorie/Dom & Urządzanie/Łóżka i materace/Ochrona materaca i łóżka/Narzuty na łóżko",
+      "store_group": "Spożywcze i markety",
+      "discount_pct": 53,
+      "savings_pln": 90.0,
+      "deal_score": 110.5,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-LIVARNO+Nak%C5%82adka+na+materac+140",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "30 dni przed obniżką",
+          "price": "169 zł",
+          "note": "Najniższa z 30 dni (Omnibus)"
+        },
+        {
+          "date": "2026-11-25 03:26",
+          "price": "79 zł",
+          "note": "Lidl.pl"
         }
       ]
     },
@@ -997,6 +1187,86 @@
       ]
     },
     {
+      "source": "Smyk.com",
+      "deal_id": "smyk:/pl/pl/p/cool-club-kapcie-chlopiece-slip-on-szare-psi-patrol-iCSLH2W26-LB2839/i8308073",
+      "title": "Cool Club, Kapcie chłopięce, slip on, szare, Psi Patrol",
+      "link": "https://www.smyk.com/pl/pl/p/cool-club-kapcie-chlopiece-slip-on-szare-psi-patrol-iCSLH2W26-LB2839/i8308073",
+      "published": "Aktualna oferta Smyk.com",
+      "summary": "Promocja ze sklepu Smyk.com • Najniższa z 30 dni: 59,99 zł.",
+      "image_url": "https://img.smyk.com/pl/pl/390x/https://bin.smyk.com/pl/pl/media/product/1600/1/cool-club-kapcie-chlopiece-slip-on-szare-psi-patrol-8308073.jpg",
+      "price": "34 zł",
+      "old_price": "59,99 zł",
+      "lowest_30d": "59,99 zł",
+      "merchant": "Smyk.com",
+      "category": "Dzieci i zabawki",
+      "store_group": "Dzieci i zabawki",
+      "discount_pct": 43,
+      "savings_pln": 25.99,
+      "deal_score": 87.3,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Cool+Club+Kapcie+ch%C5%82opi%C4%99ce+slip",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "przed promocją",
+          "price": "59,99 zł",
+          "note": "przed promocją"
+        },
+        {
+          "date": "30 dni przed obniżką",
+          "price": "59,99 zł",
+          "note": "Najniższa z 30 dni (Omnibus)"
+        },
+        {
+          "date": "2026-11-24 12:55",
+          "price": "34 zł",
+          "note": "Smyk.com"
+        }
+      ]
+    },
+    {
+      "source": "Smyk.com",
+      "deal_id": "smyk:/pl/pl/p/hot-wheels-city-transporter-podwojny-smok-zestaw-do-zabawy-2w1-i8032406",
+      "title": "Hot Wheels City, Transporter Podwójny smok, zestaw do zabawy 2w1",
+      "link": "https://www.smyk.com/pl/pl/p/hot-wheels-city-transporter-podwojny-smok-zestaw-do-zabawy-2w1-i8032406",
+      "published": "Aktualna oferta Smyk.com",
+      "summary": "Promocja ze sklepu Smyk.com • Najniższa z 30 dni: 247 zł.",
+      "image_url": "https://img.smyk.com/pl/pl/390x/https://bin.smyk.com/pl/pl/media/product/1600/1/hot-wheels-city-transporter-podwojny-smok-zestaw-do-zabawy-2w1-8032406.jpg",
+      "price": "149,99 zł",
+      "old_price": "247 zł",
+      "lowest_30d": "247 zł",
+      "merchant": "Smyk.com",
+      "category": "Dzieci i zabawki",
+      "store_group": "Dzieci i zabawki",
+      "discount_pct": 39,
+      "savings_pln": 97.01,
+      "deal_score": 82.85,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Hot+Wheels+City+Transporter+Podw%C3%B3jny",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "przed promocją",
+          "price": "247 zł",
+          "note": "przed promocją"
+        },
+        {
+          "date": "30 dni przed obniżką",
+          "price": "247 zł",
+          "note": "Najniższa z 30 dni (Omnibus)"
+        },
+        {
+          "date": "2026-11-23 17:49",
+          "price": "149,99 zł",
+          "note": "Smyk.com"
+        }
+      ]
+    },
+    {
       "source": "Rossmann.pl",
       "deal_id": "rossmann:2140146",
       "title": "Donegal kępki rzęs",
@@ -1072,46 +1342,6 @@
         {
           "date": "2026-11-23 09:07",
           "price": "59 zł",
-          "note": "Lidl.pl"
-        }
-      ]
-    },
-    {
-      "source": "Lidl.pl (Promocje)",
-      "deal_id": "lidl:100408858",
-      "title": "SILVERCREST® Tortownica / Keksówka / Forma do babki drożdżowej",
-      "link": "https://www.lidl.pl/p/silvercrest-tortownica-keksowka-forma-do-babki-drozdzowej/p100408858",
-      "published": "Aktualna oferta Lidl.pl",
-      "summary": "Megaokazja • Promocja bezpośrednio ze sklepu Lidl.pl.",
-      "image_url": "https://www.lidl.pl/assets/gcpf57cff94517c4038b395260e16efe6d5.jpg",
-      "price": "11,99 zł",
-      "old_price": "19,99 zł",
-      "lowest_30d": "19,99 zł",
-      "merchant": "Lidl.pl",
-      "category": "Kategorie/Dom & Kuchnia/Pieczenie/Formy do pieczenia",
-      "store_group": "Spożywcze i markety",
-      "discount_pct": 40,
-      "savings_pln": 8.0,
-      "deal_score": 80.4,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-SILVERCREST+Tortownica+Keks%C3%B3wka+Forma+do",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "przed promocją",
-          "price": "19,99 zł",
-          "note": "przed promocją"
-        },
-        {
-          "date": "30 dni przed obniżką",
-          "price": "19,99 zł",
-          "note": "Najniższa z 30 dni (Omnibus)"
-        },
-        {
-          "date": "2026-11-24 03:18",
-          "price": "11,99 zł",
           "note": "Lidl.pl"
         }
       ]
@@ -1232,46 +1462,6 @@
         {
           "date": "2026-11-24 03:18",
           "price": "899 zł",
-          "note": "Lidl.pl"
-        }
-      ]
-    },
-    {
-      "source": "Lidl.pl (Promocje)",
-      "deal_id": "lidl:100394107",
-      "title": "LUPILU® Akcesoria do kuchni zabawkowej",
-      "link": "https://www.lidl.pl/p/lupilu-akcesoria-do-kuchni-zabawkowej/p100394107",
-      "published": "Aktualna oferta Lidl.pl",
-      "summary": "Megaokazja • Promocja bezpośrednio ze sklepu Lidl.pl.",
-      "image_url": "https://www.lidl.pl/assets/gcpf229b7d10d314e009c7d8f54188f54a6.jpg",
-      "price": "27,99 zł",
-      "old_price": "45,99 zł",
-      "lowest_30d": "45,99 zł",
-      "merchant": "Lidl.pl",
-      "category": "Kategorie/Dziecko/Zabawki/Zabawki drewniane",
-      "store_group": "Spożywcze i markety",
-      "discount_pct": 39,
-      "savings_pln": 18.0,
-      "deal_score": 78.9,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-LUPILU+Akcesoria+do+kuchni+zabawkowej",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "przed promocją",
-          "price": "45,99 zł",
-          "note": "przed promocją"
-        },
-        {
-          "date": "30 dni przed obniżką",
-          "price": "45,99 zł",
-          "note": "Najniższa z 30 dni (Omnibus)"
-        },
-        {
-          "date": "2026-11-23 11:43",
-          "price": "27,99 zł",
           "note": "Lidl.pl"
         }
       ]
@@ -1518,6 +1708,41 @@
     },
     {
       "source": "Lidl.pl (Promocje)",
+      "deal_id": "lidl:100408048",
+      "title": "SILVERCREST® Mini szybkowar do ryżu SRK 200 A1",
+      "link": "https://www.lidl.pl/p/silvercrest-mini-szybkowar-do-ryzu-srk-200-a1/p100408048",
+      "published": "Aktualna oferta Lidl.pl",
+      "summary": "Megaokazja • Promocja bezpośrednio ze sklepu Lidl.pl.",
+      "image_url": "https://www.lidl.pl/assets/gcp57c2b5381a404b55bf00d68b0a68ee14.jpg",
+      "price": "45,49 zł",
+      "old_price": "69,99 zł",
+      "lowest_30d": "69,99 zł",
+      "merchant": "Lidl.pl",
+      "category": "Kategorie/Dom & Kuchnia/Małe AGD & Kuchnia/Urządzenia do gotowania ryżu",
+      "store_group": "Spożywcze i markety",
+      "discount_pct": 35,
+      "savings_pln": 24.5,
+      "deal_score": 71.22,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-SILVERCREST+Mini+szybkowar+do+ry%C5%BCu",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "30 dni przed obniżką",
+          "price": "69,99 zł",
+          "note": "Najniższa z 30 dni (Omnibus)"
+        },
+        {
+          "date": "2026-11-25 03:26",
+          "price": "45,49 zł",
+          "note": "Lidl.pl"
+        }
+      ]
+    },
+    {
+      "source": "Lidl.pl (Promocje)",
       "deal_id": "lidl:100397941",
       "title": "PARKSIDE® Zestaw do naprawy laminatów i parkietów lub zestaw do naprawy płytek (Zestaw do naprawy parkietu/laminatu)",
       "link": "https://www.lidl.pl/p/parkside-zestaw-do-naprawy-laminatow-i-parkietow-lub-zestaw-do-naprawy-plytek/p100397941002",
@@ -1597,6 +1822,41 @@
       ]
     },
     {
+      "source": "Lidl.pl (Promocje)",
+      "deal_id": "lidl:100405104",
+      "title": "W5 Zestaw ściereczek kuchennych i ręczników, 5 szt.",
+      "link": "https://www.lidl.pl/p/w5-zestaw-sciereczek-kuchennych-i-recznikow-5-szt/p100405104",
+      "published": "Aktualna oferta Lidl.pl",
+      "summary": "Megaokazja • Promocja bezpośrednio ze sklepu Lidl.pl.",
+      "image_url": "https://www.lidl.pl/assets/gcp50fa0539c8014e28943d8f01400db643.jpg",
+      "price": "19,49 zł",
+      "old_price": "29,99 zł",
+      "lowest_30d": "29,99 zł",
+      "merchant": "Lidl.pl",
+      "category": "Kategorie/Dom & Kuchnia/Nakrycia stołowe/Ręczniki kuchenne",
+      "store_group": "Spożywcze i markety",
+      "discount_pct": 35,
+      "savings_pln": 10.5,
+      "deal_score": 70.53,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-W5+Zestaw+%C5%9Bciereczek+kuchennych+r%C4%99cznik%C3%B3w",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "30 dni przed obniżką",
+          "price": "29,99 zł",
+          "note": "Najniższa z 30 dni (Omnibus)"
+        },
+        {
+          "date": "2026-11-25 03:26",
+          "price": "19,49 zł",
+          "note": "Lidl.pl"
+        }
+      ]
+    },
+    {
       "source": "Rossmann.pl",
       "deal_id": "rossmann:2067994",
       "title": "Isana żel do mycia twarzy, z kwasami AHA i PHA",
@@ -1637,42 +1897,152 @@
       ]
     },
     {
-      "source": "Lidl.pl (Promocje)",
-      "deal_id": "lidl:100404585",
-      "title": "CRIVIT Namiot rodzinny, 4-osobowy",
-      "link": "https://www.lidl.pl/p/crivit-namiot-rodzinny-4-osobowy/p100404585",
-      "published": "Aktualna oferta Lidl.pl",
-      "summary": "Megaokazja • Promocja bezpośrednio ze sklepu Lidl.pl.",
-      "image_url": "https://www.lidl.pl/assets/gcp1584e802fb094084b1094af2fb8862be.jpg",
-      "price": "307,30 zł",
-      "old_price": "439 zł",
-      "lowest_30d": "439 zł",
-      "merchant": "Lidl.pl",
-      "category": "Kategorie/Sport i wypoczynek/Kemping/Namioty/Namioty kempingowe",
-      "store_group": "Spożywcze i markety",
-      "discount_pct": 30,
-      "savings_pln": 131.7,
-      "deal_score": 66.58,
+      "source": "Smyk.com",
+      "deal_id": "smyk:/pl/pl/p/little-live-pets-moja-malpka-mango-maskotka-interaktywna-i7828319",
+      "title": "Little Live Pets, Moja Małpka Mango, maskotka interaktywna",
+      "link": "https://www.smyk.com/pl/pl/p/little-live-pets-moja-malpka-mango-maskotka-interaktywna-i7828319",
+      "published": "Aktualna oferta Smyk.com",
+      "summary": "Promocja ze sklepu Smyk.com • Najniższa z 30 dni: 149,99 zł.",
+      "image_url": "https://img.smyk.com/pl/pl/390x/https://bin.smyk.com/pl/pl/media/product/1600/1/little-live-pets-moja-malpka-mango-maskotka-interaktywna-7828319.jpg",
+      "price": "99,99 zł",
+      "old_price": "149,99 zł",
+      "lowest_30d": "149,99 zł",
+      "merchant": "Smyk.com",
+      "category": "Dzieci i zabawki",
+      "store_group": "Dzieci i zabawki",
+      "discount_pct": 33,
+      "savings_pln": 50.0,
+      "deal_score": 68.5,
       "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-CRIVIT+Namiot+rodzinny+4-osobowy",
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Little+Live+Pets+Moja+Ma%C5%82pka",
       "price_status": "",
       "price_verdict": "",
       "compared_offers": [],
       "price_history": [
         {
           "date": "przed promocją",
-          "price": "439 zł",
+          "price": "149,99 zł",
           "note": "przed promocją"
         },
         {
           "date": "30 dni przed obniżką",
-          "price": "439 zł",
+          "price": "149,99 zł",
           "note": "Najniższa z 30 dni (Omnibus)"
         },
         {
-          "date": "2026-11-24 03:18",
-          "price": "307,30 zł",
+          "date": "2026-11-22 22:45",
+          "price": "99,99 zł",
+          "note": "Smyk.com"
+        }
+      ]
+    },
+    {
+      "source": "Lidl.pl (Promocje)",
+      "deal_id": "lidl:100395826",
+      "title": "LIVARNO® Ręcznik kąpielowy frotte, 100 x 150 cm. (Szary)",
+      "link": "https://www.lidl.pl/p/livarno-recznik-kapielowy-frotte-100-x-150-cm/p100395826003",
+      "published": "Aktualna oferta Lidl.pl",
+      "summary": "Megaokazja • Promocja bezpośrednio ze sklepu Lidl.pl.",
+      "image_url": "https://www.lidl.pl/assets/gcpb5d3f171e665440e8b397ce8bbb2c118.jpg",
+      "price": "29,99 zł",
+      "old_price": "44,99 zł",
+      "lowest_30d": "44,99 zł",
+      "merchant": "Lidl.pl",
+      "category": "Kategorie/Dom & Urządzanie/Sypialnia/Artykuły z frotte/Ręczniki do rąk 50 x 100 cm",
+      "store_group": "Spożywcze i markety",
+      "discount_pct": 33,
+      "savings_pln": 15.0,
+      "deal_score": 66.75,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-LIVARNO+R%C4%99cznik+k%C4%85pielowy+frotte+100",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "przed promocją",
+          "price": "44,99 zł",
+          "note": "przed promocją"
+        },
+        {
+          "date": "30 dni przed obniżką",
+          "price": "44,99 zł",
+          "note": "Najniższa z 30 dni (Omnibus)"
+        },
+        {
+          "date": "2026-11-23 09:07",
+          "price": "29,99 zł",
           "note": "Lidl.pl"
+        }
+      ]
+    },
+    {
+      "source": "Smyk.com",
+      "deal_id": "smyk:/pl/pl/p/cool-club-kombinezon-chlopiecy-z-kapturem-ocieplany-grafitowy-iCCOB3300436/i8253765",
+      "title": "Cool Club, Kombinezon chłopięcy z kapturem, ocieplany, grafitowy",
+      "link": "https://www.smyk.com/pl/pl/p/cool-club-kombinezon-chlopiecy-z-kapturem-ocieplany-grafitowy-iCCOB3300436/i8253765",
+      "published": "Aktualna oferta Smyk.com",
+      "summary": "Promocja ze sklepu Smyk.com • Najniższa z 30 dni: 159,99 zł.",
+      "image_url": "https://img.smyk.com/pl/pl/390x/https://bin.smyk.com/pl/pl/media/product/1600/1/cool-club-kombinezon-chlopiecy-z-kapturem-ocieplany-grafitowy-8253765.jpg",
+      "price": "109 zł",
+      "old_price": "159,99 zł",
+      "lowest_30d": "159,99 zł",
+      "merchant": "Smyk.com",
+      "category": "Dzieci i zabawki",
+      "store_group": "Dzieci i zabawki",
+      "discount_pct": 32,
+      "savings_pln": 50.99,
+      "deal_score": 66.55,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Cool+Club+Kombinezon+ch%C5%82opi%C4%99cy+kapturem",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "przed promocją",
+          "price": "159,99 zł",
+          "note": "przed promocją"
+        },
+        {
+          "date": "30 dni przed obniżką",
+          "price": "159,99 zł",
+          "note": "Najniższa z 30 dni (Omnibus)"
+        },
+        {
+          "date": "2026-11-24 09:38",
+          "price": "109 zł",
+          "note": "Smyk.com"
+        },
+        {
+          "date": "2026-11-24 12:55",
+          "price": "159,99 zł",
+          "note": "Smyk.com"
+        },
+        {
+          "date": "2026-11-24 21:45",
+          "price": "109 zł",
+          "note": "Smyk.com"
+        },
+        {
+          "date": "2026-11-24 21:45",
+          "price": "159,99 zł",
+          "note": "Smyk.com"
+        },
+        {
+          "date": "2026-11-24 22:45",
+          "price": "109 zł",
+          "note": "Smyk.com"
+        },
+        {
+          "date": "2026-11-24 22:45",
+          "price": "159,99 zł",
+          "note": "Smyk.com"
+        },
+        {
+          "date": "2026-11-25 03:26",
+          "price": "109 zł",
+          "note": "Smyk.com"
         }
       ]
     },
@@ -1797,6 +2167,46 @@
       ]
     },
     {
+      "source": "Smyk.com",
+      "deal_id": "smyk:/pl/pl/p/cool-club-antyposlizgowe-rajstopy-dziewczece-bezowe-iCCHG3303189/i8308745",
+      "title": "Cool Club, Antypoślizgowe rajstopy dziewczęce, beżowe",
+      "link": "https://www.smyk.com/pl/pl/p/cool-club-antyposlizgowe-rajstopy-dziewczece-bezowe-iCCHG3303189/i8308745",
+      "published": "Aktualna oferta Smyk.com",
+      "summary": "Promocja ze sklepu Smyk.com • Najniższa z 30 dni: 24,99 zł.",
+      "image_url": "https://img.smyk.com/pl/pl/390x/https://bin.smyk.com/pl/pl/media/product/1600/1/cool-club-antyposlizgowe-rajstopy-dziewczece-bezowe-8308745.jpg",
+      "price": "17 zł",
+      "old_price": "24,99 zł",
+      "lowest_30d": "24,99 zł",
+      "merchant": "Smyk.com",
+      "category": "Dzieci i zabawki",
+      "store_group": "Dzieci i zabawki",
+      "discount_pct": 32,
+      "savings_pln": 7.99,
+      "deal_score": 64.4,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Cool+Club+Antypo%C5%9Blizgowe+rajstopy+dziewcz%C4%99ce",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "przed promocją",
+          "price": "24,99 zł",
+          "note": "przed promocją"
+        },
+        {
+          "date": "30 dni przed obniżką",
+          "price": "24,99 zł",
+          "note": "Najniższa z 30 dni (Omnibus)"
+        },
+        {
+          "date": "2026-11-23 17:49",
+          "price": "17 zł",
+          "note": "Smyk.com"
+        }
+      ]
+    },
+    {
       "source": "Rossmann.pl",
       "deal_id": "rossmann:267193",
       "title": "Bioelixire serum do włosów z olejkiem z czarnuszki i ceramidami, 3w1",
@@ -1868,120 +2278,260 @@
     },
     {
       "source": "Lidl.pl (Promocje)",
-      "deal_id": "lidl:100410238",
-      "title": "LIVARNO® Skrzynia do siedzenia ze schowkiem",
-      "link": "https://www.lidl.pl/p/livarno-skrzynia-do-siedzenia-ze-schowkiem/p100410238",
+      "deal_id": "lidl:100412162",
+      "title": "SILVERCREST® Rozdrabniacz wielofunkcyjny SMZE 500 C2, 500 W",
+      "link": "https://www.lidl.pl/p/silvercrest-rozdrabniacz-wielofunkcyjny-smze-500-c2-500-w/p100412162",
       "published": "Aktualna oferta Lidl.pl",
       "summary": "Megaokazja • Promocja bezpośrednio ze sklepu Lidl.pl.",
-      "image_url": "https://www.lidl.pl/assets/gcpa7f61be5f8aa4859b492f8b7ac2e108a.jpg",
+      "image_url": "https://www.lidl.pl/assets/gcp0d4ba2c5b532489385a3703be2129d3d.png",
       "price": "48,99 zł",
-      "old_price": "70,90 zł",
-      "lowest_30d": "70,90 zł",
+      "old_price": "69,99 zł",
+      "lowest_30d": "69,99 zł",
       "merchant": "Lidl.pl",
-      "category": "Kategorie/Dom & Urządzanie/Meble/Ławki",
+      "category": "Kategorie/Dom & Kuchnia/Małe AGD & Kuchnia/Elektryczne rozdrabniacze",
       "store_group": "Spożywcze i markety",
       "discount_pct": 30,
-      "savings_pln": 21.91,
-      "deal_score": 61.1,
+      "savings_pln": 21.0,
+      "deal_score": 61.05,
       "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-LIVARNO+Skrzynia+do+siedzenia+ze",
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-SILVERCREST+Rozdrabniacz+wielofunkcyjny+SMZE+500",
       "price_status": "",
       "price_verdict": "",
       "compared_offers": [],
       "price_history": [
         {
-          "date": "przed promocją",
-          "price": "70,90 zł",
-          "note": "przed promocją"
-        },
-        {
           "date": "30 dni przed obniżką",
-          "price": "70,90 zł",
+          "price": "69,99 zł",
           "note": "Najniższa z 30 dni (Omnibus)"
         },
         {
-          "date": "2026-11-24 05:32",
+          "date": "2026-11-25 03:26",
           "price": "48,99 zł",
           "note": "Lidl.pl"
         }
       ]
     },
     {
-      "source": "Lidl.pl (Promocje)",
-      "deal_id": "lidl:100405332",
-      "title": "GRILLMEISTER Akcesoria do wypieku pizzy",
-      "link": "https://www.lidl.pl/p/grillmeister-akcesoria-do-wypieku-pizzy/p100405332",
-      "published": "Aktualna oferta Lidl.pl",
-      "summary": "Megaokazja • Promocja bezpośrednio ze sklepu Lidl.pl.",
-      "image_url": "https://www.lidl.pl/assets/gcpefccbad051364721be6f70f6e9a3c7bb.jpg",
-      "price": "18,89 zł",
-      "old_price": "26,99 zł",
-      "lowest_30d": "26,99 zł",
-      "merchant": "Lidl.pl",
-      "category": "Kategorie/Dom & Kuchnia/Pieczenie/Pozostałe przybory do pieczenia",
-      "store_group": "Spożywcze i markety",
+      "source": "Smyk.com",
+      "deal_id": "smyk:/pl/pl/p/cool-club-majtki-bokserki-chlopiece-mix-zestaw-5-szt-iCCUB3312159-00/i8307581",
+      "title": "Cool Club, Majtki bokserki chłopięce, mix, zestaw, 5 szt.",
+      "link": "https://www.smyk.com/pl/pl/p/cool-club-majtki-bokserki-chlopiece-mix-zestaw-5-szt-iCCUB3312159-00/i8307581",
+      "published": "Aktualna oferta Smyk.com",
+      "summary": "Promocja ze sklepu Smyk.com • Najniższa z 30 dni: 69,99 zł.",
+      "image_url": "https://img.smyk.com/pl/pl/390x/https://bin.smyk.com/pl/pl/media/product/1600/1/cool-club-majtki-bokserki-chlopiece-mix-zestaw-5-szt-8307581.jpg",
+      "price": "49 zł",
+      "old_price": "69,99 zł",
+      "lowest_30d": "69,99 zł",
+      "merchant": "Smyk.com",
+      "category": "Dzieci i zabawki",
+      "store_group": "Dzieci i zabawki",
       "discount_pct": 30,
-      "savings_pln": 8.1,
-      "deal_score": 60.41,
+      "savings_pln": 20.99,
+      "deal_score": 61.05,
       "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-GRILLMEISTER+Akcesoria+do+wypieku+pizzy",
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Cool+Club+Majtki+bokserki+ch%C5%82opi%C4%99ce",
       "price_status": "",
       "price_verdict": "",
       "compared_offers": [],
       "price_history": [
         {
           "date": "przed promocją",
-          "price": "26,99 zł",
+          "price": "69,99 zł",
           "note": "przed promocją"
         },
         {
           "date": "30 dni przed obniżką",
-          "price": "26,99 zł",
+          "price": "69,99 zł",
           "note": "Najniższa z 30 dni (Omnibus)"
         },
         {
-          "date": "2026-11-23 09:07",
-          "price": "18,89 zł",
-          "note": "Lidl.pl"
+          "date": "2026-11-24 12:55",
+          "price": "49 zł",
+          "note": "Smyk.com"
+        }
+      ]
+    },
+    {
+      "source": "Smyk.com",
+      "deal_id": "smyk:/pl/pl/p/cool-club-podkoszulek-chlopiecy-bialy-szary-zestaw-2-szt-iCCUB3011913-00-P/i7829710",
+      "title": "Cool Club, Podkoszulek chłopięcy, biały, szary, zestaw, 2 szt.",
+      "link": "https://www.smyk.com/pl/pl/p/cool-club-podkoszulek-chlopiecy-bialy-szary-zestaw-2-szt-iCCUB3011913-00-P/i7829710",
+      "published": "Aktualna oferta Smyk.com",
+      "summary": "Promocja ze sklepu Smyk.com • Najniższa z 30 dni: 29,99 zł.",
+      "image_url": "https://img.smyk.com/pl/pl/390x/https://bin.smyk.com/pl/pl/media/product/1600/1/cool-club-podkoszulek-chlopiecy-bialy-szary-zestaw-2-szt-7829710.jpg",
+      "price": "21 zł",
+      "old_price": "29,99 zł",
+      "lowest_30d": "29,99 zł",
+      "merchant": "Smyk.com",
+      "category": "Dzieci i zabawki",
+      "store_group": "Dzieci i zabawki",
+      "discount_pct": 30,
+      "savings_pln": 8.99,
+      "deal_score": 60.45,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Cool+Club+Podkoszulek+ch%C5%82opi%C4%99cy+bia%C5%82y",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "przed promocją",
+          "price": "29,99 zł",
+          "note": "przed promocją"
+        },
+        {
+          "date": "30 dni przed obniżką",
+          "price": "29,99 zł",
+          "note": "Najniższa z 30 dni (Omnibus)"
+        },
+        {
+          "date": "2026-11-24 12:55",
+          "price": "21 zł",
+          "note": "Smyk.com"
+        }
+      ]
+    },
+    {
+      "source": "Smyk.com",
+      "deal_id": "smyk:/pl/pl/p/cool-club-sukienka-dziewczeca-z-dlugim-rekawem-bezowa-iCCCG3311066/i8239978",
+      "title": "Cool Club, Sukienka dziewczęca z długim rękawem, beżowa",
+      "link": "https://www.smyk.com/pl/pl/p/cool-club-sukienka-dziewczeca-z-dlugim-rekawem-bezowa-iCCCG3311066/i8239978",
+      "published": "Aktualna oferta Smyk.com",
+      "summary": "Promocja ze sklepu Smyk.com • Najniższa z 30 dni: 29,99 zł.",
+      "image_url": "https://img.smyk.com/pl/pl/390x/https://bin.smyk.com/pl/pl/media/product/1600/1/cool-club-sukienka-dziewczeca-z-dlugim-rekawem-bezowa-8239978.webp",
+      "price": "21 zł",
+      "old_price": "29,99 zł",
+      "lowest_30d": "29,99 zł",
+      "merchant": "Smyk.com",
+      "category": "Dzieci i zabawki",
+      "store_group": "Dzieci i zabawki",
+      "discount_pct": 30,
+      "savings_pln": 8.99,
+      "deal_score": 60.45,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Cool+Club+Sukienka+dziewcz%C4%99ca+d%C5%82ugim",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "przed promocją",
+          "price": "89,99 zł",
+          "note": "przed promocją"
+        },
+        {
+          "date": "30 dni przed obniżką",
+          "price": "69,99 zł",
+          "note": "Najniższa z 30 dni (Omnibus)"
+        },
+        {
+          "date": "2026-11-24 09:38",
+          "price": "49 zł",
+          "note": "Smyk.com"
+        },
+        {
+          "date": "2026-11-24 09:38",
+          "price": "64 zł",
+          "note": "Smyk.com"
+        },
+        {
+          "date": "2026-11-24 09:38",
+          "price": "57 zł",
+          "note": "Smyk.com"
+        },
+        {
+          "date": "2026-11-24 10:46",
+          "price": "49 zł",
+          "note": "Smyk.com"
+        },
+        {
+          "date": "2026-11-24 10:46",
+          "price": "64 zł",
+          "note": "Smyk.com"
+        },
+        {
+          "date": "2026-11-24 10:46",
+          "price": "57 zł",
+          "note": "Smyk.com"
+        },
+        {
+          "date": "2026-11-24 12:55",
+          "price": "21 zł",
+          "note": "Smyk.com"
+        },
+        {
+          "date": "2026-11-24 12:55",
+          "price": "59,99 zł",
+          "note": "Smyk.com"
+        },
+        {
+          "date": "2026-11-24 21:45",
+          "price": "21 zł",
+          "note": "Smyk.com"
+        },
+        {
+          "date": "2026-11-24 21:45",
+          "price": "59,99 zł",
+          "note": "Smyk.com"
+        },
+        {
+          "date": "2026-11-24 22:45",
+          "price": "21 zł",
+          "note": "Smyk.com"
+        },
+        {
+          "date": "2026-11-24 22:45",
+          "price": "59,99 zł",
+          "note": "Smyk.com"
+        },
+        {
+          "date": "2026-11-25 03:26",
+          "price": "21 zł",
+          "note": "Smyk.com"
         }
       ]
     },
     {
       "source": "Lidl.pl (Promocje)",
-      "deal_id": "lidl:100408035",
-      "title": "CRIVIT Szorty funkcyjne damskie",
-      "link": "https://www.lidl.pl/p/crivit-szorty-funkcyjne-damskie/p100408035",
+      "deal_id": "lidl:100409216",
+      "title": "LIVARNO® Ręcznik kąpielowy frotte, 70 x 140 cm",
+      "link": "https://www.lidl.pl/p/livarno-recznik-kapielowy-frotte-70-x-140-cm/p100409216",
       "published": "Aktualna oferta Lidl.pl",
       "summary": "Megaokazja • Promocja bezpośrednio ze sklepu Lidl.pl.",
-      "image_url": "https://www.lidl.pl/assets/gcpb0ba4de3ccee432da84e6410185f3e69.jpg",
-      "price": "18,19 zł",
+      "image_url": "https://www.lidl.pl/assets/gcpeef82b4674db4ed59606644617f997d1.jpg",
+      "price": "17,99 zł",
       "old_price": "25,99 zł",
       "lowest_30d": "25,99 zł",
       "merchant": "Lidl.pl",
-      "category": "Kategorie/Moda/Moda damska/Odzież sportowa damska/Spodnie sportowe",
+      "category": "Kategorie/Dom & Urządzanie/Sypialnia/Artykuły z frotte/Ręczniki kąpielowe",
       "store_group": "Spożywcze i markety",
       "discount_pct": 30,
-      "savings_pln": 7.8,
-      "deal_score": 60.39,
+      "savings_pln": 8.0,
+      "deal_score": 60.4,
       "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-CRIVIT+Szorty+funkcyjne+damskie",
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-LIVARNO+R%C4%99cznik+k%C4%85pielowy+frotte+70",
       "price_status": "",
       "price_verdict": "",
       "compared_offers": [],
       "price_history": [
         {
-          "date": "przed promocją",
-          "price": "25,99 zł",
-          "note": "przed promocją"
-        },
-        {
           "date": "30 dni przed obniżką",
-          "price": "25,99 zł",
+          "price": "28,99 zł",
           "note": "Najniższa z 30 dni (Omnibus)"
         },
         {
-          "date": "2026-11-24 03:18",
-          "price": "18,19 zł",
+          "date": "przed promocją",
+          "price": "28,99 zł",
+          "note": "przed promocją"
+        },
+        {
+          "date": "2026-11-22 21:16",
+          "price": "20,29 zł",
+          "note": "Lidl.pl"
+        },
+        {
+          "date": "2026-11-25 03:26",
+          "price": "17,99 zł",
           "note": "Lidl.pl"
         }
       ]
@@ -2023,6 +2573,46 @@
           "date": "2026-11-24 21:45",
           "price": "49,99 zł",
           "note": "Rossmann.pl"
+        }
+      ]
+    },
+    {
+      "source": "Smyk.com",
+      "deal_id": "smyk:/pl/pl/p/cool-club-kurtka-dziewczeca-z-kapturem-rozowa-iCCOG3310355/i8253815",
+      "title": "Cool Club, Kurtka dziewczęca z kapturem, różowa",
+      "link": "https://www.smyk.com/pl/pl/p/cool-club-kurtka-dziewczeca-z-kapturem-rozowa-iCCOG3310355/i8253815",
+      "published": "Aktualna oferta Smyk.com",
+      "summary": "Promocja ze sklepu Smyk.com • Najniższa z 30 dni: 49 zł.",
+      "image_url": "https://img.smyk.com/pl/pl/390x/https://bin.smyk.com/pl/pl/media/product/1600/1/cool-club-kurtka-dziewczeca-z-kapturem-rozowa-8253815.webp",
+      "price": "35 zł",
+      "old_price": "49 zł",
+      "lowest_30d": "49 zł",
+      "merchant": "Smyk.com",
+      "category": "Dzieci i zabawki",
+      "store_group": "Dzieci i zabawki",
+      "discount_pct": 29,
+      "savings_pln": 14.0,
+      "deal_score": 58.7,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Cool+Club+Kurtka+dziewcz%C4%99ca+kapturem",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "przed promocją",
+          "price": "49 zł",
+          "note": "przed promocją"
+        },
+        {
+          "date": "30 dni przed obniżką",
+          "price": "49 zł",
+          "note": "Najniższa z 30 dni (Omnibus)"
+        },
+        {
+          "date": "2026-11-24 12:55",
+          "price": "35 zł",
+          "note": "Smyk.com"
         }
       ]
     },
@@ -2183,6 +2773,86 @@
           "date": "2026-11-23 09:07",
           "price": "129 zł",
           "note": "Lidl.pl"
+        }
+      ]
+    },
+    {
+      "source": "Smyk.com",
+      "deal_id": "smyk:/pl/pl/p/hot-wheels-city-petla-t-rexa-zestaw-do-zabawy-i7416598",
+      "title": "Hot Wheels City, Pętla T-rexa, zestaw do zabawy",
+      "link": "https://www.smyk.com/pl/pl/p/hot-wheels-city-petla-t-rexa-zestaw-do-zabawy-i7416598",
+      "published": "Aktualna oferta Smyk.com",
+      "summary": "Promocja ze sklepu Smyk.com • Najniższa z 30 dni: 149,99 zł.",
+      "image_url": "https://img.smyk.com/pl/pl/390x/https://bin.smyk.com/pl/pl/media/product/1600/1/hot-wheels-city-petla-t-rexa-zestaw-do-zabawy-7416598.jpg",
+      "price": "109,99 zł",
+      "old_price": "149,99 zł",
+      "lowest_30d": "149,99 zł",
+      "merchant": "Smyk.com",
+      "category": "Dzieci i zabawki",
+      "store_group": "Dzieci i zabawki",
+      "discount_pct": 27,
+      "savings_pln": 40.0,
+      "deal_score": 56.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Hot+Wheels+City+P%C4%99tla+T-rexa",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "przed promocją",
+          "price": "149,99 zł",
+          "note": "przed promocją"
+        },
+        {
+          "date": "30 dni przed obniżką",
+          "price": "149,99 zł",
+          "note": "Najniższa z 30 dni (Omnibus)"
+        },
+        {
+          "date": "2026-11-23 17:49",
+          "price": "109,99 zł",
+          "note": "Smyk.com"
+        }
+      ]
+    },
+    {
+      "source": "Smyk.com",
+      "deal_id": "smyk:/pl/pl/p/barbie-dom-w-malibu-zestaw-do-zabawy-bez-lalek-i6505374",
+      "title": "Barbie, Dom w Malibu, zestaw do zabawy bez lalek",
+      "link": "https://www.smyk.com/pl/pl/p/barbie-dom-w-malibu-zestaw-do-zabawy-bez-lalek-i6505374",
+      "published": "Aktualna oferta Smyk.com",
+      "summary": "Promocja ze sklepu Smyk.com • Najniższa z 30 dni: 269 zł.",
+      "image_url": "https://img.smyk.com/pl/pl/390x/https://bin.smyk.com/pl/pl/media/product/1600/1/barbie-dom-w-malibu-zestaw-do-zabawy-bez-lalek-6505374.jpg",
+      "price": "199,99 zł",
+      "old_price": "269 zł",
+      "lowest_30d": "269 zł",
+      "merchant": "Smyk.com",
+      "category": "Dzieci i zabawki",
+      "store_group": "Dzieci i zabawki",
+      "discount_pct": 26,
+      "savings_pln": 69.01,
+      "deal_score": 55.45,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Barbie+Dom+Malibu+zestaw+do",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "przed promocją",
+          "price": "269 zł",
+          "note": "przed promocją"
+        },
+        {
+          "date": "30 dni przed obniżką",
+          "price": "269 zł",
+          "note": "Najniższa z 30 dni (Omnibus)"
+        },
+        {
+          "date": "2026-11-22 22:45",
+          "price": "199,99 zł",
+          "note": "Smyk.com"
         }
       ]
     },
@@ -2627,6 +3297,166 @@
       ]
     },
     {
+      "source": "Lidl.pl (Promocje)",
+      "deal_id": "lidl:100366458",
+      "title": "LUPILU® Śniegowce chłopięce",
+      "link": "https://www.lidl.pl/p/lupilu-sniegowce-chlopiece/p100366458",
+      "published": "Aktualna oferta Lidl.pl",
+      "summary": "Megaokazja • Promocja bezpośrednio ze sklepu Lidl.pl.",
+      "image_url": "https://www.lidl.pl/assets/gcpf1ea01d5ff4c4e0d8db52b990674731c.jpeg",
+      "price": "52,72 zł",
+      "old_price": "65,90 zł",
+      "lowest_30d": "65,90 zł",
+      "merchant": "Lidl.pl",
+      "category": "Kategorie/Moda/Moda dziecięca/Moda chłopięca (2-6 lat)/Kozaki",
+      "store_group": "Spożywcze i markety",
+      "discount_pct": 20,
+      "savings_pln": 13.18,
+      "deal_score": 40.66,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-LUPILU+%C5%9Aniegowce+ch%C5%82opi%C4%99ce",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-24 14:12",
+          "price": "53,52 zł",
+          "note": "Lidl.pl"
+        },
+        {
+          "date": "2026-11-24 15:29",
+          "price": "52,72 zł",
+          "note": "Lidl.pl"
+        },
+        {
+          "date": "2026-11-24 15:29",
+          "price": "53,52 zł",
+          "note": "Lidl.pl"
+        },
+        {
+          "date": "2026-11-24 16:37",
+          "price": "52,72 zł",
+          "note": "Lidl.pl"
+        },
+        {
+          "date": "2026-11-24 16:37",
+          "price": "53,52 zł",
+          "note": "Lidl.pl"
+        },
+        {
+          "date": "2026-11-24 17:43",
+          "price": "52,72 zł",
+          "note": "Lidl.pl"
+        },
+        {
+          "date": "2026-11-24 17:43",
+          "price": "53,52 zł",
+          "note": "Lidl.pl"
+        },
+        {
+          "date": "2026-11-24 18:44",
+          "price": "52,72 zł",
+          "note": "Lidl.pl"
+        },
+        {
+          "date": "2026-11-24 18:44",
+          "price": "53,52 zł",
+          "note": "Lidl.pl"
+        },
+        {
+          "date": "2026-11-24 19:53",
+          "price": "52,72 zł",
+          "note": "Lidl.pl"
+        },
+        {
+          "date": "2026-11-24 19:53",
+          "price": "53,52 zł",
+          "note": "Lidl.pl"
+        },
+        {
+          "date": "2026-11-24 20:43",
+          "price": "52,72 zł",
+          "note": "Lidl.pl"
+        },
+        {
+          "date": "2026-11-24 20:43",
+          "price": "53,52 zł",
+          "note": "Lidl.pl"
+        },
+        {
+          "date": "2026-11-24 21:45",
+          "price": "52,72 zł",
+          "note": "Lidl.pl"
+        },
+        {
+          "date": "2026-11-24 21:45",
+          "price": "53,52 zł",
+          "note": "Lidl.pl"
+        },
+        {
+          "date": "2026-11-24 22:45",
+          "price": "52,72 zł",
+          "note": "Lidl.pl"
+        },
+        {
+          "date": "2026-11-24 22:45",
+          "price": "53,52 zł",
+          "note": "Lidl.pl"
+        },
+        {
+          "date": "2026-11-24 23:39",
+          "price": "52,72 zł",
+          "note": "Lidl.pl"
+        },
+        {
+          "date": "2026-11-24 23:39",
+          "price": "53,52 zł",
+          "note": "Lidl.pl"
+        },
+        {
+          "date": "2026-11-25 03:26",
+          "price": "52,72 zł",
+          "note": "Lidl.pl"
+        }
+      ]
+    },
+    {
+      "source": "Lidl.pl (Promocje)",
+      "deal_id": "lidl:100409245",
+      "title": "SILVERCREST® Zestaw 16 sztućców ze stali nierdzewnej",
+      "link": "https://www.lidl.pl/p/silvercrest-zestaw-16-sztuccow-ze-stali-nierdzewnej/p100409245",
+      "published": "Aktualna oferta Lidl.pl",
+      "summary": "Megaokazja • Promocja bezpośrednio ze sklepu Lidl.pl.",
+      "image_url": "https://www.lidl.pl/assets/gcpc3806bcb437446f386e0528d38fb1750.png",
+      "price": "35,99 zł",
+      "old_price": "44,99 zł",
+      "lowest_30d": "44,99 zł",
+      "merchant": "Lidl.pl",
+      "category": "Kategorie/Dom & Kuchnia/Naczynia i Sztućce/Sztućce",
+      "store_group": "Spożywcze i markety",
+      "discount_pct": 20,
+      "savings_pln": 9.0,
+      "deal_score": 40.45,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-SILVERCREST+Zestaw+16+sztu%C4%87c%C3%B3w+ze",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "30 dni przed obniżką",
+          "price": "44,99 zł",
+          "note": "Najniższa z 30 dni (Omnibus)"
+        },
+        {
+          "date": "2026-11-25 03:26",
+          "price": "35,99 zł",
+          "note": "Lidl.pl"
+        }
+      ]
+    },
+    {
       "source": "OBI.pl (Promocje)",
       "deal_id": "obi:6583421",
       "title": "Einhell Przecinarka do drewna TC-TS 2025/2 U 2000W 250 mm",
@@ -2703,131 +3533,6 @@
           "date": "2026-11-23 09:07",
           "price": "9,99 zł",
           "note": "Aldi.pl"
-        }
-      ]
-    },
-    {
-      "source": "Lidl.pl (Promocje)",
-      "deal_id": "lidl:100354227",
-      "title": "LUPILU® Śniegowce chłopięce",
-      "link": "https://www.lidl.pl/p/lupilu-sniegowce-chlopiece/p100354227",
-      "published": "Aktualna oferta Lidl.pl",
-      "summary": "Megaokazja • Promocja bezpośrednio ze sklepu Lidl.pl.",
-      "image_url": "https://www.lidl.pl/assets/gcp2244f808072e4442894da33f98a1cf9c.jpeg",
-      "price": "53,52 zł",
-      "old_price": "63,90 zł",
-      "lowest_30d": "63,90 zł",
-      "merchant": "Lidl.pl",
-      "category": "Kategorie/Moda/Moda dziecięca/Moda chłopięca (2-6 lat)/Kozaki",
-      "store_group": "Spożywcze i markety",
-      "discount_pct": 16,
-      "savings_pln": 10.38,
-      "deal_score": 32.52,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-LUPILU+%C5%9Aniegowce+ch%C5%82opi%C4%99ce",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-24 14:12",
-          "price": "52,72 zł",
-          "note": "Lidl.pl"
-        },
-        {
-          "date": "2026-11-24 14:12",
-          "price": "53,52 zł",
-          "note": "Lidl.pl"
-        },
-        {
-          "date": "2026-11-24 15:29",
-          "price": "52,72 zł",
-          "note": "Lidl.pl"
-        },
-        {
-          "date": "2026-11-24 15:29",
-          "price": "53,52 zł",
-          "note": "Lidl.pl"
-        },
-        {
-          "date": "2026-11-24 16:37",
-          "price": "52,72 zł",
-          "note": "Lidl.pl"
-        },
-        {
-          "date": "2026-11-24 16:37",
-          "price": "53,52 zł",
-          "note": "Lidl.pl"
-        },
-        {
-          "date": "2026-11-24 17:43",
-          "price": "52,72 zł",
-          "note": "Lidl.pl"
-        },
-        {
-          "date": "2026-11-24 17:43",
-          "price": "53,52 zł",
-          "note": "Lidl.pl"
-        },
-        {
-          "date": "2026-11-24 18:44",
-          "price": "52,72 zł",
-          "note": "Lidl.pl"
-        },
-        {
-          "date": "2026-11-24 18:44",
-          "price": "53,52 zł",
-          "note": "Lidl.pl"
-        },
-        {
-          "date": "2026-11-24 19:53",
-          "price": "52,72 zł",
-          "note": "Lidl.pl"
-        },
-        {
-          "date": "2026-11-24 19:53",
-          "price": "53,52 zł",
-          "note": "Lidl.pl"
-        },
-        {
-          "date": "2026-11-24 20:43",
-          "price": "52,72 zł",
-          "note": "Lidl.pl"
-        },
-        {
-          "date": "2026-11-24 20:43",
-          "price": "53,52 zł",
-          "note": "Lidl.pl"
-        },
-        {
-          "date": "2026-11-24 21:45",
-          "price": "52,72 zł",
-          "note": "Lidl.pl"
-        },
-        {
-          "date": "2026-11-24 21:45",
-          "price": "53,52 zł",
-          "note": "Lidl.pl"
-        },
-        {
-          "date": "2026-11-24 22:45",
-          "price": "52,72 zł",
-          "note": "Lidl.pl"
-        },
-        {
-          "date": "2026-11-24 22:45",
-          "price": "53,52 zł",
-          "note": "Lidl.pl"
-        },
-        {
-          "date": "2026-11-24 23:39",
-          "price": "52,72 zł",
-          "note": "Lidl.pl"
-        },
-        {
-          "date": "2026-11-24 23:39",
-          "price": "53,52 zł",
-          "note": "Lidl.pl"
         }
       ]
     },
@@ -3192,6 +3897,46 @@
       ]
     },
     {
+      "source": "Smyk.com",
+      "deal_id": "smyk:/pl/pl/p/dumel-fabryka-radosci-kolorowe-dlugopisy-zestaw-kreatywny-do-tworzenia-dlugopisow-45-elementow-i8427313",
+      "title": "Dumel, Fabryka Radości, Kolorowe Długopisy, zestaw kreatywny do tworzenia długopisów, 45 elementów",
+      "link": "https://www.smyk.com/pl/pl/p/dumel-fabryka-radosci-kolorowe-dlugopisy-zestaw-kreatywny-do-tworzenia-dlugopisow-45-elementow-i8427313",
+      "published": "Aktualna oferta Smyk.com",
+      "summary": "Promocja ze sklepu Smyk.com • Najniższa z 30 dni: 57,99 zł.",
+      "image_url": "https://img.smyk.com/pl/pl/390x/https://bin.smyk.com/pl/pl/media/product/1600/1/dumel-fabryka-radosci-kolorowe-dlugopisy-zestaw-kreatywny-do-tworzenia-dlugopisow-45-elementow-8427313.jpg",
+      "price": "52,99 zł",
+      "old_price": "57,99 zł",
+      "lowest_30d": "57,99 zł",
+      "merchant": "Smyk.com",
+      "category": "Dzieci i zabawki",
+      "store_group": "Dzieci i zabawki",
+      "discount_pct": 9,
+      "savings_pln": 5.0,
+      "deal_score": 18.25,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Dumel+Fabryka+Rado%C5%9Bci+Kolorowe+D%C5%82ugopisy",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "przed promocją",
+          "price": "57,99 zł",
+          "note": "przed promocją"
+        },
+        {
+          "date": "30 dni przed obniżką",
+          "price": "57,99 zł",
+          "note": "Najniższa z 30 dni (Omnibus)"
+        },
+        {
+          "date": "2026-11-23 17:49",
+          "price": "52,99 zł",
+          "note": "Smyk.com"
+        }
+      ]
+    },
+    {
       "source": "Rossmann.pl",
       "deal_id": "rossmann:222619",
       "title": "E.Wedel Czekotubka krem czekoladowy",
@@ -3228,6 +3973,126 @@
           "date": "2026-11-23 20:40",
           "price": "4,79 zł",
           "note": "Rossmann.pl"
+        }
+      ]
+    },
+    {
+      "source": "Smyk.com",
+      "deal_id": "smyk:/pl/pl/p/lego-gabbys-dollhouse-koci-domek-gabi-10788-i7501831",
+      "title": "LEGO Gabby's Dollhouse, Koci domek Gabi, 10788",
+      "link": "https://www.smyk.com/pl/pl/p/lego-gabbys-dollhouse-koci-domek-gabi-10788-i7501831",
+      "published": "Aktualna oferta Smyk.com",
+      "summary": "Promocja ze sklepu Smyk.com • Najniższa z 30 dni: 259 zł.",
+      "image_url": "https://img.smyk.com/pl/pl/390x/https://bin.smyk.com/pl/pl/media/product/1600/1/lego-gabbys-dollhouse-koci-domek-gabi-10788-7501831.jpg",
+      "price": "239 zł",
+      "old_price": "259 zł",
+      "lowest_30d": "259 zł",
+      "merchant": "Smyk.com",
+      "category": "Dzieci i zabawki",
+      "store_group": "Dzieci i zabawki",
+      "discount_pct": 8,
+      "savings_pln": 20.0,
+      "deal_score": 17.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-LEGO+Gabby+Dollhouse+Koci+domek",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "przed promocją",
+          "price": "259 zł",
+          "note": "przed promocją"
+        },
+        {
+          "date": "30 dni przed obniżką",
+          "price": "259 zł",
+          "note": "Najniższa z 30 dni (Omnibus)"
+        },
+        {
+          "date": "2026-11-23 17:49",
+          "price": "239 zł",
+          "note": "Smyk.com"
+        }
+      ]
+    },
+    {
+      "source": "Smyk.com",
+      "deal_id": "smyk:/pl/pl/p/bitzee-akwarium-interaktywne-cyfrowe-zwierzatko-i8391291",
+      "title": "Bitzee, Akwarium, interaktywne cyfrowe zwierzątko",
+      "link": "https://www.smyk.com/pl/pl/p/bitzee-akwarium-interaktywne-cyfrowe-zwierzatko-i8391291",
+      "published": "Aktualna oferta Smyk.com",
+      "summary": "Promocja ze sklepu Smyk.com • Najniższa z 30 dni: 159,99 zł.",
+      "image_url": "https://img.smyk.com/pl/pl/390x/https://bin.smyk.com/pl/pl/media/product/1600/1/bitzee-akwarium-interaktywne-cyfrowe-zwierzatko-8391291.jpg",
+      "price": "149,99 zł",
+      "old_price": "159,99 zł",
+      "lowest_30d": "159,99 zł",
+      "merchant": "Smyk.com",
+      "category": "Dzieci i zabawki",
+      "store_group": "Dzieci i zabawki",
+      "discount_pct": 6,
+      "savings_pln": 10.0,
+      "deal_score": 12.5,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Bitzee+Akwarium+interaktywne+cyfrowe+zwierz%C4%85tko",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "przed promocją",
+          "price": "159,99 zł",
+          "note": "przed promocją"
+        },
+        {
+          "date": "30 dni przed obniżką",
+          "price": "159,99 zł",
+          "note": "Najniższa z 30 dni (Omnibus)"
+        },
+        {
+          "date": "2026-11-22 22:45",
+          "price": "149,99 zł",
+          "note": "Smyk.com"
+        }
+      ]
+    },
+    {
+      "source": "Smyk.com",
+      "deal_id": "smyk:/pl/pl/p/lego-ninjago-wielofunkcyjny-samochod-jaya-71856-i8182148",
+      "title": "LEGO NINJAGO, Wielofunkcyjny samochód Jaya, 71856",
+      "link": "https://www.smyk.com/pl/pl/p/lego-ninjago-wielofunkcyjny-samochod-jaya-71856-i8182148",
+      "published": "Aktualna oferta Smyk.com",
+      "summary": "Promocja ze sklepu Smyk.com • Najniższa z 30 dni: 142,90 zł.",
+      "image_url": "https://img.smyk.com/pl/pl/390x/https://bin.smyk.com/pl/pl/media/product/1600/1/lego-ninjago-wielofunkcyjny-samochod-jaya-71856-8182148.jpg",
+      "price": "134,90 zł",
+      "old_price": "142,90 zł",
+      "lowest_30d": "142,90 zł",
+      "merchant": "Smyk.com",
+      "category": "Dzieci i zabawki",
+      "store_group": "Dzieci i zabawki",
+      "discount_pct": 6,
+      "savings_pln": 8.0,
+      "deal_score": 12.4,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-LEGO+NINJAGO+Wielofunkcyjny+samoch%C3%B3d+Jaya",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "przed promocją",
+          "price": "142,90 zł",
+          "note": "przed promocją"
+        },
+        {
+          "date": "30 dni przed obniżką",
+          "price": "142,90 zł",
+          "note": "Najniższa z 30 dni (Omnibus)"
+        },
+        {
+          "date": "2026-11-23 17:49",
+          "price": "134,90 zł",
+          "note": "Smyk.com"
         }
       ]
     },
@@ -3295,16 +4160,6 @@
       "compared_offers": [],
       "price_history": [
         {
-          "date": "2026-11-24 15:29",
-          "price": "50 zł",
-          "note": "Pepco.pl"
-        },
-        {
-          "date": "2026-11-24 16:37",
-          "price": "20 zł",
-          "note": "Pepco.pl"
-        },
-        {
           "date": "2026-11-24 16:37",
           "price": "50 zł",
           "note": "Pepco.pl"
@@ -3391,6 +4246,16 @@
         },
         {
           "date": "2026-11-25 02:12",
+          "price": "20 zł",
+          "note": "Pepco.pl"
+        },
+        {
+          "date": "2026-11-25 02:12",
+          "price": "50 zł",
+          "note": "Pepco.pl"
+        },
+        {
+          "date": "2026-11-25 03:26",
           "price": "20 zł",
           "note": "Pepco.pl"
         }
@@ -3420,16 +4285,6 @@
       "compared_offers": [],
       "price_history": [
         {
-          "date": "2026-11-24 15:29",
-          "price": "10 zł",
-          "note": "Pepco.pl"
-        },
-        {
-          "date": "2026-11-24 16:37",
-          "price": "20 zł",
-          "note": "Pepco.pl"
-        },
-        {
           "date": "2026-11-24 16:37",
           "price": "10 zł",
           "note": "Pepco.pl"
@@ -3516,6 +4371,16 @@
         },
         {
           "date": "2026-11-25 02:12",
+          "price": "20 zł",
+          "note": "Pepco.pl"
+        },
+        {
+          "date": "2026-11-25 02:12",
+          "price": "10 zł",
+          "note": "Pepco.pl"
+        },
+        {
+          "date": "2026-11-25 03:26",
           "price": "20 zł",
           "note": "Pepco.pl"
         }
@@ -4025,16 +4890,6 @@
       "compared_offers": [],
       "price_history": [
         {
-          "date": "2026-11-24 16:37",
-          "price": "20 zł",
-          "note": "Pepco.pl"
-        },
-        {
-          "date": "2026-11-24 16:37",
-          "price": "10 zł",
-          "note": "Pepco.pl"
-        },
-        {
           "date": "2026-11-24 17:43",
           "price": "20 zł",
           "note": "Pepco.pl"
@@ -4121,6 +4976,16 @@
         },
         {
           "date": "2026-11-25 02:12",
+          "price": "10 zł",
+          "note": "Pepco.pl"
+        },
+        {
+          "date": "2026-11-25 03:26",
+          "price": "20 zł",
+          "note": "Pepco.pl"
+        },
+        {
+          "date": "2026-11-25 03:26",
           "price": "10 zł",
           "note": "Pepco.pl"
         }
@@ -4150,16 +5015,6 @@
       "compared_offers": [],
       "price_history": [
         {
-          "date": "2026-11-24 16:37",
-          "price": "20 zł",
-          "note": "Pepco.pl"
-        },
-        {
-          "date": "2026-11-24 16:37",
-          "price": "50 zł",
-          "note": "Pepco.pl"
-        },
-        {
           "date": "2026-11-24 17:43",
           "price": "20 zł",
           "note": "Pepco.pl"
@@ -4246,6 +5101,16 @@
         },
         {
           "date": "2026-11-25 02:12",
+          "price": "50 zł",
+          "note": "Pepco.pl"
+        },
+        {
+          "date": "2026-11-25 03:26",
+          "price": "20 zł",
+          "note": "Pepco.pl"
+        },
+        {
+          "date": "2026-11-25 03:26",
           "price": "50 zł",
           "note": "Pepco.pl"
         }
@@ -4305,16 +5170,6 @@
       "compared_offers": [],
       "price_history": [
         {
-          "date": "2026-11-24 15:29",
-          "price": "105 zł",
-          "note": "Pepco.pl"
-        },
-        {
-          "date": "2026-11-24 16:37",
-          "price": "120 zł",
-          "note": "Pepco.pl"
-        },
-        {
           "date": "2026-11-24 16:37",
           "price": "105 zł",
           "note": "Pepco.pl"
@@ -4401,6 +5256,16 @@
         },
         {
           "date": "2026-11-25 02:12",
+          "price": "120 zł",
+          "note": "Pepco.pl"
+        },
+        {
+          "date": "2026-11-25 02:12",
+          "price": "105 zł",
+          "note": "Pepco.pl"
+        },
+        {
+          "date": "2026-11-25 03:26",
           "price": "120 zł",
           "note": "Pepco.pl"
         }
@@ -4430,16 +5295,6 @@
       "compared_offers": [],
       "price_history": [
         {
-          "date": "2026-11-24 16:37",
-          "price": "120 zł",
-          "note": "Pepco.pl"
-        },
-        {
-          "date": "2026-11-24 16:37",
-          "price": "105 zł",
-          "note": "Pepco.pl"
-        },
-        {
           "date": "2026-11-24 17:43",
           "price": "120 zł",
           "note": "Pepco.pl"
@@ -4526,6 +5381,16 @@
         },
         {
           "date": "2026-11-25 02:12",
+          "price": "105 zł",
+          "note": "Pepco.pl"
+        },
+        {
+          "date": "2026-11-25 03:26",
+          "price": "120 zł",
+          "note": "Pepco.pl"
+        },
+        {
+          "date": "2026-11-25 03:26",
           "price": "105 zł",
           "note": "Pepco.pl"
         }
@@ -4748,6 +5613,90 @@
     },
     {
       "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/oprocentowanie-48-na-koncie-oszczednosciowym-do-300-tys-zl-dla-obecnych-klientow-alior-banku-1399719",
+      "title": "Oprocentowanie 4,8% na koncie oszczędnościowym do 300 tys. zł dla obecnych klientów Alior Banku",
+      "link": "https://www.pepper.pl/promocje/oprocentowanie-48-na-koncie-oszczednosciowym-do-300-tys-zl-dla-obecnych-klientow-alior-banku-1399719",
+      "published": "Wed, 25 Nov 2026 03:57:50 +0100",
+      "summary": "Alior Bank Obecni klienci Alior Banku mogą skorzystać z promocji na Koncie Max Oszczędnościowym w ramach której otrzymają premiowe oprocentowanie w wysokości 4,8% do kwoty 300 tys. zł, na okres 3 miesięcy. Warunkiem otrzymania premiowego o…",
+      "image_url": "https://static.pepper.pl/threads/raw/QHD7o/1399719_1/re/150x150/qt/55/1399719_1.jpg",
+      "price": "",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Alior Bank",
+      "category": "Finanse i ubezpieczenia",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Oprocentowanie+na+koncie+oszcz%C4%99dno%C5%9Bciowym+do",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": []
+    },
+    {
+      "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/69-pikantnych-pomyslow-dla-par-zmyslowa-ksiazka-dziennik-z-pomyslami-na-seks-miejscem-na-notatki-i-seks-kuponami-idealna-jako-prezent-1399718",
+      "title": "69 pikantnych pomysłów dla par: Zmysłowa książka-dziennik z pomysłami na seks, miejscem na notatki i seks-kuponami — idealna jako prezent",
+      "link": "https://www.pepper.pl/promocje/69-pikantnych-pomyslow-dla-par-zmyslowa-ksiazka-dziennik-z-pomyslami-na-seks-miejscem-na-notatki-i-seks-kuponami-idealna-jako-prezent-1399718",
+      "published": "Wed, 25 Nov 2026 03:52:27 +0100",
+      "summary": "58,56zł - Amazon.pl W środku znajdziecie: 69 pomysłów na seks – od subtelnych i zmysłowych po śmiałe i pełne adrenaliny Kolorowe wnętrze z ikonami i tematycznymi hasłami na każdej stronie Miejsce na wasze notatki, wspomnienia i ocenę gorąc…",
+      "image_url": "https://static.pepper.pl/threads/raw/dqFck/1399718_1/re/150x150/qt/55/1399718_1.jpg",
+      "price": "58,56zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Amazon.pl",
+      "category": "Kultura i rozrywka",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-69+pikantnych+pomys%C5%82%C3%B3w+dla+par",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-25 03:26",
+          "price": "58,56zł",
+          "note": "Amazon.pl"
+        }
+      ]
+    },
+    {
+      "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/meskie-buty-salomon-outscape-3-wzory-1399717",
+      "title": "Męskie Buty SALOMON OUTSCAPE 3 wzory",
+      "link": "https://www.pepper.pl/promocje/meskie-buty-salomon-outscape-3-wzory-1399717",
+      "published": "Wed, 25 Nov 2026 03:18:41 +0100",
+      "summary": "349,99zł - Martes Sport Salomon OUTSCAPE to wszechstronne buty outdoorowe stworzone do swobodnego poruszania się w zróżnicowanym terenie. Model łączy lekkość i komfort codziennego obuwia z technologiami charakterystycznymi dla butów trekki…",
+      "image_url": "https://static.pepper.pl/threads/raw/0zeYl/1399717_1/re/150x150/qt/55/1399717_1.jpg",
+      "price": "349,99zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Martes Sport",
+      "category": "Moda",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-M%C4%99skie+Buty+SALOMON+OUTSCAPE+wzory",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-25 03:26",
+          "price": "349,99zł",
+          "note": "Martes Sport"
+        }
+      ]
+    },
+    {
+      "source": "Pepper.pl",
       "deal_id": "https://www.pepper.pl/promocje/alice-in-chains-dirt-30th-anniversary-edition-2lp-2-x-winyl-aplikacja-inpost-1399716",
       "title": "ALICE IN CHAINS Dirt (30th Anniversary Edition) 2LP 2 x Winyl - Aplikacja Inpost",
       "link": "https://www.pepper.pl/promocje/alice-in-chains-dirt-30th-anniversary-edition-2lp-2-x-winyl-aplikacja-inpost-1399716",
@@ -4782,7 +5731,7 @@
       "title": "Kurtyna LED Govee Curtain Lights 2.0, 520 światełek LED RGBIC IP65 (1,5×2 m)",
       "link": "https://www.pepper.pl/promocje/kurtyna-led-govee-curtain-lights-20-520-swiatelek-led-rgbic-ip65-152-m-1399715",
       "published": "Wed, 25 Nov 2026 03:07:26 +0100",
-      "summary": "389,99zł - Amazon.pl Fajny bajer, kurtyna LED z możliwością wyświetlanie obrazów i animacji (także upload GIF) z obsługą przez aplikację lub Alexę, Matter, Google Home",
+      "summary": "389,99zł - Amazon.pl Fajny bajer, kurtyna LED z możliwością wyświetlanie obrazów i animacji (także upload GIF) z obsługą przez aplikację lub Alexę, Matter, Google Home Kurtyna LED Govee Curtain Lights 2.0 to nowoczesne rozwiązanie dekoracy…",
       "image_url": "https://static.pepper.pl/threads/raw/Lui2p/1399715_1/re/150x150/qt/55/1399715_1.jpg",
       "price": "389,99zł",
       "old_price": "",
@@ -5457,120 +6406,6 @@
           "date": "2026-11-24 23:39",
           "price": "34,99zł",
           "note": "Decathlon"
-        }
-      ]
-    },
-    {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/czekolada-ritter-sport-100-f-cena-przy-zakupie-2-at-lidl-1399684",
-      "title": "Czekolada Ritter Sport 100 f cena przy zakupie 2 @Lidl",
-      "link": "https://www.pepper.pl/promocje/czekolada-ritter-sport-100-f-cena-przy-zakupie-2-at-lidl-1399684",
-      "published": "Wed, 25 Nov 2026 00:15:27 +0100",
-      "summary": "4,49zł - Lidl Oferta dostępna tylko 27.11.2026 r. Wymagana aplikacja. Limit: 8 produktów",
-      "image_url": "https://static.pepper.pl/threads/raw/5ASBB/1399684_1/re/150x150/qt/55/1399684_1.jpg",
-      "price": "4,49zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Lidl",
-      "category": "Artykuły spożywcze",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Czekolada+Ritter+Sport+100+przy",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-24 23:39",
-          "price": "4,49zł",
-          "note": "Lidl"
-        }
-      ]
-    },
-    {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/pny-5-pack-64gb-attache-x-usb-32-gen-1-1399683",
-      "title": "PNY 5-Pack 64GB Attaché X USB 3.2 Gen 1",
-      "link": "https://www.pepper.pl/promocje/pny-5-pack-64gb-attache-x-usb-32-gen-1-1399683",
-      "published": "Wed, 25 Nov 2026 00:14:30 +0100",
-      "summary": "100zł - Amazon.pl PNY 5-Pack 64GB Attaché X USB 3.2 Gen 1 Dostawa z Prime 0 zł 5 x Pendrive w takiej cenie nie ma tragedii jak ktoś potrzebuje na instalki, biosik albo tak jak ja często gubi, rozdaje albo się palą różne pendrive :) Wychodz…",
-      "image_url": "https://static.pepper.pl/threads/raw/iTGzk/1399683_1/re/150x150/qt/55/1399683_1.jpg",
-      "price": "100zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Amazon.pl",
-      "category": "Elektronika",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-PNY+5-Pack+64GB+Attach+USB",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-24 23:39",
-          "price": "100zł",
-          "note": "Amazon.pl"
-        }
-      ]
-    },
-    {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/bialystok-otwarcie-nowego-salonu-halfprice-w-g-city-biala-1000-voucherow-dla-pierwszych-klientow-sobota-2811-1399682",
-      "title": "[Białystok] Otwarcie nowego salonu HalfPrice w G City Biała – 1000 voucherów dla pierwszych klientów (sobota, 28.11)",
-      "link": "https://www.pepper.pl/promocje/bialystok-otwarcie-nowego-salonu-halfprice-w-g-city-biala-1000-voucherow-dla-pierwszych-klientow-sobota-2811-1399682",
-      "published": "Wed, 25 Nov 2026 00:14:15 +0100",
-      "summary": "W sobotę 28 listopada 2026 r. w centrum handlowym G City Biała w Białymstoku (ul. Czesława Miłosza 2) odbędzie się otwarcie nowego salonu sieci HalfPrice (będzie to trzeci sklep tej marki w mieście). Z okazji otwarcia dla pierwszych klient…",
-      "image_url": "https://static.pepper.pl/threads/raw/Ghv1E/1399682_1/re/150x150/qt/55/1399682_1.jpg",
-      "price": "",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "",
-      "category": "Moda",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Otwarcie+nowego+salonu+HalfPrice+City",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": []
-    },
-    {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/realme-gt-8-pro-16512-bardzo-dobra-okazja-1399681",
-      "title": "Realme GT 8 pro 16/512 bardzo dobra okazja",
-      "link": "https://www.pepper.pl/promocje/realme-gt-8-pro-16512-bardzo-dobra-okazja-1399681",
-      "published": "Wed, 25 Nov 2026 00:14:12 +0100",
-      "summary": "3 399zł - Proshop • Ekran AMOLED 6,79″ QHD+ (3136 × 1440), 144 Hz, jasność do 7000 nitów • Obsługa 5G i dwóch kart SIM • Procesor Snapdragon 8 Elite Gen 5 • 16 GB RAM LPDDR5X i 512 GB pamięci UFS 4.1 • Aparat tylny: 50 MP z OIS, ultraszero…",
-      "image_url": "https://static.pepper.pl/threads/raw/rmYHb/1399681_1/re/150x150/qt/55/1399681_1.jpg",
-      "price": "3 399zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Proshop",
-      "category": "Elektronika",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Realme+GT+pro+16+512",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-24 23:39",
-          "price": "3 399zł",
-          "note": "Proshop"
         }
       ]
     },
@@ -7850,6 +8685,16 @@
           "date": "2026-11-25 02:12",
           "price": "439,99 zł",
           "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-25 02:12",
+          "price": "429,99 zł",
+          "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-25 03:26",
+          "price": "439,99 zł",
+          "note": "Rossmann.pl"
         }
       ]
     },
@@ -7943,6 +8788,16 @@
         },
         {
           "date": "2026-11-25 02:12",
+          "price": "429,99 zł",
+          "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-25 03:26",
+          "price": "439,99 zł",
+          "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-25 03:26",
           "price": "429,99 zł",
           "note": "Rossmann.pl"
         }
@@ -8220,6 +9075,551 @@
           "date": "2026-11-23 09:07",
           "price": "94,99 zł",
           "note": "Rossmann.pl"
+        }
+      ]
+    },
+    {
+      "source": "Smyk.com",
+      "deal_id": "smyk:/pl/pl/p/cool-club-skarpetki-chlopiece-mix-zestaw-3-szt-iCCHB3323265-00/i8315173",
+      "title": "Cool Club, Skarpetki chłopięce, mix, zestaw, 3 szt.",
+      "link": "https://www.smyk.com/pl/pl/p/cool-club-skarpetki-chlopiece-mix-zestaw-3-szt-iCCHB3323265-00/i8315173",
+      "published": "Aktualna oferta Smyk.com",
+      "summary": "Promocja ze sklepu Smyk.com.",
+      "image_url": "https://img.smyk.com/pl/pl/390x/https://bin.smyk.com/pl/pl/media/product/1600/1/cool-club-skarpetki-chlopiece-mix-zestaw-3-szt-8315173.webp",
+      "price": "29,99 zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Smyk.com",
+      "category": "Dzieci i zabawki",
+      "store_group": "Dzieci i zabawki",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Cool+Club+Skarpetki+ch%C5%82opi%C4%99ce+mix",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-24 12:55",
+          "price": "29,99 zł",
+          "note": "Smyk.com"
+        }
+      ]
+    },
+    {
+      "source": "Smyk.com",
+      "deal_id": "smyk:/pl/pl/p/cool-club-sukienka-dziewczeca-z-dlugim-rekawem-welurowa-bordowa-iCCCG3323415/i8343563",
+      "title": "Cool Club, Sukienka dziewczęca z długim rękawem, welurowa, bordowa",
+      "link": "https://www.smyk.com/pl/pl/p/cool-club-sukienka-dziewczeca-z-dlugim-rekawem-welurowa-bordowa-iCCCG3323415/i8343563",
+      "published": "Aktualna oferta Smyk.com",
+      "summary": "Promocja ze sklepu Smyk.com.",
+      "image_url": "https://img.smyk.com/pl/pl/390x/https://bin.smyk.com/pl/pl/media/product/1600/1/cool-club-sukienka-dziewczeca-z-dlugim-rekawem-welurowa-bordowa-8343563.jpg",
+      "price": "59,99 zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Smyk.com",
+      "category": "Dzieci i zabawki",
+      "store_group": "Dzieci i zabawki",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Cool+Club+Sukienka+dziewcz%C4%99ca+d%C5%82ugim",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "przed promocją",
+          "price": "89,99 zł",
+          "note": "przed promocją"
+        },
+        {
+          "date": "30 dni przed obniżką",
+          "price": "69,99 zł",
+          "note": "Najniższa z 30 dni (Omnibus)"
+        },
+        {
+          "date": "2026-11-24 09:38",
+          "price": "49 zł",
+          "note": "Smyk.com"
+        },
+        {
+          "date": "2026-11-24 09:38",
+          "price": "64 zł",
+          "note": "Smyk.com"
+        },
+        {
+          "date": "2026-11-24 09:38",
+          "price": "57 zł",
+          "note": "Smyk.com"
+        },
+        {
+          "date": "2026-11-24 10:46",
+          "price": "49 zł",
+          "note": "Smyk.com"
+        },
+        {
+          "date": "2026-11-24 10:46",
+          "price": "64 zł",
+          "note": "Smyk.com"
+        },
+        {
+          "date": "2026-11-24 10:46",
+          "price": "57 zł",
+          "note": "Smyk.com"
+        },
+        {
+          "date": "2026-11-24 12:55",
+          "price": "21 zł",
+          "note": "Smyk.com"
+        },
+        {
+          "date": "2026-11-24 12:55",
+          "price": "59,99 zł",
+          "note": "Smyk.com"
+        },
+        {
+          "date": "2026-11-24 21:45",
+          "price": "21 zł",
+          "note": "Smyk.com"
+        },
+        {
+          "date": "2026-11-24 21:45",
+          "price": "59,99 zł",
+          "note": "Smyk.com"
+        },
+        {
+          "date": "2026-11-24 22:45",
+          "price": "21 zł",
+          "note": "Smyk.com"
+        },
+        {
+          "date": "2026-11-24 22:45",
+          "price": "59,99 zł",
+          "note": "Smyk.com"
+        },
+        {
+          "date": "2026-11-25 03:26",
+          "price": "21 zł",
+          "note": "Smyk.com"
+        },
+        {
+          "date": "2026-11-25 03:26",
+          "price": "59,99 zł",
+          "note": "Smyk.com"
+        }
+      ]
+    },
+    {
+      "source": "Smyk.com",
+      "deal_id": "smyk:/pl/pl/p/cool-club-kombinezon-dziewczecy-z-kapturem-ocieplany-bordowy-iCCOG3300431/i8299677",
+      "title": "Cool Club, Kombinezon dziewczęcy z kapturem, ocieplany, bordowy",
+      "link": "https://www.smyk.com/pl/pl/p/cool-club-kombinezon-dziewczecy-z-kapturem-ocieplany-bordowy-iCCOG3300431/i8299677",
+      "published": "Aktualna oferta Smyk.com",
+      "summary": "Promocja ze sklepu Smyk.com.",
+      "image_url": "https://img.smyk.com/pl/pl/390x/https://bin.smyk.com/pl/pl/media/product/1600/1/cool-club-kombinezon-dziewczecy-z-kapturem-ocieplany-bordowy-8299677.jpg",
+      "price": "159,99 zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Smyk.com",
+      "category": "Dzieci i zabawki",
+      "store_group": "Dzieci i zabawki",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Cool+Club+Kombinezon+dziewcz%C4%99cy+kapturem",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-24 12:55",
+          "price": "159,99 zł",
+          "note": "Smyk.com"
+        }
+      ]
+    },
+    {
+      "source": "Smyk.com",
+      "deal_id": "smyk:/pl/pl/p/cool-club-kombinezon-chlopiecy-z-kapturem-ocieplany-khaki-iCCOB3300438/i8299732",
+      "title": "Cool Club, Kombinezon chłopięcy z kapturem, ocieplany, khaki",
+      "link": "https://www.smyk.com/pl/pl/p/cool-club-kombinezon-chlopiecy-z-kapturem-ocieplany-khaki-iCCOB3300438/i8299732",
+      "published": "Aktualna oferta Smyk.com",
+      "summary": "Promocja ze sklepu Smyk.com.",
+      "image_url": "https://img.smyk.com/pl/pl/390x/https://bin.smyk.com/pl/pl/media/product/1600/1/cool-club-kombinezon-chlopiecy-z-kapturem-ocieplany-khaki-8299732.jpg",
+      "price": "159,99 zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Smyk.com",
+      "category": "Dzieci i zabawki",
+      "store_group": "Dzieci i zabawki",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Cool+Club+Kombinezon+ch%C5%82opi%C4%99cy+kapturem",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "przed promocją",
+          "price": "159,99 zł",
+          "note": "przed promocją"
+        },
+        {
+          "date": "30 dni przed obniżką",
+          "price": "159,99 zł",
+          "note": "Najniższa z 30 dni (Omnibus)"
+        },
+        {
+          "date": "2026-11-24 09:38",
+          "price": "109 zł",
+          "note": "Smyk.com"
+        },
+        {
+          "date": "2026-11-24 12:55",
+          "price": "159,99 zł",
+          "note": "Smyk.com"
+        },
+        {
+          "date": "2026-11-24 21:45",
+          "price": "109 zł",
+          "note": "Smyk.com"
+        },
+        {
+          "date": "2026-11-24 21:45",
+          "price": "159,99 zł",
+          "note": "Smyk.com"
+        },
+        {
+          "date": "2026-11-24 22:45",
+          "price": "109 zł",
+          "note": "Smyk.com"
+        },
+        {
+          "date": "2026-11-24 22:45",
+          "price": "159,99 zł",
+          "note": "Smyk.com"
+        },
+        {
+          "date": "2026-11-25 03:26",
+          "price": "109 zł",
+          "note": "Smyk.com"
+        },
+        {
+          "date": "2026-11-25 03:26",
+          "price": "159,99 zł",
+          "note": "Smyk.com"
+        }
+      ]
+    },
+    {
+      "source": "Smyk.com",
+      "deal_id": "smyk:/pl/pl/p/cool-club-antyposlizgowe-skarpetki-dziewczece-mix-zestaw-3-szt-iCCHG3303514-00/i8349760",
+      "title": "Cool Club, Antypoślizgowe skarpetki dziewczęce, mix, zestaw, 3 szt.",
+      "link": "https://www.smyk.com/pl/pl/p/cool-club-antyposlizgowe-skarpetki-dziewczece-mix-zestaw-3-szt-iCCHG3303514-00/i8349760",
+      "published": "Aktualna oferta Smyk.com",
+      "summary": "Promocja ze sklepu Smyk.com.",
+      "image_url": "https://img.smyk.com/pl/pl/390x/https://bin.smyk.com/pl/pl/media/product/1600/1/cool-club-antyposlizgowe-skarpetki-dziewczece-mix-zestaw-3-szt-8349760.jpg",
+      "price": "29,99 zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Smyk.com",
+      "category": "Dzieci i zabawki",
+      "store_group": "Dzieci i zabawki",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Cool+Club+Antypo%C5%9Blizgowe+skarpetki+dziewcz%C4%99ce",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-24 12:55",
+          "price": "29,99 zł",
+          "note": "Smyk.com"
+        }
+      ]
+    },
+    {
+      "source": "Smyk.com",
+      "deal_id": "smyk:/pl/pl/p/cool-club-czapka-chlopieca-z-pomponem-czarna-iCCAB3332944/i8315614",
+      "title": "Cool Club, Czapka chłopięca z pomponem, czarna",
+      "link": "https://www.smyk.com/pl/pl/p/cool-club-czapka-chlopieca-z-pomponem-czarna-iCCAB3332944/i8315614",
+      "published": "Aktualna oferta Smyk.com",
+      "summary": "Promocja ze sklepu Smyk.com.",
+      "image_url": "https://img.smyk.com/pl/pl/390x/https://bin.smyk.com/pl/pl/media/product/1600/1/cool-club-czapka-chlopieca-z-pomponem-czarna-8315614.jpg",
+      "price": "39,99 zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Smyk.com",
+      "category": "Dzieci i zabawki",
+      "store_group": "Dzieci i zabawki",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Cool+Club+Czapka+ch%C5%82opi%C4%99ca+pomponem",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-24 12:55",
+          "price": "39,99 zł",
+          "note": "Smyk.com"
+        }
+      ]
+    },
+    {
+      "source": "Smyk.com",
+      "deal_id": "smyk:/pl/pl/p/cool-club-buty-zimowe-chlopiece-ocieplane-khaki-iCWBT3W26-CB2727/i8308333",
+      "title": "Cool Club, Buty zimowe chłopięce, ocieplane, khaki",
+      "link": "https://www.smyk.com/pl/pl/p/cool-club-buty-zimowe-chlopiece-ocieplane-khaki-iCWBT3W26-CB2727/i8308333",
+      "published": "Aktualna oferta Smyk.com",
+      "summary": "Promocja ze sklepu Smyk.com.",
+      "image_url": "https://img.smyk.com/pl/pl/390x/https://bin.smyk.com/pl/pl/media/product/1600/1/cool-club-buty-zimowe-chlopiece-ocieplane-khaki-8308333.webp",
+      "price": "149,99 zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Smyk.com",
+      "category": "Dzieci i zabawki",
+      "store_group": "Dzieci i zabawki",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Cool+Club+Buty+zimowe+ch%C5%82opi%C4%99ce",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-24 12:55",
+          "price": "149,99 zł",
+          "note": "Smyk.com"
+        },
+        {
+          "date": "2026-11-24 12:55",
+          "price": "159,99 zł",
+          "note": "Smyk.com"
+        },
+        {
+          "date": "2026-11-24 21:45",
+          "price": "149,99 zł",
+          "note": "Smyk.com"
+        },
+        {
+          "date": "2026-11-24 21:45",
+          "price": "159,99 zł",
+          "note": "Smyk.com"
+        },
+        {
+          "date": "2026-11-24 22:45",
+          "price": "149,99 zł",
+          "note": "Smyk.com"
+        },
+        {
+          "date": "2026-11-24 22:45",
+          "price": "159,99 zł",
+          "note": "Smyk.com"
+        },
+        {
+          "date": "2026-11-25 03:26",
+          "price": "149,99 zł",
+          "note": "Smyk.com"
+        }
+      ]
+    },
+    {
+      "source": "Smyk.com",
+      "deal_id": "smyk:/pl/pl/p/cool-club-rekawiczki-narciarskie-chlopiece-na-sznurku-brazowe-iCCAB3303599/i8342628",
+      "title": "Cool Club, Rękawiczki narciarskie chłopięce na sznurku, brązowe",
+      "link": "https://www.smyk.com/pl/pl/p/cool-club-rekawiczki-narciarskie-chlopiece-na-sznurku-brazowe-iCCAB3303599/i8342628",
+      "published": "Aktualna oferta Smyk.com",
+      "summary": "Promocja ze sklepu Smyk.com.",
+      "image_url": "https://img.smyk.com/pl/pl/390x/https://bin.smyk.com/pl/pl/media/product/1600/1/cool-club-rekawiczki-narciarskie-chlopiece-na-sznurku-brazowe-8342628.jpg",
+      "price": "49,99 zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Smyk.com",
+      "category": "Dzieci i zabawki",
+      "store_group": "Dzieci i zabawki",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Cool+Club+R%C4%99kawiczki+narciarskie+ch%C5%82opi%C4%99ce",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-24 12:55",
+          "price": "49,99 zł",
+          "note": "Smyk.com"
+        }
+      ]
+    },
+    {
+      "source": "Smyk.com",
+      "deal_id": "smyk:/pl/pl/p/cool-club-buty-zimowe-chlopiece-ocieplane-czarne-iCWBT3W26-CB2706/i8308323",
+      "title": "Cool Club, Buty zimowe chłopięce, ocieplane, czarne",
+      "link": "https://www.smyk.com/pl/pl/p/cool-club-buty-zimowe-chlopiece-ocieplane-czarne-iCWBT3W26-CB2706/i8308323",
+      "published": "Aktualna oferta Smyk.com",
+      "summary": "Promocja ze sklepu Smyk.com.",
+      "image_url": "https://img.smyk.com/pl/pl/390x/https://bin.smyk.com/pl/pl/media/product/1600/1/cool-club-buty-zimowe-chlopiece-ocieplane-czarne-8308323.jpg",
+      "price": "159,99 zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Smyk.com",
+      "category": "Dzieci i zabawki",
+      "store_group": "Dzieci i zabawki",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Cool+Club+Buty+zimowe+ch%C5%82opi%C4%99ce",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-24 12:55",
+          "price": "149,99 zł",
+          "note": "Smyk.com"
+        },
+        {
+          "date": "2026-11-24 12:55",
+          "price": "159,99 zł",
+          "note": "Smyk.com"
+        },
+        {
+          "date": "2026-11-24 21:45",
+          "price": "149,99 zł",
+          "note": "Smyk.com"
+        },
+        {
+          "date": "2026-11-24 21:45",
+          "price": "159,99 zł",
+          "note": "Smyk.com"
+        },
+        {
+          "date": "2026-11-24 22:45",
+          "price": "149,99 zł",
+          "note": "Smyk.com"
+        },
+        {
+          "date": "2026-11-24 22:45",
+          "price": "159,99 zł",
+          "note": "Smyk.com"
+        },
+        {
+          "date": "2026-11-25 03:26",
+          "price": "149,99 zł",
+          "note": "Smyk.com"
+        },
+        {
+          "date": "2026-11-25 03:26",
+          "price": "159,99 zł",
+          "note": "Smyk.com"
+        }
+      ]
+    },
+    {
+      "source": "Smyk.com",
+      "deal_id": "smyk:/pl/pl/p/ricokids-kolejka-magnetyczna-tor-elektryczny-klocki-magnetyczne-157-elementow-i8475014",
+      "title": "Ricokids, Kolejka magnetyczna, tor elektryczny, klocki magnetyczne, 157 elementów",
+      "link": "https://www.smyk.com/pl/pl/p/ricokids-kolejka-magnetyczna-tor-elektryczny-klocki-magnetyczne-157-elementow-i8475014",
+      "published": "Aktualna oferta Smyk.com",
+      "summary": "Promocja ze sklepu Smyk.com.",
+      "image_url": "https://img.smyk.com/pl/pl/390x/https://bin.smyk.com/pl/pl/media/product/1600/1/ricokids-kolejka-magnetyczna-tor-elektryczny-klocki-magnetyczne-157-elementow-8475014.jpg",
+      "price": "192,99 zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Smyk.com",
+      "category": "Dzieci i zabawki",
+      "store_group": "Dzieci i zabawki",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Ricokids+Kolejka+magnetyczna+tor+elektryczny",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-24 12:55",
+          "price": "192,99 zł",
+          "note": "Smyk.com"
+        }
+      ]
+    },
+    {
+      "source": "Smyk.com",
+      "deal_id": "smyk:/pl/pl/p/connetix-ball-run-launcher-pack-klocki-magnetyczne-47-elementow-i8413777",
+      "title": "Connetix, Ball Run, Launcher Pack, klocki magnetyczne, 47 elementów",
+      "link": "https://www.smyk.com/pl/pl/p/connetix-ball-run-launcher-pack-klocki-magnetyczne-47-elementow-i8413777",
+      "published": "Aktualna oferta Smyk.com",
+      "summary": "Promocja ze sklepu Smyk.com.",
+      "image_url": "https://img.smyk.com/pl/pl/390x/https://bin.smyk.com/pl/pl/media/product/1600/1/connetix-ball-run-launcher-pack-klocki-magnetyczne-47-elementow-8413777.png",
+      "price": "204 zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Smyk.com",
+      "category": "Dzieci i zabawki",
+      "store_group": "Dzieci i zabawki",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Connetix+Ball+Run+Launcher+Pack",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-24 12:55",
+          "price": "204 zł",
+          "note": "Smyk.com"
+        }
+      ]
+    },
+    {
+      "source": "Smyk.com",
+      "deal_id": "smyk:/pl/pl/p/ricokids-klocki-magnetyczne-swiecace-150-elementow-i8176467",
+      "title": "Ricokids, klocki magnetyczne świecące, 150 elementów",
+      "link": "https://www.smyk.com/pl/pl/p/ricokids-klocki-magnetyczne-swiecace-150-elementow-i8176467",
+      "published": "Aktualna oferta Smyk.com",
+      "summary": "Promocja ze sklepu Smyk.com.",
+      "image_url": "https://img.smyk.com/pl/pl/390x/https://bin.smyk.com/pl/pl/media/product/1600/1/ricokids-klocki-magnetyczne-swiecace-150-elementow-8176467.jpg",
+      "price": "150,99 zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Smyk.com",
+      "category": "Dzieci i zabawki",
+      "store_group": "Dzieci i zabawki",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Ricokids+klocki+magnetyczne+%C5%9Bwiec%C4%85ce+150",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-24 12:55",
+          "price": "150,99 zł",
+          "note": "Smyk.com"
         }
       ]
     },
