@@ -3553,16 +3553,6 @@
   ],
   "lupilu śniegowce chłopięce": [
     {
-      "date": "2026-11-25 03:26",
-      "price": "52,72 zł",
-      "note": "Lidl.pl"
-    },
-    {
-      "date": "2026-11-25 06:56",
-      "price": "53,52 zł",
-      "note": "Lidl.pl"
-    },
-    {
       "date": "2026-11-25 08:27",
       "price": "52,72 zł",
       "note": "Lidl.pl"
@@ -3649,6 +3639,16 @@
     },
     {
       "date": "2026-11-25 17:41",
+      "price": "53,52 zł",
+      "note": "Lidl.pl"
+    },
+    {
+      "date": "2026-11-25 18:39",
+      "price": "52,72 zł",
+      "note": "Lidl.pl"
+    },
+    {
+      "date": "2026-11-25 18:39",
       "price": "53,52 zł",
       "note": "Lidl.pl"
     }
@@ -3774,16 +3774,6 @@
   ],
   "pepco maskotka ludzik piernikowy": [
     {
-      "date": "2026-11-25 06:56",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-25 06:56",
-      "price": "50 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-25 08:27",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3870,22 +3860,22 @@
     },
     {
       "date": "2026-11-25 17:41",
+      "price": "50 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-25 18:39",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-25 18:39",
       "price": "50 zł",
       "note": "Pepco.pl"
     }
   ],
   "pepco dekoracja tekstylna mini ludzik piernikowy": [
     {
-      "date": "2026-11-25 06:56",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-25 06:56",
-      "price": "10 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-25 08:27",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3972,6 +3962,16 @@
     },
     {
       "date": "2026-11-25 17:41",
+      "price": "10 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-25 18:39",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-25 18:39",
       "price": "10 zł",
       "note": "Pepco.pl"
     }
@@ -4083,16 +4083,6 @@
   ],
   "pepco zabawkowy sklep z półkami": [
     {
-      "date": "2026-11-25 06:56",
-      "price": "120 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-25 06:56",
-      "price": "105 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-25 08:27",
       "price": "120 zł",
       "note": "Pepco.pl"
@@ -4179,6 +4169,16 @@
     },
     {
       "date": "2026-11-25 17:41",
+      "price": "105 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-25 18:39",
+      "price": "120 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-25 18:39",
       "price": "105 zł",
       "note": "Pepco.pl"
     }
@@ -15694,6 +15694,209 @@
       "date": "2026-11-25 17:41",
       "price": "168zł",
       "note": "Amazon.pl"
+    }
+  ],
+  "elektryczny rower onesport ot16 max silnik": [
+    {
+      "date": "2026-11-25 18:39",
+      "price": "3 209zł",
+      "note": "ONESPORT"
+    }
+  ],
+  "robot sprzątający irobot roomba 876 combo": [
+    {
+      "date": "2026-11-25 18:39",
+      "price": "3 499zł",
+      "note": "Media Expert"
+    }
+  ],
+  "gta trilogy definitive edition na ps4": [
+    {
+      "date": "2026-11-25 18:39",
+      "price": "71zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "lux express promocja 40 na przejazdy": [
+    {
+      "date": "2026-11-25 18:39",
+      "price": "77,87zł",
+      "note": "Lux Express"
+    }
+  ],
+  "abrams klucz udarowy akumulatorowy bezszczotkowy 1000": [
+    {
+      "date": "2026-11-25 18:39",
+      "price": "283,55zł",
+      "note": "Allegro"
+    }
+  ],
+  "dino lody rożki kinder bueno grześki": [
+    {
+      "date": "2026-11-25 18:39",
+      "price": "1,19zł",
+      "note": "Dino"
+    }
+  ],
+  "cichy filtr wewnętrzny do akwarium 4": [
+    {
+      "date": "2026-11-25 18:39",
+      "price": "27,99zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "gra wiedźmin edycja rozszerzona": [
+    {
+      "date": "2026-11-25 18:39",
+      "price": "4,49zł",
+      "note": "GOG"
+    }
+  ],
+  "karp na święta poduszka": [
+    {
+      "date": "2026-11-25 18:39",
+      "price": "24,39zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "tokachi hita bt8 nagrzewnica olejowa webasto": [
+    {
+      "date": "2026-11-25 18:39",
+      "price": "399,99zł",
+      "note": "Allegro"
+    }
+  ],
+  "sonic frontiers sonic x shadow generations": [
+    {
+      "date": "2026-11-25 18:39",
+      "price": "92,14zł",
+      "note": "Steam"
+    }
+  ],
+  "black decker gl250 a6171 xj żyłka": [
+    {
+      "date": "2026-11-25 18:39",
+      "price": "9zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "gra battlefield 3": [
+    {
+      "date": "2026-11-25 18:39",
+      "price": "3,49zł",
+      "note": "EA"
+    }
+  ],
+  "zalękniony mózg jak dzięki sile neuronauki": [
+    {
+      "date": "2026-11-25 18:39",
+      "price": "27,15zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "wwim amp ultra": [
+    {
+      "date": "2026-11-25 18:39",
+      "price": "2 199zł",
+      "note": "Allegro"
+    }
+  ],
+  "myjka ciśnieniowa akumulatorowa abrams 60bar 2": [
+    {
+      "date": "2026-11-25 18:39",
+      "price": "262,80zł",
+      "note": "Allegro"
+    }
+  ],
+  "columbia kurtka turystyczna zimowa męska colombia": [
+    {
+      "date": "2026-11-25 18:39",
+      "price": "349,99zł",
+      "note": "Decathlon"
+    }
+  ],
+  "garmin fenix 8 51mm sapphire smartwatch": [
+    {
+      "date": "2026-11-25 18:39",
+      "price": "2 900zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "dysk ssd m 2 crucial e100": [
+    {
+      "date": "2026-11-25 18:39",
+      "price": "899,99zł",
+      "note": "Media Expert"
+    }
+  ],
+  "miara zwijana 7 5 m taśma": [
+    {
+      "date": "2026-11-25 18:39",
+      "price": "9,43zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "filtr wkład do wody do ekspresu": [
+    {
+      "date": "2026-11-25 18:39",
+      "price": "57,99zł",
+      "note": "Allegro"
+    }
+  ],
+  "smartfon vivo v70 fe 5g 8": [
+    {
+      "date": "2026-11-25 18:39",
+      "price": "1 817,19zł",
+      "note": "AliExpress"
+    }
+  ],
+  "ekspres ciśnieniowy de longhi ecam 450": [
+    {
+      "date": "2026-11-25 18:39",
+      "price": "2 799zł",
+      "note": "MediaMarkt"
+    }
+  ],
+  "assassin s creed black flag resynced": [
+    {
+      "date": "2026-11-25 18:39",
+      "price": "169zł",
+      "note": "Allegro"
+    }
+  ],
+  "profesjonalny płyn do szyb ekranów i": [
+    {
+      "date": "2026-11-25 18:39",
+      "price": "31,20zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "gwiazda czubek na choinkę różne wzory": [
+    {
+      "date": "2026-11-25 18:39",
+      "price": "7,01zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "plecak młodzieżowy coolpack turtle t rex": [
+    {
+      "date": "2026-11-25 18:39",
+      "price": "50zł",
+      "note": "Carrefour"
+    }
+  ],
+  "rower elektryczny duotts c29 250w wersja": [
+    {
+      "date": "2026-11-25 18:39",
+      "price": "2 999zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "klocki lego speed champions 77262 65": [
+    {
+      "date": "2026-11-25 18:39",
+      "price": "69,99zł",
+      "note": "Allegro"
     }
   ]
 }
