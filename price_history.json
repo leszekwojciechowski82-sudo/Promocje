@@ -3759,16 +3759,6 @@
   ],
   "pepco maskotka ludzik piernikowy": [
     {
-      "date": "2026-11-24 18:44",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-24 18:44",
-      "price": "50 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-24 19:53",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3855,22 +3845,22 @@
     },
     {
       "date": "2026-11-25 04:37",
+      "price": "50 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-25 05:49",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-25 05:49",
       "price": "50 zł",
       "note": "Pepco.pl"
     }
   ],
   "pepco dekoracja tekstylna mini ludzik piernikowy": [
     {
-      "date": "2026-11-24 18:44",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-24 18:44",
-      "price": "10 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-24 19:53",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3957,6 +3947,16 @@
     },
     {
       "date": "2026-11-25 04:37",
+      "price": "10 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-25 05:49",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-25 05:49",
       "price": "10 zł",
       "note": "Pepco.pl"
     }
@@ -4068,16 +4068,6 @@
   ],
   "pepco zabawkowy sklep z półkami": [
     {
-      "date": "2026-11-24 18:44",
-      "price": "120 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-24 18:44",
-      "price": "105 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-24 19:53",
       "price": "120 zł",
       "note": "Pepco.pl"
@@ -4164,6 +4154,16 @@
     },
     {
       "date": "2026-11-25 04:37",
+      "price": "105 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-25 05:49",
+      "price": "120 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-25 05:49",
       "price": "105 zł",
       "note": "Pepco.pl"
     }
@@ -4526,11 +4526,6 @@
   ],
   "calvin klein woda perfumowana dla kobiet": [
     {
-      "date": "2026-11-24 12:55",
-      "price": "199,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
       "date": "2026-11-24 14:12",
       "price": "129,99 zł",
       "note": "Rossmann.pl"
@@ -4623,6 +4618,11 @@
     {
       "date": "2026-11-25 04:37",
       "price": "149,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-25 05:49",
+      "price": "129,99 zł",
       "note": "Rossmann.pl"
     }
   ],
@@ -9649,6 +9649,16 @@
       "date": "2026-11-25 03:26",
       "price": "159,99 zł",
       "note": "Smyk.com"
+    },
+    {
+      "date": "2026-11-25 05:49",
+      "price": "109 zł",
+      "note": "Smyk.com"
+    },
+    {
+      "date": "2026-11-25 05:49",
+      "price": "159,99 zł",
+      "note": "Smyk.com"
     }
   ],
   "cool club czapka z daszkiem chłopięca": [
@@ -9758,6 +9768,16 @@
     },
     {
       "date": "2026-11-25 03:26",
+      "price": "59,99 zł",
+      "note": "Smyk.com"
+    },
+    {
+      "date": "2026-11-25 05:49",
+      "price": "21 zł",
+      "note": "Smyk.com"
+    },
+    {
+      "date": "2026-11-25 05:49",
       "price": "59,99 zł",
       "note": "Smyk.com"
     }
@@ -10810,6 +10830,16 @@
     },
     {
       "date": "2026-11-25 03:26",
+      "price": "159,99 zł",
+      "note": "Smyk.com"
+    },
+    {
+      "date": "2026-11-25 05:49",
+      "price": "149,99 zł",
+      "note": "Smyk.com"
+    },
+    {
+      "date": "2026-11-25 05:49",
       "price": "159,99 zł",
       "note": "Smyk.com"
     }
@@ -13129,6 +13159,11 @@
   ],
   "parkside komplet 2 nakolanników żelowych": [
     {
+      "date": "przed promocją",
+      "price": "32,99 zł",
+      "note": "przed promocją"
+    },
+    {
       "date": "30 dni przed obniżką",
       "price": "32,99 zł",
       "note": "Najniższa z 30 dni (Omnibus)"
@@ -13221,6 +13256,209 @@
       "date": "2026-11-25 04:37",
       "price": "29,99 zł",
       "note": "OBI.pl"
+    }
+  ],
+  "kalendarze adwentowe do 50 taniej w": [
+    {
+      "date": "2026-11-25 05:49",
+      "price": "59,99zł",
+      "note": "Sinsay"
+    }
+  ],
+  "philips hue żarówka smart led 1100": [
+    {
+      "date": "2026-11-25 05:49",
+      "price": "329,99zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "ralph lauren polo est 67 edp": [
+    {
+      "date": "2026-11-25 05:49",
+      "price": "263,22zł",
+      "note": "PRIMOR"
+    }
+  ],
+  "inteligentne przedłużacze tronic": [
+    {
+      "date": "2026-11-25 05:49",
+      "price": "28,99zł",
+      "note": "Lidl"
+    }
+  ],
+  "gra the yakuza remastered collection na": [
+    {
+      "date": "2026-11-25 05:49",
+      "price": "59,45zł",
+      "note": "Allegro"
+    }
+  ],
+  "smartwatch huawei gt 5 46mm active": [
+    {
+      "date": "2026-11-25 05:49",
+      "price": "499zł",
+      "note": "MediaMarkt"
+    }
+  ],
+  "quechua sypialnia i podłoga do namiotu": [
+    {
+      "date": "2026-11-25 05:49",
+      "price": "79,99zł",
+      "note": "Decathlon"
+    }
+  ],
+  "lego speed champions 65 ford mustang": [
+    {
+      "date": "2026-11-25 05:49",
+      "price": "72,99zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "głośnik bluetooth jvc xs e325b 20w": [
+    {
+      "date": "2026-11-25 05:49",
+      "price": "99zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "słuchawki bezprzewodowe apple airpods pro 3": [
+    {
+      "date": "2026-11-25 05:49",
+      "price": "825,32zł",
+      "note": "Amazon.de"
+    }
+  ],
+  "wsiąść do pociągu ameryka północna gra": [
+    {
+      "date": "2026-11-25 05:49",
+      "price": "135,94zł",
+      "note": "Empik"
+    }
+  ],
+  "słuchawki apple airpods pro 3 cena": [
+    {
+      "date": "2026-11-25 05:49",
+      "price": "798zł",
+      "note": "mediamarkt.de"
+    }
+  ],
+  "cytryny 4 99zl kg": [
+    {
+      "date": "2026-11-25 05:49",
+      "price": "4,99zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "tk gruppe timo klingler ozdoba na": [
+    {
+      "date": "2026-11-25 05:49",
+      "price": "5,92zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "rajski weekend dla dwojga w hotelu": [
+    {
+      "date": "2026-11-25 05:49",
+      "price": "438,10zł",
+      "note": "Super Prezenty"
+    }
+  ],
+  "skarpety leniwce rozm 36 42": [
+    {
+      "date": "2026-11-25 05:49",
+      "price": "45,99zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "zestaw 4 sztuk kamizelek odblaskowych": [
+    {
+      "date": "2026-11-25 05:49",
+      "price": "13,99zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "cukierki e wedel mieszanka wedlowska cukierki": [
+    {
+      "date": "2026-11-25 05:49",
+      "price": "64,99zł",
+      "note": "Allegro"
+    }
+  ],
+  "vicloon czapka z wełny merynosów dla": [
+    {
+      "date": "2026-11-25 05:49",
+      "price": "41,33zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "westwood fox rękawiczki zimowe do ekranu": [
+    {
+      "date": "2026-11-25 05:49",
+      "price": "17,38zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "kolekcja śródziemie 15 x 4k władca": [
+    {
+      "date": "2026-11-25 05:49",
+      "price": "330,38zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "zestaw do czyszczenia elektroniki": [
+    {
+      "date": "2026-11-25 05:49",
+      "price": "23,16zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "gra plaion kingdom come deliverance royal": [
+    {
+      "date": "2026-11-25 05:49",
+      "price": "60,99zł",
+      "note": "Allegro"
+    }
+  ],
+  "suszarka kondensacyjna z pompą ciepła bosch": [
+    {
+      "date": "2026-11-25 05:49",
+      "price": "1 799zł",
+      "note": "MediaMarkt"
+    }
+  ],
+  "szybka ładowarka usb c 45 w": [
+    {
+      "date": "2026-11-25 05:49",
+      "price": "28,49zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "gokarty dla dwojga": [
+    {
+      "date": "2026-11-25 05:49",
+      "price": "109,85zł",
+      "note": "Super Prezenty"
+    }
+  ],
+  "bluza oversize z kapturem prosto lub": [
+    {
+      "date": "2026-11-25 05:49",
+      "price": "177zł",
+      "note": "Sinsay"
+    }
+  ],
+  "opona całoroczna dębica navigator 3 195": [
+    {
+      "date": "2026-11-25 05:49",
+      "price": "218,90zł",
+      "note": "AliExpress"
+    }
+  ],
+  "pokemon legends z a switch 1": [
+    {
+      "date": "2026-11-25 05:49",
+      "price": "178,89zł",
+      "note": "Empik"
     }
   ]
 }
