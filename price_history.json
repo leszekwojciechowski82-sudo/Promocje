@@ -3553,16 +3553,6 @@
   ],
   "lupilu śniegowce chłopięce": [
     {
-      "date": "2026-11-24 21:45",
-      "price": "52,72 zł",
-      "note": "Lidl.pl"
-    },
-    {
-      "date": "2026-11-24 21:45",
-      "price": "53,52 zł",
-      "note": "Lidl.pl"
-    },
-    {
       "date": "2026-11-24 22:45",
       "price": "52,72 zł",
       "note": "Lidl.pl"
@@ -3649,6 +3639,16 @@
     },
     {
       "date": "2026-11-25 14:16",
+      "price": "53,52 zł",
+      "note": "Lidl.pl"
+    },
+    {
+      "date": "2026-11-25 15:29",
+      "price": "52,72 zł",
+      "note": "Lidl.pl"
+    },
+    {
+      "date": "2026-11-25 15:29",
       "price": "53,52 zł",
       "note": "Lidl.pl"
     }
@@ -3774,16 +3774,6 @@
   ],
   "pepco maskotka ludzik piernikowy": [
     {
-      "date": "2026-11-25 03:26",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-25 03:26",
-      "price": "50 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-25 04:37",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3870,22 +3860,22 @@
     },
     {
       "date": "2026-11-25 14:16",
+      "price": "50 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-25 15:29",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-25 15:29",
       "price": "50 zł",
       "note": "Pepco.pl"
     }
   ],
   "pepco dekoracja tekstylna mini ludzik piernikowy": [
     {
-      "date": "2026-11-25 03:26",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-25 03:26",
-      "price": "10 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-25 04:37",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3972,6 +3962,16 @@
     },
     {
       "date": "2026-11-25 14:16",
+      "price": "10 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-25 15:29",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-25 15:29",
       "price": "10 zł",
       "note": "Pepco.pl"
     }
@@ -4083,16 +4083,6 @@
   ],
   "pepco zabawkowy sklep z półkami": [
     {
-      "date": "2026-11-25 03:26",
-      "price": "120 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-25 03:26",
-      "price": "105 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-25 04:37",
       "price": "120 zł",
       "note": "Pepco.pl"
@@ -4179,6 +4169,16 @@
     },
     {
       "date": "2026-11-25 14:16",
+      "price": "105 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-25 15:29",
+      "price": "120 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-25 15:29",
       "price": "105 zł",
       "note": "Pepco.pl"
     }
@@ -14829,6 +14829,11 @@
   ],
   "silvercrest kuchenka mikrofalowa smwc 700 d2": [
     {
+      "date": "przed promocją",
+      "price": "299 zł",
+      "note": "przed promocją"
+    },
+    {
       "date": "30 dni przed obniżką",
       "price": "299 zł",
       "note": "Najniższa z 30 dni (Omnibus)"
@@ -14852,6 +14857,11 @@
     }
   ],
   "tablet lenovo tab 10 1 64": [
+    {
+      "date": "przed promocją",
+      "price": "749 zł",
+      "note": "przed promocją"
+    },
     {
       "date": "30 dni przed obniżką",
       "price": "749 zł",
@@ -15090,6 +15100,214 @@
       "date": "2026-11-25 14:16",
       "price": "149,99 zł",
       "note": "Rossmann.pl"
+    }
+  ],
+  "danish endurance sweter z wełny merino": [
+    {
+      "date": "2026-11-25 15:29",
+      "price": "159,95zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "buty męskie ecco mx amazon pl": [
+    {
+      "date": "2026-11-25 15:29",
+      "price": "258,82zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "do 67 z kodem np buty": [
+    {
+      "date": "2026-11-25 15:29",
+      "price": "406,63zł",
+      "note": "Sportano"
+    }
+  ],
+  "monitor koorui e2721f ips 27 ips": [
+    {
+      "date": "przed promocją",
+      "price": "475,99 zł",
+      "note": "przed promocją"
+    },
+    {
+      "date": "2026-11-25 15:29",
+      "price": "399zł",
+      "note": "x-kom"
+    }
+  ],
+  "l or al men expert stop": [
+    {
+      "date": "2026-11-25 15:29",
+      "price": "5,06zł",
+      "note": "Amazon.de"
+    }
+  ],
+  "kupon 30 zł rabatu przy 100": [
+    {
+      "date": "2026-11-25 15:29",
+      "price": "30 zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "torba termiczna na lunch vortix 9": [
+    {
+      "date": "2026-11-25 15:29",
+      "price": "9,49zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "wyrzutnia zuru x shot insanity mad": [
+    {
+      "date": "2026-11-25 15:29",
+      "price": "99,90zł",
+      "note": "Allegro"
+    }
+  ],
+  "koszulki męskie ny threads 5 pak": [
+    {
+      "date": "2026-11-25 15:29",
+      "price": "45,99zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "damskie legginsy treningowe under armour ua": [
+    {
+      "date": "2026-11-25 15:29",
+      "price": "249,99zł",
+      "note": "SportStyleStory"
+    }
+  ],
+  "telewizor tcl 65a400u 65 qd mini": [
+    {
+      "date": "2026-11-25 15:29",
+      "price": "3 532,89zł",
+      "note": "Media Expert"
+    }
+  ],
+  "rekuperator ścienny inventer smart ze sterownikiem": [
+    {
+      "date": "2026-11-25 15:29",
+      "price": "3 312,62zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "rozdrabniacz z końcówką do ubijania blender": [
+    {
+      "date": "2026-11-25 15:29",
+      "price": "69,99zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "zabawka interaktywna dumel językowa dla najmłodszych": [
+    {
+      "date": "2026-11-25 15:29",
+      "price": "138,30zł",
+      "note": "Media Expert"
+    }
+  ],
+  "apple watch ultra 3 czarny z": [
+    {
+      "date": "2026-11-25 15:29",
+      "price": "2 849zł",
+      "note": "Lantre"
+    }
+  ],
+  "voucher 15zł 49zł biedronka": [
+    {
+      "date": "2026-11-25 15:29",
+      "price": "15zł",
+      "note": "Biedronka"
+    }
+  ],
+  "olej silnikowy orlen 0w20 hybrid posnania": [
+    {
+      "date": "2026-11-25 15:29",
+      "price": "10zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "sodastream cylinder z gazem co2 quick": [
+    {
+      "date": "2026-11-25 15:29",
+      "price": "79,99zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "oliwa z oliwek extra virgin 3l": [
+    {
+      "date": "2026-11-25 15:29",
+      "price": "79,99zł",
+      "note": "Allegro"
+    }
+  ],
+  "zabawka interaktywna kaczka monika dumel": [
+    {
+      "date": "2026-11-25 15:29",
+      "price": "138,30zł",
+      "note": "Media Expert"
+    }
+  ],
+  "gra planszowa dreadful circus pl portal": [
+    {
+      "date": "2026-11-25 15:29",
+      "price": "9zł",
+      "note": "Portal Games"
+    }
+  ],
+  "kreatywny zestaw do rysowania spirali 28": [
+    {
+      "date": "2026-11-25 15:29",
+      "price": "17,99zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "skórzane buty męskie mtc x lifetech": [
+    {
+      "date": "2026-11-25 15:29",
+      "price": "244,98zł",
+      "note": "Decathlon"
+    }
+  ],
+  "t shirt bawełniany męski diverse dext": [
+    {
+      "date": "2026-11-25 15:29",
+      "price": "34,99zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "okularki pływackie speedo fastskin lustrzane szkła": [
+    {
+      "date": "2026-11-25 15:29",
+      "price": "99,99zł",
+      "note": "Decathlon"
+    }
+  ],
+  "buty dla maluchów geox iupidoo": [
+    {
+      "date": "2026-11-25 15:29",
+      "price": "92,90zł",
+      "note": "Lounge by Zalando"
+    }
+  ],
+  "4 kółka obrotowe z hamulcem średnica": [
+    {
+      "date": "2026-11-25 15:29",
+      "price": "13,60zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "etui samsung gadget case do galaxy": [
+    {
+      "date": "2026-11-25 15:29",
+      "price": "9,99zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "gra nintendo switch dragon ball z": [
+    {
+      "date": "2026-11-25 15:29",
+      "price": "79,99zł",
+      "note": "PerfectBlue"
     }
   ]
 }
