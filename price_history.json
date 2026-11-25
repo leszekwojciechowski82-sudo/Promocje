@@ -3538,11 +3538,6 @@
   ],
   "lupilu śniegowce chłopięce": [
     {
-      "date": "2026-11-24 14:12",
-      "price": "53,52 zł",
-      "note": "Lidl.pl"
-    },
-    {
       "date": "2026-11-24 15:29",
       "price": "52,72 zł",
       "note": "Lidl.pl"
@@ -3635,6 +3630,11 @@
     {
       "date": "2026-11-25 03:26",
       "price": "52,72 zł",
+      "note": "Lidl.pl"
+    },
+    {
+      "date": "2026-11-25 06:56",
+      "price": "53,52 zł",
       "note": "Lidl.pl"
     }
   ],
@@ -3759,16 +3759,6 @@
   ],
   "pepco maskotka ludzik piernikowy": [
     {
-      "date": "2026-11-24 19:53",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-24 19:53",
-      "price": "50 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-24 20:43",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3855,22 +3845,22 @@
     },
     {
       "date": "2026-11-25 05:49",
+      "price": "50 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-25 06:56",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-25 06:56",
       "price": "50 zł",
       "note": "Pepco.pl"
     }
   ],
   "pepco dekoracja tekstylna mini ludzik piernikowy": [
     {
-      "date": "2026-11-24 19:53",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-24 19:53",
-      "price": "10 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-24 20:43",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3957,6 +3947,16 @@
     },
     {
       "date": "2026-11-25 05:49",
+      "price": "10 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-25 06:56",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-25 06:56",
       "price": "10 zł",
       "note": "Pepco.pl"
     }
@@ -4068,16 +4068,6 @@
   ],
   "pepco zabawkowy sklep z półkami": [
     {
-      "date": "2026-11-24 19:53",
-      "price": "120 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-24 19:53",
-      "price": "105 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-24 20:43",
       "price": "120 zł",
       "note": "Pepco.pl"
@@ -4164,6 +4154,16 @@
     },
     {
       "date": "2026-11-25 05:49",
+      "price": "105 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-25 06:56",
+      "price": "120 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-25 06:56",
       "price": "105 zł",
       "note": "Pepco.pl"
     }
@@ -11787,6 +11787,11 @@
       "date": "2026-11-24 18:44",
       "price": "2 503,92zł",
       "note": "Morele.net"
+    },
+    {
+      "date": "2026-11-25 06:56",
+      "price": "2 579zł",
+      "note": "MediaMarkt"
     }
   ],
   "szybka ładowarka gan sitecom usb c": [
@@ -13459,6 +13464,221 @@
       "date": "2026-11-25 05:49",
       "price": "178,89zł",
       "note": "Empik"
+    }
+  ],
+  "majonez kielecki i winiary pogódźmy się": [
+    {
+      "date": "2026-11-25 06:56",
+      "price": "11,49zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "85 zł premii za darmowe konto": [
+    {
+      "date": "2026-11-25 06:56",
+      "price": "85 zł",
+      "note": "Revolut"
+    }
+  ],
+  "lattafa dezodorant perfumowany w sprayu dla": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "23,99 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-25 06:56",
+      "price": "16,49 zł",
+      "note": "Rossmann.pl"
+    }
+  ],
+  "asus nuc 15 pro mini pc": [
+    {
+      "date": "2026-11-25 06:56",
+      "price": "1 901,58zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "dr scholl wymienna wkładka do butów": [
+    {
+      "date": "2026-11-25 06:56",
+      "price": "25,36zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "4 x skarpeta św mikołaja ii": [
+    {
+      "date": "2026-11-25 06:56",
+      "price": "10,19zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "baseus enerfill ładowarka usb c 140w": [
+    {
+      "date": "2026-11-25 06:56",
+      "price": "128,24zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "parkside zestaw wierteł specjalnych psb 6": [
+    {
+      "date": "2026-11-25 06:56",
+      "price": "9,99zł",
+      "note": "Lidl"
+    }
+  ],
+  "czarne rajstopy damskie flamingo 20 den": [
+    {
+      "date": "2026-11-25 06:56",
+      "price": "5,99zł",
+      "note": "Intymna"
+    }
+  ],
+  "2 pary damskich skarpet z kotami": [
+    {
+      "date": "2026-11-25 06:56",
+      "price": "14,28zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "beurer bm 27 ciśnieniomierz naramienny": [
+    {
+      "date": "2026-11-25 06:56",
+      "price": "67,49zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "metabo wiertarka akumulatorowa bs 18 bl": [
+    {
+      "date": "2026-11-25 06:56",
+      "price": "368,34zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "ładowarka toocki 65w usb c z": [
+    {
+      "date": "2026-11-25 06:56",
+      "price": "108,87zł",
+      "note": "AliExpress"
+    }
+  ],
+  "ładowarka xiaomi 67w hyper charge combo": [
+    {
+      "date": "2026-11-25 06:56",
+      "price": "54,99zł",
+      "note": "Allegro"
+    }
+  ],
+  "kiss off the soundboard live in": [
+    {
+      "date": "2026-11-25 06:56",
+      "price": "130zł",
+      "note": "Allegro"
+    }
+  ],
+  "laptop msi prestige 16 ai c3mg": [
+    {
+      "date": "2026-11-25 06:56",
+      "price": "6 299zł",
+      "note": "Komputronik"
+    }
+  ],
+  "lego technic samochód wyścigowy bmw m4": [
+    {
+      "date": "2026-11-25 06:56",
+      "price": "167,49zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "bluza z kapturem męska lambretta brand": [
+    {
+      "date": "2026-11-25 06:56",
+      "price": "44,95zł",
+      "note": "SportRabat"
+    }
+  ],
+  "głośnik klipsch rp 5000f floorstanding speaker": [
+    {
+      "date": "2026-11-25 06:56",
+      "price": "1 160,42zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "męska bluza polarowa bench albany granatowa": [
+    {
+      "date": "2026-11-25 06:56",
+      "price": "49,95zł",
+      "note": "SportRabat"
+    }
+  ],
+  "dodatek do diesla oleju napędowego on": [
+    {
+      "date": "2026-11-25 06:56",
+      "price": "128,80zł",
+      "note": "Allegro"
+    }
+  ],
+  "lego star wars piernikowa maszyna krocząca": [
+    {
+      "date": "2026-11-25 06:56",
+      "price": "171,99zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "kabanosy skolim chilli hot 195g cena": [
+    {
+      "date": "2026-11-25 06:56",
+      "price": "1,49zł",
+      "note": "Biedronka"
+    }
+  ],
+  "wago zaciski łączące 221 615 5": [
+    {
+      "date": "2026-11-25 06:56",
+      "price": "16,91zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "2x karta pamięci sdxc pro 1800x": [
+    {
+      "date": "2026-11-25 06:56",
+      "price": "519zł",
+      "note": "FotoForma"
+    }
+  ],
+  "wybrane samochody pojazdy t racers 3": [
+    {
+      "date": "2026-11-25 06:56",
+      "price": "3zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "grand theft auto vi global xbox": [
+    {
+      "date": "2026-11-25 06:56",
+      "price": "261,81zł",
+      "note": "driffle"
+    }
+  ],
+  "hades ii altergift steam najniższa cena": [
+    {
+      "date": "2026-11-25 06:56",
+      "price": "48,55zł",
+      "note": "Kinguin"
+    }
+  ],
+  "kawa mielona melitta platinum 500g 9": [
+    {
+      "date": "2026-11-25 06:56",
+      "price": "9,95zł",
+      "note": "Biedronka"
+    }
+  ],
+  "maszynka do golenia wilkinson sword strzyżenie": [
+    {
+      "date": "2026-11-25 06:56",
+      "price": "48zł",
+      "note": "Zalando"
     }
   ]
 }
