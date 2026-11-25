@@ -1906,6 +1906,16 @@
       "date": "2026-11-25 03:26",
       "price": "429,99 zł",
       "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-25 04:37",
+      "price": "379,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-25 04:37",
+      "price": "429,99 zł",
+      "note": "Rossmann.pl"
     }
   ],
   "isana kalendarz adwentowy z maskami do": [
@@ -3749,16 +3759,6 @@
   ],
   "pepco maskotka ludzik piernikowy": [
     {
-      "date": "2026-11-24 17:43",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-24 17:43",
-      "price": "50 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-24 18:44",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3845,22 +3845,22 @@
     },
     {
       "date": "2026-11-25 03:26",
+      "price": "50 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-25 04:37",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-25 04:37",
       "price": "50 zł",
       "note": "Pepco.pl"
     }
   ],
   "pepco dekoracja tekstylna mini ludzik piernikowy": [
     {
-      "date": "2026-11-24 17:43",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-24 17:43",
-      "price": "10 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-24 18:44",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3947,6 +3947,16 @@
     },
     {
       "date": "2026-11-25 03:26",
+      "price": "10 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-25 04:37",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-25 04:37",
       "price": "10 zł",
       "note": "Pepco.pl"
     }
@@ -4058,16 +4068,6 @@
   ],
   "pepco zabawkowy sklep z półkami": [
     {
-      "date": "2026-11-24 17:43",
-      "price": "120 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-24 17:43",
-      "price": "105 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-24 18:44",
       "price": "120 zł",
       "note": "Pepco.pl"
@@ -4154,6 +4154,16 @@
     },
     {
       "date": "2026-11-25 03:26",
+      "price": "105 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-25 04:37",
+      "price": "120 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-25 04:37",
       "price": "105 zł",
       "note": "Pepco.pl"
     }
@@ -4517,11 +4527,6 @@
   "calvin klein woda perfumowana dla kobiet": [
     {
       "date": "2026-11-24 12:55",
-      "price": "129,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
-      "date": "2026-11-24 12:55",
       "price": "199,99 zł",
       "note": "Rossmann.pl"
     },
@@ -4613,6 +4618,11 @@
     {
       "date": "2026-11-24 21:45",
       "price": "129,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-25 04:37",
+      "price": "149,99 zł",
       "note": "Rossmann.pl"
     }
   ],
@@ -13020,6 +13030,11 @@
   ],
   "livarno nakładka na materac 140 x": [
     {
+      "date": "przed promocją",
+      "price": "169 zł",
+      "note": "przed promocją"
+    },
+    {
       "date": "30 dni przed obniżką",
       "price": "169 zł",
       "note": "Najniższa z 30 dni (Omnibus)"
@@ -13031,6 +13046,11 @@
     }
   ],
   "silvercrest mini szybkowar do ryżu srk": [
+    {
+      "date": "przed promocją",
+      "price": "69,99 zł",
+      "note": "przed promocją"
+    },
     {
       "date": "30 dni przed obniżką",
       "price": "69,99 zł",
@@ -13044,6 +13064,11 @@
   ],
   "w5 zestaw ściereczek kuchennych i ręczników": [
     {
+      "date": "przed promocją",
+      "price": "29,99 zł",
+      "note": "przed promocją"
+    },
+    {
       "date": "30 dni przed obniżką",
       "price": "29,99 zł",
       "note": "Najniższa z 30 dni (Omnibus)"
@@ -13056,6 +13081,11 @@
   ],
   "silvercrest rozdrabniacz wielofunkcyjny smze 500 c2": [
     {
+      "date": "przed promocją",
+      "price": "69,99 zł",
+      "note": "przed promocją"
+    },
+    {
       "date": "30 dni przed obniżką",
       "price": "69,99 zł",
       "note": "Najniższa z 30 dni (Omnibus)"
@@ -13067,6 +13097,11 @@
     }
   ],
   "silvercrest zestaw 16 sztućców ze stali": [
+    {
+      "date": "przed promocją",
+      "price": "44,99 zł",
+      "note": "przed promocją"
+    },
     {
       "date": "30 dni przed obniżką",
       "price": "44,99 zł",
@@ -13090,6 +13125,102 @@
       "date": "2026-11-25 03:26",
       "price": "349,99zł",
       "note": "Martes Sport"
+    }
+  ],
+  "parkside komplet 2 nakolanników żelowych": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "32,99 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-25 04:37",
+      "price": "19,99 zł",
+      "note": "Lidl.pl"
+    }
+  ],
+  "bravely default flying fairy hd remaster": [
+    {
+      "date": "2026-11-25 04:37",
+      "price": "66,99zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "rozdzielacz zapalniczki samochodowej": [
+    {
+      "date": "2026-11-25 04:37",
+      "price": "12,62zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "kawa ziarnista pellini espresso bar cremoso": [
+    {
+      "date": "2026-11-25 04:37",
+      "price": "51,99zł",
+      "note": "InPost"
+    }
+  ],
+  "mysz glorious model d glo glo": [
+    {
+      "date": "2026-11-25 04:37",
+      "price": "69zł",
+      "note": "Morele.net"
+    }
+  ],
+  "monitor samsung odyssey oled g5 ls27fg500suxen": [
+    {
+      "date": "2026-11-25 04:37",
+      "price": "1 099zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "sznurowadła różne kolory": [
+    {
+      "date": "2026-11-25 04:37",
+      "price": "6,06zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "philips blender kielichowy serii 3000 problend": [
+    {
+      "date": "2026-11-25 04:37",
+      "price": "158,99zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "banany kg stokrotka": [
+    {
+      "date": "2026-11-25 04:37",
+      "price": "2,99zł",
+      "note": "Stokrotka"
+    }
+  ],
+  "buty damskie adidas superstar ii rozm": [
+    {
+      "date": "2026-11-25 04:37",
+      "price": "164zł",
+      "note": "Zalando"
+    }
+  ],
+  "kabel kątowy baseus usb c do": [
+    {
+      "date": "2026-11-25 04:37",
+      "price": "22,99zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "książka edukacyjna dla dzieci z odglosami": [
+    {
+      "date": "2026-11-25 04:37",
+      "price": "20,66zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "lux tools piła japońska kataba składana": [
+    {
+      "date": "2026-11-25 04:37",
+      "price": "29,99 zł",
+      "note": "OBI.pl"
     }
   ]
 }
