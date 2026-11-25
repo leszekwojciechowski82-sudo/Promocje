@@ -3553,16 +3553,6 @@
   ],
   "lupilu śniegowce chłopięce": [
     {
-      "date": "2026-11-25 08:27",
-      "price": "52,72 zł",
-      "note": "Lidl.pl"
-    },
-    {
-      "date": "2026-11-25 08:27",
-      "price": "53,52 zł",
-      "note": "Lidl.pl"
-    },
-    {
       "date": "2026-11-25 09:44",
       "price": "52,72 zł",
       "note": "Lidl.pl"
@@ -3649,6 +3639,16 @@
     },
     {
       "date": "2026-11-25 18:39",
+      "price": "53,52 zł",
+      "note": "Lidl.pl"
+    },
+    {
+      "date": "2026-11-25 19:45",
+      "price": "52,72 zł",
+      "note": "Lidl.pl"
+    },
+    {
+      "date": "2026-11-25 19:45",
       "price": "53,52 zł",
       "note": "Lidl.pl"
     }
@@ -3774,16 +3774,6 @@
   ],
   "pepco maskotka ludzik piernikowy": [
     {
-      "date": "2026-11-25 08:27",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-25 08:27",
-      "price": "50 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-25 09:44",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3870,22 +3860,22 @@
     },
     {
       "date": "2026-11-25 18:39",
+      "price": "50 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-25 19:45",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-25 19:45",
       "price": "50 zł",
       "note": "Pepco.pl"
     }
   ],
   "pepco dekoracja tekstylna mini ludzik piernikowy": [
     {
-      "date": "2026-11-25 08:27",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-25 08:27",
-      "price": "10 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-25 09:44",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3972,6 +3962,16 @@
     },
     {
       "date": "2026-11-25 18:39",
+      "price": "10 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-25 19:45",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-25 19:45",
       "price": "10 zł",
       "note": "Pepco.pl"
     }
@@ -4083,16 +4083,6 @@
   ],
   "pepco zabawkowy sklep z półkami": [
     {
-      "date": "2026-11-25 08:27",
-      "price": "120 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-25 08:27",
-      "price": "105 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-25 09:44",
       "price": "120 zł",
       "note": "Pepco.pl"
@@ -4179,6 +4169,16 @@
     },
     {
       "date": "2026-11-25 18:39",
+      "price": "105 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-25 19:45",
+      "price": "120 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-25 19:45",
       "price": "105 zł",
       "note": "Pepco.pl"
     }
@@ -4556,6 +4556,11 @@
     {
       "date": "2026-11-25 10:48",
       "price": "99,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-25 19:45",
+      "price": "149,99 zł",
       "note": "Rossmann.pl"
     }
   ],
@@ -15897,6 +15902,202 @@
       "date": "2026-11-25 18:39",
       "price": "69,99zł",
       "note": "Allegro"
+    }
+  ],
+  "dwupak ozdobnych żarówek led philips classic": [
+    {
+      "date": "2026-11-25 19:45",
+      "price": "13,87zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "klocki lego wrotka 31148 pok mon": [
+    {
+      "date": "2026-11-25 19:45",
+      "price": "69,99zł",
+      "note": "Neonet"
+    }
+  ],
+  "5 5 gratis na zupy amino": [
+    {
+      "date": "2026-11-25 19:45",
+      "price": "1,30zł",
+      "note": "Biedronka"
+    }
+  ],
+  "nóż uniwersalny kuchenny stal damasceńska kohersen": [
+    {
+      "date": "2026-11-25 19:45",
+      "price": "149zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "głośniki hi fi airpulse a60 marki": [
+    {
+      "date": "2026-11-25 19:45",
+      "price": "1 314,99zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "frytkownica beztłuszczowa braun multifry 5 3w1": [
+    {
+      "date": "2026-11-25 19:45",
+      "price": "429,99zł",
+      "note": "Media Expert"
+    }
+  ],
+  "komin chusta buff merino heavyweight 19": [
+    {
+      "date": "2026-11-25 19:45",
+      "price": "87,68zł",
+      "note": "Amazon.de"
+    }
+  ],
+  "alkomat elektrochemiczny pro x 3 12": [
+    {
+      "date": "2026-11-25 19:45",
+      "price": "209zł",
+      "note": "Allegro"
+    }
+  ],
+  "mix bakalii słodko słony laro w": [
+    {
+      "date": "2026-11-25 19:45",
+      "price": "1,48zł",
+      "note": "Biedronka"
+    }
+  ],
+  "10 25 calowy bezprzewodowy ekran carplay": [
+    {
+      "date": "2026-11-25 19:45",
+      "price": "489,99zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "płaska ładowarka sieciowa ugreen nexode pro": [
+    {
+      "date": "2026-11-25 19:45",
+      "price": "119,40zł",
+      "note": "Allegro"
+    }
+  ],
+  "starter nju mobile 999 gb internet": [
+    {
+      "date": "2026-11-25 19:45",
+      "price": "3,99zł",
+      "note": "Allegro"
+    }
+  ],
+  "ciepły koc lotus 135x195 typu sztuczne": [
+    {
+      "date": "2026-11-25 19:45",
+      "price": "50zł",
+      "note": "JYSK"
+    }
+  ],
+  "meet se webcam 1080p 100fps kamera": [
+    {
+      "date": "2026-11-25 19:45",
+      "price": "267zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "lego 72035 super mario mario kart": [
+    {
+      "date": "2026-11-25 19:45",
+      "price": "130zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "black week fenix 8 47 mm": [
+    {
+      "date": "2026-11-25 19:45",
+      "price": "3 099zł",
+      "note": "eAzymut"
+    }
+  ],
+  "stacja zasilania dji power auro 2000": [
+    {
+      "date": "2026-11-25 19:45",
+      "price": "3 699zł",
+      "note": "MegaDron"
+    }
+  ],
+  "kalendarz adwentowy neo tools 40 el": [
+    {
+      "date": "2026-11-25 19:45",
+      "price": "119zł",
+      "note": "Allegro"
+    }
+  ],
+  "3m 1900si50 taśma klejąca srebrna 50": [
+    {
+      "date": "2026-11-25 19:45",
+      "price": "20,49zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "air fryer raven efn013 frytownica niskotłuszczowa": [
+    {
+      "date": "2026-11-25 19:45",
+      "price": "249zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "robot kuchenny planetarny koliber robomax x": [
+    {
+      "date": "2026-11-25 19:45",
+      "price": "329zł",
+      "note": "Allegro"
+    }
+  ],
+  "silent hill 2 i silent hill": [
+    {
+      "date": "2026-11-25 19:45",
+      "price": "83,72zł",
+      "note": "Steam"
+    }
+  ],
+  "hulajnoga lionelo whizz black carbon": [
+    {
+      "date": "2026-11-25 19:45",
+      "price": "189,99zł",
+      "note": "Allegro"
+    }
+  ],
+  "aurora dsp software promocja na pluginy": [
+    {
+      "date": "2026-11-25 19:45",
+      "price": "86zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "zestaw mat sensorycznych ortopedek 6 elementów": [
+    {
+      "date": "2026-11-25 19:45",
+      "price": "137,40zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "empik ekarta 20 zł 50 zł": [
+    {
+      "date": "2026-11-25 19:45",
+      "price": "50zł",
+      "note": "Empik"
+    }
+  ],
+  "myszka genesis zircon 880 pro biała": [
+    {
+      "date": "2026-11-25 19:45",
+      "price": "177zł",
+      "note": "x-kom"
+    }
+  ],
+  "otto koning butelka na wodę 2": [
+    {
+      "date": "2026-11-25 19:45",
+      "price": "17,99zł",
+      "note": "Amazon.pl"
     }
   ]
 }
