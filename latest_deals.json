@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-11-24 23:39",
+  "updated_at": "2026-11-25 00:47",
   "deals": [
+    {
+      "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/plyn-coccolino-11-gratis-z-kuponem-rossmann-np-plyn-coccolino-sensitive-1700-ml-za-849-zl-szt-przy-zakupie-2-lub-blue-splash-1702-ml-1399692",
+      "title": "Płyn COCCOLINO 1+1 gratis z kuponem Rossmann np. płyn Coccolino Sensitive 1702 ml za 8,99 zł szt przy zakupie 2 lub Blue Splash 1702 ml 8,49",
+      "link": "https://www.pepper.pl/promocje/plyn-coccolino-11-gratis-z-kuponem-rossmann-np-plyn-coccolino-sensitive-1700-ml-za-849-zl-szt-przy-zakupie-2-lub-blue-splash-1702-ml-1399692",
+      "published": "Wed, 25 Nov 2026 00:49:22 +0100",
+      "summary": "8,99zł - Rossmann W świetnej cenie w Rossmanach z kuponem 1+1 gratis naprawdę duźy płyn do płukania tkanin Coccolino Sensitive Cotton Cloud 1702 ml. Cena za 1 sztukę to tylko 8,49. Do koszyka można dodać 2 sztuki także można zrobić sobie z…",
+      "image_url": "https://static.pepper.pl/threads/raw/TBX4X/1399692_1/re/150x150/qt/55/1399692_1.jpg",
+      "price": "8,99zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Rossmann",
+      "category": "Artykuły spożywcze",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 100,
+      "savings_pln": 0.0,
+      "deal_score": 215.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-P%C5%82yn+COCCOLINO+1%2B1+gratis+kuponem",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-25 00:47",
+          "price": "8,99zł",
+          "note": "Rossmann"
+        }
+      ]
+    },
     {
       "source": "Aldi.pl (Oferty)",
       "deal_id": "aldi:https://www.aldi.pl/produkt-szczegoly/chude-mieso-mielone-z-szynki-wieprzowej-77560001.html",
@@ -167,60 +197,6 @@
       ]
     },
     {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/kupony/majonez-1-1-gratis-at-lidl-1399669",
-      "title": "Majonez 700 ml Winiary lub Społem Kielecki 1 + 1 gratis @Lidl",
-      "link": "https://www.pepper.pl/kupony/majonez-1-1-gratis-at-lidl-1399669",
-      "published": "Wed, 25 Nov 2026 00:03:36 +0100",
-      "summary": "Lidl Oferta dostępna tylko 26.11.2026 r. Wymagana aplikacja. Limit: 4 produkty Można dowolnie mieszać.",
-      "image_url": "https://static.pepper.pl/merchants/raw/avatar/37_2/re/352x352/qt/60/37_2.jpg",
-      "price": "",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Lidl",
-      "category": "Artykuły spożywcze",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 100,
-      "savings_pln": 0.0,
-      "deal_score": 200.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Majonez+700+ml+Winiary+lub",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": []
-    },
-    {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/mysz-msi-versa-300-wireless-bialy-media-expert-1399662",
-      "title": "Mysz MSI Versa 300 Wireless Biały (Media Expert)",
-      "link": "https://www.pepper.pl/promocje/mysz-msi-versa-300-wireless-bialy-media-expert-1399662",
-      "published": "Tue, 24 Nov 2026 23:50:51 +0100",
-      "summary": "114,76zł - Media Expert Mysz MSI Versa 300 Wireless Biały za 114,76 zł w Media Expert, dostawa gratis. Najtańsza oferta w innych sklepach na Ceneo to teraz 178 zł, najniższa cena z ostatnich 6 miesięcy 159 zł.",
-      "image_url": "https://static.pepper.pl/threads/raw/UmnDK/1399662_1/re/150x150/qt/55/1399662_1.jpg",
-      "price": "114,76zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Media Expert",
-      "category": "Elektronika",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 100,
-      "savings_pln": 0.0,
-      "deal_score": 200.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Mysz+MSI+Versa+300+Wireless",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-24 23:39",
-          "price": "114,76zł",
-          "note": "Media Expert"
-        }
-      ]
-    },
-    {
       "source": "Aldi.pl (Oferty)",
       "deal_id": "aldi:https://www.aldi.pl/produkt-szczegoly/woda-mineralna-80216160000.html",
       "title": "Aldi: Woda mineralna",
@@ -253,11 +229,11 @@
     {
       "source": "Lidl.pl (Promocje)",
       "deal_id": "lidl:100411932",
-      "title": "LIVARNO® Szafka nocna z drzwiami żaluzjowymi (jasny dąb)",
-      "link": "https://www.lidl.pl/p/livarno-szafka-nocna-z-drzwiami-zaluzjowymi/p100411932002",
+      "title": "LIVARNO® Szafka nocna z drzwiami żaluzjowymi (dąb ciemny)",
+      "link": "https://www.lidl.pl/p/livarno-szafka-nocna-z-drzwiami-zaluzjowymi/p100411932001",
       "published": "Aktualna oferta Lidl.pl",
       "summary": "Megaokazja • Promocja bezpośrednio ze sklepu Lidl.pl.",
-      "image_url": "https://www.lidl.pl/assets/gcpc3e8028b5ae54a3ea41f588916a7cd0d.png",
+      "image_url": "https://www.lidl.pl/assets/gcpaba6fe5523b44eab8555af16a02ddfb2.png",
       "price": "89 zł",
       "old_price": "299 zł",
       "lowest_30d": "299 zł",
@@ -292,40 +268,75 @@
     },
     {
       "source": "Lidl.pl (Promocje)",
-      "deal_id": "lidl:100408390",
-      "title": "LIVARNO® Lampa LED do łazienki, Ø 33 cm (Srebrny)",
-      "link": "https://www.lidl.pl/p/livarno-lampa-led-do-lazienki-o-33-cm/p100408390001",
+      "deal_id": "lidl:100404667",
+      "title": "CRIVIT Samochodowy materac dmuchany",
+      "link": "https://www.lidl.pl/p/crivit-samochodowy-materac-dmuchany/p100404667",
       "published": "Aktualna oferta Lidl.pl",
       "summary": "Megaokazja • Promocja bezpośrednio ze sklepu Lidl.pl.",
-      "image_url": "https://www.lidl.pl/assets/gcp77f301b0dbd84044984b6e8e11b805c1.jpg",
-      "price": "23 zł",
-      "old_price": "82,90 zł",
-      "lowest_30d": "82,90 zł",
+      "image_url": "https://www.lidl.pl/assets/gcpef9a1caf3193476a9e4cbebffcd706c4.jpg",
+      "price": "38,70 zł",
+      "old_price": "129 zł",
+      "lowest_30d": "129 zł",
       "merchant": "Lidl.pl",
-      "category": "Kategorie/Dom & Urządzanie/Lampy/Oświetlenie sufitowe",
+      "category": "Kategorie/Sport i wypoczynek/Kemping/Sprzęt kempingowy/Materace dmuchane",
       "store_group": "Spożywcze i markety",
-      "discount_pct": 72,
-      "savings_pln": 59.9,
-      "deal_score": 147.0,
+      "discount_pct": 70,
+      "savings_pln": 90.3,
+      "deal_score": 144.51,
       "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-LIVARNO+Lampa+LED+do+%C5%82azienki",
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-CRIVIT+Samochodowy+materac+dmuchany",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "30 dni przed obniżką",
+          "price": "129 zł",
+          "note": "Najniższa z 30 dni (Omnibus)"
+        },
+        {
+          "date": "2026-11-25 00:47",
+          "price": "38,70 zł",
+          "note": "Lidl.pl"
+        }
+      ]
+    },
+    {
+      "source": "Lidl.pl (Promocje)",
+      "deal_id": "lidl:100408445",
+      "title": "LIVARNO® Komplet 2 poszewek na poduszki, 40 x 40 cm",
+      "link": "https://www.lidl.pl/p/livarno-komplet-2-poszewek-na-poduszki-40-x-40-cm/p100408445",
+      "published": "Aktualna oferta Lidl.pl",
+      "summary": "Megaokazja • Promocja bezpośrednio ze sklepu Lidl.pl.",
+      "image_url": "https://www.lidl.pl/assets/gcp1c9ea2302e8a4afc948909198ab2b56a.jpg",
+      "price": "2,99 zł",
+      "old_price": "9,98 zł",
+      "lowest_30d": "9,98 zł",
+      "merchant": "Lidl.pl",
+      "category": "Kategorie/Dom & Urządzanie/Łóżka i materace/Poduszki/Poszewka na poduszkę",
+      "store_group": "Spożywcze i markety",
+      "discount_pct": 70,
+      "savings_pln": 6.99,
+      "deal_score": 140.35,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-LIVARNO+Komplet+poszewek+na+poduszki",
       "price_status": "",
       "price_verdict": "",
       "compared_offers": [],
       "price_history": [
         {
           "date": "przed promocją",
-          "price": "82,90 zł",
+          "price": "9,98 zł",
           "note": "przed promocją"
         },
         {
           "date": "30 dni przed obniżką",
-          "price": "82,90 zł",
+          "price": "9,98 zł",
           "note": "Najniższa z 30 dni (Omnibus)"
         },
         {
-          "date": "2026-11-24 03:18",
-          "price": "23 zł",
+          "date": "2026-11-23 14:17",
+          "price": "2,99 zł",
           "note": "Lidl.pl"
         }
       ]
@@ -741,42 +752,42 @@
       ]
     },
     {
-      "source": "Rossmann.pl",
-      "deal_id": "rossmann:183759",
-      "title": "Long4Lashes serum do rzęs, przyspieszające wzrost, na noc",
-      "link": "https://www.rossmann.pl/Produkt/Odzywki-do-rzes/Long4Lashes-serum-do-rzes-przyspieszajace-wzrost-na-noc-3-ml,183759,13007",
-      "published": "Aktualna promocja Rossmann.pl",
-      "summary": "Promocja w drogerii Rossmann.pl • Najniższa z 30 dni: 89,99 zł.",
-      "image_url": "https://pro-fra-s3-productsassets.rossmann.pl/product_7_medium/183759_360_350_1780983588.webp",
-      "price": "48,99 zł",
-      "old_price": "89,99 zł",
-      "lowest_30d": "89,99 zł",
-      "merchant": "Rossmann.pl",
-      "category": "Makijaż i paznokcie-Oczy-Odżywki do rzęs",
-      "store_group": "Odzież i uroda",
-      "discount_pct": 46,
-      "savings_pln": 41.0,
-      "deal_score": 94.05,
+      "source": "Lidl.pl (Promocje)",
+      "deal_id": "lidl:100405264",
+      "title": "CRIVIT Deska SUP Allround, jednokomorowa",
+      "link": "https://www.lidl.pl/p/crivit-deska-sup-allround-jednokomorowa/p100405264",
+      "published": "Aktualna oferta Lidl.pl",
+      "summary": "Megaokazja • Promocja bezpośrednio ze sklepu Lidl.pl.",
+      "image_url": "https://www.lidl.pl/assets/gcp773e65027c304626a817e036c66151bf.jpg",
+      "price": "485,40 zł",
+      "old_price": "809 zł",
+      "lowest_30d": "809 zł",
+      "merchant": "Lidl.pl",
+      "category": "Kategorie/Sport i wypoczynek/Dyscypliny sportowe/Sporty wodne/Deska SUP",
+      "store_group": "Spożywcze i markety",
+      "discount_pct": 40,
+      "savings_pln": 323.6,
+      "deal_score": 96.18,
       "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Long4Lashes+serum+do+rz%C4%99s+przyspieszaj%C4%85ce",
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-CRIVIT+Deska+SUP+Allround+jednokomorowa",
       "price_status": "",
       "price_verdict": "",
       "compared_offers": [],
       "price_history": [
         {
           "date": "przed promocją",
-          "price": "89,99 zł",
+          "price": "809 zł",
           "note": "przed promocją"
         },
         {
           "date": "30 dni przed obniżką",
-          "price": "89,99 zł",
+          "price": "809 zł",
           "note": "Najniższa z 30 dni (Omnibus)"
         },
         {
-          "date": "2026-11-22 22:45",
-          "price": "48,99 zł",
-          "note": "Rossmann.pl"
+          "date": "2026-11-24 09:38",
+          "price": "485,40 zł",
+          "note": "Lidl.pl"
         }
       ]
     },
@@ -971,46 +982,6 @@
       ]
     },
     {
-      "source": "Rossmann.pl",
-      "deal_id": "rossmann:354839",
-      "title": "Eveline Cosmetics kredka do brwi, wodoodporna, nr 02 Soft Brown",
-      "link": "https://www.rossmann.pl/Produkt/Kredki-do-brwi/Eveline-Cosmetics-Micro-Precise-kredka-do-brwi-wodoodporna-nr-02-Soft-Brown-1-szt,354839,13017",
-      "published": "Aktualna promocja Rossmann.pl",
-      "summary": "Promocja w drogerii Rossmann.pl • Najniższa z 30 dni: 19,99 zł.",
-      "image_url": "https://pro-fra-s3-productsassets.rossmann.pl/product_1_medium/354839_360_350_1793983763.webp",
-      "price": "10,99 zł",
-      "old_price": "19,99 zł",
-      "lowest_30d": "19,99 zł",
-      "merchant": "Rossmann.pl",
-      "category": "Makijaż i paznokcie-Brwi-Kredki do brwi",
-      "store_group": "Odzież i uroda",
-      "discount_pct": 45,
-      "savings_pln": 9.0,
-      "deal_score": 90.45,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Eveline+Cosmetics+kredka+do+brwi",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "przed promocją",
-          "price": "19,99 zł",
-          "note": "przed promocją"
-        },
-        {
-          "date": "30 dni przed obniżką",
-          "price": "19,99 zł",
-          "note": "Najniższa z 30 dni (Omnibus)"
-        },
-        {
-          "date": "2026-11-22 22:45",
-          "price": "10,99 zł",
-          "note": "Rossmann.pl"
-        }
-      ]
-    },
-    {
       "source": "Lidl.pl (Promocje)",
       "deal_id": "lidl:100406528",
       "title": "SILVERCREST® Maszynka do lodów Freezy, 800 W",
@@ -1126,46 +1097,6 @@
         {
           "date": "2026-11-23 09:07",
           "price": "59 zł",
-          "note": "Lidl.pl"
-        }
-      ]
-    },
-    {
-      "source": "Lidl.pl (Promocje)",
-      "deal_id": "lidl:100401021",
-      "title": "SILVERCREST® Podstawka pod Termorobot MC (biała)",
-      "link": "https://www.lidl.pl/p/silvercrest-podstawka-pod-termorobot-mc/p100401021001",
-      "published": "Aktualna oferta Lidl.pl",
-      "summary": "Megaokazja • Promocja bezpośrednio ze sklepu Lidl.pl.",
-      "image_url": "https://www.lidl.pl/assets/gcp327d9d18abaa4f48a62255e131f2ecc4.jpg",
-      "price": "47,99 zł",
-      "old_price": "79,99 zł",
-      "lowest_30d": "79,99 zł",
-      "merchant": "Lidl.pl",
-      "category": "Kategorie/Dom & Kuchnia/Akcesoria kuchenne/Przybory kuchenne",
-      "store_group": "Spożywcze i markety",
-      "discount_pct": 40,
-      "savings_pln": 32.0,
-      "deal_score": 81.6,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-SILVERCREST+Podstawka+pod+Termorobot+MC",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "przed promocją",
-          "price": "79,99 zł",
-          "note": "przed promocją"
-        },
-        {
-          "date": "30 dni przed obniżką",
-          "price": "79,99 zł",
-          "note": "Najniższa z 30 dni (Omnibus)"
-        },
-        {
-          "date": "2026-11-24 04:30",
-          "price": "47,99 zł",
           "note": "Lidl.pl"
         }
       ]
@@ -1366,6 +1297,46 @@
         {
           "date": "2026-11-23 11:43",
           "price": "27,99 zł",
+          "note": "Lidl.pl"
+        }
+      ]
+    },
+    {
+      "source": "Lidl.pl (Promocje)",
+      "deal_id": "lidl:100399311",
+      "title": "LIVARNO® Zestaw mebli dziecięcych",
+      "link": "https://www.lidl.pl/p/livarno-zestaw-mebli-dzieciecych/p100399311",
+      "published": "Aktualna oferta Lidl.pl",
+      "summary": "Megaokazja • Promocja bezpośrednio ze sklepu Lidl.pl.",
+      "image_url": "https://www.lidl.pl/assets/gcp40b503b706f1470cacbb6e40c4437ac5.jpg",
+      "price": "85,99 zł",
+      "old_price": "139 zł",
+      "lowest_30d": "139 zł",
+      "merchant": "Lidl.pl",
+      "category": "Kategorie/Dom & Urządzanie/Meble/Meble dla dzieci",
+      "store_group": "Spożywcze i markety",
+      "discount_pct": 38,
+      "savings_pln": 53.01,
+      "deal_score": 78.65,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-LIVARNO+Zestaw+mebli+dzieci%C4%99cych",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "przed promocją",
+          "price": "139 zł",
+          "note": "przed promocją"
+        },
+        {
+          "date": "30 dni przed obniżką",
+          "price": "139 zł",
+          "note": "Najniższa z 30 dni (Omnibus)"
+        },
+        {
+          "date": "2026-11-24 03:18",
+          "price": "85,99 zł",
           "note": "Lidl.pl"
         }
       ]
@@ -1692,46 +1663,6 @@
     },
     {
       "source": "Lidl.pl (Promocje)",
-      "deal_id": "lidl:100408336",
-      "title": "SILVERCREST® Grill kontaktowy 3 w 1, 2000 W",
-      "link": "https://www.lidl.pl/p/silvercrest-grill-kontaktowy-3-w-1-2000-w/p100408336",
-      "published": "Aktualna oferta Lidl.pl",
-      "summary": "Megaokazja • Promocja bezpośrednio ze sklepu Lidl.pl.",
-      "image_url": "https://www.lidl.pl/assets/gcpaf039f29e3344a9682050f91db19346d.jpg",
-      "price": "189 zł",
-      "old_price": "279 zł",
-      "lowest_30d": "279 zł",
-      "merchant": "Lidl.pl",
-      "category": "Kategorie/Dom & Kuchnia/Małe AGD & Kuchnia/Grille kontaktowe",
-      "store_group": "Spożywcze i markety",
-      "discount_pct": 32,
-      "savings_pln": 90.0,
-      "deal_score": 68.5,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-SILVERCREST+Grill+kontaktowy+2000",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "przed promocją",
-          "price": "279 zł",
-          "note": "przed promocją"
-        },
-        {
-          "date": "30 dni przed obniżką",
-          "price": "279 zł",
-          "note": "Najniższa z 30 dni (Omnibus)"
-        },
-        {
-          "date": "2026-11-23 09:07",
-          "price": "189 zł",
-          "note": "Lidl.pl"
-        }
-      ]
-    },
-    {
-      "source": "Lidl.pl (Promocje)",
       "deal_id": "lidl:100404585",
       "title": "CRIVIT Namiot rodzinny, 4-osobowy",
       "link": "https://www.lidl.pl/p/crivit-namiot-rodzinny-4-osobowy/p100404585",
@@ -1996,46 +1927,6 @@
         {
           "date": "2026-11-24 05:32",
           "price": "48,99 zł",
-          "note": "Lidl.pl"
-        }
-      ]
-    },
-    {
-      "source": "Lidl.pl (Promocje)",
-      "deal_id": "lidl:100398699",
-      "title": "TRONIC® Zestaw 8 akumulatorków",
-      "link": "https://www.lidl.pl/p/tronic-zestaw-8-akumulatorkow/p100398699",
-      "published": "Aktualna oferta Lidl.pl",
-      "summary": "Megaokazja • Promocja bezpośrednio ze sklepu Lidl.pl.",
-      "image_url": "https://www.lidl.pl/assets/gcpbd2a3903beb44241babde1e2af7451c5.jpg",
-      "price": "24,99 zł",
-      "old_price": "35,99 zł",
-      "lowest_30d": "35,99 zł",
-      "merchant": "Lidl.pl",
-      "category": "Kategorie/Multimedia/Biuro i komputer/Akcesoria biurowe/Akumulatorki",
-      "store_group": "Spożywcze i markety",
-      "discount_pct": 30,
-      "savings_pln": 11.0,
-      "deal_score": 60.55,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-TRONIC+Zestaw+akumulatork%C3%B3w",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "przed promocją",
-          "price": "35,99 zł",
-          "note": "przed promocją"
-        },
-        {
-          "date": "30 dni przed obniżką",
-          "price": "35,99 zł",
-          "note": "Najniższa z 30 dni (Omnibus)"
-        },
-        {
-          "date": "2026-11-24 12:55",
-          "price": "24,99 zł",
           "note": "Lidl.pl"
         }
       ]
@@ -2601,6 +2492,46 @@
       ]
     },
     {
+      "source": "Lidl.pl (Promocje)",
+      "deal_id": "lidl:100409978",
+      "title": "SILVERCREST® Zestaw 5 garnków ze stali szlachetnej z pokrywkami (Pokrywka szklana)",
+      "link": "https://www.lidl.pl/p/silvercrest-zestaw-5-garnkow-ze-stali-szlachetnej-z-pokrywkami/p100409978001",
+      "published": "Aktualna oferta Lidl.pl",
+      "summary": "Megaokazja • Promocja bezpośrednio ze sklepu Lidl.pl.",
+      "image_url": "https://www.lidl.pl/assets/gcp1db4a082abaa4c2f95bc1945a3c788ca.png",
+      "price": "199 zł",
+      "old_price": "249 zł",
+      "lowest_30d": "249 zł",
+      "merchant": "Lidl.pl",
+      "category": "Kategorie/Dom & Kuchnia/Gotowanie/Garnki",
+      "store_group": "Spożywcze i markety",
+      "discount_pct": 20,
+      "savings_pln": 50.0,
+      "deal_score": 42.5,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-SILVERCREST+Zestaw+garnk%C3%B3w+ze+stali",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "przed promocją",
+          "price": "249 zł",
+          "note": "przed promocją"
+        },
+        {
+          "date": "30 dni przed obniżką",
+          "price": "249 zł",
+          "note": "Najniższa z 30 dni (Omnibus)"
+        },
+        {
+          "date": "2026-11-23 09:07",
+          "price": "199 zł",
+          "note": "Lidl.pl"
+        }
+      ]
+    },
+    {
       "source": "Dino (Promocje)",
       "deal_id": "dino:bombonierka toffifee mikołaj 250g bn25",
       "title": "Dino: Bombonierka Toffifee Mikołaj 250g BN25",
@@ -2716,131 +2647,6 @@
         {
           "date": "2026-11-23 10:53",
           "price": "67,49 zł",
-          "note": "Lidl.pl"
-        }
-      ]
-    },
-    {
-      "source": "Lidl.pl (Promocje)",
-      "deal_id": "lidl:100366458",
-      "title": "LUPILU® Śniegowce chłopięce",
-      "link": "https://www.lidl.pl/p/lupilu-sniegowce-chlopiece/p100366458",
-      "published": "Aktualna oferta Lidl.pl",
-      "summary": "Megaokazja • Promocja bezpośrednio ze sklepu Lidl.pl.",
-      "image_url": "https://www.lidl.pl/assets/gcpf1ea01d5ff4c4e0d8db52b990674731c.jpeg",
-      "price": "52,72 zł",
-      "old_price": "65,90 zł",
-      "lowest_30d": "65,90 zł",
-      "merchant": "Lidl.pl",
-      "category": "Kategorie/Moda/Moda dziecięca/Moda chłopięca (2-6 lat)/Kozaki",
-      "store_group": "Spożywcze i markety",
-      "discount_pct": 20,
-      "savings_pln": 13.18,
-      "deal_score": 40.66,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-LUPILU+%C5%9Aniegowce+ch%C5%82opi%C4%99ce",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-24 12:55",
-          "price": "53,52 zł",
-          "note": "Lidl.pl"
-        },
-        {
-          "date": "2026-11-24 14:12",
-          "price": "52,72 zł",
-          "note": "Lidl.pl"
-        },
-        {
-          "date": "2026-11-24 14:12",
-          "price": "53,52 zł",
-          "note": "Lidl.pl"
-        },
-        {
-          "date": "2026-11-24 15:29",
-          "price": "52,72 zł",
-          "note": "Lidl.pl"
-        },
-        {
-          "date": "2026-11-24 15:29",
-          "price": "53,52 zł",
-          "note": "Lidl.pl"
-        },
-        {
-          "date": "2026-11-24 16:37",
-          "price": "52,72 zł",
-          "note": "Lidl.pl"
-        },
-        {
-          "date": "2026-11-24 16:37",
-          "price": "53,52 zł",
-          "note": "Lidl.pl"
-        },
-        {
-          "date": "2026-11-24 17:43",
-          "price": "52,72 zł",
-          "note": "Lidl.pl"
-        },
-        {
-          "date": "2026-11-24 17:43",
-          "price": "53,52 zł",
-          "note": "Lidl.pl"
-        },
-        {
-          "date": "2026-11-24 18:44",
-          "price": "52,72 zł",
-          "note": "Lidl.pl"
-        },
-        {
-          "date": "2026-11-24 18:44",
-          "price": "53,52 zł",
-          "note": "Lidl.pl"
-        },
-        {
-          "date": "2026-11-24 19:53",
-          "price": "52,72 zł",
-          "note": "Lidl.pl"
-        },
-        {
-          "date": "2026-11-24 19:53",
-          "price": "53,52 zł",
-          "note": "Lidl.pl"
-        },
-        {
-          "date": "2026-11-24 20:43",
-          "price": "52,72 zł",
-          "note": "Lidl.pl"
-        },
-        {
-          "date": "2026-11-24 20:43",
-          "price": "53,52 zł",
-          "note": "Lidl.pl"
-        },
-        {
-          "date": "2026-11-24 21:45",
-          "price": "52,72 zł",
-          "note": "Lidl.pl"
-        },
-        {
-          "date": "2026-11-24 21:45",
-          "price": "53,52 zł",
-          "note": "Lidl.pl"
-        },
-        {
-          "date": "2026-11-24 22:45",
-          "price": "52,72 zł",
-          "note": "Lidl.pl"
-        },
-        {
-          "date": "2026-11-24 22:45",
-          "price": "53,52 zł",
-          "note": "Lidl.pl"
-        },
-        {
-          "date": "2026-11-24 23:39",
-          "price": "52,72 zł",
           "note": "Lidl.pl"
         }
       ]
@@ -3211,46 +3017,6 @@
       ]
     },
     {
-      "source": "Lidl.pl (Promocje)",
-      "deal_id": "lidl:100394364",
-      "title": "LUPILU® Zimowe buty dziecięce",
-      "link": "https://www.lidl.pl/p/lupilu-zimowe-buty-dzieciece/p100394364",
-      "published": "Aktualna oferta Lidl.pl",
-      "summary": "Megaokazja • Promocja bezpośrednio ze sklepu Lidl.pl.",
-      "image_url": "https://www.lidl.pl/assets/gcpafe9f3a3e5e24ee3934d2a607a92c465.jpg",
-      "price": "47,99 zł",
-      "old_price": "56,90 zł",
-      "lowest_30d": "56,90 zł",
-      "merchant": "Lidl.pl",
-      "category": "Kategorie/Moda/Moda dziecięca/Moda chłopięca (2-6 lat)/Kozaki",
-      "store_group": "Spożywcze i markety",
-      "discount_pct": 15,
-      "savings_pln": 8.91,
-      "deal_score": 30.45,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-LUPILU+Zimowe+buty+dzieci%C4%99ce",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "przed promocją",
-          "price": "56,90 zł",
-          "note": "przed promocją"
-        },
-        {
-          "date": "30 dni przed obniżką",
-          "price": "56,90 zł",
-          "note": "Najniższa z 30 dni (Omnibus)"
-        },
-        {
-          "date": "2026-11-23 09:07",
-          "price": "47,99 zł",
-          "note": "Lidl.pl"
-        }
-      ]
-    },
-    {
       "source": "OBI.pl (Promocje)",
       "deal_id": "obi:7014053",
       "title": "Zestaw skrzyń Qbrick PRO Cart + walizka na narzędzia",
@@ -3287,6 +3053,46 @@
           "date": "2026-11-23 10:06",
           "price": "159 zł",
           "note": "OBI.pl"
+        }
+      ]
+    },
+    {
+      "source": "Lidl.pl (Promocje)",
+      "deal_id": "lidl:100398024",
+      "title": "PARKSIDE® Opalarka »PHLGB 2000 A1«",
+      "link": "https://www.lidl.pl/p/parkside-opalarka-phlgb-2000-a1/p100398024",
+      "published": "Aktualna oferta Lidl.pl",
+      "summary": "Megaokazja • Promocja bezpośrednio ze sklepu Lidl.pl.",
+      "image_url": "https://www.lidl.pl/assets/gcp07750899afa743c4ad29c740186b777b.jpg",
+      "price": "39,99 zł",
+      "old_price": "46,99 zł",
+      "lowest_30d": "46,99 zł",
+      "merchant": "Lidl.pl",
+      "category": "Kategorie/Warsztat/Warsztat/Narzędzia akumulatorowe & elektryczne/Pozostałe narzędzia akumulatorowe & elektryczne",
+      "store_group": "Spożywcze i markety",
+      "discount_pct": 14,
+      "savings_pln": 7.0,
+      "deal_score": 28.35,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-PARKSIDE+Opalarka+PHLGB+2000+A1",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "przed promocją",
+          "price": "46,99 zł",
+          "note": "przed promocją"
+        },
+        {
+          "date": "30 dni przed obniżką",
+          "price": "46,99 zł",
+          "note": "Najniższa z 30 dni (Omnibus)"
+        },
+        {
+          "date": "2026-11-23 09:07",
+          "price": "39,99 zł",
+          "note": "Lidl.pl"
         }
       ]
     },
@@ -3331,6 +3137,46 @@
       ]
     },
     {
+      "source": "Lidl.pl (Promocje)",
+      "deal_id": "lidl:100411356",
+      "title": "ESMARA MEN Spodnie dresowe męskie",
+      "link": "https://www.lidl.pl/p/esmara-men-spodnie-dresowe-meskie/p100411356",
+      "published": "Aktualna oferta Lidl.pl",
+      "summary": "Megaokazja • Promocja bezpośrednio ze sklepu Lidl.pl.",
+      "image_url": "https://www.lidl.pl/assets/gcp52e0cef1d11843c0a9bd1563b370ed6f.png",
+      "price": "34,99 zł",
+      "old_price": "39,99 zł",
+      "lowest_30d": "39,99 zł",
+      "merchant": "Lidl.pl",
+      "category": "Kategorie/Moda/Moda męska/Dresy domowe/Spodnie dresowe",
+      "store_group": "Spożywcze i markety",
+      "discount_pct": 12,
+      "savings_pln": 5.0,
+      "deal_score": 24.25,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-ESMARA+MEN+Spodnie+dresowe+m%C4%99skie",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "przed promocją",
+          "price": "39,99 zł",
+          "note": "przed promocją"
+        },
+        {
+          "date": "30 dni przed obniżką",
+          "price": "39,99 zł",
+          "note": "Najniższa z 30 dni (Omnibus)"
+        },
+        {
+          "date": "2026-11-22 23:19",
+          "price": "34,99 zł",
+          "note": "Lidl.pl"
+        }
+      ]
+    },
+    {
       "source": "Rossmann.pl",
       "deal_id": "rossmann:242179",
       "title": "Velvet ręcznik papierowy, 3-warstwowe",
@@ -3367,46 +3213,6 @@
           "date": "2026-11-24 11:46",
           "price": "11,49 zł",
           "note": "Rossmann.pl"
-        }
-      ]
-    },
-    {
-      "source": "Lidl.pl (Promocje)",
-      "deal_id": "lidl:100409160",
-      "title": "PARKSIDE® Elektryczny odkurzacz/dmuchawa do liści PLS 2600 B2, 3w1",
-      "link": "https://www.lidl.pl/p/parkside-elektryczny-odkurzacz-dmuchawa-do-lisci-pls-2600-b2-3w1/p100409160",
-      "published": "Aktualna oferta Lidl.pl",
-      "summary": "Megaokazja • Promocja bezpośrednio ze sklepu Lidl.pl.",
-      "image_url": "https://www.lidl.pl/assets/gcp3a6863a8485246288aa5eca577c333e5.jpg",
-      "price": "85 zł",
-      "old_price": "95 zł",
-      "lowest_30d": "95 zł",
-      "merchant": "Lidl.pl",
-      "category": "Kategorie/Warsztat/Ogród & grill/Narzędzia i maszyny ogrodnicze/Odkurzacze i dmuchawy do liści",
-      "store_group": "Spożywcze i markety",
-      "discount_pct": 10,
-      "savings_pln": 10.0,
-      "deal_score": 20.5,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-PARKSIDE+Elektryczny+odkurzacz+dmuchawa+do",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "przed promocją",
-          "price": "95 zł",
-          "note": "przed promocją"
-        },
-        {
-          "date": "30 dni przed obniżką",
-          "price": "95 zł",
-          "note": "Najniższa z 30 dni (Omnibus)"
-        },
-        {
-          "date": "2026-11-23 09:07",
-          "price": "85 zł",
-          "note": "Lidl.pl"
         }
       ]
     },
@@ -3514,16 +3320,6 @@
       "compared_offers": [],
       "price_history": [
         {
-          "date": "2026-11-24 12:55",
-          "price": "50 zł",
-          "note": "Pepco.pl"
-        },
-        {
-          "date": "2026-11-24 14:12",
-          "price": "20 zł",
-          "note": "Pepco.pl"
-        },
-        {
           "date": "2026-11-24 14:12",
           "price": "50 zł",
           "note": "Pepco.pl"
@@ -3610,6 +3406,16 @@
         },
         {
           "date": "2026-11-24 23:39",
+          "price": "20 zł",
+          "note": "Pepco.pl"
+        },
+        {
+          "date": "2026-11-24 23:39",
+          "price": "50 zł",
+          "note": "Pepco.pl"
+        },
+        {
+          "date": "2026-11-25 00:47",
           "price": "20 zł",
           "note": "Pepco.pl"
         }
@@ -3639,16 +3445,6 @@
       "compared_offers": [],
       "price_history": [
         {
-          "date": "2026-11-24 12:55",
-          "price": "10 zł",
-          "note": "Pepco.pl"
-        },
-        {
-          "date": "2026-11-24 14:12",
-          "price": "20 zł",
-          "note": "Pepco.pl"
-        },
-        {
           "date": "2026-11-24 14:12",
           "price": "10 zł",
           "note": "Pepco.pl"
@@ -3735,6 +3531,16 @@
         },
         {
           "date": "2026-11-24 23:39",
+          "price": "20 zł",
+          "note": "Pepco.pl"
+        },
+        {
+          "date": "2026-11-24 23:39",
+          "price": "10 zł",
+          "note": "Pepco.pl"
+        },
+        {
+          "date": "2026-11-25 00:47",
           "price": "20 zł",
           "note": "Pepco.pl"
         }
@@ -4244,16 +4050,6 @@
       "compared_offers": [],
       "price_history": [
         {
-          "date": "2026-11-24 14:12",
-          "price": "20 zł",
-          "note": "Pepco.pl"
-        },
-        {
-          "date": "2026-11-24 14:12",
-          "price": "10 zł",
-          "note": "Pepco.pl"
-        },
-        {
           "date": "2026-11-24 15:29",
           "price": "20 zł",
           "note": "Pepco.pl"
@@ -4340,6 +4136,16 @@
         },
         {
           "date": "2026-11-24 23:39",
+          "price": "10 zł",
+          "note": "Pepco.pl"
+        },
+        {
+          "date": "2026-11-25 00:47",
+          "price": "20 zł",
+          "note": "Pepco.pl"
+        },
+        {
+          "date": "2026-11-25 00:47",
           "price": "10 zł",
           "note": "Pepco.pl"
         }
@@ -4369,16 +4175,6 @@
       "compared_offers": [],
       "price_history": [
         {
-          "date": "2026-11-24 14:12",
-          "price": "20 zł",
-          "note": "Pepco.pl"
-        },
-        {
-          "date": "2026-11-24 14:12",
-          "price": "50 zł",
-          "note": "Pepco.pl"
-        },
-        {
           "date": "2026-11-24 15:29",
           "price": "20 zł",
           "note": "Pepco.pl"
@@ -4465,6 +4261,16 @@
         },
         {
           "date": "2026-11-24 23:39",
+          "price": "50 zł",
+          "note": "Pepco.pl"
+        },
+        {
+          "date": "2026-11-25 00:47",
+          "price": "20 zł",
+          "note": "Pepco.pl"
+        },
+        {
+          "date": "2026-11-25 00:47",
           "price": "50 zł",
           "note": "Pepco.pl"
         }
@@ -4524,16 +4330,6 @@
       "compared_offers": [],
       "price_history": [
         {
-          "date": "2026-11-24 12:55",
-          "price": "105 zł",
-          "note": "Pepco.pl"
-        },
-        {
-          "date": "2026-11-24 14:12",
-          "price": "120 zł",
-          "note": "Pepco.pl"
-        },
-        {
           "date": "2026-11-24 14:12",
           "price": "105 zł",
           "note": "Pepco.pl"
@@ -4620,6 +4416,16 @@
         },
         {
           "date": "2026-11-24 23:39",
+          "price": "120 zł",
+          "note": "Pepco.pl"
+        },
+        {
+          "date": "2026-11-24 23:39",
+          "price": "105 zł",
+          "note": "Pepco.pl"
+        },
+        {
+          "date": "2026-11-25 00:47",
           "price": "120 zł",
           "note": "Pepco.pl"
         }
@@ -4649,16 +4455,6 @@
       "compared_offers": [],
       "price_history": [
         {
-          "date": "2026-11-24 14:12",
-          "price": "120 zł",
-          "note": "Pepco.pl"
-        },
-        {
-          "date": "2026-11-24 14:12",
-          "price": "105 zł",
-          "note": "Pepco.pl"
-        },
-        {
           "date": "2026-11-24 15:29",
           "price": "120 zł",
           "note": "Pepco.pl"
@@ -4745,6 +4541,16 @@
         },
         {
           "date": "2026-11-24 23:39",
+          "price": "105 zł",
+          "note": "Pepco.pl"
+        },
+        {
+          "date": "2026-11-25 00:47",
+          "price": "120 zł",
+          "note": "Pepco.pl"
+        },
+        {
+          "date": "2026-11-25 00:47",
           "price": "105 zł",
           "note": "Pepco.pl"
         }
@@ -4758,7 +4564,7 @@
       "published": "Oferta Pepco.pl",
       "summary": "Produkt ze sklepu Pepco.pl (odzież, dom, zabawki).",
       "image_url": "",
-      "price": "63 zł",
+      "price": "90 zł",
       "old_price": "",
       "lowest_30d": "",
       "merchant": "Pepco.pl",
@@ -4776,6 +4582,11 @@
         {
           "date": "2026-11-23 09:07",
           "price": "63 zł",
+          "note": "Pepco.pl"
+        },
+        {
+          "date": "2026-11-25 00:47",
+          "price": "90 zł",
           "note": "Pepco.pl"
         }
       ]
@@ -4957,6 +4768,306 @@
           "date": "2026-11-23 09:07",
           "price": "20 zł",
           "note": "Pepco.pl"
+        }
+      ]
+    },
+    {
+      "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/azzaro-chrome-200ml-woda-toaletowa-dla-mezczyzn-1399701",
+      "title": "Azzaro Chrome 200ml - woda toaletowa dla mężczyzn",
+      "link": "https://www.pepper.pl/promocje/azzaro-chrome-200ml-woda-toaletowa-dla-mezczyzn-1399701",
+      "published": "Wed, 25 Nov 2026 01:33:48 +0100",
+      "summary": "185,99zł - DOZ Cena obowiązuje tylko z kuponem za pierwsze zakupy w aplikacji DOZ",
+      "image_url": "https://static.pepper.pl/threads/raw/pQ3M4/1399701_1/re/150x150/qt/55/1399701_1.jpg",
+      "price": "185,99zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "DOZ",
+      "category": "Zdrowie i uroda",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Azzaro+Chrome+200ml+woda+toaletowa",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-25 00:47",
+          "price": "185,99zł",
+          "note": "DOZ"
+        }
+      ]
+    },
+    {
+      "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/tp-link-deco-x50-router-mesh-wi-fi-6-3-gbs-dwupasmowy-2-szt-1399698",
+      "title": "TP-Link Deco X50 Router Mesh Wi-Fi 6 3 Gb/s Dwupasmowy (2 szt.)",
+      "link": "https://www.pepper.pl/promocje/tp-link-deco-x50-router-mesh-wi-fi-6-3-gbs-dwupasmowy-2-szt-1399698",
+      "published": "Wed, 25 Nov 2026 01:23:52 +0100",
+      "summary": "499zł - Amazon.pl TP-Link Deco X50 (2 szt.) – Mesh Wi-Fi 6 AX3000 za 499 zł na Amazon.pl, Mediaexpert , Avans , Electro Dobry zestaw dla osób, które chcą poprawić zasięg i stabilność Wi-Fi w całym domu lub mieszkaniu. Co oferuje TP-Link De…",
+      "image_url": "https://static.pepper.pl/threads/raw/kNlK2/1399698_1/re/150x150/qt/55/1399698_1.jpg",
+      "price": "499zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Amazon.pl",
+      "category": "Elektronika",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-TP-Link+Deco+X50+Router+Mesh",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-25 00:47",
+          "price": "499zł",
+          "note": "Amazon.pl"
+        }
+      ]
+    },
+    {
+      "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/klimatyzator-split-pompa-ciepla-powietrze-powietrze-gorenje-rea35-z-usluga-montazu-3400w-1399697",
+      "title": "Klimatyzator Split, Pompa ciepła powietrze - powietrze GORENJE REA35 z usługą montażu, 3400W",
+      "link": "https://www.pepper.pl/promocje/klimatyzator-split-pompa-ciepla-powietrze-powietrze-gorenje-rea35-z-usluga-montazu-3400w-1399697",
+      "published": "Wed, 25 Nov 2026 01:20:54 +0100",
+      "summary": "2 999,99zł - Media Expert Taniej z kadem i do tego z montażem- najlepszy okres na zakup, jest taniej, nie czeka się tygodniami, a i jakość montażu pewnie i lepsza. Promka do 3 grudnia. Klimatyzator Split Gorenje REA35 łączy funkcję klimaty…",
+      "image_url": "https://static.pepper.pl/threads/raw/gyept/1399697_1/re/150x150/qt/55/1399697_1.jpg",
+      "price": "2 999,99zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Media Expert",
+      "category": "Dom i mieszkanie",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Klimatyzator+Split+Pompa+ciep%C5%82a+powietrze",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-25 00:47",
+          "price": "2 999,99zł",
+          "note": "Media Expert"
+        }
+      ]
+    },
+    {
+      "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/lamiglowki-wydawnictwa-logi-1399696",
+      "title": "Łamigłówki wydawnictwa Logi",
+      "link": "https://www.pepper.pl/promocje/lamiglowki-wydawnictwa-logi-1399696",
+      "published": "Wed, 25 Nov 2026 01:14:03 +0100",
+      "summary": "10zł Obecnie na stronie wydawnictwa Logi jest promocja na wybrane łamigłówki: Obrazki logiczne, Mozaiki, Wielokropki, Wąż sapera, Architekt, Piramidy, Sudokui inne. Okazja dla fanów łamigłówek w klasycznej papierowej formie.",
+      "image_url": "https://static.pepper.pl/threads/raw/fnSYT/1399696_1/re/150x150/qt/55/1399696_1.jpg",
+      "price": "10zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "",
+      "category": "Kultura i rozrywka",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-%C5%81amig%C5%82%C3%B3wki+wydawnictwa+Logi",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-25 00:47",
+          "price": "10zł",
+          "note": "Pepper.pl"
+        }
+      ]
+    },
+    {
+      "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/tania-pralka-do-kawalerki-daewoo-wm-sa6400w0d-pl-6kg-1000-obr-1399694",
+      "title": "Tania pralka do kawalerki - Daewoo WM-SA6400W0D-PL 6kg 1000 obr",
+      "link": "https://www.pepper.pl/promocje/tania-pralka-do-kawalerki-daewoo-wm-sa6400w0d-pl-6kg-1000-obr-1399694",
+      "published": "Wed, 25 Nov 2026 00:52:10 +0100",
+      "summary": "799,99zł - Media Expert Niedroga pralka, jeszcze taniej - z kodem. W zupełności wystarczy, aby skarpetki czy inne, styrane dżinsy przeprać. Opcja również dla landlordów, niedrogo- i tak ma być. Marka, słynąca z lokówek do włosów i hitu mot…",
+      "image_url": "https://static.pepper.pl/threads/raw/xLz5D/1399694_1/re/150x150/qt/55/1399694_1.jpg",
+      "price": "799,99zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Media Expert",
+      "category": "Dom i mieszkanie",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Tania+pralka+do+kawalerki+Daewoo",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-25 00:47",
+          "price": "799,99zł",
+          "note": "Media Expert"
+        }
+      ]
+    },
+    {
+      "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/cyfrowy-tester-baterii-z-wyswietlaczem-lcd-1399693",
+      "title": "Cyfrowy tester baterii z wyświetlaczem LCD",
+      "link": "https://www.pepper.pl/promocje/cyfrowy-tester-baterii-z-wyswietlaczem-lcd-1399693",
+      "published": "Wed, 25 Nov 2026 00:51:46 +0100",
+      "summary": "13,53zł - Amazon.pl Całkiem tani tester baterii, przydatny gadżet jeśli ktoś kupuje jednorazówki. Pasuje do baterii C, AA, AAA, D, N, 9 V 6F22 i baterii guzikowych 1,55 V. Cyfrowy tester baterii z wyświetlaczem LCD dostępny na Amazon za 13…",
+      "image_url": "https://static.pepper.pl/threads/raw/bMOqR/1399693_1/re/150x150/qt/55/1399693_1.jpg",
+      "price": "13,53zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Amazon.pl",
+      "category": "Elektronika",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Cyfrowy+tester+baterii+wy%C5%9Bwietlaczem+LCD",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-25 00:47",
+          "price": "13,53zł",
+          "note": "Amazon.pl"
+        }
+      ]
+    },
+    {
+      "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/dongfeng-shine-gs-117km-2026-10-lat-gwarancji-1399691",
+      "title": "Dongfeng SHINE GS 117KM 2026 10 lat gwarancji",
+      "link": "https://www.pepper.pl/promocje/dongfeng-shine-gs-117km-2026-10-lat-gwarancji-1399691",
+      "published": "Wed, 25 Nov 2026 00:47:54 +0100",
+      "summary": "84 900zł Dongfeng SHINE GS to nowoczesny crossover stworzony z myślą o kierowcach, którzy oczekują więcej niż tylko praktycznego samochodu rodzinnego. Dynamiczna sylwetka, panoramiczny dach i wyrazisty pas przedni nadają mu charakter nowoc…",
+      "image_url": "https://static.pepper.pl/threads/raw/V9clI/1399691_1/re/150x150/qt/55/1399691_1.jpg",
+      "price": "84 900zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "",
+      "category": "Motoryzacja",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Dongfeng+SHINE+GS+117KM+2026",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-25 00:47",
+          "price": "84 900zł",
+          "note": "Pepper.pl"
+        }
+      ]
+    },
+    {
+      "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/ekspres-haden-dorchester-15l-1399690",
+      "title": "Ekspres Haden Dorchester 1,5l",
+      "link": "https://www.pepper.pl/promocje/ekspres-haden-dorchester-15l-1399690",
+      "published": "Wed, 25 Nov 2026 00:45:18 +0100",
+      "summary": "79,99zł - RTV Euro AGD Przypominam o ZEN cashback. Ostatnio była promka w alior bank mastercard na 4000pkt. Jak ktoś zrobił może wymienić pkt na karte podarunkową 50zł i obniżyć cene do 30zł. Funkcje dodatkowe: automatyczna funkcja podtrzy…",
+      "image_url": "https://static.pepper.pl/threads/raw/t3R3s/1399690_1/re/150x150/qt/55/1399690_1.jpg",
+      "price": "79,99zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "RTV Euro AGD",
+      "category": "Elektronika",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Ekspres+Haden+Dorchester+5l",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-25 00:47",
+          "price": "79,99zł",
+          "note": "RTV Euro AGD"
+        }
+      ]
+    },
+    {
+      "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/4fizjo-mata-do-akupresury-poduszka-od-1900-1399689",
+      "title": "4FIZJO MATA DO AKUPRESURY + PODUSZKA (od 19:00)",
+      "link": "https://www.pepper.pl/promocje/4fizjo-mata-do-akupresury-poduszka-od-1900-1399689",
+      "published": "Wed, 25 Nov 2026 00:44:51 +0100",
+      "summary": "69,99zł - Allegro ▶️ Redukuje ból szyi, barków, kręgosłupa ▶️ Doraźnie działa w przypadku rwy kulszowej ▶️ Łagodzi bóle głowy, neuralgie i migreny ▶️ Poprawia krążenie i rozluźnia mięśnie",
+      "image_url": "https://static.pepper.pl/threads/raw/Z119T/1399689_1/re/150x150/qt/55/1399689_1.jpg",
+      "price": "69,99zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Allegro",
+      "category": "Zdrowie i uroda",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-4FIZJO+MATA+DO+AKUPRESURY+PODUSZKA",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-25 00:47",
+          "price": "69,99zł",
+          "note": "Allegro"
+        }
+      ]
+    },
+    {
+      "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/ser-camembert-120g-naturek-wersja-gastronomiczna-dw-25112026-po-199-zl-na-allegro-1399688",
+      "title": "Ser Camembert 120g NaTurek- wersja gastronomiczna (DW: 25.11.2026) po 1,99 zł na Allegro",
+      "link": "https://www.pepper.pl/promocje/ser-camembert-120g-naturek-wersja-gastronomiczna-dw-25112026-po-199-zl-na-allegro-1399688",
+      "published": "Wed, 25 Nov 2026 00:43:44 +0100",
+      "summary": "1,99zł - Allegro Przeglądając oferty na Allegro trafiłem na obniżkę na ser camembert 120g NaTurek z mleczarni Turek w wersji gastronomicznej (bez kolorowego opakowania papierowego) po 1,99 zł za sztukę (data ważności: 25.11.2026). Darmowa…",
+      "image_url": "https://static.pepper.pl/threads/raw/PlCwP/1399688_1/re/150x150/qt/55/1399688_1.jpg",
+      "price": "1,99zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Allegro",
+      "category": "Artykuły spożywcze",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Ser+Camembert+120g+NaTurek-+wersja",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-25 00:47",
+          "price": "1,99zł",
+          "note": "Allegro"
         }
       ]
     },
@@ -5443,270 +5554,6 @@
           "date": "2026-11-24 23:39",
           "price": "229zł",
           "note": "MediaMarkt"
-        }
-      ]
-    },
-    {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/wwszystkie-majonezy-1-1-w-at-lidl-1399670",
-      "title": "Majonezy Winiary lub Kielecki, słoik 700ml 1 + 1 w @lidl",
-      "link": "https://www.pepper.pl/promocje/wwszystkie-majonezy-1-1-w-at-lidl-1399670",
-      "published": "Wed, 25 Nov 2026 00:03:43 +0100",
-      "summary": "5,72zł Majonezy Winiary lub Kielecki 1 + 1 w @lidl",
-      "image_url": "https://static.pepper.pl/threads/raw/EmizH/1399670_1/re/150x150/qt/55/1399670_1.jpg",
-      "price": "5,72zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "",
-      "category": "Artykuły spożywcze",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Majonezy+Winiary+lub+Kielecki+s%C5%82oik",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-24 23:39",
-          "price": "5,72zł",
-          "note": "Pepper.pl"
-        }
-      ]
-    },
-    {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/jajka-at-lidl-1399668",
-      "title": "Jajka 10 szt. M / opak. cena przy zakupie 2 @Lidl",
-      "link": "https://www.pepper.pl/promocje/jajka-at-lidl-1399668",
-      "published": "Wed, 25 Nov 2026 00:02:17 +0100",
-      "summary": "4,49zł - Lidl Oferta dostępna tylko 27.11.2026 r. Wymagana aplikacja. Limit: 4 produkty",
-      "image_url": "https://static.pepper.pl/threads/raw/yM2Q2/1399668_1/re/150x150/qt/55/1399668_1.jpg",
-      "price": "4,49zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Lidl",
-      "category": "Artykuły spożywcze",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Jajka+10+szt+opak+przy",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-24 23:39",
-          "price": "4,49zł",
-          "note": "Lidl"
-        }
-      ]
-    },
-    {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/wolnostojaca-kuchenka-mikrofalowa-amica-amgf20e1s-quickstart-za-199zl-at-media-markt-1399300",
-      "title": "Wolnostojąca kuchenka mikrofalowa AMICA AMGF20E1S QuickStart za 199zł @ Media Markt",
-      "link": "https://www.pepper.pl/promocje/wolnostojaca-kuchenka-mikrofalowa-amica-amgf20e1s-quickstart-za-199zl-at-media-markt-1399300",
-      "published": "Wed, 25 Nov 2026 00:02:00 +0100",
-      "summary": "199zł - MediaMarkt Wolnostojąca kuchenka mikrofalowa AMICA AMGF20E1S QuickStart za 199zł. Przecena z 350zł. Średnia z ostatniego półrocza wg Skąpca to 268zł. Główne cechy: Sterowanie elektroniczne Programy gotowe QuickStart MultiWave Syste…",
-      "image_url": "https://static.pepper.pl/threads/raw/4Zlox/1399300_1/re/150x150/qt/55/1399300_1.jpg",
-      "price": "199zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "MediaMarkt",
-      "category": "Dom i mieszkanie",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Wolnostoj%C4%85ca+kuchenka+mikrofalowa+AMICA+AMGF20E1S",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-24 23:39",
-          "price": "199zł",
-          "note": "MediaMarkt"
-        }
-      ]
-    },
-    {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/tablet-apple-ipad-mini-83-7-gen-mxn63hca-a17-pro-128-gb-wifi-liquid-retina-at-mediamarkt-1399211",
-      "title": "Tablet Apple iPad mini 8.3\" 7. gen. MXN63HC/A (A17 Pro, 128 GB, Wi‑Fi, Liquid Retina) @ MediaMarkt",
-      "link": "https://www.pepper.pl/promocje/tablet-apple-ipad-mini-83-7-gen-mxn63hca-a17-pro-128-gb-wifi-liquid-retina-at-mediamarkt-1399211",
-      "published": "Wed, 25 Nov 2026 00:02:00 +0100",
-      "summary": "1 999zł - MediaMarkt Tablet Apple iPad mini 8.3\" 7. gen. MXN63HC/A w Media Markt za 1999 zł z darmową dostawą. To kompaktowy model z czipem A17 Pro, ekranem Liquid Retina 8.3\" i 128 GB pamięci. Na plus też 8 GB RAM, USB-C i wsparcie dla Ap…",
-      "image_url": "https://static.pepper.pl/threads/raw/1aBXo/1399211_1/re/150x150/qt/55/1399211_1.jpg",
-      "price": "1 999zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "MediaMarkt",
-      "category": "Elektronika",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Tablet+Apple+iPad+mini+gen",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-24 23:39",
-          "price": "1 999zł",
-          "note": "MediaMarkt"
-        }
-      ]
-    },
-    {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/kupony/wszystkie-ciatka-1-1-gratis-at-lidl-1399667",
-      "title": "Wszystkie ciatka 1 + 1 za grosz @Lidl",
-      "link": "https://www.pepper.pl/kupony/wszystkie-ciatka-1-1-gratis-at-lidl-1399667",
-      "published": "Wed, 25 Nov 2026 00:01:27 +0100",
-      "summary": "Lidl Oferta dostępna tylko 26.11.2026 r. Limit: 8 produktów na paragon Można dowolni mieszać.",
-      "image_url": "https://static.pepper.pl/merchants/raw/avatar/37_2/re/352x352/qt/60/37_2.jpg",
-      "price": "",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Lidl",
-      "category": "Artykuły spożywcze",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-ciatka+grosz",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": []
-    },
-    {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/banany-at-lidl-1399666",
-      "title": "Banany kg @Lidl",
-      "link": "https://www.pepper.pl/promocje/banany-at-lidl-1399666",
-      "published": "Wed, 25 Nov 2026 00:00:49 +0100",
-      "summary": "2,99zł - Lidl Oferta dostępna od 26.11 do 28.11.2026 r. Wymagana aplikacja. Limit: 2 kg",
-      "image_url": "https://static.pepper.pl/threads/raw/AzWcG/1399666_1/re/150x150/qt/55/1399666_1.jpg",
-      "price": "2,99zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Lidl",
-      "category": "Artykuły spożywcze",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Banany+kg",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-24 23:39",
-          "price": "2,99zł",
-          "note": "Lidl"
-        }
-      ]
-    },
-    {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/mugler-amen-eau-de-toilette-100ml-woda-toaletowa-perfumy-dla-mezczyzn-3873eur-darmowa-dostawa-do-punktow-dhl-1399664",
-      "title": "Mugler A*MEN EDT 100ml - perfumy dla mężczyzn [38,73€, darmowa dostawa do punktów DHL]",
-      "link": "https://www.pepper.pl/promocje/mugler-amen-eau-de-toilette-100ml-woda-toaletowa-perfumy-dla-mezczyzn-3873eur-darmowa-dostawa-do-punktow-dhl-1399664",
-      "published": "Tue, 24 Nov 2026 23:53:49 +0100",
-      "summary": "172,73zł - Amazon.pl Zimowy MUGLER A*MEN Eau De Toilette 100ml z dostawą za 0zł . Dodajemy do koszyka produkt z subskrypcją (z której rezygnujemy po wysyłce), wcześniej ustawiamy punkt odbioru DHL dla darmowej dostawy. Opinie Fragrantica .…",
-      "image_url": "https://static.pepper.pl/threads/raw/H8VSC/1399664_1/re/150x150/qt/55/1399664_1.jpg",
-      "price": "172,73zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Amazon.pl",
-      "category": "Zdrowie i uroda",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Mugler+MEN+EDT+100ml+perfumy",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-24 23:39",
-          "price": "172,73zł",
-          "note": "Amazon.pl"
-        }
-      ]
-    },
-    {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/torebka-damska-ze-skory-cholewinski-walizki-z-propylenu-1399663",
-      "title": "Torebka damska ze skóry Cholewiński , walizka z propylenu [różne rodzaje, okazja zbiorcza]",
-      "link": "https://www.pepper.pl/promocje/torebka-damska-ze-skory-cholewinski-walizki-z-propylenu-1399663",
-      "published": "Tue, 24 Nov 2026 23:52:40 +0100",
-      "summary": "119zł - Biedronka Z okazji Black Friday oferta w wybranych sklepach stacjonarnych Biedronka na torebki ze skóry naturalnej i walizki polipropylenowe marki Cholewiński.",
-      "image_url": "https://static.pepper.pl/threads/raw/QpoC7/1399663_1/re/150x150/qt/55/1399663_1.jpg",
-      "price": "119zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Biedronka",
-      "category": "Moda",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Torebka+damska+ze+sk%C3%B3ry+Cholewi%C5%84ski",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-24 23:39",
-          "price": "119zł",
-          "note": "Biedronka"
-        }
-      ]
-    },
-    {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/elektrostymulator-medivon-odinflex-pro-1399661",
-      "title": "Elektrostymulator MEDIVON OdinFlex Pro",
-      "link": "https://www.pepper.pl/promocje/elektrostymulator-medivon-odinflex-pro-1399661",
-      "published": "Tue, 24 Nov 2026 23:50:05 +0100",
-      "summary": "799zł - Media Expert • Regulacja intensywności • 50 programów",
-      "image_url": "https://static.pepper.pl/threads/raw/caecE/1399661_1/re/150x150/qt/55/1399661_1.jpg",
-      "price": "799zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Media Expert",
-      "category": "Zdrowie i uroda",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Elektrostymulator+MEDIVON+OdinFlex+Pro",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-24 23:39",
-          "price": "799zł",
-          "note": "Media Expert"
         }
       ]
     },
@@ -7901,6 +7748,86 @@
     },
     {
       "source": "Rossmann.pl",
+      "deal_id": "rossmann:2082422",
+      "title": "Giorgio Armani woda perfumowana dla kobiet, z możliwością ponownego uzupełnienia",
+      "link": "https://www.rossmann.pl/Produkt/Wody-perfumowane/Giorgio-Armani-Si-woda-perfumowana-dla-kobiet-z-mozliwoscia-ponownego-uzupelnienia-50-ml,2082422,13266",
+      "published": "Aktualna promocja Rossmann.pl",
+      "summary": "Promocja w drogerii Rossmann.pl.",
+      "image_url": "https://pro-fra-s3-productsassets.rossmann.pl/product_7_medium/2082422_360_350_1794479025.webp",
+      "price": "439,99 zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Rossmann.pl",
+      "category": "Perfumy-Perfumy damskie-Wody perfumowane",
+      "store_group": "Odzież i uroda",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Giorgio+Armani+woda+perfumowana+dla",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "przed promocją",
+          "price": "379,99 zł",
+          "note": "przed promocją"
+        },
+        {
+          "date": "30 dni przed obniżką",
+          "price": "299,99 zł",
+          "note": "Najniższa z 30 dni (Omnibus)"
+        },
+        {
+          "date": "2026-11-22 22:45",
+          "price": "289,99 zł",
+          "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-22 22:45",
+          "price": "249,99 zł",
+          "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-22 23:19",
+          "price": "289,99 zł",
+          "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-22 23:19",
+          "price": "249,99 zł",
+          "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-22 23:24",
+          "price": "289,99 zł",
+          "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-22 23:24",
+          "price": "249,99 zł",
+          "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-24 00:43",
+          "price": "329,99 zł",
+          "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-24 08:19",
+          "price": "429,99 zł",
+          "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-25 00:47",
+          "price": "439,99 zł",
+          "note": "Rossmann.pl"
+        }
+      ]
+    },
+    {
+      "source": "Rossmann.pl",
       "deal_id": "rossmann:2131692",
       "title": "Giorgio Armani woda perfumowana dla kobiet",
       "link": "https://www.rossmann.pl/Produkt/Wody-perfumowane/Giorgio-Armani-My-Way-woda-perfumowana-dla-kobiet-50-ml,2131692,13266",
@@ -7971,6 +7898,16 @@
           "date": "2026-11-24 08:19",
           "price": "429,99 zł",
           "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-25 00:47",
+          "price": "439,99 zł",
+          "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-25 00:47",
+          "price": "429,99 zł",
+          "note": "Rossmann.pl"
         }
       ]
     },
@@ -8030,36 +7967,6 @@
         {
           "date": "2026-11-23 18:46",
           "price": "149,99 zł",
-          "note": "Rossmann.pl"
-        }
-      ]
-    },
-    {
-      "source": "Rossmann.pl",
-      "deal_id": "rossmann:2106875",
-      "title": "Jean Paul Gaultier woda perfumowana dla kobiet",
-      "link": "https://www.rossmann.pl/Produkt/Wody-perfumowane/Jean-Paul-Gaultier-Scandal-Le-Parfum-woda-perfumowana-dla-kobiet-50-ml,2106875,13266",
-      "published": "Aktualna promocja Rossmann.pl",
-      "summary": "Promocja w drogerii Rossmann.pl.",
-      "image_url": "https://pro-fra-s3-productsassets.rossmann.pl/product_7_medium/2106875_360_350_1782398966.webp",
-      "price": "549,99 zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Rossmann.pl",
-      "category": "Perfumy-Perfumy damskie-Wody perfumowane",
-      "store_group": "Odzież i uroda",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Jean+Paul+Gaultier+woda+perfumowana",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-24 19:53",
-          "price": "549,99 zł",
           "note": "Rossmann.pl"
         }
       ]
@@ -8185,6 +8092,66 @@
         {
           "date": "2026-11-24 21:45",
           "price": "129,99 zł",
+          "note": "Rossmann.pl"
+        }
+      ]
+    },
+    {
+      "source": "Rossmann.pl",
+      "deal_id": "rossmann:2106875",
+      "title": "Jean Paul Gaultier woda perfumowana dla kobiet",
+      "link": "https://www.rossmann.pl/Produkt/Wody-perfumowane/Jean-Paul-Gaultier-Scandal-Le-Parfum-woda-perfumowana-dla-kobiet-50-ml,2106875,13266",
+      "published": "Aktualna promocja Rossmann.pl",
+      "summary": "Promocja w drogerii Rossmann.pl.",
+      "image_url": "https://pro-fra-s3-productsassets.rossmann.pl/product_7_medium/2106875_360_350_1782398966.webp",
+      "price": "549,99 zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Rossmann.pl",
+      "category": "Perfumy-Perfumy damskie-Wody perfumowane",
+      "store_group": "Odzież i uroda",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Jean+Paul+Gaultier+woda+perfumowana",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-24 19:53",
+          "price": "549,99 zł",
+          "note": "Rossmann.pl"
+        }
+      ]
+    },
+    {
+      "source": "Rossmann.pl",
+      "deal_id": "rossmann:2110717",
+      "title": "Victoria's Secret mgiełka do ciała, perfumowana",
+      "link": "https://www.rossmann.pl/Produkt/Mgielki-zapachowe/Victorias-Secret-Bare-Vanilla-mgielka-do-ciala-perfumowana-250-ml,2110717,13268",
+      "published": "Aktualna promocja Rossmann.pl",
+      "summary": "Promocja w drogerii Rossmann.pl.",
+      "image_url": "https://pro-fra-s3-productsassets.rossmann.pl/product_1_medium/2110717_360_350_1795523133.webp",
+      "price": "94,99 zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Rossmann.pl",
+      "category": "Perfumy-Perfumy damskie-Mgiełki zapachowe",
+      "store_group": "Odzież i uroda",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Victoria+Secret+mgie%C5%82ka+do+cia%C5%82a",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-23 09:07",
+          "price": "94,99 zł",
           "note": "Rossmann.pl"
         }
       ]
