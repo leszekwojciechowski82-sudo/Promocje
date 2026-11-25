@@ -1881,6 +1881,16 @@
       "date": "2026-11-25 00:47",
       "price": "429,99 zł",
       "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-25 02:12",
+      "price": "439,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-25 02:12",
+      "price": "429,99 zł",
+      "note": "Rossmann.pl"
     }
   ],
   "isana kalendarz adwentowy z maskami do": [
@@ -3724,16 +3734,6 @@
   ],
   "pepco maskotka ludzik piernikowy": [
     {
-      "date": "2026-11-24 15:29",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-24 15:29",
-      "price": "50 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-24 16:37",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3820,22 +3820,22 @@
     },
     {
       "date": "2026-11-25 00:47",
+      "price": "50 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-25 02:12",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-25 02:12",
       "price": "50 zł",
       "note": "Pepco.pl"
     }
   ],
   "pepco dekoracja tekstylna mini ludzik piernikowy": [
     {
-      "date": "2026-11-24 15:29",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-24 15:29",
-      "price": "10 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-24 16:37",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3922,6 +3922,16 @@
     },
     {
       "date": "2026-11-25 00:47",
+      "price": "10 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-25 02:12",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-25 02:12",
       "price": "10 zł",
       "note": "Pepco.pl"
     }
@@ -4033,16 +4043,6 @@
   ],
   "pepco zabawkowy sklep z półkami": [
     {
-      "date": "2026-11-24 15:29",
-      "price": "120 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-24 15:29",
-      "price": "105 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-24 16:37",
       "price": "120 zł",
       "note": "Pepco.pl"
@@ -4129,6 +4129,16 @@
     },
     {
       "date": "2026-11-25 00:47",
+      "price": "105 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-25 02:12",
+      "price": "120 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-25 02:12",
       "price": "105 zł",
       "note": "Pepco.pl"
     }
@@ -12789,6 +12799,11 @@
   ],
   "crivit samochodowy materac dmuchany": [
     {
+      "date": "przed promocją",
+      "price": "129 zł",
+      "note": "przed promocją"
+    },
+    {
       "date": "30 dni przed obniżką",
       "price": "129 zł",
       "note": "Najniższa z 30 dni (Omnibus)"
@@ -12867,6 +12882,83 @@
       "date": "2026-11-25 00:47",
       "price": "1,99zł",
       "note": "Allegro"
+    }
+  ],
+  "trencz damski 90 lidl": [
+    {
+      "date": "2026-11-25 02:12",
+      "price": "6zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "alice in chains dirt 30th anniversary": [
+    {
+      "date": "2026-11-25 02:12",
+      "price": "57,89zł",
+      "note": "InPost"
+    }
+  ],
+  "kurtyna led govee curtain lights 2": [
+    {
+      "date": "2026-11-25 02:12",
+      "price": "389,99zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "ładowarka ugreen nexode pro 300w": [
+    {
+      "date": "2026-11-25 02:12",
+      "price": "469,99zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "gra android stardew valley": [
+    {
+      "date": "2026-11-25 02:12",
+      "price": "11zł",
+      "note": "Google Play"
+    }
+  ],
+  "stardew valley android najniższa cena w": [
+    {
+      "date": "2026-11-25 02:12",
+      "price": "11zł",
+      "note": "Google Play"
+    }
+  ],
+  "retro wspomnienia lat 80 wybierz się": [
+    {
+      "date": "2026-11-25 02:12",
+      "price": "56,68zł",
+      "note": "Dadada"
+    }
+  ],
+  "ładowarka rocoren 480 w gan pd": [
+    {
+      "date": "2026-11-25 02:12",
+      "price": "179,99zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "czerwona kometa krótkie życie i nieśmiertelna": [
+    {
+      "date": "2026-11-25 02:12",
+      "price": "16,99zł",
+      "note": "Virtualo"
+    }
+  ],
+  "vw golf kombi 2 0 tsi": [
+    {
+      "date": "2026-11-25 02:12",
+      "price": "187 990zł",
+      "note": "Volkswagen"
+    }
+  ],
+  "fire maple zestaw naczyń feast 2": [
+    {
+      "date": "2026-11-25 02:12",
+      "price": "113,40zł",
+      "note": "Skalnik"
     }
   ]
 }
