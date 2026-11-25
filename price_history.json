@@ -3553,16 +3553,6 @@
   ],
   "lupilu śniegowce chłopięce": [
     {
-      "date": "2026-11-24 22:45",
-      "price": "52,72 zł",
-      "note": "Lidl.pl"
-    },
-    {
-      "date": "2026-11-24 22:45",
-      "price": "53,52 zł",
-      "note": "Lidl.pl"
-    },
-    {
       "date": "2026-11-24 23:39",
       "price": "52,72 zł",
       "note": "Lidl.pl"
@@ -3649,6 +3639,16 @@
     },
     {
       "date": "2026-11-25 15:29",
+      "price": "53,52 zł",
+      "note": "Lidl.pl"
+    },
+    {
+      "date": "2026-11-25 16:38",
+      "price": "52,72 zł",
+      "note": "Lidl.pl"
+    },
+    {
+      "date": "2026-11-25 16:38",
       "price": "53,52 zł",
       "note": "Lidl.pl"
     }
@@ -3774,16 +3774,6 @@
   ],
   "pepco maskotka ludzik piernikowy": [
     {
-      "date": "2026-11-25 04:37",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-25 04:37",
-      "price": "50 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-25 05:49",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3870,22 +3860,22 @@
     },
     {
       "date": "2026-11-25 15:29",
+      "price": "50 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-25 16:38",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-25 16:38",
       "price": "50 zł",
       "note": "Pepco.pl"
     }
   ],
   "pepco dekoracja tekstylna mini ludzik piernikowy": [
     {
-      "date": "2026-11-25 04:37",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-25 04:37",
-      "price": "10 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-25 05:49",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3972,6 +3962,16 @@
     },
     {
       "date": "2026-11-25 15:29",
+      "price": "10 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-25 16:38",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-25 16:38",
       "price": "10 zł",
       "note": "Pepco.pl"
     }
@@ -4083,16 +4083,6 @@
   ],
   "pepco zabawkowy sklep z półkami": [
     {
-      "date": "2026-11-25 04:37",
-      "price": "120 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-25 04:37",
-      "price": "105 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-25 05:49",
       "price": "120 zł",
       "note": "Pepco.pl"
@@ -4179,6 +4169,16 @@
     },
     {
       "date": "2026-11-25 15:29",
+      "price": "105 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-25 16:38",
+      "price": "120 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-25 16:38",
       "price": "105 zł",
       "note": "Pepco.pl"
     }
@@ -5963,6 +5963,11 @@
     {
       "date": "2026-11-23 12:55",
       "price": "69,99zł",
+      "note": "Empik"
+    },
+    {
+      "date": "2026-11-25 16:38",
+      "price": "68,99zł",
       "note": "Empik"
     }
   ],
@@ -15308,6 +15313,179 @@
       "date": "2026-11-25 15:29",
       "price": "79,99zł",
       "note": "PerfectBlue"
+    }
+  ],
+  "akumulatorowa wiertarko wkrętarka parkside 12v lidl": [
+    {
+      "date": "2026-11-25 16:38",
+      "price": "149zł",
+      "note": "Lidl"
+    }
+  ],
+  "wittchen rabat 35 na portfele odzież": [
+    {
+      "date": "2026-11-25 16:38",
+      "price": "249 zł",
+      "note": "Wittchen"
+    }
+  ],
+  "suszarka philips seria 5000 bhd530 00": [
+    {
+      "date": "przed promocją",
+      "price": "219 zł",
+      "note": "przed promocją"
+    },
+    {
+      "date": "2026-11-25 16:38",
+      "price": "149zł",
+      "note": "Allegro"
+    }
+  ],
+  "woda demineralizowana 5 l 2 49": [
+    {
+      "date": "2026-11-25 16:38",
+      "price": "2,49zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "ogromna cudowna 3 m czerwona kokarda": [
+    {
+      "date": "2026-11-25 16:38",
+      "price": "113,95zł",
+      "note": "Allegro"
+    }
+  ],
+  "bardzo duży renifer 135 cm 400": [
+    {
+      "date": "2026-11-25 16:38",
+      "price": "299,95zł",
+      "note": "Allegro"
+    }
+  ],
+  "laptop lenovo loq 15 ryzen 7": [
+    {
+      "date": "2026-11-25 16:38",
+      "price": "3 399zł",
+      "note": "Komputronik"
+    }
+  ],
+  "hot wheels city rekin transporter gvg36": [
+    {
+      "date": "2026-11-25 16:38",
+      "price": "40,99zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "cerave zestaw oczyszczający żel do mycia": [
+    {
+      "date": "2026-11-25 16:38",
+      "price": "97,99zł",
+      "note": "Allegro"
+    }
+  ],
+  "tom ford oud minerale 100ml woda": [
+    {
+      "date": "2026-11-25 16:38",
+      "price": "339,99zł",
+      "note": "Allegro"
+    }
+  ],
+  "nike air max rozmiary 42 43": [
+    {
+      "date": "2026-11-25 16:38",
+      "price": "228,93zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "buty adidas courtwave męskie rozm 42": [
+    {
+      "date": "2026-11-25 16:38",
+      "price": "139zł",
+      "note": "Zalando"
+    }
+  ],
+  "kupon 20 zł 100 zł 30": [
+    {
+      "date": "2026-11-25 16:38",
+      "price": "20zł",
+      "note": "Ceneo"
+    }
+  ],
+  "frytkownica beztłuszczowa ninja dual zone 7": [
+    {
+      "date": "2026-11-25 16:38",
+      "price": "395,99zł",
+      "note": "Allegro"
+    }
+  ],
+  "worki na śmieci 9 gr za": [
+    {
+      "date": "2026-11-25 16:38",
+      "price": "14,23zł",
+      "note": "Allegro"
+    }
+  ],
+  "buty męskie adidas orginals la trainer": [
+    {
+      "date": "2026-11-25 16:38",
+      "price": "225zł",
+      "note": "Zalando"
+    }
+  ],
+  "monitor gigabyte g27q20": [
+    {
+      "date": "2026-11-25 16:38",
+      "price": "638,79zł",
+      "note": "Morele.net"
+    }
+  ],
+  "nba league pass": [
+    {
+      "date": "2026-11-25 16:38",
+      "price": "199zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "dior fahrenheit woda toaletowa 50ml": [
+    {
+      "date": "2026-11-25 16:38",
+      "price": "279,56zł",
+      "note": "Notino"
+    }
+  ],
+  "5 częściowy zestaw mat do grilla": [
+    {
+      "date": "2026-11-25 16:38",
+      "price": "8zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "perfumy fragrance one club 100ml 269zł": [
+    {
+      "date": "2026-11-25 16:38",
+      "price": "147,99zł",
+      "note": "Morele.net"
+    }
+  ],
+  "wsiąść do pociągu europa 1912 dodatek": [
+    {
+      "date": "2026-11-25 16:38",
+      "price": "58,99zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "różowy pączek szydełkowy handmade zcoins pocket": [
+    {
+      "date": "2026-11-25 16:38",
+      "price": "12,34zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "gra zręcznościowa logiczna spin master perplexus": [
+    {
+      "date": "2026-11-25 16:38",
+      "price": "59,91zł",
+      "note": "Allegro"
     }
   ]
 }
