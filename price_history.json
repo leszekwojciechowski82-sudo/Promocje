@@ -3819,16 +3819,6 @@
   ],
   "pepco maskotka ludzik piernikowy": [
     {
-      "date": "2026-11-25 18:39",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-25 18:39",
-      "price": "50 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-25 19:45",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3915,22 +3905,22 @@
     },
     {
       "date": "2026-11-26 04:33",
+      "price": "50 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-26 05:50",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-26 05:50",
       "price": "50 zł",
       "note": "Pepco.pl"
     }
   ],
   "pepco dekoracja tekstylna mini ludzik piernikowy": [
     {
-      "date": "2026-11-25 18:39",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-25 18:39",
-      "price": "10 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-25 19:45",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -4017,6 +4007,16 @@
     },
     {
       "date": "2026-11-26 04:33",
+      "price": "10 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-26 05:50",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-26 05:50",
       "price": "10 zł",
       "note": "Pepco.pl"
     }
@@ -4128,16 +4128,6 @@
   ],
   "pepco zabawkowy sklep z półkami": [
     {
-      "date": "2026-11-25 18:39",
-      "price": "120 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-25 18:39",
-      "price": "105 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-25 19:45",
       "price": "120 zł",
       "note": "Pepco.pl"
@@ -4224,6 +4214,16 @@
     },
     {
       "date": "2026-11-26 04:33",
+      "price": "105 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-26 05:50",
+      "price": "120 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-26 05:50",
       "price": "105 zł",
       "note": "Pepco.pl"
     }
@@ -4564,16 +4564,6 @@
   ],
   "calvin klein woda toaletowa dla kobiet": [
     {
-      "date": "2026-11-24 21:45",
-      "price": "149,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
-      "date": "2026-11-24 21:45",
-      "price": "99,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
       "date": "2026-11-25 09:44",
       "price": "149,99 zł",
       "note": "Rossmann.pl"
@@ -4662,19 +4652,19 @@
       "date": "2026-11-26 04:33",
       "price": "99,99 zł",
       "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-26 05:50",
+      "price": "149,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-26 05:50",
+      "price": "99,99 zł",
+      "note": "Rossmann.pl"
     }
   ],
   "calvin klein woda perfumowana dla kobiet": [
-    {
-      "date": "2026-11-24 17:43",
-      "price": "229,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
-      "date": "2026-11-24 17:43",
-      "price": "199,99 zł",
-      "note": "Rossmann.pl"
-    },
     {
       "date": "2026-11-24 18:44",
       "price": "129,99 zł",
@@ -4762,6 +4752,16 @@
     },
     {
       "date": "2026-11-26 04:33",
+      "price": "149,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-26 05:50",
+      "price": "129,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-26 05:50",
       "price": "149,99 zł",
       "note": "Rossmann.pl"
     }
@@ -16676,6 +16676,11 @@
   ],
   "esmara damskie jeansy straight fit wysoki": [
     {
+      "date": "przed promocją",
+      "price": "54,90 zł",
+      "note": "przed promocją"
+    },
+    {
       "date": "30 dni przed obniżką",
       "price": "54,90 zł",
       "note": "Najniższa z 30 dni (Omnibus)"
@@ -17423,6 +17428,11 @@
   ],
   "silvercrest zestaw 5 pojemników do przechowywania": [
     {
+      "date": "przed promocją",
+      "price": "40,99 zł",
+      "note": "przed promocją"
+    },
+    {
       "date": "30 dni przed obniżką",
       "price": "40,99 zł",
       "note": "Najniższa z 30 dni (Omnibus)"
@@ -17434,6 +17444,11 @@
     }
   ],
   "tronic ceramiczny termowentylator tkhl 1200 b1": [
+    {
+      "date": "przed promocją",
+      "price": "63,90 zł",
+      "note": "przed promocją"
+    },
     {
       "date": "30 dni przed obniżką",
       "price": "63,90 zł",
@@ -17447,6 +17462,11 @@
   ],
   "silvercrest zestaw 4 pojemników na wędliny": [
     {
+      "date": "przed promocją",
+      "price": "17,99 zł",
+      "note": "przed promocją"
+    },
+    {
       "date": "30 dni przed obniżką",
       "price": "17,99 zł",
       "note": "Najniższa z 30 dni (Omnibus)"
@@ -17458,6 +17478,11 @@
     }
   ],
   "parkside akumulatorowa lampa led 20 v": [
+    {
+      "date": "przed promocją",
+      "price": "51,90 zł",
+      "note": "przed promocją"
+    },
     {
       "date": "30 dni przed obniżką",
       "price": "51,90 zł",
@@ -17495,6 +17520,165 @@
       "date": "2026-11-26 04:33",
       "price": "278 zł",
       "note": "OBI.pl"
+    }
+  ],
+  "50 znizki na plany roczne": [
+    {
+      "date": "2026-11-26 05:50",
+      "price": "424,99zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "głośnik jbl partybox club 120 czarny": [
+    {
+      "date": "przed promocją",
+      "price": "1259 zł",
+      "note": "przed promocją"
+    },
+    {
+      "date": "2026-11-26 05:50",
+      "price": "999zł",
+      "note": "Media Expert"
+    }
+  ],
+  "poco f9 ultra 12 256gb black": [
+    {
+      "date": "2026-11-26 05:50",
+      "price": "2 490zł",
+      "note": "AliExpress"
+    }
+  ],
+  "słuchawki dokanałowe philips tat1510bk00 anc czarny": [
+    {
+      "date": "2026-11-26 05:50",
+      "price": "59zł",
+      "note": "Media Expert"
+    }
+  ],
+  "ładowarka sieciowa puro minipro gan usb": [
+    {
+      "date": "2026-11-26 05:50",
+      "price": "20,99zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "prostownica philips bhs515 00 seria 5000": [
+    {
+      "date": "2026-11-26 05:50",
+      "price": "99zł",
+      "note": "Media Expert"
+    }
+  ],
+  "starter nju karta sim prepaid extra": [
+    {
+      "date": "2026-11-26 05:50",
+      "price": "3,43zł",
+      "note": "Allegro"
+    }
+  ],
+  "klawiatura sven kb e5300w grafitowa": [
+    {
+      "date": "2026-11-26 05:50",
+      "price": "22,96zł",
+      "note": "Morele.net"
+    }
+  ],
+  "amazon pl soundcore p42i bezprzewodowe słuchawki": [
+    {
+      "date": "2026-11-26 05:50",
+      "price": "229zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "songmics home podróżna szkatułka na biżuterię": [
+    {
+      "date": "2026-11-26 05:50",
+      "price": "33,59zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "saturator sodastream mix czarny z możliwością": [
+    {
+      "date": "2026-11-26 05:50",
+      "price": "299zł",
+      "note": "Media Expert"
+    }
+  ],
+  "nawóz do róż i roślin kwitnacych": [
+    {
+      "date": "2026-11-26 05:50",
+      "price": "1,19zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "czytam sobie lem i zagadki kosmosu": [
+    {
+      "date": "2026-11-26 05:50",
+      "price": "11,88zł",
+      "note": "Allegro"
+    }
+  ],
+  "zielona sztuczna girlanda świąteczna 10 m": [
+    {
+      "date": "2026-11-26 05:50",
+      "price": "28,42zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "książeczka z zadaniami i łamigłówkami kaufland": [
+    {
+      "date": "2026-11-26 05:50",
+      "price": "0,01zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "fc27 ps5 możliwe 166 99 z": [
+    {
+      "date": "2026-11-26 05:50",
+      "price": "178,99zł",
+      "note": "InPost"
+    }
+  ],
+  "gra kingdom come deliverance ii gra": [
+    {
+      "date": "2026-11-26 05:50",
+      "price": "89,99zł",
+      "note": "Media Expert"
+    }
+  ],
+  "tablet lenovo tab 10 4gb 64gb": [
+    {
+      "date": "2026-11-26 05:50",
+      "price": "639zł",
+      "note": "Allegro"
+    }
+  ],
+  "buty nike sb delta force rozm": [
+    {
+      "date": "2026-11-26 05:50",
+      "price": "148zł",
+      "note": "Zalando"
+    }
+  ],
+  "buty męskie adidas terrex eastrail rozm": [
+    {
+      "date": "2026-11-26 05:50",
+      "price": "197zł",
+      "note": "Zalando"
+    }
+  ],
+  "ładowarka do samochodów elektrycznych mobidea typ": [
+    {
+      "date": "2026-11-26 05:50",
+      "price": "529,46zł",
+      "note": "AliExpress"
+    }
+  ],
+  "rabanne woda toaletowa dla mężczyzn": [
+    {
+      "date": "2026-11-26 05:50",
+      "price": "419,99 zł",
+      "note": "Rossmann.pl"
     }
   ]
 }
