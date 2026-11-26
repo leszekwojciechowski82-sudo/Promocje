@@ -3819,16 +3819,6 @@
   ],
   "pepco maskotka ludzik piernikowy": [
     {
-      "date": "2026-11-25 20:43",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-25 20:43",
-      "price": "50 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-25 21:46",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3915,22 +3905,22 @@
     },
     {
       "date": "2026-11-26 06:55",
+      "price": "50 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-26 08:23",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-26 08:23",
       "price": "50 zł",
       "note": "Pepco.pl"
     }
   ],
   "pepco dekoracja tekstylna mini ludzik piernikowy": [
     {
-      "date": "2026-11-25 20:43",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-25 20:43",
-      "price": "10 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-25 21:46",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -4017,6 +4007,16 @@
     },
     {
       "date": "2026-11-26 06:55",
+      "price": "10 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-26 08:23",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-26 08:23",
       "price": "10 zł",
       "note": "Pepco.pl"
     }
@@ -4128,16 +4128,6 @@
   ],
   "pepco zabawkowy sklep z półkami": [
     {
-      "date": "2026-11-25 20:43",
-      "price": "120 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-25 20:43",
-      "price": "105 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-25 21:46",
       "price": "120 zł",
       "note": "Pepco.pl"
@@ -4224,6 +4214,16 @@
     },
     {
       "date": "2026-11-26 06:55",
+      "price": "105 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-26 08:23",
+      "price": "120 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-26 08:23",
       "price": "105 zł",
       "note": "Pepco.pl"
     }
@@ -4565,11 +4565,6 @@
   "calvin klein woda toaletowa dla kobiet": [
     {
       "date": "2026-11-25 10:48",
-      "price": "149,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
-      "date": "2026-11-25 10:48",
       "price": "99,99 zł",
       "note": "Rossmann.pl"
     },
@@ -4662,19 +4657,14 @@
       "date": "2026-11-26 06:55",
       "price": "99,99 zł",
       "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-26 08:23",
+      "price": "149,99 zł",
+      "note": "Rossmann.pl"
     }
   ],
   "calvin klein woda perfumowana dla kobiet": [
-    {
-      "date": "2026-11-24 19:53",
-      "price": "129,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
-      "date": "2026-11-24 20:43",
-      "price": "199,99 zł",
-      "note": "Rossmann.pl"
-    },
     {
       "date": "2026-11-24 20:43",
       "price": "229,99 zł",
@@ -4762,6 +4752,16 @@
     },
     {
       "date": "2026-11-26 06:55",
+      "price": "149,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-26 08:23",
+      "price": "129,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-26 08:23",
       "price": "149,99 zł",
       "note": "Rossmann.pl"
     }
@@ -9834,6 +9834,16 @@
       "date": "2026-11-26 03:24",
       "price": "159,99 zł",
       "note": "Smyk.com"
+    },
+    {
+      "date": "2026-11-26 08:23",
+      "price": "109 zł",
+      "note": "Smyk.com"
+    },
+    {
+      "date": "2026-11-26 08:23",
+      "price": "159,99 zł",
+      "note": "Smyk.com"
     }
   ],
   "cool club czapka z daszkiem chłopięca": [
@@ -10237,6 +10247,11 @@
     {
       "date": "2026-11-24 10:46",
       "price": "6 049zł",
+      "note": "Allegro"
+    },
+    {
+      "date": "2026-11-26 08:23",
+      "price": "5 099zł",
       "note": "Allegro"
     }
   ],
@@ -11045,6 +11060,16 @@
     },
     {
       "date": "2026-11-26 03:24",
+      "price": "159,99 zł",
+      "note": "Smyk.com"
+    },
+    {
+      "date": "2026-11-26 08:23",
+      "price": "149,99 zł",
+      "note": "Smyk.com"
+    },
+    {
+      "date": "2026-11-26 08:23",
       "price": "159,99 zł",
       "note": "Smyk.com"
     }
@@ -13541,6 +13566,11 @@
       "date": "2026-11-25 05:49",
       "price": "825,32zł",
       "note": "Amazon.de"
+    },
+    {
+      "date": "2026-11-26 08:23",
+      "price": "829zł",
+      "note": "Allegro"
     }
   ],
   "wsiąść do pociągu ameryka północna gra": [
@@ -14270,6 +14300,11 @@
     {
       "date": "2026-11-25 09:44",
       "price": "5 599zł",
+      "note": "Allegro"
+    },
+    {
+      "date": "2026-11-26 08:23",
+      "price": "4 549zł",
       "note": "Allegro"
     }
   ],
@@ -17321,6 +17356,11 @@
   ],
   "hot wheels t rex mega transporter": [
     {
+      "date": "przed promocją",
+      "price": "390 zł",
+      "note": "przed promocją"
+    },
+    {
       "date": "30 dni przed obniżką",
       "price": "390 zł",
       "note": "Najniższa z 30 dni (Omnibus)"
@@ -17332,6 +17372,11 @@
     }
   ],
   "lego speed champions ferrari 499p 77261": [
+    {
+      "date": "przed promocją",
+      "price": "109,99 zł",
+      "note": "przed promocją"
+    },
     {
       "date": "30 dni przed obniżką",
       "price": "109,99 zł",
@@ -17345,6 +17390,11 @@
   ],
   "lilo i stitch double trouble stitch": [
     {
+      "date": "przed promocją",
+      "price": "299 zł",
+      "note": "przed promocją"
+    },
+    {
       "date": "30 dni przed obniżką",
       "price": "299 zł",
       "note": "Najniższa z 30 dni (Omnibus)"
@@ -17356,6 +17406,11 @@
     }
   ],
   "hot wheels city wyścigowa wieża z": [
+    {
+      "date": "przed promocją",
+      "price": "149,99 zł",
+      "note": "przed promocją"
+    },
     {
       "date": "30 dni przed obniżką",
       "price": "149,99 zł",
@@ -17369,6 +17424,11 @@
   ],
   "lego pok mon smart play dom": [
     {
+      "date": "przed promocją",
+      "price": "249 zł",
+      "note": "przed promocją"
+    },
+    {
       "date": "30 dni przed obniżką",
       "price": "249 zł",
       "note": "Najniższa z 30 dni (Omnibus)"
@@ -17380,6 +17440,11 @@
     }
   ],
   "vtech mój przyjaciel pies zabawka interaktywna": [
+    {
+      "date": "przed promocją",
+      "price": "109,99 zł",
+      "note": "przed promocją"
+    },
     {
       "date": "30 dni przed obniżką",
       "price": "109,99 zł",
@@ -17896,6 +17961,208 @@
       "date": "2026-11-26 06:55",
       "price": "299,99 zł",
       "note": "Rossmann.pl"
+    }
+  ],
+  "kamera dji osmo pocket 3 w": [
+    {
+      "date": "2026-11-26 08:23",
+      "price": "1 099,99zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "black energy 250ml 3 3 gratis": [
+    {
+      "date": "2026-11-26 08:23",
+      "price": "1,50zł",
+      "note": "Dino"
+    }
+  ],
+  "dron dji lito x1 dwie raty": [
+    {
+      "date": "2026-11-26 08:23",
+      "price": "1 530,67zł",
+      "note": "Media Expert"
+    }
+  ],
+  "scoot ride plecak na hulajnogę": [
+    {
+      "date": "2026-11-26 08:23",
+      "price": "49,99zł",
+      "note": "Smyk"
+    }
+  ],
+  "lusterko kosmetyczne raven z oświetleniem led": [
+    {
+      "date": "przed promocją",
+      "price": "149,99 zł",
+      "note": "przed promocją"
+    },
+    {
+      "date": "2026-11-26 08:23",
+      "price": "45zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "bezprzewodowe słuchawki gamingowe secret gear sx2": [
+    {
+      "date": "przed promocją",
+      "price": "199 zł",
+      "note": "przed promocją"
+    },
+    {
+      "date": "2026-11-26 08:23",
+      "price": "139zł",
+      "note": "Morele.net"
+    }
+  ],
+  "livarno ultradźwiękowy dyfuzor aromatu ladh 12": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "58,90 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-26 08:23",
+      "price": "40,99 zł",
+      "note": "Lidl.pl"
+    }
+  ],
+  "telewizor dreame 65s100 65 mini led": [
+    {
+      "date": "przed promocją",
+      "price": "3499 zł",
+      "note": "przed promocją"
+    },
+    {
+      "date": "2026-11-26 08:23",
+      "price": "2 999zł",
+      "note": "x-kom"
+    }
+  ],
+  "rossmann kupon 1 1 na szampony": [
+    {
+      "date": "2026-11-26 08:23",
+      "price": "11,25zł",
+      "note": "Rossmann"
+    }
+  ],
+  "lego star wars 75328 hełm mandalorianina": [
+    {
+      "date": "2026-11-26 08:23",
+      "price": "189zł",
+      "note": "al.to"
+    }
+  ],
+  "laptop apple macbook air 13 6": [
+    {
+      "date": "2026-11-26 08:23",
+      "price": "6 099zł",
+      "note": "Allegro"
+    }
+  ],
+  "czapka zimowa z pomponem buff czarna": [
+    {
+      "date": "2026-11-26 08:23",
+      "price": "55,99zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "konsola playstation 5 pro wysyłka w": [
+    {
+      "date": "2026-11-26 08:23",
+      "price": "5 563zł",
+      "note": "Overlockers"
+    }
+  ],
+  "radar rowerowy coospo tr70": [
+    {
+      "date": "2026-11-26 08:23",
+      "price": "256zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "multistyler dyson airwrap i d straight": [
+    {
+      "date": "2026-11-26 08:23",
+      "price": "1 599zł",
+      "note": "Allegro"
+    }
+  ],
+  "rossmann mydło w płynie zapas isana": [
+    {
+      "date": "2026-11-26 08:23",
+      "price": "2,59zł",
+      "note": "Rossmann"
+    }
+  ],
+  "wszystkie koła rowerowe marki evanlite 1000zł": [
+    {
+      "date": "2026-11-26 08:23",
+      "price": "3 799zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "lotus biscoff ciastka markizy 3 rodzaje": [
+    {
+      "date": "2026-11-26 08:23",
+      "price": "45,96zł",
+      "note": "Amazon.de"
+    }
+  ],
+  "klucz serwisowy 4 w 1 kaylre": [
+    {
+      "date": "2026-11-26 08:23",
+      "price": "10,19zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "27 11 g 9 00 telewizor": [
+    {
+      "date": "2026-11-26 08:23",
+      "price": "2 799zł",
+      "note": "Allegro"
+    }
+  ],
+  "jabra evolve2 buds adapter bluetooth link": [
+    {
+      "date": "2026-11-26 08:23",
+      "price": "382,11zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "szlifierka kątowa do betonu 125mm 1500w": [
+    {
+      "date": "2026-11-26 08:23",
+      "price": "810zł",
+      "note": "Allegro"
+    }
+  ],
+  "27 11 g 9 00 laptop": [
+    {
+      "date": "2026-11-26 08:23",
+      "price": "6 099zł",
+      "note": "Allegro"
+    }
+  ],
+  "samochód fiat pandina 1 0 gse": [
+    {
+      "date": "2026-11-26 08:23",
+      "price": "54 900zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "leatherman multitool wave plus": [
+    {
+      "date": "2026-11-26 08:23",
+      "price": "421,85zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "fire maple kuchenka fms x1 firemaple": [
+    {
+      "date": "2026-11-26 08:23",
+      "price": "110,70zł",
+      "note": "Skalnik"
     }
   ]
 }
