@@ -3819,16 +3819,6 @@
   ],
   "pepco maskotka ludzik piernikowy": [
     {
-      "date": "2026-11-26 00:47",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-26 00:47",
-      "price": "50 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-26 02:11",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3915,6 +3905,16 @@
     },
     {
       "date": "2026-11-26 11:48",
+      "price": "50 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-26 12:57",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-26 12:57",
       "price": "50 zł",
       "note": "Pepco.pl"
     }
@@ -4565,11 +4565,6 @@
   "calvin klein woda toaletowa dla kobiet": [
     {
       "date": "2026-11-25 23:39",
-      "price": "99,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
-      "date": "2026-11-25 23:39",
       "price": "149,99 zł",
       "note": "Rossmann.pl"
     },
@@ -4662,19 +4657,14 @@
       "date": "2026-11-26 11:48",
       "price": "149,99 zł",
       "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-26 12:57",
+      "price": "99,99 zł",
+      "note": "Rossmann.pl"
     }
   ],
   "calvin klein woda perfumowana dla kobiet": [
-    {
-      "date": "2026-11-26 00:47",
-      "price": "149,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
-      "date": "2026-11-26 02:11",
-      "price": "129,99 zł",
-      "note": "Rossmann.pl"
-    },
     {
       "date": "2026-11-26 02:11",
       "price": "149,99 zł",
@@ -4764,6 +4754,16 @@
       "date": "2026-11-26 11:48",
       "price": "149,99 zł",
       "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-26 12:57",
+      "price": "129,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-26 12:57",
+      "price": "149,99 zł",
+      "note": "Rossmann.pl"
     }
   ],
   "qbrick system skrzynka narzędziowa one red": [
@@ -4804,6 +4804,16 @@
     },
     {
       "date": "2026-11-26 11:48",
+      "price": "139 zł",
+      "note": "OBI.pl"
+    },
+    {
+      "date": "2026-11-26 12:57",
+      "price": "119 zł",
+      "note": "OBI.pl"
+    },
+    {
+      "date": "2026-11-26 12:57",
       "price": "139 zł",
       "note": "OBI.pl"
     }
@@ -17034,6 +17044,11 @@
       "date": "2026-11-25 23:39",
       "price": "999zł",
       "note": "Media Expert"
+    },
+    {
+      "date": "2026-11-26 12:57",
+      "price": "960zł",
+      "note": "MediaMarkt"
     }
   ],
   "gra planszowa cthulhu dark providence uno": [
@@ -18968,6 +18983,231 @@
       "date": "2026-11-26 11:48",
       "price": "29,99 zł",
       "note": "Rossmann.pl"
+    }
+  ],
+  "mk caf premium 500 g 1": [
+    {
+      "date": "2026-11-26 12:57",
+      "price": "19zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "ptasie mleczko e wedel różne smaki": [
+    {
+      "date": "2026-11-26 12:57",
+      "price": "9,50zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "kinder bueno 3pak 1 66zł za": [
+    {
+      "date": "2026-11-26 12:57",
+      "price": "1,66zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "vintage jazz caf lp płyta winylowa": [
+    {
+      "date": "2026-11-26 12:57",
+      "price": "79,99zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "zuru interaktywny piesek z akcesoriami pets": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "82,95 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-26 12:57",
+      "price": "39,99 zł",
+      "note": "Lidl.pl"
+    }
+  ],
+  "ziaja płyn do higieny intymnej z": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "9,49 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-26 12:57",
+      "price": "6,99 zł",
+      "note": "Rossmann.pl"
+    }
+  ],
+  "fluff zestaw kosmetyków dla kobiet mleczka": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "59,99 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-26 12:57",
+      "price": "47,99 zł",
+      "note": "Rossmann.pl"
+    }
+  ],
+  "przedłużacz ochronny z 3 gniazdami 250": [
+    {
+      "date": "2026-11-26 12:57",
+      "price": "35,14zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "iphone 18 pro 512gb czarny": [
+    {
+      "date": "2026-11-26 12:57",
+      "price": "7 029zł",
+      "note": "Allegro"
+    }
+  ],
+  "krukam pasta orzechowa crunchy z kawałkami": [
+    {
+      "date": "2026-11-26 12:57",
+      "price": "13,99zł",
+      "note": "KruKam"
+    }
+  ],
+  "apple ipad mini a17 pro liquid": [
+    {
+      "date": "2026-11-26 12:57",
+      "price": "1 999zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "buty adidas runfalcon 5 jr": [
+    {
+      "date": "2026-11-26 12:57",
+      "price": "116,35zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "szczypce chwytakowe dla seniorów 91 cm": [
+    {
+      "date": "2026-11-26 12:57",
+      "price": "24,69zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "ciepłe rękawiczki zimowe z wełną merino": [
+    {
+      "date": "2026-11-26 12:57",
+      "price": "24,99zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "ekspres delonghi genio s możliwe 179": [
+    {
+      "date": "2026-11-26 12:57",
+      "price": "199,99zł",
+      "note": "Dolce Gusto"
+    }
+  ],
+  "kontroler bezprzewodowy playstation dualsense nocna czerń": [
+    {
+      "date": "2026-11-26 12:57",
+      "price": "219zł",
+      "note": "MediaMarkt"
+    }
+  ],
+  "figurka ruchoma multiverse superman black suit": [
+    {
+      "date": "2026-11-26 12:57",
+      "price": "49,99zł",
+      "note": "Media Expert"
+    }
+  ],
+  "chłodzenie cpu be quiet pure rock": [
+    {
+      "date": "2026-11-26 12:57",
+      "price": "149zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "telewizor sony bravia 6 k 65a65": [
+    {
+      "date": "2026-11-26 12:57",
+      "price": "4 811,63zł",
+      "note": "Sony"
+    }
+  ],
+  "fotel ogrodowy kave home geralda": [
+    {
+      "date": "2026-11-26 12:57",
+      "price": "585zł",
+      "note": "Bonami"
+    }
+  ],
+  "prowadnica do wiercenia kwb drillblock 4": [
+    {
+      "date": "2026-11-26 12:57",
+      "price": "41,45zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "chrzan z czarną porzeczką 200g dino": [
+    {
+      "date": "2026-11-26 12:57",
+      "price": "1,29zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "sznurówki do butów dcceeo 4 szt": [
+    {
+      "date": "2026-11-26 12:57",
+      "price": "5,99zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "christmas classics lp płyta winylowa presley": [
+    {
+      "date": "2026-11-26 12:57",
+      "price": "69,97zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "pani mikołajowa damski strój przebranie świąteczne": [
+    {
+      "date": "2026-11-26 12:57",
+      "price": "25,37zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "auchan ps5 playstation 5 pad": [
+    {
+      "date": "2026-11-26 12:57",
+      "price": "1 450zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "czajnik gorenje k170gs w mediaexpert": [
+    {
+      "date": "2026-11-26 12:57",
+      "price": "79,99zł",
+      "note": "Media Expert"
+    }
+  ],
+  "kamera termowizyjna hikmicro mini2 v2 ios": [
+    {
+      "date": "2026-11-26 12:57",
+      "price": "674zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "louis hard shell czarny plecak": [
+    {
+      "date": "2026-11-26 12:57",
+      "price": "66,83zł",
+      "note": "Louis"
+    }
+  ],
+  "parownica do ubrań philips sth5030 20": [
+    {
+      "date": "2026-11-26 12:57",
+      "price": "199zł",
+      "note": "Media Expert"
     }
   ]
 }
