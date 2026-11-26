@@ -3849,16 +3849,6 @@
   ],
   "pepco maskotka ludzik piernikowy": [
     {
-      "date": "2026-11-26 08:23",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-26 08:23",
-      "price": "50 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-26 09:39",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3945,6 +3935,16 @@
     },
     {
       "date": "2026-11-26 18:43",
+      "price": "50 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-26 19:54",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-26 19:54",
       "price": "50 zł",
       "note": "Pepco.pl"
     }
@@ -4594,11 +4594,6 @@
   ],
   "calvin klein woda toaletowa dla kobiet": [
     {
-      "date": "2026-11-26 05:50",
-      "price": "99,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
       "date": "2026-11-26 06:55",
       "price": "149,99 zł",
       "note": "Rossmann.pl"
@@ -4692,20 +4687,15 @@
       "date": "2026-11-26 18:43",
       "price": "149,99 zł",
       "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-26 19:54",
+      "price": "99,99 zł",
+      "note": "Rossmann.pl"
     }
   ],
   "calvin klein woda perfumowana dla kobiet": [
     {
-      "date": "2026-11-26 09:39",
-      "price": "229,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
-      "date": "2026-11-26 09:39",
-      "price": "149,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
       "date": "2026-11-26 10:49",
       "price": "129,99 zł",
       "note": "Rossmann.pl"
@@ -4792,6 +4782,16 @@
     },
     {
       "date": "2026-11-26 18:43",
+      "price": "149,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-26 19:54",
+      "price": "129,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-26 19:54",
       "price": "149,99 zł",
       "note": "Rossmann.pl"
     }
@@ -19165,6 +19165,11 @@
       "date": "2026-11-26 12:57",
       "price": "219zł",
       "note": "MediaMarkt"
+    },
+    {
+      "date": "2026-11-26 19:54",
+      "price": "268,99zł",
+      "note": "MediaMarkt"
     }
   ],
   "figurka ruchoma multiverse superman black suit": [
@@ -20152,6 +20157,11 @@
   ],
   "aa wings of color paleta do": [
     {
+      "date": "przed promocją",
+      "price": "52,99 zł",
+      "note": "przed promocją"
+    },
+    {
       "date": "30 dni przed obniżką",
       "price": "52,99 zł",
       "note": "Najniższa z 30 dni (Omnibus)"
@@ -20363,6 +20373,214 @@
       "date": "2026-11-26 18:43",
       "price": "335,40zł",
       "note": "Zara"
+    }
+  ],
+  "kawa gbs 1 1 gratis 100g": [
+    {
+      "date": "2026-11-26 19:54",
+      "price": "39,99zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "książka pozwól im mel robbins": [
+    {
+      "date": "2026-11-26 19:54",
+      "price": "24,11zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "biedronka 2x korona 6x330ml torba termiczna": [
+    {
+      "date": "2026-11-26 19:54",
+      "price": "50zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "coffee sons kawa ziarnista brazylijski duet": [
+    {
+      "date": "przed promocją",
+      "price": "37,90 zł",
+      "note": "przed promocją"
+    },
+    {
+      "date": "2026-11-26 19:54",
+      "price": "109,90zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "zestaw szachów z czystego metalu 45": [
+    {
+      "date": "2026-11-26 19:54",
+      "price": "201,93zł",
+      "note": "Amazon.de"
+    }
+  ],
+  "karbonowe koła fulcrum sharq 57 do": [
+    {
+      "date": "2026-11-26 19:54",
+      "price": "7 829,27zł",
+      "note": "SPORTISSIMO"
+    }
+  ],
+  "smartwatch garmin venu 3 45mm 010": [
+    {
+      "date": "2026-11-26 19:54",
+      "price": "969,44zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "drukarka 3d snapmaker u1 filamenty pla": [
+    {
+      "date": "2026-11-26 19:54",
+      "price": "3 059zł",
+      "note": "Botland"
+    }
+  ],
+  "parkside performance zestaw 3 elektronarzędzi akumulatorowych": [
+    {
+      "date": "2026-11-26 19:54",
+      "price": "599zł",
+      "note": "Lidl"
+    }
+  ],
+  "rok 1984 george orwell książka oprawa": [
+    {
+      "date": "2026-11-26 19:54",
+      "price": "16,99zł",
+      "note": "Allegro"
+    }
+  ],
+  "szachy magnetyczne inne propozycje w opisie": [
+    {
+      "date": "2026-11-26 19:54",
+      "price": "26,88zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "torba podróżna turystyczna plecak thule chasm": [
+    {
+      "date": "2026-11-26 19:54",
+      "price": "384,50zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "hantle powlekane neoprenem songmics 2 1kg": [
+    {
+      "date": "2026-11-26 19:54",
+      "price": "19,93zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "ekspres do kawy de longhi magnifica": [
+    {
+      "date": "2026-11-26 19:54",
+      "price": "2 199zł",
+      "note": "DeLonghi"
+    }
+  ],
+  "panasonic series 800 es lv67 golarka": [
+    {
+      "date": "2026-11-26 19:54",
+      "price": "450,33zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "24x coca cola 0 33 l": [
+    {
+      "date": "2026-11-26 19:54",
+      "price": "54,50zł",
+      "note": "Allegro"
+    }
+  ],
+  "stół do tenisa stołowego vector": [
+    {
+      "date": "2026-11-26 19:54",
+      "price": "999,99zł",
+      "note": "4fizjo"
+    }
+  ],
+  "ichly plastikowe hermetyczne pojemniki do przechowywania": [
+    {
+      "date": "2026-11-26 19:54",
+      "price": "37,76zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "gravitrax zestaw startowy twist": [
+    {
+      "date": "2026-11-26 19:54",
+      "price": "98,85zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "porwanie baltazara gąbki audiobook stanisław pagaczewski": [
+    {
+      "date": "2026-11-26 19:54",
+      "price": "14,73zł",
+      "note": "Inbook"
+    }
+  ],
+  "gra planszowa lotti karotti psi patrol": [
+    {
+      "date": "2026-11-26 19:54",
+      "price": "78,84zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "paliwo pb 95 5 27 zł": [
+    {
+      "date": "2026-11-26 19:54",
+      "price": "5,27zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "robot sprzątający eufy c30 edge okazja": [
+    {
+      "date": "2026-11-26 19:54",
+      "price": "2 399zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "rower górski full mtb santa cruz": [
+    {
+      "date": "2026-11-26 19:54",
+      "price": "14 386,61zł",
+      "note": "SPORT 11"
+    }
+  ],
+  "lego friends 42663 przygoda w kamperze": [
+    {
+      "date": "2026-11-26 19:54",
+      "price": "140,99zł",
+      "note": "InPost"
+    }
+  ],
+  "acwoo 310ml bulb douche dla mężczyzn": [
+    {
+      "date": "2026-11-26 19:54",
+      "price": "25,49zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "lego technic ford bronco 42213 139": [
+    {
+      "date": "2026-11-26 19:54",
+      "price": "139,99zł",
+      "note": "InPost"
+    }
+  ],
+  "utrai 4 w 1 2000a jump": [
+    {
+      "date": "2026-11-26 19:54",
+      "price": "$60.11",
+      "note": "Aliexpress.com"
+    }
+  ],
+  "tineco floor one stretch s6 odkurzacz": [
+    {
+      "date": "2026-11-26 19:54",
+      "price": "$178.52",
+      "note": "Aliexpress.com"
     }
   ]
 }
