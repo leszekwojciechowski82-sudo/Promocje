@@ -2049,6 +2049,11 @@
       "date": "2026-11-23 09:07",
       "price": "159,99 zł",
       "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-26 14:13",
+      "price": "179,99 zł",
+      "note": "Rossmann.pl"
     }
   ],
   "aa żel do mycia twarzy nawilżający": [
@@ -3819,16 +3824,6 @@
   ],
   "pepco maskotka ludzik piernikowy": [
     {
-      "date": "2026-11-26 02:11",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-26 02:11",
-      "price": "50 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-26 03:24",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3915,6 +3910,16 @@
     },
     {
       "date": "2026-11-26 12:57",
+      "price": "50 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-26 14:13",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-26 14:13",
       "price": "50 zł",
       "note": "Pepco.pl"
     }
@@ -4564,16 +4569,6 @@
   ],
   "calvin klein woda toaletowa dla kobiet": [
     {
-      "date": "2026-11-25 23:39",
-      "price": "149,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
-      "date": "2026-11-26 00:47",
-      "price": "99,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
       "date": "2026-11-26 00:47",
       "price": "149,99 zł",
       "note": "Rossmann.pl"
@@ -4662,19 +4657,19 @@
       "date": "2026-11-26 12:57",
       "price": "99,99 zł",
       "note": "Rossmann.pl"
-    }
-  ],
-  "calvin klein woda perfumowana dla kobiet": [
+    },
     {
-      "date": "2026-11-26 02:11",
+      "date": "2026-11-26 14:13",
       "price": "149,99 zł",
       "note": "Rossmann.pl"
     },
     {
-      "date": "2026-11-26 03:24",
-      "price": "129,99 zł",
+      "date": "2026-11-26 14:13",
+      "price": "99,99 zł",
       "note": "Rossmann.pl"
-    },
+    }
+  ],
+  "calvin klein woda perfumowana dla kobiet": [
     {
       "date": "2026-11-26 03:24",
       "price": "149,99 zł",
@@ -4764,6 +4759,16 @@
       "date": "2026-11-26 12:57",
       "price": "149,99 zł",
       "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-26 14:13",
+      "price": "129,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-26 14:13",
+      "price": "149,99 zł",
+      "note": "Rossmann.pl"
     }
   ],
   "qbrick system skrzynka narzędziowa one red": [
@@ -4814,6 +4819,16 @@
     },
     {
       "date": "2026-11-26 12:57",
+      "price": "139 zł",
+      "note": "OBI.pl"
+    },
+    {
+      "date": "2026-11-26 14:13",
+      "price": "119 zł",
+      "note": "OBI.pl"
+    },
+    {
+      "date": "2026-11-26 14:13",
       "price": "139 zł",
       "note": "OBI.pl"
     }
@@ -8423,6 +8438,11 @@
       "date": "2026-11-23 23:39",
       "price": "489,89zł",
       "note": "Empik"
+    },
+    {
+      "date": "2026-11-26 14:13",
+      "price": "449,99zł",
+      "note": "RTV Euro AGD"
     }
   ],
   "ariel professional proszek do prania kolorów": [
@@ -19015,6 +19035,11 @@
   ],
   "zuru interaktywny piesek z akcesoriami pets": [
     {
+      "date": "przed promocją",
+      "price": "82,95 zł",
+      "note": "przed promocją"
+    },
+    {
       "date": "30 dni przed obniżką",
       "price": "82,95 zł",
       "note": "Najniższa z 30 dni (Omnibus)"
@@ -19207,6 +19232,226 @@
     {
       "date": "2026-11-26 12:57",
       "price": "199zł",
+      "note": "Media Expert"
+    }
+  ],
+  "mandarynki": [
+    {
+      "date": "2026-11-26 14:13",
+      "price": "2,99zł",
+      "note": "Auchan"
+    }
+  ],
+  "parkside performance akumulatorowa turbinowa dmuchawa do": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "349 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-26 14:13",
+      "price": "249 zł",
+      "note": "Lidl.pl"
+    }
+  ],
+  "obudowa preyon nest seaview argb": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "268 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-26 14:13",
+      "price": "224 zł",
+      "note": "Morele.net"
+    }
+  ],
+  "akademia nikona kursy i warsztaty fotograficzne": [
+    {
+      "date": "2026-11-26 14:13",
+      "price": "625zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "filament pla 1 75 mm do": [
+    {
+      "date": "2026-11-26 14:13",
+      "price": "34,99zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "opaski zaciskowe kablowe tk gruppe trytytki": [
+    {
+      "date": "2026-11-26 14:13",
+      "price": "5,56zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "pistolet natryskowy ogrodowy": [
+    {
+      "date": "2026-11-26 14:13",
+      "price": "9,81zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "gra forza horizon 6 premium opis": [
+    {
+      "date": "2026-11-26 14:13",
+      "price": "389,25zł",
+      "note": "Steam"
+    }
+  ],
+  "legowisko dla psa feandrea pgw012g01": [
+    {
+      "date": "2026-11-26 14:13",
+      "price": "82,09zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "sternhoff szafa materiałowa składana 4 półki": [
+    {
+      "date": "2026-11-26 14:13",
+      "price": "47,99zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "narty mejesty superscout": [
+    {
+      "date": "2026-11-26 14:13",
+      "price": "1 079,60zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "toyota corolla kombi model 2027 1": [
+    {
+      "date": "2026-11-26 14:13",
+      "price": "118 000zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "okazja zbiorcza piłki marki adidas l": [
+    {
+      "date": "2026-11-26 14:13",
+      "price": "65,40zł",
+      "note": "adidas"
+    }
+  ],
+  "songmics 4 komorowy kosz na pranie": [
+    {
+      "date": "2026-11-26 14:13",
+      "price": "91,79zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "obiektyw viltrox af 75mm f 1": [
+    {
+      "date": "2026-11-26 14:13",
+      "price": "1 758,97zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "zegarek timex marlin gmt quartz tw2y84200uk": [
+    {
+      "date": "2026-11-26 14:13",
+      "price": "709zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "dino wyprzedaż kaw w puszkach gbs": [
+    {
+      "date": "2026-11-26 14:13",
+      "price": "1,89zł",
+      "note": "Dino"
+    }
+  ],
+  "drapak dla kota domek budka w": [
+    {
+      "date": "2026-11-26 14:13",
+      "price": "38,40zł",
+      "note": "Allegro"
+    }
+  ],
+  "wyciągarka k14000xp z liną syntetyczną": [
+    {
+      "date": "2026-11-26 14:13",
+      "price": "1 499zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "wyciskacz pistolet do mas silikonowych 310mm": [
+    {
+      "date": "2026-11-26 14:13",
+      "price": "31,23zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "da grasso 15 zł na pierwsze": [
+    {
+      "date": "2026-11-26 14:13",
+      "price": "15zł",
+      "note": "Da Grasso"
+    }
+  ],
+  "viltrox 56 1 2 sony e": [
+    {
+      "date": "2026-11-26 14:13",
+      "price": "1 758,98zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "podkładka pod mysz endorfy limited celeris": [
+    {
+      "date": "2026-11-26 14:13",
+      "price": "19,99zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "gra metroid prime 4 beyond nintendo": [
+    {
+      "date": "2026-11-26 14:13",
+      "price": "109,89zł",
+      "note": "Empik"
+    }
+  ],
+  "ps store dziedzictwo hogwartu ps4": [
+    {
+      "date": "2026-11-26 14:13",
+      "price": "29,90zł",
+      "note": "PlayStation Store"
+    }
+  ],
+  "kalendarz adwentowy nivea 2026 oficjalny sklep": [
+    {
+      "date": "2026-11-26 14:13",
+      "price": "179,99zł",
+      "note": "Empik"
+    }
+  ],
+  "rower mtb ghost nirvana tour sf": [
+    {
+      "date": "2026-11-26 14:13",
+      "price": "2 999zł",
+      "note": "Centrum Rowerowe"
+    }
+  ],
+  "perfumy david beckham amber breeze 100": [
+    {
+      "date": "2026-11-26 14:13",
+      "price": "74,68zł",
+      "note": "Notino"
+    }
+  ],
+  "amazfit t rex 3 pro 44": [
+    {
+      "date": "2026-11-26 14:13",
+      "price": "1 083,59zł",
+      "note": "Amazon.it"
+    }
+  ],
+  "obiektyw viltrox 35 1 8 evo": [
+    {
+      "date": "2026-11-26 14:13",
+      "price": "1 198zł",
       "note": "Media Expert"
     }
   ]
