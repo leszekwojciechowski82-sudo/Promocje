@@ -3819,16 +3819,6 @@
   ],
   "pepco maskotka ludzik piernikowy": [
     {
-      "date": "2026-11-25 17:41",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-25 17:41",
-      "price": "50 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-25 18:39",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3915,22 +3905,22 @@
     },
     {
       "date": "2026-11-26 03:24",
+      "price": "50 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-26 04:33",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-26 04:33",
       "price": "50 zł",
       "note": "Pepco.pl"
     }
   ],
   "pepco dekoracja tekstylna mini ludzik piernikowy": [
     {
-      "date": "2026-11-25 17:41",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-25 17:41",
-      "price": "10 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-25 18:39",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -4017,6 +4007,16 @@
     },
     {
       "date": "2026-11-26 03:24",
+      "price": "10 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-26 04:33",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-26 04:33",
       "price": "10 zł",
       "note": "Pepco.pl"
     }
@@ -4128,16 +4128,6 @@
   ],
   "pepco zabawkowy sklep z półkami": [
     {
-      "date": "2026-11-25 17:41",
-      "price": "120 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-25 17:41",
-      "price": "105 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-25 18:39",
       "price": "120 zł",
       "note": "Pepco.pl"
@@ -4224,6 +4214,16 @@
     },
     {
       "date": "2026-11-26 03:24",
+      "price": "105 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-26 04:33",
+      "price": "120 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-26 04:33",
       "price": "105 zł",
       "note": "Pepco.pl"
     }
@@ -4564,16 +4564,6 @@
   ],
   "calvin klein woda toaletowa dla kobiet": [
     {
-      "date": "2026-11-23 09:07",
-      "price": "149,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
-      "date": "2026-11-24 19:53",
-      "price": "99,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
       "date": "2026-11-24 21:45",
       "price": "149,99 zł",
       "note": "Rossmann.pl"
@@ -4662,19 +4652,19 @@
       "date": "2026-11-26 03:24",
       "price": "99,99 zł",
       "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-26 04:33",
+      "price": "149,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-26 04:33",
+      "price": "99,99 zł",
+      "note": "Rossmann.pl"
     }
   ],
   "calvin klein woda perfumowana dla kobiet": [
-    {
-      "date": "2026-11-24 16:37",
-      "price": "199,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
-      "date": "2026-11-24 17:43",
-      "price": "129,99 zł",
-      "note": "Rossmann.pl"
-    },
     {
       "date": "2026-11-24 17:43",
       "price": "229,99 zł",
@@ -4762,6 +4752,16 @@
     },
     {
       "date": "2026-11-26 03:24",
+      "price": "149,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-26 04:33",
+      "price": "129,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-26 04:33",
       "price": "149,99 zł",
       "note": "Rossmann.pl"
     }
@@ -17419,6 +17419,82 @@
       "date": "2026-11-26 03:24",
       "price": "142,99 zł",
       "note": "Smyk.com"
+    }
+  ],
+  "silvercrest zestaw 5 pojemników do przechowywania": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "40,99 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-26 04:33",
+      "price": "24,59 zł",
+      "note": "Lidl.pl"
+    }
+  ],
+  "tronic ceramiczny termowentylator tkhl 1200 b1": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "63,90 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-26 04:33",
+      "price": "38,99 zł",
+      "note": "Lidl.pl"
+    }
+  ],
+  "silvercrest zestaw 4 pojemników na wędliny": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "17,99 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-26 04:33",
+      "price": "11,69 zł",
+      "note": "Lidl.pl"
+    }
+  ],
+  "parkside akumulatorowa lampa led 20 v": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "51,90 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-26 04:33",
+      "price": "37,99 zł",
+      "note": "Lidl.pl"
+    }
+  ],
+  "rituals krem do rąk 175 ml": [
+    {
+      "date": "2026-11-26 04:33",
+      "price": "48,75zł",
+      "note": "Rituals"
+    }
+  ],
+  "pamięć ram ddr3 4gb": [
+    {
+      "date": "2026-11-26 04:33",
+      "price": "12zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "ecco rugged track skórzane buty z": [
+    {
+      "date": "2026-11-26 04:33",
+      "price": "355,77zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "armatura kraków grzejnik c o g500f": [
+    {
+      "date": "2026-11-26 04:33",
+      "price": "278 zł",
+      "note": "OBI.pl"
     }
   ]
 }
