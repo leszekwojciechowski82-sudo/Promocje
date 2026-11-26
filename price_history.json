@@ -2064,6 +2064,16 @@
       "date": "2026-11-26 15:27",
       "price": "179,99 zł",
       "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-26 16:31",
+      "price": "159,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-26 16:31",
+      "price": "179,99 zł",
+      "note": "Rossmann.pl"
     }
   ],
   "aa żel do mycia twarzy nawilżający": [
@@ -3834,16 +3844,6 @@
   ],
   "pepco maskotka ludzik piernikowy": [
     {
-      "date": "2026-11-26 04:33",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-26 04:33",
-      "price": "50 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-26 05:50",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3930,6 +3930,16 @@
     },
     {
       "date": "2026-11-26 15:27",
+      "price": "50 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-26 16:31",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-26 16:31",
       "price": "50 zł",
       "note": "Pepco.pl"
     }
@@ -4579,16 +4589,6 @@
   ],
   "calvin klein woda toaletowa dla kobiet": [
     {
-      "date": "2026-11-26 02:11",
-      "price": "99,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
-      "date": "2026-11-26 03:24",
-      "price": "149,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
       "date": "2026-11-26 03:24",
       "price": "99,99 zł",
       "note": "Rossmann.pl"
@@ -4675,22 +4675,22 @@
     },
     {
       "date": "2026-11-26 15:27",
+      "price": "149,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-26 16:31",
+      "price": "99,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-26 16:31",
       "price": "149,99 zł",
       "note": "Rossmann.pl"
     }
   ],
   "calvin klein woda perfumowana dla kobiet": [
     {
-      "date": "2026-11-26 05:50",
-      "price": "129,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
-      "date": "2026-11-26 05:50",
-      "price": "149,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
       "date": "2026-11-26 06:55",
       "price": "129,99 zł",
       "note": "Rossmann.pl"
@@ -4777,6 +4777,16 @@
     },
     {
       "date": "2026-11-26 15:27",
+      "price": "149,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-26 16:31",
+      "price": "129,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-26 16:31",
       "price": "149,99 zł",
       "note": "Rossmann.pl"
     }
@@ -19489,6 +19499,11 @@
   ],
   "ultimate speed mobilne urządzenie rozruchowe z": [
     {
+      "date": "przed promocją",
+      "price": "299 zł",
+      "note": "przed promocją"
+    },
+    {
       "date": "30 dni przed obniżką",
       "price": "299 zł",
       "note": "Najniższa z 30 dni (Omnibus)"
@@ -19693,6 +19708,195 @@
       "date": "2026-11-26 15:27",
       "price": "65,45zł",
       "note": "Empik"
+    }
+  ],
+  "router mesh cudy m1200 m1300 1": [
+    {
+      "date": "2026-11-26 16:31",
+      "price": "99zł",
+      "note": "Media Expert"
+    }
+  ],
+  "100 zł rabatu na następne zakupy": [
+    {
+      "date": "2026-11-26 16:31",
+      "price": "800zł",
+      "note": "IKEA"
+    }
+  ],
+  "kod zniżkowy djcity na 2 miesiące": [
+    {
+      "date": "2026-11-26 16:31",
+      "price": "40,84zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "pojemnik na kawę herbatę ze stali": [
+    {
+      "date": "2026-11-26 16:31",
+      "price": "59,99zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "kawa ziarnista lavazza crema e aroma": [
+    {
+      "date": "2026-11-26 16:31",
+      "price": "49,30zł",
+      "note": "InPost"
+    }
+  ],
+  "router vpn gl inet brume 3": [
+    {
+      "date": "2026-11-26 16:31",
+      "price": "452,79zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "kawa ziarnista bazzara dodicigrancru 250g młynek": [
+    {
+      "date": "2026-11-26 16:31",
+      "price": "249zł",
+      "note": "Konesso"
+    }
+  ],
+  "myszka gamingowa xpg alpha czarny 16": [
+    {
+      "date": "2026-11-26 16:31",
+      "price": "69,99zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "forza horizon 5 standard edition ps5": [
+    {
+      "date": "2026-11-26 16:31",
+      "price": "119,60zł",
+      "note": "PlayStation Store"
+    }
+  ],
+  "smartfon samsung galaxy s26 ultra 256": [
+    {
+      "date": "2026-11-26 16:31",
+      "price": "3 990zł",
+      "note": "Samsung"
+    }
+  ],
+  "trek fx 7 rower elektryczny": [
+    {
+      "date": "2026-11-26 16:31",
+      "price": "13 149zł",
+      "note": "GOOD SPORT"
+    }
+  ],
+  "golarka remington r3002 r3 style series": [
+    {
+      "date": "2026-11-26 16:31",
+      "price": "88,10zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "pasta do smarowania 80 g lidl": [
+    {
+      "date": "2026-11-26 16:31",
+      "price": "0,89zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "suwmiarka elektroniczna metal": [
+    {
+      "date": "2026-11-26 16:31",
+      "price": "29,99zł",
+      "note": "Biedronka Home"
+    }
+  ],
+  "buty adidas postmove": [
+    {
+      "date": "2026-11-26 16:31",
+      "price": "109,99zł",
+      "note": "Streetstyle24"
+    }
+  ],
+  "zestaw spinek samochodowych adiwo 64 szt": [
+    {
+      "date": "2026-11-26 16:31",
+      "price": "16,14zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "gra ps4 god of war ragnar": [
+    {
+      "date": "2026-11-26 16:31",
+      "price": "29,99zł",
+      "note": "MediaMarkt"
+    }
+  ],
+  "dysk ssd wd blue sn5100 1tb": [
+    {
+      "date": "2026-11-26 16:31",
+      "price": "649zł",
+      "note": "Allegro"
+    }
+  ],
+  "pyszne pl 20zł mwz 40zł pierwsze": [
+    {
+      "date": "2026-11-26 16:31",
+      "price": "20zł",
+      "note": "Pyszne.pl"
+    }
+  ],
+  "suwmiarka elektroniczna retoo cyfrowa 150 mm": [
+    {
+      "date": "2026-11-26 16:31",
+      "price": "19,71zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "słuchawki sony wf 1000xm6": [
+    {
+      "date": "2026-11-26 16:31",
+      "price": "999zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "telewizor lg 75qned86b6b 75 qned miniled": [
+    {
+      "date": "2026-11-26 16:31",
+      "price": "4 399zł",
+      "note": "Max Elektro"
+    }
+  ],
+  "lidl kamera obrotowa 2k 4mp tp": [
+    {
+      "date": "2026-11-26 16:31",
+      "price": "109zł",
+      "note": "Lidl"
+    }
+  ],
+  "buty nike air max plus vii": [
+    {
+      "date": "2026-11-26 16:31",
+      "price": "409,99zł",
+      "note": "Nike"
+    }
+  ],
+  "buty do biegania adidas x9000l2 s23651": [
+    {
+      "date": "2026-11-26 16:31",
+      "price": "149,99zł",
+      "note": "Streetstyle24"
+    }
+  ],
+  "kabel raviad usb c do usb": [
+    {
+      "date": "2026-11-26 16:31",
+      "price": "9,99zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "pilarka top cut": [
+    {
+      "date": "2026-11-26 16:31",
+      "price": "249zł",
+      "note": "Leroy Merlin"
     }
   ]
 }
