@@ -3598,16 +3598,6 @@
   ],
   "lupilu śniegowce chłopięce": [
     {
-      "date": "2026-11-25 15:29",
-      "price": "52,72 zł",
-      "note": "Lidl.pl"
-    },
-    {
-      "date": "2026-11-25 15:29",
-      "price": "53,52 zł",
-      "note": "Lidl.pl"
-    },
-    {
       "date": "2026-11-25 16:38",
       "price": "52,72 zł",
       "note": "Lidl.pl"
@@ -3694,6 +3684,16 @@
     },
     {
       "date": "2026-11-26 02:11",
+      "price": "53,52 zł",
+      "note": "Lidl.pl"
+    },
+    {
+      "date": "2026-11-26 03:24",
+      "price": "52,72 zł",
+      "note": "Lidl.pl"
+    },
+    {
+      "date": "2026-11-26 03:24",
       "price": "53,52 zł",
       "note": "Lidl.pl"
     }
@@ -3819,16 +3819,6 @@
   ],
   "pepco maskotka ludzik piernikowy": [
     {
-      "date": "2026-11-25 16:38",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-25 16:38",
-      "price": "50 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-25 17:41",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3915,22 +3905,22 @@
     },
     {
       "date": "2026-11-26 02:11",
+      "price": "50 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-26 03:24",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-26 03:24",
       "price": "50 zł",
       "note": "Pepco.pl"
     }
   ],
   "pepco dekoracja tekstylna mini ludzik piernikowy": [
     {
-      "date": "2026-11-25 16:38",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-25 16:38",
-      "price": "10 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-25 17:41",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -4017,6 +4007,16 @@
     },
     {
       "date": "2026-11-26 02:11",
+      "price": "10 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-26 03:24",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-26 03:24",
       "price": "10 zł",
       "note": "Pepco.pl"
     }
@@ -4128,16 +4128,6 @@
   ],
   "pepco zabawkowy sklep z półkami": [
     {
-      "date": "2026-11-25 16:38",
-      "price": "120 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-25 16:38",
-      "price": "105 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-25 17:41",
       "price": "120 zł",
       "note": "Pepco.pl"
@@ -4224,6 +4214,16 @@
     },
     {
       "date": "2026-11-26 02:11",
+      "price": "105 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-26 03:24",
+      "price": "120 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-26 03:24",
       "price": "105 zł",
       "note": "Pepco.pl"
     }
@@ -4652,19 +4652,19 @@
       "date": "2026-11-26 02:11",
       "price": "99,99 zł",
       "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-26 03:24",
+      "price": "149,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-26 03:24",
+      "price": "99,99 zł",
+      "note": "Rossmann.pl"
     }
   ],
   "calvin klein woda perfumowana dla kobiet": [
-    {
-      "date": "2026-11-24 16:37",
-      "price": "129,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
-      "date": "2026-11-24 16:37",
-      "price": "229,99 zł",
-      "note": "Rossmann.pl"
-    },
     {
       "date": "2026-11-24 16:37",
       "price": "199,99 zł",
@@ -4752,6 +4752,16 @@
     },
     {
       "date": "2026-11-26 02:11",
+      "price": "149,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-26 03:24",
+      "price": "129,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-26 03:24",
       "price": "149,99 zł",
       "note": "Rossmann.pl"
     }
@@ -9814,6 +9824,16 @@
       "date": "2026-11-25 08:27",
       "price": "159,99 zł",
       "note": "Smyk.com"
+    },
+    {
+      "date": "2026-11-26 03:24",
+      "price": "109 zł",
+      "note": "Smyk.com"
+    },
+    {
+      "date": "2026-11-26 03:24",
+      "price": "159,99 zł",
+      "note": "Smyk.com"
     }
   ],
   "cool club czapka z daszkiem chłopięca": [
@@ -11017,12 +11037,27 @@
       "date": "2026-11-25 08:27",
       "price": "159,99 zł",
       "note": "Smyk.com"
+    },
+    {
+      "date": "2026-11-26 03:24",
+      "price": "149,99 zł",
+      "note": "Smyk.com"
+    },
+    {
+      "date": "2026-11-26 03:24",
+      "price": "159,99 zł",
+      "note": "Smyk.com"
     }
   ],
   "ricokids kolejka magnetyczna tor elektryczny klocki": [
     {
       "date": "2026-11-24 12:55",
       "price": "192,99 zł",
+      "note": "Smyk.com"
+    },
+    {
+      "date": "2026-11-26 03:24",
+      "price": "180,99 zł",
       "note": "Smyk.com"
     }
   ],
@@ -17219,6 +17254,11 @@
   ],
   "eveline cosmetics płyn micelarny profesjonalny 3w1": [
     {
+      "date": "przed promocją",
+      "price": "19,99 zł",
+      "note": "przed promocją"
+    },
+    {
       "date": "30 dni przed obniżką",
       "price": "19,99 zł",
       "note": "Najniższa z 30 dni (Omnibus)"
@@ -17230,6 +17270,11 @@
     }
   ],
   "bella podpaski higieniczne ze skrzydełkami": [
+    {
+      "date": "przed promocją",
+      "price": "6,99 zł",
+      "note": "przed promocją"
+    },
     {
       "date": "30 dni przed obniżką",
       "price": "6,99 zł",
@@ -17267,6 +17312,113 @@
       "date": "2026-11-26 02:11",
       "price": "499zł",
       "note": "x-kom"
+    }
+  ],
+  "hot wheels t rex mega transporter": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "390 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-26 03:24",
+      "price": "199,99 zł",
+      "note": "Smyk.com"
+    }
+  ],
+  "lego speed champions ferrari 499p 77261": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "109,99 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-26 03:24",
+      "price": "74,99 zł",
+      "note": "Smyk.com"
+    }
+  ],
+  "lilo i stitch double trouble stitch": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "299 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-26 03:24",
+      "price": "229 zł",
+      "note": "Smyk.com"
+    }
+  ],
+  "hot wheels city wyścigowa wieża z": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "149,99 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-26 03:24",
+      "price": "119,99 zł",
+      "note": "Smyk.com"
+    }
+  ],
+  "lego pok mon smart play dom": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "249 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-26 03:24",
+      "price": "219 zł",
+      "note": "Smyk.com"
+    }
+  ],
+  "vtech mój przyjaciel pies zabawka interaktywna": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "109,99 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-26 03:24",
+      "price": "99,99 zł",
+      "note": "Smyk.com"
+    }
+  ],
+  "pralka candy prowash 300 gd 39b8": [
+    {
+      "date": "2026-11-26 03:24",
+      "price": "899zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "aparat foto natychmiastowy aparat fujifilm instax": [
+    {
+      "date": "2026-11-26 03:24",
+      "price": "199zł",
+      "note": "Media Expert"
+    }
+  ],
+  "dasz radę ostatnia rozmowa ks jan": [
+    {
+      "date": "2026-11-26 03:24",
+      "price": "25,82zł",
+      "note": "Allegro"
+    }
+  ],
+  "lego duplo przygoda z interaktywnym pociągiem": [
+    {
+      "date": "2026-11-26 03:24",
+      "price": "219 zł",
+      "note": "Smyk.com"
+    }
+  ],
+  "ricokids plac budowy samojezdna koparka klocki": [
+    {
+      "date": "2026-11-26 03:24",
+      "price": "142,99 zł",
+      "note": "Smyk.com"
     }
   ]
 }
