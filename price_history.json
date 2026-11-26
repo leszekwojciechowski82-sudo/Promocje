@@ -3599,11 +3599,6 @@
   "lupilu śniegowce chłopięce": [
     {
       "date": "2026-11-25 14:16",
-      "price": "52,72 zł",
-      "note": "Lidl.pl"
-    },
-    {
-      "date": "2026-11-25 14:16",
       "price": "53,52 zł",
       "note": "Lidl.pl"
     },
@@ -3695,6 +3690,11 @@
     {
       "date": "2026-11-25 23:39",
       "price": "53,52 zł",
+      "note": "Lidl.pl"
+    },
+    {
+      "date": "2026-11-26 00:47",
+      "price": "52,72 zł",
       "note": "Lidl.pl"
     }
   ],
@@ -3819,16 +3819,6 @@
   ],
   "pepco maskotka ludzik piernikowy": [
     {
-      "date": "2026-11-25 14:16",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-25 14:16",
-      "price": "50 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-25 15:29",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3915,22 +3905,22 @@
     },
     {
       "date": "2026-11-25 23:39",
+      "price": "50 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-26 00:47",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-26 00:47",
       "price": "50 zł",
       "note": "Pepco.pl"
     }
   ],
   "pepco dekoracja tekstylna mini ludzik piernikowy": [
     {
-      "date": "2026-11-25 14:16",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-25 14:16",
-      "price": "10 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-25 15:29",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -4017,6 +4007,16 @@
     },
     {
       "date": "2026-11-25 23:39",
+      "price": "10 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-26 00:47",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-26 00:47",
       "price": "10 zł",
       "note": "Pepco.pl"
     }
@@ -4128,16 +4128,6 @@
   ],
   "pepco zabawkowy sklep z półkami": [
     {
-      "date": "2026-11-25 14:16",
-      "price": "120 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-25 14:16",
-      "price": "105 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-25 15:29",
       "price": "120 zł",
       "note": "Pepco.pl"
@@ -4224,6 +4214,16 @@
     },
     {
       "date": "2026-11-25 23:39",
+      "price": "105 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-26 00:47",
+      "price": "120 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-26 00:47",
       "price": "105 zł",
       "note": "Pepco.pl"
     }
@@ -4637,19 +4637,19 @@
       "date": "2026-11-25 23:39",
       "price": "149,99 zł",
       "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-26 00:47",
+      "price": "99,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-26 00:47",
+      "price": "149,99 zł",
+      "note": "Rossmann.pl"
     }
   ],
   "calvin klein woda perfumowana dla kobiet": [
-    {
-      "date": "2026-11-24 14:12",
-      "price": "199,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
-      "date": "2026-11-24 15:29",
-      "price": "229,99 zł",
-      "note": "Rossmann.pl"
-    },
     {
       "date": "2026-11-24 15:29",
       "price": "129,99 zł",
@@ -4738,6 +4738,16 @@
     {
       "date": "2026-11-25 08:27",
       "price": "129,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-26 00:47",
+      "price": "199,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-26 00:47",
+      "price": "149,99 zł",
       "note": "Rossmann.pl"
     }
   ],
@@ -16806,6 +16816,11 @@
   ],
   "lupilu kolejka drewniana plac budowy kolejka": [
     {
+      "date": "przed promocją",
+      "price": "139 zł",
+      "note": "przed promocją"
+    },
+    {
       "date": "30 dni przed obniżką",
       "price": "139 zł",
       "note": "Najniższa z 30 dni (Omnibus)"
@@ -17010,6 +17025,159 @@
       "date": "2026-11-25 23:39",
       "price": "249,50zł",
       "note": "Allegro"
+    }
+  ],
+  "isana patyczki higieniczne 100 bawełny sezonowe": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "3,29 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-26 00:47",
+      "price": "2,29 zł",
+      "note": "Rossmann.pl"
+    }
+  ],
+  "oral b szczoteczka do zębów z": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "19,99 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-26 00:47",
+      "price": "14,49 zł",
+      "note": "Rossmann.pl"
+    }
+  ],
+  "isana maska do włosów jednominutowa olejek": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "3,49 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-26 00:47",
+      "price": "2,79 zł",
+      "note": "Rossmann.pl"
+    }
+  ],
+  "apple iphone 17 pro 512gb cosmic": [
+    {
+      "date": "2026-11-26 00:47",
+      "price": "5 799zł",
+      "note": "iSpot"
+    }
+  ],
+  "isana płatki kosmetyczne 100 bawelny": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "2,49 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-26 00:47",
+      "price": "2,19 zł",
+      "note": "Rossmann.pl"
+    }
+  ],
+  "materac dmuchany intex 64414 152 x": [
+    {
+      "date": "2026-11-26 00:47",
+      "price": "156,33zł",
+      "note": "Allegro"
+    }
+  ],
+  "rower elektryczny engwe l20 3 0": [
+    {
+      "date": "2026-11-26 00:47",
+      "price": "4 949,10zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "rafi mokra karma dla psa mix": [
+    {
+      "date": "2026-11-26 00:47",
+      "price": "79,84zł",
+      "note": "Allegro"
+    }
+  ],
+  "lego 40822 iconic dyniowy pickup i": [
+    {
+      "date": "2026-11-26 00:47",
+      "price": "34,99zł",
+      "note": "Media Expert"
+    }
+  ],
+  "baterie 6lr61 varta longlife 2 szt": [
+    {
+      "date": "2026-11-26 00:47",
+      "price": "8,99zł",
+      "note": "Media Expert"
+    }
+  ],
+  "sade lovers rock lp winyl": [
+    {
+      "date": "2026-11-26 00:47",
+      "price": "61,99zł",
+      "note": "Allegro"
+    }
+  ],
+  "smartband xiaomi mi band 9 active": [
+    {
+      "date": "2026-11-26 00:47",
+      "price": "49,99zł",
+      "note": "Media Expert"
+    }
+  ],
+  "target darts k flex no 2": [
+    {
+      "date": "2026-11-26 00:47",
+      "price": "75zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "eufy omni c20 robot sprzątający z": [
+    {
+      "date": "2026-11-26 00:47",
+      "price": "1 698zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "rower szosowy merida reacto 5000 di2": [
+    {
+      "date": "2026-11-26 00:47",
+      "price": "11 499zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "philips lumea 9000 ipl": [
+    {
+      "date": "2026-11-26 00:47",
+      "price": "1 827,46zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "kapsułki do zmywarki finish powerball ultimate": [
+    {
+      "date": "2026-11-26 00:47",
+      "price": "52,99zł",
+      "note": "InPost"
+    }
+  ],
+  "dolce gabbana woda toaletowa dla kobiet": [
+    {
+      "date": "2026-11-26 00:47",
+      "price": "259,99 zł",
+      "note": "Rossmann.pl"
+    }
+  ],
+  "rabanne woda perfumowana dla kobiet": [
+    {
+      "date": "2026-11-26 00:47",
+      "price": "349,99 zł",
+      "note": "Rossmann.pl"
     }
   ]
 }
