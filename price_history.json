@@ -3598,11 +3598,6 @@
   ],
   "lupilu śniegowce chłopięce": [
     {
-      "date": "2026-11-25 14:16",
-      "price": "53,52 zł",
-      "note": "Lidl.pl"
-    },
-    {
       "date": "2026-11-25 15:29",
       "price": "52,72 zł",
       "note": "Lidl.pl"
@@ -3695,6 +3690,11 @@
     {
       "date": "2026-11-26 00:47",
       "price": "52,72 zł",
+      "note": "Lidl.pl"
+    },
+    {
+      "date": "2026-11-26 02:11",
+      "price": "53,52 zł",
       "note": "Lidl.pl"
     }
   ],
@@ -3819,16 +3819,6 @@
   ],
   "pepco maskotka ludzik piernikowy": [
     {
-      "date": "2026-11-25 15:29",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-25 15:29",
-      "price": "50 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-25 16:38",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3915,22 +3905,22 @@
     },
     {
       "date": "2026-11-26 00:47",
+      "price": "50 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-26 02:11",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-26 02:11",
       "price": "50 zł",
       "note": "Pepco.pl"
     }
   ],
   "pepco dekoracja tekstylna mini ludzik piernikowy": [
     {
-      "date": "2026-11-25 15:29",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-25 15:29",
-      "price": "10 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-25 16:38",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -4017,6 +4007,16 @@
     },
     {
       "date": "2026-11-26 00:47",
+      "price": "10 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-26 02:11",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-26 02:11",
       "price": "10 zł",
       "note": "Pepco.pl"
     }
@@ -4128,16 +4128,6 @@
   ],
   "pepco zabawkowy sklep z półkami": [
     {
-      "date": "2026-11-25 15:29",
-      "price": "120 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-25 15:29",
-      "price": "105 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-25 16:38",
       "price": "120 zł",
       "note": "Pepco.pl"
@@ -4224,6 +4214,16 @@
     },
     {
       "date": "2026-11-26 00:47",
+      "price": "105 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-26 02:11",
+      "price": "120 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-26 02:11",
       "price": "105 zł",
       "note": "Pepco.pl"
     }
@@ -4647,19 +4647,14 @@
       "date": "2026-11-26 00:47",
       "price": "149,99 zł",
       "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-26 02:11",
+      "price": "99,99 zł",
+      "note": "Rossmann.pl"
     }
   ],
   "calvin klein woda perfumowana dla kobiet": [
-    {
-      "date": "2026-11-24 15:29",
-      "price": "129,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
-      "date": "2026-11-24 15:29",
-      "price": "199,99 zł",
-      "note": "Rossmann.pl"
-    },
     {
       "date": "2026-11-24 16:37",
       "price": "129,99 zł",
@@ -4747,6 +4742,16 @@
     },
     {
       "date": "2026-11-26 00:47",
+      "price": "149,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-26 02:11",
+      "price": "129,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-26 02:11",
       "price": "149,99 zł",
       "note": "Rossmann.pl"
     }
@@ -17029,6 +17034,11 @@
   ],
   "isana patyczki higieniczne 100 bawełny sezonowe": [
     {
+      "date": "przed promocją",
+      "price": "3,29 zł",
+      "note": "przed promocją"
+    },
+    {
       "date": "30 dni przed obniżką",
       "price": "3,29 zł",
       "note": "Najniższa z 30 dni (Omnibus)"
@@ -17041,6 +17051,11 @@
   ],
   "oral b szczoteczka do zębów z": [
     {
+      "date": "przed promocją",
+      "price": "19,99 zł",
+      "note": "przed promocją"
+    },
+    {
       "date": "30 dni przed obniżką",
       "price": "19,99 zł",
       "note": "Najniższa z 30 dni (Omnibus)"
@@ -17052,6 +17067,11 @@
     }
   ],
   "isana maska do włosów jednominutowa olejek": [
+    {
+      "date": "przed promocją",
+      "price": "3,49 zł",
+      "note": "przed promocją"
+    },
     {
       "date": "30 dni przed obniżką",
       "price": "3,49 zł",
@@ -17071,6 +17091,11 @@
     }
   ],
   "isana płatki kosmetyczne 100 bawelny": [
+    {
+      "date": "przed promocją",
+      "price": "2,49 zł",
+      "note": "przed promocją"
+    },
     {
       "date": "30 dni przed obniżką",
       "price": "2,49 zł",
@@ -17178,6 +17203,70 @@
       "date": "2026-11-26 00:47",
       "price": "349,99 zł",
       "note": "Rossmann.pl"
+    }
+  ],
+  "lupilu akcesoria do kuchni zabawkowej toster": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "45,99 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-26 02:11",
+      "price": "27,99 zł",
+      "note": "Lidl.pl"
+    }
+  ],
+  "eveline cosmetics płyn micelarny profesjonalny 3w1": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "19,99 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-26 02:11",
+      "price": "13,99 zł",
+      "note": "Rossmann.pl"
+    }
+  ],
+  "bella podpaski higieniczne ze skrzydełkami": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "6,99 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-26 02:11",
+      "price": "4,99 zł",
+      "note": "Rossmann.pl"
+    }
+  ],
+  "pad sony dualsense z kablem usb": [
+    {
+      "date": "2026-11-26 02:11",
+      "price": "239,99zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "rower elektryczny kross xprt c racer": [
+    {
+      "date": "2026-11-26 02:11",
+      "price": "3 599,99zł",
+      "note": "Media Expert"
+    }
+  ],
+  "skarpety nike everyday cushioned 6 par": [
+    {
+      "date": "2026-11-26 02:11",
+      "price": "10,79zł",
+      "note": "Sportano"
+    }
+  ],
+  "segway ninebot c2 lite": [
+    {
+      "date": "2026-11-26 02:11",
+      "price": "499zł",
+      "note": "x-kom"
     }
   ]
 }
