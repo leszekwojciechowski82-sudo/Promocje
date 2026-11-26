@@ -2104,6 +2104,16 @@
       "date": "2026-11-26 22:44",
       "price": "179,99 zł",
       "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-26 23:44",
+      "price": "159,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-26 23:44",
+      "price": "179,99 zł",
+      "note": "Rossmann.pl"
     }
   ],
   "aa żel do mycia twarzy nawilżający": [
@@ -3874,16 +3884,6 @@
   ],
   "pepco maskotka ludzik piernikowy": [
     {
-      "date": "2026-11-26 12:57",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-26 12:57",
-      "price": "50 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-26 14:13",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3970,6 +3970,16 @@
     },
     {
       "date": "2026-11-26 22:44",
+      "price": "50 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-26 23:44",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-26 23:44",
       "price": "50 zł",
       "note": "Pepco.pl"
     }
@@ -4721,16 +4731,6 @@
   ],
   "calvin klein woda perfumowana dla kobiet": [
     {
-      "date": "2026-11-26 14:13",
-      "price": "129,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
-      "date": "2026-11-26 14:13",
-      "price": "149,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
       "date": "2026-11-26 15:27",
       "price": "229,99 zł",
       "note": "Rossmann.pl"
@@ -4817,6 +4817,16 @@
     },
     {
       "date": "2026-11-26 22:44",
+      "price": "149,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-26 23:44",
+      "price": "129,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-26 23:44",
       "price": "149,99 zł",
       "note": "Rossmann.pl"
     }
@@ -21287,6 +21297,301 @@
     {
       "date": "2026-11-26 22:44",
       "price": "$25.65",
+      "note": "Aliexpress.com"
+    }
+  ],
+  "klocki lego star wars 75192 sokół": [
+    {
+      "date": "2026-11-26 23:44",
+      "price": "2 519,99zł",
+      "note": "LEGO"
+    }
+  ],
+  "parkside koziołek warsztatowy": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "99 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-26 23:44",
+      "price": "49 zł",
+      "note": "Lidl.pl"
+    }
+  ],
+  "volteno termowentylator stojący 2 000w czarny": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "89,99 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-26 23:44",
+      "price": "59,99 zł",
+      "note": "OBI.pl"
+    }
+  ],
+  "parkside okulary lupowe led": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "39,99 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-26 23:44",
+      "price": "29,99 zł",
+      "note": "Lidl.pl"
+    }
+  ],
+  "fotel ergohuman 2 elite st bs": [
+    {
+      "date": "2026-11-26 23:44",
+      "price": "2 545,75zł",
+      "note": "Decofire"
+    }
+  ],
+  "biżuteria 3 za 2 dodatkowy kod": [
+    {
+      "date": "2026-11-26 23:44",
+      "price": "399 zł",
+      "note": "Ania Kruk"
+    }
+  ],
+  "alkomat alcoforce af 350": [
+    {
+      "date": "2026-11-26 23:44",
+      "price": "249zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "obudowa komputerowa msi mag pano 110r": [
+    {
+      "date": "2026-11-26 23:44",
+      "price": "199zł",
+      "note": "x-kom"
+    }
+  ],
+  "projektor magcubic l018 1080p": [
+    {
+      "date": "2026-11-26 23:44",
+      "price": "233,99zł",
+      "note": "AliExpress"
+    }
+  ],
+  "monitor led acer predator xb273ux2bmiiprx": [
+    {
+      "date": "2026-11-26 23:44",
+      "price": "549,78zł",
+      "note": "Allegro"
+    }
+  ],
+  "słuchawki asus rog pelta bezprzewodowe nauszne": [
+    {
+      "date": "2026-11-26 23:44",
+      "price": "299zł",
+      "note": "Media Expert"
+    }
+  ],
+  "adidas terrex buty trekkingowe eastrail 36": [
+    {
+      "date": "2026-11-26 23:44",
+      "price": "167,90zł",
+      "note": "BestSecret"
+    }
+  ],
+  "sandisk 2tb m 2 sata ssd": [
+    {
+      "date": "2026-11-26 23:44",
+      "price": "1 499zł",
+      "note": "x-kom"
+    }
+  ],
+  "lokalizator cellularline nova onetag ios android": [
+    {
+      "date": "2026-11-26 23:44",
+      "price": "19zł",
+      "note": "Media Expert"
+    }
+  ],
+  "powerbank sbs tebb5000pluglggrs ecopower 5000mah 10w": [
+    {
+      "date": "2026-11-26 23:44",
+      "price": "15,99zł",
+      "note": "Media Expert"
+    }
+  ],
+  "amd ryzen 9 9900x3d box": [
+    {
+      "date": "2026-11-26 23:44",
+      "price": "1 999,99zł",
+      "note": "x-kom"
+    }
+  ],
+  "maska led do twarzy silk n": [
+    {
+      "date": "2026-11-26 23:44",
+      "price": "399zł",
+      "note": "Media Expert"
+    }
+  ],
+  "kamera sportowa dji osmo action 4": [
+    {
+      "date": "2026-11-26 23:44",
+      "price": "745,73zł",
+      "note": "Allegro"
+    }
+  ],
+  "powerbank baseus enerfill fc31 20000 mah": [
+    {
+      "date": "2026-11-26 23:44",
+      "price": "69,99zł",
+      "note": "Media Expert"
+    }
+  ],
+  "wideorejestrator 70mai t800e 4k 3 ch": [
+    {
+      "date": "2026-11-26 23:44",
+      "price": "279,85zł",
+      "note": "AliExpress"
+    }
+  ],
+  "odkurzacz piorący lubluelu v8 800w 49": [
+    {
+      "date": "2026-11-26 23:44",
+      "price": "202zł",
+      "note": "AliExpress"
+    }
+  ],
+  "kamera samochodowa 70mai a500s kamera tylna": [
+    {
+      "date": "2026-11-26 23:44",
+      "price": "349zł",
+      "note": "x-kom"
+    }
+  ],
+  "parkside zestaw kluczy nasadowych przelotowych 31": [
+    {
+      "date": "2026-11-26 23:44",
+      "price": "24,99zł",
+      "note": "Lidl"
+    }
+  ],
+  "głośnik mobilny jbl clip 5 czarny": [
+    {
+      "date": "2026-11-26 23:44",
+      "price": "149zł",
+      "note": "Media Expert"
+    }
+  ],
+  "odśnieżarka akumulatorowa ryobi ry18stx45a": [
+    {
+      "date": "2026-11-26 23:44",
+      "price": "1 690zł",
+      "note": "DOMiTECH"
+    }
+  ],
+  "mikrofon steelseries arena mic superkardioidalny": [
+    {
+      "date": "2026-11-26 23:44",
+      "price": "39,89zł",
+      "note": "Media Expert"
+    }
+  ],
+  "silver monkey powerbank magsafe 10 000mah": [
+    {
+      "date": "2026-11-26 23:44",
+      "price": "69,99zł",
+      "note": "x-kom"
+    }
+  ],
+  "powerbank indukcyjny 3mk magsnap go 10000mah": [
+    {
+      "date": "2026-11-26 23:44",
+      "price": "49,99zł",
+      "note": "Media Expert"
+    }
+  ],
+  "obudowa komputerowa phanteks nv5": [
+    {
+      "date": "2026-11-26 23:44",
+      "price": "189zł",
+      "note": "TechLord"
+    }
+  ],
+  "gopro mission 1 pro": [
+    {
+      "date": "2026-11-26 23:44",
+      "price": "1 999zł",
+      "note": "x-kom"
+    }
+  ],
+  "lego dreamzzz 71500 koszmarny rekinokręt podwodny": [
+    {
+      "date": "2026-11-26 23:44",
+      "price": "359,99zł",
+      "note": "LEGO"
+    }
+  ],
+  "lego star wars 75428 droid bojowy": [
+    {
+      "date": "2026-11-26 23:44",
+      "price": "391,99zł",
+      "note": "LEGO"
+    }
+  ],
+  "dmuchawa foursun 130000 rpm z polski": [
+    {
+      "date": "2026-11-26 23:44",
+      "price": "$11.77",
+      "note": "Aliexpress.com"
+    }
+  ],
+  "myjka piorąca omeser 1800w 17kpa myjka": [
+    {
+      "date": "2026-11-26 23:44",
+      "price": "$84.24",
+      "note": "Aliexpress.com"
+    }
+  ],
+  "odkurzacz piorący dreame n20 steam z": [
+    {
+      "date": "2026-11-26 23:44",
+      "price": "$98.03",
+      "note": "Aliexpress.com"
+    }
+  ],
+  "telewizor metz 55 cale 55muf7000z z": [
+    {
+      "date": "2026-11-26 23:44",
+      "price": "$301.43",
+      "note": "Aliexpress.com"
+    }
+  ],
+  "metz qled 4k uhd 43 calowy": [
+    {
+      "date": "2026-11-26 23:44",
+      "price": "$294.6",
+      "note": "Aliexpress.com"
+    }
+  ],
+  "procesor amd ryzen 7 9800x3d z": [
+    {
+      "date": "2026-11-26 23:44",
+      "price": "$321.49",
+      "note": "Aliexpress.com"
+    }
+  ],
+  "onevan 3500w bezszczotkowy elektryczny turbodmuchawiec z": [
+    {
+      "date": "2026-11-26 23:44",
+      "price": "$45.96",
+      "note": "Aliexpress.com"
+    }
+  ],
+  "dmuchawa onegreen 5000w z eu za": [
+    {
+      "date": "2026-11-26 23:44",
+      "price": "$36.66",
       "note": "Aliexpress.com"
     }
   ]
