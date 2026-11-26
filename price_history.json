@@ -3819,16 +3819,6 @@
   ],
   "pepco maskotka ludzik piernikowy": [
     {
-      "date": "2026-11-25 21:46",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-25 21:46",
-      "price": "50 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-25 22:43",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3915,6 +3905,16 @@
     },
     {
       "date": "2026-11-26 08:23",
+      "price": "50 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-26 09:39",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-26 09:39",
       "price": "50 zł",
       "note": "Pepco.pl"
     }
@@ -4129,11 +4129,6 @@
   "pepco zabawkowy sklep z półkami": [
     {
       "date": "2026-11-25 21:46",
-      "price": "120 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-25 21:46",
       "price": "105 zł",
       "note": "Pepco.pl"
     },
@@ -4225,6 +4220,11 @@
     {
       "date": "2026-11-26 08:23",
       "price": "105 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-26 09:39",
+      "price": "120 zł",
       "note": "Pepco.pl"
     }
   ],
@@ -4564,16 +4564,6 @@
   ],
   "calvin klein woda toaletowa dla kobiet": [
     {
-      "date": "2026-11-25 10:48",
-      "price": "99,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
-      "date": "2026-11-25 19:45",
-      "price": "149,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
       "date": "2026-11-25 20:43",
       "price": "99,99 zł",
       "note": "Rossmann.pl"
@@ -4662,24 +4652,19 @@
       "date": "2026-11-26 08:23",
       "price": "149,99 zł",
       "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-26 09:39",
+      "price": "99,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-26 09:39",
+      "price": "149,99 zł",
+      "note": "Rossmann.pl"
     }
   ],
   "calvin klein woda perfumowana dla kobiet": [
-    {
-      "date": "2026-11-24 20:43",
-      "price": "229,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
-      "date": "2026-11-24 21:45",
-      "price": "129,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
-      "date": "2026-11-25 04:37",
-      "price": "149,99 zł",
-      "note": "Rossmann.pl"
-    },
     {
       "date": "2026-11-25 05:49",
       "price": "129,99 zł",
@@ -4762,6 +4747,21 @@
     },
     {
       "date": "2026-11-26 08:23",
+      "price": "149,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-26 09:39",
+      "price": "129,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-26 09:39",
+      "price": "229,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-26 09:39",
       "price": "149,99 zł",
       "note": "Rossmann.pl"
     }
@@ -12931,6 +12931,11 @@
       "date": "2026-11-24 22:45",
       "price": "599zł",
       "note": "Pepper.pl"
+    },
+    {
+      "date": "2026-11-26 09:39",
+      "price": "499zł",
+      "note": "x-kom"
     }
   ],
   "dino kawa rozpuszczalna jacobs cronat gold": [
@@ -18017,6 +18022,11 @@
   ],
   "livarno ultradźwiękowy dyfuzor aromatu ladh 12": [
     {
+      "date": "przed promocją",
+      "price": "58,90 zł",
+      "note": "przed promocją"
+    },
+    {
       "date": "30 dni przed obniżką",
       "price": "58,90 zł",
       "note": "Najniższa z 30 dni (Omnibus)"
@@ -18163,6 +18173,340 @@
       "date": "2026-11-26 08:23",
       "price": "110,70zł",
       "note": "Skalnik"
+    }
+  ],
+  "emporio stronger with you powerfully 100ml": [
+    {
+      "date": "2026-11-26 09:39",
+      "price": "280,69zł",
+      "note": "Aelia Duty Free"
+    }
+  ],
+  "gulasz angielski sokołów 290 g cena": [
+    {
+      "date": "2026-11-26 09:39",
+      "price": "2,42zł",
+      "note": "Dino"
+    }
+  ],
+  "black weekend na grupa pinwigna rabaty": [
+    {
+      "date": "2026-11-26 09:39",
+      "price": "13zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "livarno regał gospodarczy 60 x 138": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "66,90 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-26 09:39",
+      "price": "45,99 zł",
+      "note": "Lidl.pl"
+    }
+  ],
+  "aelia dutyfree perfumy 30 mwz399pln": [
+    {
+      "date": "2026-11-26 09:39",
+      "price": "399PLN",
+      "note": "Aelia Duty Free"
+    }
+  ],
+  "kol pol 25 zniżki na zakup": [
+    {
+      "date": "2026-11-26 09:39",
+      "price": "69 zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "lidl wszystkie ciastka 1 1 za": [
+    {
+      "date": "2026-11-26 09:39",
+      "price": "5zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "pepco bluza niemowlęca dziewczęca świąteczna czerwona": [
+    {
+      "date": "2026-11-26 09:39",
+      "price": "15 zł",
+      "note": "Pepco.pl"
+    }
+  ],
+  "pepco bluza damska świąteczna z nadrukiem": [
+    {
+      "date": "2026-11-26 09:39",
+      "price": "15 zł",
+      "note": "Pepco.pl"
+    }
+  ],
+  "pepco koszulka damska ze świątecznym napisem": [
+    {
+      "date": "2026-11-26 09:39",
+      "price": "40 zł",
+      "note": "Pepco.pl"
+    }
+  ],
+  "pepco bluza chłopięca z kapturem i": [
+    {
+      "date": "2026-11-26 09:39",
+      "price": "25 zł",
+      "note": "Pepco.pl"
+    }
+  ],
+  "pepco koszulka chłopięca z piernikowym ludzikiem": [
+    {
+      "date": "2026-11-26 09:39",
+      "price": "25 zł",
+      "note": "Pepco.pl"
+    }
+  ],
+  "pepco bluza dziewczęca bordowa z piernikowym": [
+    {
+      "date": "2026-11-26 09:39",
+      "price": "8 zł",
+      "note": "Pepco.pl"
+    }
+  ],
+  "pepco bluza niemowlęca chłopięca zielona z": [
+    {
+      "date": "2026-11-26 09:39",
+      "price": "25 zł",
+      "note": "Pepco.pl"
+    }
+  ],
+  "pepco koszulka męska szara z nadrukiem": [
+    {
+      "date": "2026-11-26 09:39",
+      "price": "15 zł",
+      "note": "Pepco.pl"
+    }
+  ],
+  "pepco bluza męska granatowa z napisem": [
+    {
+      "date": "2026-11-26 09:39",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    }
+  ],
+  "pepco koszulka chłopięca z krótkim rękawem": [
+    {
+      "date": "2026-11-26 09:39",
+      "price": "50 zł",
+      "note": "Pepco.pl"
+    }
+  ],
+  "pepco bluza chłopięca ze świątecznym nadrukiem": [
+    {
+      "date": "2026-11-26 09:39",
+      "price": "10 zł",
+      "note": "Pepco.pl"
+    }
+  ],
+  "pepco koszulka dziewczęca z dużym nadrukiem": [
+    {
+      "date": "2026-11-26 09:39",
+      "price": "30 zł",
+      "note": "Pepco.pl"
+    }
+  ],
+  "pepco bluza dziewczęca z nadrukiem i": [
+    {
+      "date": "2026-11-26 09:39",
+      "price": "15 zł",
+      "note": "Pepco.pl"
+    }
+  ],
+  "pepco bluza świąteczna dla psa z": [
+    {
+      "date": "2026-11-26 09:39",
+      "price": "30 zł",
+      "note": "Pepco.pl"
+    }
+  ],
+  "pepco sweter damski ze świecącą nitką": [
+    {
+      "date": "2026-11-26 09:39",
+      "price": "50 zł",
+      "note": "Pepco.pl"
+    }
+  ],
+  "pepco koszulka damska z krótkim rękawem": [
+    {
+      "date": "2026-11-26 09:39",
+      "price": "50 zł",
+      "note": "Pepco.pl"
+    }
+  ],
+  "pepco sukienka damska elegancka w drobne": [
+    {
+      "date": "2026-11-26 09:39",
+      "price": "30 zł",
+      "note": "Pepco.pl"
+    }
+  ],
+  "przecideszczowe spodnie trekkingowe vector 2l 3": [
+    {
+      "date": "2026-11-26 09:39",
+      "price": "139zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "energetyk zero kapitan bomba 2zł sztuka": [
+    {
+      "date": "2026-11-26 09:39",
+      "price": "48zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "monitor aoc 27e3qaf 27 full hd": [
+    {
+      "date": "2026-11-26 09:39",
+      "price": "449zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "słuchawki creative aurvana ace mimi 184": [
+    {
+      "date": "2026-11-26 09:39",
+      "price": "184,50zł",
+      "note": "Creative"
+    }
+  ],
+  "soda oczyszczona wodorowęglan sodu 1kg darmowa": [
+    {
+      "date": "2026-11-26 09:39",
+      "price": "4,04zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "rabat 15 proc ręcznie robiona biżuteria": [
+    {
+      "date": "2026-11-26 09:39",
+      "price": "42,50zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "plus plush na kartę na black": [
+    {
+      "date": "2026-11-26 09:39",
+      "price": "29zł",
+      "note": "Plus"
+    }
+  ],
+  "kurtka męska hardshell 3 warstwowa alpinus": [
+    {
+      "date": "2026-11-26 09:39",
+      "price": "359zł",
+      "note": "Alpinus"
+    }
+  ],
+  "sekiro shadows die twice edycja gry": [
+    {
+      "date": "2026-11-26 09:39",
+      "price": "239,90zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "zmywarka whirlpool wh4itb14b3n6w technologia 6 zmysł": [
+    {
+      "date": "2026-11-26 09:39",
+      "price": "1 499zł",
+      "note": "Media Expert"
+    }
+  ],
+  "body z wbudowanym biustonoszem z dekoltem": [
+    {
+      "date": "2026-11-26 09:39",
+      "price": "47,49zł",
+      "note": "Tezenis"
+    }
+  ],
+  "gra kena bridge of spirits deluxe": [
+    {
+      "date": "2026-11-26 09:39",
+      "price": "72,43zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "bluza męska new era x new": [
+    {
+      "date": "2026-11-26 09:39",
+      "price": "71,60zł",
+      "note": "Picksport"
+    }
+  ],
+  "pok mon tcg 30th celebration elite": [
+    {
+      "date": "2026-11-26 09:39",
+      "price": "499zł",
+      "note": "Media Expert"
+    }
+  ],
+  "książka folwark zwierzęcy george orwell darmowa": [
+    {
+      "date": "2026-11-26 09:39",
+      "price": "6,53zł",
+      "note": "Allegro"
+    }
+  ],
+  "buty męskie new balance 754 classic": [
+    {
+      "date": "2026-11-26 09:39",
+      "price": "299zł",
+      "note": "Sportano"
+    }
+  ],
+  "goobay 64684 obejma kablowa z gwoździem": [
+    {
+      "date": "2026-11-26 09:39",
+      "price": "9,65zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "lornetka pentax 8 16x21 zoom": [
+    {
+      "date": "2026-11-26 09:39",
+      "price": "349,99zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "słuchawki soundcore liberty 4 pro wysyłka": [
+    {
+      "date": "2026-11-26 09:39",
+      "price": "261,50zł",
+      "note": "AliExpress"
+    }
+  ],
+  "woda perfumowana do ciała dla kobiet": [
+    {
+      "date": "2026-11-26 09:39",
+      "price": "23,69zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "apple airpods 5 generacji anc": [
+    {
+      "date": "2026-11-26 09:39",
+      "price": "499zł",
+      "note": "x-kom"
+    }
+  ],
+  "winmau rzutki michael mvg van gerwen": [
+    {
+      "date": "2026-11-26 09:39",
+      "price": "91,99zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "dji mini 5 pro fly more": [
+    {
+      "date": "2026-11-26 09:39",
+      "price": "4 054,99zł",
+      "note": "MediaMarkt"
     }
   ]
 }
