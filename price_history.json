@@ -3819,16 +3819,6 @@
   ],
   "pepco maskotka ludzik piernikowy": [
     {
-      "date": "2026-11-25 19:45",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-25 19:45",
-      "price": "50 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-25 20:43",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3915,22 +3905,22 @@
     },
     {
       "date": "2026-11-26 05:50",
+      "price": "50 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-26 06:55",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-26 06:55",
       "price": "50 zł",
       "note": "Pepco.pl"
     }
   ],
   "pepco dekoracja tekstylna mini ludzik piernikowy": [
     {
-      "date": "2026-11-25 19:45",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-25 19:45",
-      "price": "10 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-25 20:43",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -4017,6 +4007,16 @@
     },
     {
       "date": "2026-11-26 05:50",
+      "price": "10 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-26 06:55",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-26 06:55",
       "price": "10 zł",
       "note": "Pepco.pl"
     }
@@ -4128,16 +4128,6 @@
   ],
   "pepco zabawkowy sklep z półkami": [
     {
-      "date": "2026-11-25 19:45",
-      "price": "120 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-25 19:45",
-      "price": "105 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-25 20:43",
       "price": "120 zł",
       "note": "Pepco.pl"
@@ -4224,6 +4214,16 @@
     },
     {
       "date": "2026-11-26 05:50",
+      "price": "105 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-26 06:55",
+      "price": "120 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-26 06:55",
       "price": "105 zł",
       "note": "Pepco.pl"
     }
@@ -4564,16 +4564,6 @@
   ],
   "calvin klein woda toaletowa dla kobiet": [
     {
-      "date": "2026-11-25 09:44",
-      "price": "149,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
-      "date": "2026-11-25 09:44",
-      "price": "99,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
       "date": "2026-11-25 10:48",
       "price": "149,99 zł",
       "note": "Rossmann.pl"
@@ -4662,19 +4652,19 @@
       "date": "2026-11-26 05:50",
       "price": "99,99 zł",
       "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-26 06:55",
+      "price": "149,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-26 06:55",
+      "price": "99,99 zł",
+      "note": "Rossmann.pl"
     }
   ],
   "calvin klein woda perfumowana dla kobiet": [
-    {
-      "date": "2026-11-24 18:44",
-      "price": "129,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
-      "date": "2026-11-24 19:53",
-      "price": "199,99 zł",
-      "note": "Rossmann.pl"
-    },
     {
       "date": "2026-11-24 19:53",
       "price": "129,99 zł",
@@ -4762,6 +4752,16 @@
     },
     {
       "date": "2026-11-26 05:50",
+      "price": "149,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-26 06:55",
+      "price": "129,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-26 06:55",
       "price": "149,99 zł",
       "note": "Rossmann.pl"
     }
@@ -17678,6 +17678,223 @@
     {
       "date": "2026-11-26 05:50",
       "price": "419,99 zł",
+      "note": "Rossmann.pl"
+    }
+  ],
+  "kamera vlogowa dji osmo pocket 4p": [
+    {
+      "date": "2026-11-26 06:55",
+      "price": "2 299zł",
+      "note": "Media Expert"
+    }
+  ],
+  "moto edge 70 fusion 12 512": [
+    {
+      "date": "2026-11-26 06:55",
+      "price": "1 658,54zł",
+      "note": "Media Expert"
+    }
+  ],
+  "bilety do parku majaland 50 taniej": [
+    {
+      "date": "2026-11-26 06:55",
+      "price": "59,95zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "mova p10 pro ultra robot sprzątający": [
+    {
+      "date": "2026-11-26 06:55",
+      "price": "999zł",
+      "note": "Media Expert"
+    }
+  ],
+  "lego speed champions zygzak mcqueen 77255": [
+    {
+      "date": "2026-11-26 06:55",
+      "price": "56,99zł",
+      "note": "InPost"
+    }
+  ],
+  "playstation 5 825gb digital auchan": [
+    {
+      "date": "2026-11-26 06:55",
+      "price": "2 899zł",
+      "note": "Auchan"
+    }
+  ],
+  "parkside performance zestaw 3 narzędzi akumulatorowych": [
+    {
+      "date": "2026-11-26 06:55",
+      "price": "449,14zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "buty rowerowe adidas five ten sleuth": [
+    {
+      "date": "2026-11-26 06:55",
+      "price": "219,50zł",
+      "note": "adidas"
+    }
+  ],
+  "buty męskie merrell speed strike rozm": [
+    {
+      "date": "2026-11-26 06:55",
+      "price": "238,90zł",
+      "note": "Lounge by Zalando"
+    }
+  ],
+  "wietnam all inclusive 5 asteria mui": [
+    {
+      "date": "2026-11-26 06:55",
+      "price": "4 029zł",
+      "note": "Itaka"
+    }
+  ],
+  "indie goa 11 nocy z warszawy": [
+    {
+      "date": "2026-11-26 06:55",
+      "price": "2 732zł",
+      "note": "Rainbow"
+    }
+  ],
+  "tunezja djerba 8 dni all inclusive": [
+    {
+      "date": "2026-11-26 06:55",
+      "price": "1 299zł",
+      "note": "Itaka"
+    }
+  ],
+  "kurtka z membraną damska columbia northwest": [
+    {
+      "date": "2026-11-26 06:55",
+      "price": "357,65zł",
+      "note": "Picksport"
+    }
+  ],
+  "śniegowce damskie legero monta gore tex": [
+    {
+      "date": "2026-11-26 06:55",
+      "price": "180,50zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "logitech g driving force shifter do": [
+    {
+      "date": "2026-11-26 06:55",
+      "price": "101,38zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "marerac samochodowy dmuchany": [
+    {
+      "date": "2026-11-26 06:55",
+      "price": "38,70zł",
+      "note": "Lidl"
+    }
+  ],
+  "karta przechwytująca do streamingu elgato 4k": [
+    {
+      "date": "2026-11-26 06:55",
+      "price": "662,99zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "bluza kurtka dresowa męska adidas sst": [
+    {
+      "date": "2026-11-26 06:55",
+      "price": "143,09zł",
+      "note": "Picksport"
+    }
+  ],
+  "podwójna promocja na ciastka markizy z": [
+    {
+      "date": "2026-11-26 06:55",
+      "price": "3zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "stojak wiertarski dremel 220 workstation": [
+    {
+      "date": "2026-11-26 06:55",
+      "price": "100zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "ładowarka sieciowa usb c 40 w": [
+    {
+      "date": "2026-11-26 06:55",
+      "price": "33,99zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "intex quick fill ac elektryczna pompa": [
+    {
+      "date": "2026-11-26 06:55",
+      "price": "73,45zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "amazon pl toocki ładowarka sieciowa gan": [
+    {
+      "date": "2026-11-26 06:55",
+      "price": "55,99zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "tunezja zarzis 8 dni all inclusive": [
+    {
+      "date": "2026-11-26 06:55",
+      "price": "1 099zł",
+      "note": "Itaka"
+    }
+  ],
+  "oryginalne wymienne okrągłe końcówki oral b": [
+    {
+      "date": "2026-11-26 06:55",
+      "price": "146,99zł",
+      "note": "Allegro"
+    }
+  ],
+  "rasasi la yuqawam pour homme woda": [
+    {
+      "date": "2026-11-26 06:55",
+      "price": "119zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "kamera sportowa dji osmo pocket 4p": [
+    {
+      "date": "2026-11-26 06:55",
+      "price": "2 299zł",
+      "note": "Media Expert"
+    }
+  ],
+  "9 gier z serii resident evil": [
+    {
+      "date": "2026-11-26 06:55",
+      "price": "160,03zł",
+      "note": "Humble Bundle"
+    }
+  ],
+  "pad sony dualsense do ps5 bezprzewodowy": [
+    {
+      "date": "2026-11-26 06:55",
+      "price": "234,99zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "dolce gabbana woda perfumowana dla kobiet": [
+    {
+      "date": "2026-11-26 06:55",
+      "price": "199,99 zł",
+      "note": "Rossmann.pl"
+    }
+  ],
+  "hermes woda toaletowa dla mężczyzn": [
+    {
+      "date": "2026-11-26 06:55",
+      "price": "299,99 zł",
       "note": "Rossmann.pl"
     }
   ]
