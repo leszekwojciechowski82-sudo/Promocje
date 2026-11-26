@@ -3849,16 +3849,6 @@
   ],
   "pepco maskotka ludzik piernikowy": [
     {
-      "date": "2026-11-26 06:55",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-26 06:55",
-      "price": "50 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-26 08:23",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3945,6 +3935,16 @@
     },
     {
       "date": "2026-11-26 17:46",
+      "price": "50 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-26 18:43",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-26 18:43",
       "price": "50 zł",
       "note": "Pepco.pl"
     }
@@ -4594,16 +4594,6 @@
   ],
   "calvin klein woda toaletowa dla kobiet": [
     {
-      "date": "2026-11-26 04:33",
-      "price": "99,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
-      "date": "2026-11-26 05:50",
-      "price": "149,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
       "date": "2026-11-26 05:50",
       "price": "99,99 zł",
       "note": "Rossmann.pl"
@@ -4690,27 +4680,22 @@
     },
     {
       "date": "2026-11-26 17:46",
+      "price": "149,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-26 18:43",
+      "price": "99,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-26 18:43",
       "price": "149,99 zł",
       "note": "Rossmann.pl"
     }
   ],
   "calvin klein woda perfumowana dla kobiet": [
     {
-      "date": "2026-11-26 08:23",
-      "price": "129,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
-      "date": "2026-11-26 08:23",
-      "price": "149,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
-      "date": "2026-11-26 09:39",
-      "price": "129,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
       "date": "2026-11-26 09:39",
       "price": "229,99 zł",
       "note": "Rossmann.pl"
@@ -4792,6 +4777,21 @@
     },
     {
       "date": "2026-11-26 17:46",
+      "price": "149,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-26 18:43",
+      "price": "229,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-26 18:43",
+      "price": "129,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-26 18:43",
       "price": "149,99 zł",
       "note": "Rossmann.pl"
     }
@@ -19925,6 +19925,11 @@
   ],
   "disney mickey and friends kalendarz adwentowy": [
     {
+      "date": "przed promocją",
+      "price": "12,99 zł",
+      "note": "przed promocją"
+    },
+    {
       "date": "30 dni przed obniżką",
       "price": "9,99 zł",
       "note": "Najniższa z 30 dni (Omnibus)"
@@ -20136,6 +20141,228 @@
       "date": "2026-11-26 17:46",
       "price": "1 619zł",
       "note": "Allegro"
+    }
+  ],
+  "papier toaletowy velvet z ekstraktem z": [
+    {
+      "date": "2026-11-26 18:43",
+      "price": "13,99zł",
+      "note": "Biedronka"
+    }
+  ],
+  "aa wings of color paleta do": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "52,99 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-26 18:43",
+      "price": "28,99 zł",
+      "note": "Rossmann.pl"
+    }
+  ],
+  "sucha karma brit premium by nature": [
+    {
+      "date": "2026-11-26 18:43",
+      "price": "152,17zł",
+      "note": "Maxi Zoo"
+    }
+  ],
+  "organizer na leki 3 poziomowy z": [
+    {
+      "date": "2026-11-26 18:43",
+      "price": "37,11zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "żelki malinki i jeżynki lidl przy": [
+    {
+      "date": "2026-11-26 18:43",
+      "price": "1,49zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "zajdel audiobook cylinder van troffa superprodukcja": [
+    {
+      "date": "2026-11-26 18:43",
+      "price": "13,98zł",
+      "note": "Publio"
+    }
+  ],
+  "rysik baseus smooth writing 3 do": [
+    {
+      "date": "2026-11-26 18:43",
+      "price": "59,99zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "amazfit balance 3 amazon it": [
+    {
+      "date": "2026-11-26 18:43",
+      "price": "1 110zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "steamworld dig 2 gra nintendo switch": [
+    {
+      "date": "2026-11-26 18:43",
+      "price": "8zł",
+      "note": "Nintendo eShop"
+    }
+  ],
+  "drewniana tablica manipulacyjna sensoryczna lisiczka lilliputiens": [
+    {
+      "date": "2026-11-26 18:43",
+      "price": "87,99zł",
+      "note": "Empik"
+    }
+  ],
+  "kurtka windstoper mammut ultimate viii so": [
+    {
+      "date": "2026-11-26 18:43",
+      "price": "559,67zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "rower szosowy bianchi oltre xr3 2024": [
+    {
+      "date": "2026-11-26 18:43",
+      "price": "8 750zł",
+      "note": "bikestocks"
+    }
+  ],
+  "gta 6 grand theft auto vi": [
+    {
+      "date": "2026-11-26 18:43",
+      "price": "298,02zł",
+      "note": "Difmark"
+    }
+  ],
+  "zestaw prezentowy dla mężczyzn portfel skórzany": [
+    {
+      "date": "2026-11-26 18:43",
+      "price": "129,99zł",
+      "note": "Allegro"
+    }
+  ],
+  "microsoft surface pro 13 snapdragon x2": [
+    {
+      "date": "2026-11-26 18:43",
+      "price": "4 196,83zł",
+      "note": "Amazon.it"
+    }
+  ],
+  "kolczyki płatki śniegu śnieżynki bez niklu": [
+    {
+      "date": "2026-11-26 18:43",
+      "price": "6,77zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "amazon basics ceramiczny grzejnik stojący 1500": [
+    {
+      "date": "2026-11-26 18:43",
+      "price": "75,03zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "gra stray steam": [
+    {
+      "date": "2026-11-26 18:43",
+      "price": "44,99zł",
+      "note": "Steam"
+    }
+  ],
+  "biurko corsair platform 4 standardowy 120cm": [
+    {
+      "date": "2026-11-26 18:43",
+      "price": "1 339zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "projekt hail mary andy weir audiobook": [
+    {
+      "date": "2026-11-26 18:43",
+      "price": "19,99zł",
+      "note": "Virtualo"
+    }
+  ],
+  "obiektyw sigma c 12mm f 1": [
+    {
+      "date": "2026-11-26 18:43",
+      "price": "1 949zł",
+      "note": "Fotojoker"
+    }
+  ],
+  "8 x pojemniki do przechowywania żywności": [
+    {
+      "date": "2026-11-26 18:43",
+      "price": "8,61zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "gra insurgency sandstorm 1 year anniversary": [
+    {
+      "date": "2026-11-26 18:43",
+      "price": "29,99zł",
+      "note": "Steam"
+    }
+  ],
+  "teltech szkło hartowane do iphone 16": [
+    {
+      "date": "2026-11-26 18:43",
+      "price": "7,72zł",
+      "note": "Empik"
+    }
+  ],
+  "dysk sandisk optimus gx 7100 500gb": [
+    {
+      "date": "2026-11-26 18:43",
+      "price": "399zł",
+      "note": "Media Expert"
+    }
+  ],
+  "stacja ładowania re load": [
+    {
+      "date": "2026-11-26 18:43",
+      "price": "59,95zł",
+      "note": "Action"
+    }
+  ],
+  "czajnik elektryczny cecotec thermosense 620 vintage": [
+    {
+      "date": "2026-11-26 18:43",
+      "price": "79zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "głośnik przenośny soundcore 3 dostępne różne": [
+    {
+      "date": "2026-11-26 18:43",
+      "price": "125zł",
+      "note": "Allegro"
+    }
+  ],
+  "alpecin caffeine shampoo mwz 99zł": [
+    {
+      "date": "2026-11-26 18:43",
+      "price": "27,99zł",
+      "note": "Hebe"
+    }
+  ],
+  "inny świat zapiski sowieckie autor gustaw": [
+    {
+      "date": "2026-11-26 18:43",
+      "price": "17,09zł",
+      "note": "Inbook"
+    }
+  ],
+  "kurtka zamszowa męska 100 skóra": [
+    {
+      "date": "2026-11-26 18:43",
+      "price": "335,40zł",
+      "note": "Zara"
     }
   ]
 }
