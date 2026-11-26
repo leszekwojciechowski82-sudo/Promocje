@@ -2084,6 +2084,16 @@
       "date": "2026-11-26 20:42",
       "price": "179,99 zł",
       "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-26 21:42",
+      "price": "159,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-26 21:42",
+      "price": "179,99 zł",
+      "note": "Rossmann.pl"
     }
   ],
   "aa żel do mycia twarzy nawilżający": [
@@ -3854,16 +3864,6 @@
   ],
   "pepco maskotka ludzik piernikowy": [
     {
-      "date": "2026-11-26 10:49",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-26 10:49",
-      "price": "50 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-26 11:48",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3950,6 +3950,16 @@
     },
     {
       "date": "2026-11-26 20:42",
+      "price": "50 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-26 21:42",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-26 21:42",
       "price": "50 zł",
       "note": "Pepco.pl"
     }
@@ -4599,16 +4609,6 @@
   ],
   "calvin klein woda toaletowa dla kobiet": [
     {
-      "date": "2026-11-26 08:23",
-      "price": "149,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
-      "date": "2026-11-26 09:39",
-      "price": "99,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
       "date": "2026-11-26 09:39",
       "price": "149,99 zł",
       "note": "Rossmann.pl"
@@ -4695,22 +4695,22 @@
     },
     {
       "date": "2026-11-26 20:42",
+      "price": "99,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-26 21:42",
+      "price": "149,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-26 21:42",
       "price": "99,99 zł",
       "note": "Rossmann.pl"
     }
   ],
   "calvin klein woda perfumowana dla kobiet": [
     {
-      "date": "2026-11-26 11:48",
-      "price": "129,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
-      "date": "2026-11-26 11:48",
-      "price": "149,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
       "date": "2026-11-26 12:57",
       "price": "129,99 zł",
       "note": "Rossmann.pl"
@@ -4797,6 +4797,16 @@
     },
     {
       "date": "2026-11-26 20:42",
+      "price": "149,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-26 21:42",
+      "price": "129,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-26 21:42",
       "price": "149,99 zł",
       "note": "Rossmann.pl"
     }
@@ -20801,6 +20811,226 @@
       "date": "2026-11-26 20:42",
       "price": "299zł",
       "note": "Lidl"
+    }
+  ],
+  "wszystkie napoje energetyczne 500ml dzik 2": [
+    {
+      "date": "2026-11-26 21:42",
+      "price": "3,66zł",
+      "note": "Biedronka"
+    }
+  ],
+  "książka gdyby jezus usiadł obok ciebie": [
+    {
+      "date": "2026-11-26 21:42",
+      "price": "31,25zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "esun pla lw filamenty 1 75mm": [
+    {
+      "date": "przed promocją",
+      "price": "179,99 zł",
+      "note": "przed promocją"
+    },
+    {
+      "date": "2026-11-26 21:42",
+      "price": "90,24zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "forthing t five hev 1 5": [
+    {
+      "date": "przed promocją",
+      "price": "155900 zł",
+      "note": "przed promocją"
+    },
+    {
+      "date": "2026-11-26 21:42",
+      "price": "119 900zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "gazowy piec do pizzy le feu": [
+    {
+      "date": "2026-11-26 21:42",
+      "price": "1 349,25zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "lego technic 42232 koenigsegg sadair s": [
+    {
+      "date": "2026-11-26 21:42",
+      "price": "1 299zł",
+      "note": "x-kom"
+    }
+  ],
+  "dodatkowe 100zł zniżki za każde wydane": [
+    {
+      "date": "2026-11-26 21:42",
+      "price": "100zł",
+      "note": "Samsung"
+    }
+  ],
+  "router msi radix axe6600 wifi 6e": [
+    {
+      "date": "2026-11-26 21:42",
+      "price": "359zł",
+      "note": "x-kom"
+    }
+  ],
+  "komputer smx battlestation m3a i5 12400f": [
+    {
+      "date": "2026-11-26 21:42",
+      "price": "5 199zł",
+      "note": "x-kom"
+    }
+  ],
+  "apple macbook air m5 16gb 512": [
+    {
+      "date": "2026-11-26 21:42",
+      "price": "5 499zł",
+      "note": "x-kom"
+    }
+  ],
+  "kask rowerowy liv relay mips rozm": [
+    {
+      "date": "2026-11-26 21:42",
+      "price": "99zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "gra mafia ii edycja ostateczna na": [
+    {
+      "date": "2026-11-26 21:42",
+      "price": "50,40zł",
+      "note": "Steam"
+    }
+  ],
+  "dron dji neo mini dron z": [
+    {
+      "date": "2026-11-26 21:42",
+      "price": "500,12zł",
+      "note": "Amazon.de"
+    }
+  ],
+  "buty sneakersy armani": [
+    {
+      "date": "2026-11-26 21:42",
+      "price": "188,87zł",
+      "note": "Allegro"
+    }
+  ],
+  "koleje mazowieckie nowa ulga dla zasłużonych": [
+    {
+      "date": "2026-11-26 21:42",
+      "price": "1zł",
+      "note": "Koleje Mazowieckie"
+    }
+  ],
+  "zolit zimowy płyn do spryskiwaczy": [
+    {
+      "date": "2026-11-26 21:42",
+      "price": "49,50zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "filament esun pla 1 75mm 1kg": [
+    {
+      "date": "2026-11-26 21:42",
+      "price": "24,90zł",
+      "note": "Botland"
+    }
+  ],
+  "hortex czereśnie mrożone 300 g lidl": [
+    {
+      "date": "2026-11-26 21:42",
+      "price": "3,75zł",
+      "note": "Lidl"
+    }
+  ],
+  "technisat viola radio awaryjne z dynamem": [
+    {
+      "date": "2026-11-26 21:42",
+      "price": "89,99zł",
+      "note": "x-kom"
+    }
+  ],
+  "mata do akupresury 4fizjo xl 110": [
+    {
+      "date": "2026-11-26 21:42",
+      "price": "69,99zł",
+      "note": "Allegro"
+    }
+  ],
+  "kalendarz adwentowy rituals": [
+    {
+      "date": "2026-11-26 21:42",
+      "price": "314,25zł",
+      "note": "Sephora"
+    }
+  ],
+  "zegarek męski seiko prospex zakynthos limited": [
+    {
+      "date": "2026-11-26 21:42",
+      "price": "4 550zł",
+      "note": "W.KRUK"
+    }
+  ],
+  "odstraszacz myszy 50 m2 odb os": [
+    {
+      "date": "2026-11-26 21:42",
+      "price": "19,99zł",
+      "note": "Jula"
+    }
+  ],
+  "suszarka samsung seria 5000 dv80dg52b0aeeo 60": [
+    {
+      "date": "2026-11-26 21:42",
+      "price": "1 999zł",
+      "note": "Media Expert"
+    }
+  ],
+  "przygody baltazara gąbki trylogia stanisław pagaczewski": [
+    {
+      "date": "2026-11-26 21:42",
+      "price": "26,94zł",
+      "note": "Wydawnictwo Literackie"
+    }
+  ],
+  "zegarki merchaniczne marloe wyprzedaż różne warianty": [
+    {
+      "date": "2026-11-26 21:42",
+      "price": "1 550zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "pamięć ram patriot viper venom ddr5": [
+    {
+      "date": "2026-11-26 21:42",
+      "price": "999zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "meec tools pilarka ukosowa z posuwem": [
+    {
+      "date": "2026-11-26 21:42",
+      "price": "549zł",
+      "note": "Jula"
+    }
+  ],
+  "pedały moza srp2 load cell sprzedaje": [
+    {
+      "date": "2026-11-26 21:42",
+      "price": "645,32zł",
+      "note": "Allegro"
+    }
+  ],
+  "basen z hydromasażem 605 l 170x66": [
+    {
+      "date": "2026-11-26 21:42",
+      "price": "999zł",
+      "note": "Jula"
     }
   ]
 }
