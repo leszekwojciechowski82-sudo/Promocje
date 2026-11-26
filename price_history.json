@@ -3819,16 +3819,6 @@
   ],
   "pepco maskotka ludzik piernikowy": [
     {
-      "date": "2026-11-25 22:43",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-25 22:43",
-      "price": "50 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-25 23:39",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -3915,6 +3905,16 @@
     },
     {
       "date": "2026-11-26 09:39",
+      "price": "50 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-26 10:49",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-26 10:49",
       "price": "50 zł",
       "note": "Pepco.pl"
     }
@@ -4564,16 +4564,6 @@
   ],
   "calvin klein woda toaletowa dla kobiet": [
     {
-      "date": "2026-11-25 20:43",
-      "price": "99,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
-      "date": "2026-11-25 20:43",
-      "price": "149,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
       "date": "2026-11-25 21:46",
       "price": "99,99 zł",
       "note": "Rossmann.pl"
@@ -4662,19 +4652,19 @@
       "date": "2026-11-26 09:39",
       "price": "149,99 zł",
       "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-26 10:49",
+      "price": "99,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-26 10:49",
+      "price": "149,99 zł",
+      "note": "Rossmann.pl"
     }
   ],
   "calvin klein woda perfumowana dla kobiet": [
-    {
-      "date": "2026-11-25 05:49",
-      "price": "129,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
-      "date": "2026-11-25 08:27",
-      "price": "279,99 zł",
-      "note": "Rossmann.pl"
-    },
     {
       "date": "2026-11-25 08:27",
       "price": "129,99 zł",
@@ -4764,6 +4754,16 @@
       "date": "2026-11-26 09:39",
       "price": "149,99 zł",
       "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-26 10:49",
+      "price": "129,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-26 10:49",
+      "price": "149,99 zł",
+      "note": "Rossmann.pl"
     }
   ],
   "qbrick system skrzynka narzędziowa one red": [
@@ -4790,6 +4790,11 @@
     {
       "date": "2026-11-23 16:48",
       "price": "119 zł",
+      "note": "OBI.pl"
+    },
+    {
+      "date": "2026-11-26 10:49",
+      "price": "139 zł",
       "note": "OBI.pl"
     }
   ],
@@ -18198,6 +18203,11 @@
   ],
   "livarno regał gospodarczy 60 x 138": [
     {
+      "date": "przed promocją",
+      "price": "66,90 zł",
+      "note": "przed promocją"
+    },
+    {
       "date": "30 dni przed obniżką",
       "price": "66,90 zł",
       "note": "Najniższa z 30 dni (Omnibus)"
@@ -18507,6 +18517,244 @@
       "date": "2026-11-26 09:39",
       "price": "4 054,99zł",
       "note": "MediaMarkt"
+    }
+  ],
+  "telewizor sony bravia 6 k 55a65": [
+    {
+      "date": "2026-11-26 10:49",
+      "price": "4 665zł",
+      "note": "RTV Euro AGD"
+    }
+  ],
+  "lego speed champions 77238 lamborghini revuelto": [
+    {
+      "date": "2026-11-26 10:49",
+      "price": "112,99zł",
+      "note": "InPost"
+    }
+  ],
+  "karta pamięci sd pny 128gb elitex": [
+    {
+      "date": "2026-11-26 10:49",
+      "price": "214,49zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "etui na konsole switch powera fortnite": [
+    {
+      "date": "2026-11-26 10:49",
+      "price": "19,99zł",
+      "note": "Allegro"
+    }
+  ],
+  "koc kalklok 130x170 beżowy": [
+    {
+      "date": "2026-11-26 10:49",
+      "price": "50zł",
+      "note": "JYSK"
+    }
+  ],
+  "pakiet black friday": [
+    {
+      "date": "2026-11-26 10:49",
+      "price": "99zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "bezprzewodowy termometr kuchenny witt cookperfect single": [
+    {
+      "date": "2026-11-26 10:49",
+      "price": "299zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "wycieraczka wejściowa chłonna fangccc 60 x": [
+    {
+      "date": "2026-11-26 10:49",
+      "price": "9,95zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "router zte g5 ultra 5g": [
+    {
+      "date": "2026-11-26 10:49",
+      "price": "949zł",
+      "note": "Media Expert"
+    }
+  ],
+  "lego city łódź badacza arktyki 60368": [
+    {
+      "date": "2026-11-26 10:49",
+      "price": "569,80zł",
+      "note": "Allegro"
+    }
+  ],
+  "termoflex elastyczna rura do wentylacji rekuperacji": [
+    {
+      "date": "2026-11-26 10:49",
+      "price": "62,69zł",
+      "note": "Allegro"
+    }
+  ],
+  "belkin bpb012 powerbank usb c 20": [
+    {
+      "date": "2026-11-26 10:49",
+      "price": "68,36zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "płyta indukcyjna electrolux kiv63443ct saphirmatt se": [
+    {
+      "date": "2026-11-26 10:49",
+      "price": "1 949zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "hgline laserowa oziomica 4d 16 linii": [
+    {
+      "date": "2026-11-26 10:49",
+      "price": "151zł",
+      "note": "AliExpress"
+    }
+  ],
+  "telewizor qd mini led tcl 65p8l": [
+    {
+      "date": "2026-11-26 10:49",
+      "price": "2 799,99zł",
+      "note": "Allegro"
+    }
+  ],
+  "swiss arabian vetiver and orange 100ml": [
+    {
+      "date": "2026-11-26 10:49",
+      "price": "113,41zł",
+      "note": "E-Glamour"
+    }
+  ],
+  "maytoni lampa ścienna białe tuby axis": [
+    {
+      "date": "2026-11-26 10:49",
+      "price": "856,99zł",
+      "note": "Allegro"
+    }
+  ],
+  "książka konfrontacja mróz remigiusz": [
+    {
+      "date": "2026-11-26 10:49",
+      "price": "32,59zł",
+      "note": "Empik"
+    }
+  ],
+  "18 x kolorową wstążka do prezentowa": [
+    {
+      "date": "2026-11-26 10:49",
+      "price": "10,97zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "mozano ultimate smooth żelazko parowe bezprzewodowe": [
+    {
+      "date": "2026-11-26 10:49",
+      "price": "89,99zł",
+      "note": "Erli"
+    }
+  ],
+  "kołowrotek favorite totem 4000": [
+    {
+      "date": "2026-11-26 10:49",
+      "price": "231,23zł",
+      "note": "Pepper.pl"
+    }
+  ],
+  "dysk msi spatium m450 v1 1tb": [
+    {
+      "date": "2026-11-26 10:49",
+      "price": "549zł",
+      "note": "Media Expert"
+    }
+  ],
+  "magnetyczny uchwyt samochodowy baseus c03s z": [
+    {
+      "date": "2026-11-26 10:49",
+      "price": "39,99zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "media expert telewizor samsung qe55s85fau 55": [
+    {
+      "date": "2026-11-26 10:49",
+      "price": "3 499,99zł",
+      "note": "Media Expert"
+    }
+  ],
+  "100 zł na kupon za każde": [
+    {
+      "date": "2026-11-26 10:49",
+      "price": "100 zł",
+      "note": "Castorama"
+    }
+  ],
+  "bacher dwustronny pas skórzany strop do": [
+    {
+      "date": "2026-11-26 10:49",
+      "price": "99,99zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "plecak puccini do samolotu z poszerzeniem": [
+    {
+      "date": "2026-11-26 10:49",
+      "price": "113,99zł",
+      "note": "Puccini"
+    }
+  ],
+  "automatyczne nawadnianie roślin wewnętrznych thirdreality smart": [
+    {
+      "date": "2026-11-26 10:49",
+      "price": "99,99zł",
+      "note": "Amazon.pl"
+    }
+  ],
+  "gamepad flydigi vader5 pro za 75": [
+    {
+      "date": "2026-11-26 10:49",
+      "price": "$75.99",
+      "note": "Banggood.com"
+    }
+  ],
+  "flydigi apex 5 elite gamepad kontroler": [
+    {
+      "date": "2026-11-26 10:49",
+      "price": "$114.99",
+      "note": "Banggood.com"
+    }
+  ],
+  "flydigi apex 6 pro phantom blade": [
+    {
+      "date": "2026-11-26 10:49",
+      "price": "$240.99",
+      "note": "Banggood.com"
+    }
+  ],
+  "flydigi apex 6 elite bezprzewodowy kontroler": [
+    {
+      "date": "2026-11-26 10:49",
+      "price": "$136.99",
+      "note": "Banggood.com"
+    }
+  ],
+  "flydigi apex 6 pro elite bezprzewodowy": [
+    {
+      "date": "2026-11-26 10:49",
+      "price": "$152.99",
+      "note": "Banggood.com"
+    }
+  ],
+  "lux tools wiertarko wkrętarka akumulatorowa a": [
+    {
+      "date": "2026-11-26 10:49",
+      "price": "228 zł",
+      "note": "OBI.pl"
     }
   ]
 }
