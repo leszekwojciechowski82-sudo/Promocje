@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 02:14",
+  "updated_at": "2026-11-27 03:27",
   "deals": [
     {
       "source": "Aldi.pl (Oferty)",
@@ -103,36 +103,6 @@
           "date": "2026-11-23 10:06",
           "price": "45,99 zł",
           "note": "Aldi.pl"
-        }
-      ]
-    },
-    {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/lg-oled65g64lw-1401999",
-      "title": "Telewizor LG OLED65G64LW (możliwe 8099,12 zł)",
-      "link": "https://www.pepper.pl/promocje/lg-oled65g64lw-1401999",
-      "published": "Fri, 27 Nov 2026 01:36:54 +0100",
-      "summary": "8 999zł - RTV Euro AGD Cześć. Moja pierwsza, szybka wstawka. Topowy model od LG z tego roku w najniższej cenie jaką widziałem do tej pory - 8099,12 przy czterech ratach gratis od RTV. Na ten moment widzę, że jest jeszcze 97 sztuk. Pozdrawi…",
-      "image_url": "https://static.pepper.pl/threads/raw/xKyz5/1401999_1/re/150x150/qt/55/1401999_1.jpg",
-      "price": "8 999zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "RTV Euro AGD",
-      "category": "Elektronika",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 100,
-      "savings_pln": 0.0,
-      "deal_score": 200.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Telewizor+LG+OLED65G64LW",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-27 00:51",
-          "price": "8 999zł",
-          "note": "RTV Euro AGD"
         }
       ]
     },
@@ -249,11 +219,11 @@
     {
       "source": "Lidl.pl (Promocje)",
       "deal_id": "lidl:100408205",
-      "title": "PARKSIDE® Wciągarka linowa ręczna / Przeciągarka linowa ręczna",
-      "link": "https://www.lidl.pl/p/parkside-wciagarka-linowa-reczna-przeciagarka-linowa-reczna/p100408205",
+      "title": "PARKSIDE® Wciągarka linowa ręczna / Przeciągarka linowa ręczna (Ręczna wciągarka)",
+      "link": "https://www.lidl.pl/p/parkside-wciagarka-linowa-reczna-przeciagarka-linowa-reczna/p100408205002",
       "published": "Aktualna oferta Lidl.pl",
       "summary": "Megaokazja • Promocja bezpośrednio ze sklepu Lidl.pl.",
-      "image_url": "https://www.lidl.pl/assets/gcp86f207d7690847c9814a3a126bf7a5f6.jpg",
+      "image_url": "https://www.lidl.pl/assets/gcpfa40c0b1e6bf4ef7aeb4703795d34ee1.jpg",
       "price": "27,49 zł",
       "old_price": "91,90 zł",
       "lowest_30d": "91,90 zł",
@@ -282,6 +252,81 @@
         {
           "date": "2026-11-24 09:38",
           "price": "27,49 zł",
+          "note": "Lidl.pl"
+        }
+      ]
+    },
+    {
+      "source": "Lidl.pl (Promocje)",
+      "deal_id": "lidl:100408137",
+      "title": "PARKSIDE® Zestaw bitów i nasadek, 40 elementów",
+      "link": "https://www.lidl.pl/p/parkside-zestaw-bitow-i-nasadek-40-elementow/p100408137",
+      "published": "Aktualna oferta Lidl.pl",
+      "summary": "Megaokazja • Promocja bezpośrednio ze sklepu Lidl.pl.",
+      "image_url": "https://www.lidl.pl/assets/gcp2ebcd54866224af1bfdb6f4be9d7562d.jpg",
+      "price": "7,29 zł",
+      "old_price": "24,99 zł",
+      "lowest_30d": "24,99 zł",
+      "merchant": "Lidl.pl",
+      "category": "Kategorie/Warsztat/Warsztat/Wyposażenie warsztatu/Zestawy & walizki narzędziowe",
+      "store_group": "Spożywcze i markety",
+      "discount_pct": 70,
+      "savings_pln": 17.7,
+      "deal_score": 140.88,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-PARKSIDE+Zestaw+bit%C3%B3w+nasadek+40",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "30 dni przed obniżką",
+          "price": "24,99 zł",
+          "note": "Najniższa z 30 dni (Omnibus)"
+        },
+        {
+          "date": "2026-11-27 03:27",
+          "price": "7,29 zł",
+          "note": "Lidl.pl"
+        }
+      ]
+    },
+    {
+      "source": "Lidl.pl (Promocje)",
+      "deal_id": "lidl:100408445",
+      "title": "LIVARNO® Komplet 2 poszewek na poduszki, 40 x 40 cm",
+      "link": "https://www.lidl.pl/p/livarno-komplet-2-poszewek-na-poduszki-40-x-40-cm/p100408445",
+      "published": "Aktualna oferta Lidl.pl",
+      "summary": "Megaokazja • Promocja bezpośrednio ze sklepu Lidl.pl.",
+      "image_url": "https://www.lidl.pl/assets/gcp1c9ea2302e8a4afc948909198ab2b56a.jpg",
+      "price": "2,99 zł",
+      "old_price": "9,98 zł",
+      "lowest_30d": "9,98 zł",
+      "merchant": "Lidl.pl",
+      "category": "Kategorie/Dom & Urządzanie/Łóżka i materace/Poduszki/Poszewka na poduszkę",
+      "store_group": "Spożywcze i markety",
+      "discount_pct": 70,
+      "savings_pln": 6.99,
+      "deal_score": 140.35,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-LIVARNO+Komplet+poszewek+na+poduszki",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "przed promocją",
+          "price": "9,98 zł",
+          "note": "przed promocją"
+        },
+        {
+          "date": "30 dni przed obniżką",
+          "price": "9,98 zł",
+          "note": "Najniższa z 30 dni (Omnibus)"
+        },
+        {
+          "date": "2026-11-23 14:17",
+          "price": "2,99 zł",
           "note": "Lidl.pl"
         }
       ]
@@ -658,40 +703,70 @@
     },
     {
       "source": "Lidl.pl (Promocje)",
-      "deal_id": "lidl:100396313",
-      "title": "ZURU Interaktywny piesek z akcesoriami Pets Alive - Puppy Rescue Surprise!",
-      "link": "https://www.lidl.pl/p/zuru-interaktywny-piesek-z-akcesoriami-pets-alive-puppy-rescue-surprise/p100396313",
+      "deal_id": "lidl:100412290",
+      "title": "REMINGTON Suszarka do włosów Rose Shimmer »D5306«",
+      "link": "https://www.lidl.pl/p/remington-suszarka-do-wlosow-rose-shimmer-d5306/p100412290",
       "published": "Aktualna oferta Lidl.pl",
       "summary": "Megaokazja • Promocja bezpośrednio ze sklepu Lidl.pl.",
-      "image_url": "https://www.lidl.pl/assets/gcp1e4b6fd9976b452485a47e938455c8d4.jpg",
-      "price": "39,99 zł",
-      "old_price": "82,95 zł",
-      "lowest_30d": "82,95 zł",
+      "image_url": "https://www.lidl.pl/assets/gcp0eaa201eb8974366a9390737a477ddc8.png",
+      "price": "64,50 zł",
+      "old_price": "129 zł",
+      "lowest_30d": "129 zł",
       "merchant": "Lidl.pl",
-      "category": "Kategorie/Dziecko/Zabawki/Pluszaki",
+      "category": "Kategorie/Zdrowie & uroda/Uroda/Pielęgnacja włosów/Suszarki do włosów",
       "store_group": "Spożywcze i markety",
-      "discount_pct": 51,
-      "savings_pln": 42.96,
-      "deal_score": 104.15,
+      "discount_pct": 50,
+      "savings_pln": 64.5,
+      "deal_score": 103.22,
       "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-ZURU+Interaktywny+piesek+akcesoriami+Pets",
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-REMINGTON+Suszarka+do+w%C5%82os%C3%B3w+Rose",
       "price_status": "",
       "price_verdict": "",
       "compared_offers": [],
       "price_history": [
         {
-          "date": "przed promocją",
-          "price": "82,95 zł",
-          "note": "przed promocją"
-        },
-        {
           "date": "30 dni przed obniżką",
-          "price": "82,95 zł",
+          "price": "129 zł",
           "note": "Najniższa z 30 dni (Omnibus)"
         },
         {
-          "date": "2026-11-26 12:57",
-          "price": "39,99 zł",
+          "date": "2026-11-27 03:27",
+          "price": "64,50 zł",
+          "note": "Lidl.pl"
+        }
+      ]
+    },
+    {
+      "source": "Lidl.pl (Promocje)",
+      "deal_id": "lidl:100356527",
+      "title": "REMINGTON Trymer do włosów i zarostu Edge Personal Groomer PG6032",
+      "link": "https://www.lidl.pl/p/remington-trymer-do-wlosow-i-zarostu-edge-personal-groomer-pg6032/p100356527",
+      "published": "Aktualna oferta Lidl.pl",
+      "summary": "Megaokazja • Promocja bezpośrednio ze sklepu Lidl.pl.",
+      "image_url": "https://www.lidl.pl/assets/gcp41beaa6ddefa4f12830d89d3df396e81.jpeg",
+      "price": "59 zł",
+      "old_price": "119 zł",
+      "lowest_30d": "119 zł",
+      "merchant": "Lidl.pl",
+      "category": "Kategorie/Zdrowie & uroda/Uroda/Pielęgnacja ciała/Golarki",
+      "store_group": "Spożywcze i markety",
+      "discount_pct": 50,
+      "savings_pln": 60.0,
+      "deal_score": 103.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-REMINGTON+Trymer+do+w%C5%82os%C3%B3w+zarostu",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "30 dni przed obniżką",
+          "price": "119 zł",
+          "note": "Najniższa z 30 dni (Omnibus)"
+        },
+        {
+          "date": "2026-11-27 03:27",
+          "price": "59 zł",
           "note": "Lidl.pl"
         }
       ]
@@ -760,6 +835,11 @@
       "compared_offers": [],
       "price_history": [
         {
+          "date": "przed promocją",
+          "price": "49,99 zł",
+          "note": "przed promocją"
+        },
+        {
           "date": "30 dni przed obniżką",
           "price": "39,99 zł",
           "note": "Najniższa z 30 dni (Omnibus)"
@@ -808,6 +888,36 @@
           "date": "2026-11-23 09:07",
           "price": "5,99 zł",
           "note": "Aldi.pl"
+        }
+      ]
+    },
+    {
+      "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/interia-poczta-prezent-od-interii-pbr-50-1402032",
+      "title": "Interia Poczta - \"Prezent od Interii | PBR -50%\"",
+      "link": "https://www.pepper.pl/promocje/interia-poczta-prezent-od-interii-pbr-50-1402032",
+      "published": "Fri, 27 Nov 2026 03:56:26 +0100",
+      "summary": "24,50zł Myślę, że nie byłem jedynym, który czekał na promocję Poczty Interii. Dwa dni z reklamami i nie widać człowieka spod stosu reklam. Wiem, bywało lepiej... ale 50% to już lepiej niż 100%. Dla tych co nie znają - darmowe konto pocztow…",
+      "image_url": "https://static.pepper.pl/threads/raw/MFBpw/1402032_1/re/150x150/qt/55/1402032_1.jpg",
+      "price": "24,50zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "",
+      "category": "Usługi i subskrypcje",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 50,
+      "savings_pln": 0.0,
+      "deal_score": 100.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Interia+Poczta+Prezent+Interii+PBR",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-27 03:27",
+          "price": "24,50zł",
+          "note": "Pepper.pl"
         }
       ]
     },
@@ -1042,42 +1152,42 @@
       ]
     },
     {
-      "source": "Lidl.pl (Promocje)",
-      "deal_id": "lidl:100406528",
-      "title": "SILVERCREST® Maszynka do lodów Freezy, 800 W",
-      "link": "https://www.lidl.pl/p/silvercrest-maszynka-do-lodow-freezy-800-w/p100406528",
-      "published": "Aktualna oferta Lidl.pl",
-      "summary": "Megaokazja • Promocja bezpośrednio ze sklepu Lidl.pl.",
-      "image_url": "https://www.lidl.pl/assets/gcp3f4f7bb7fd2d498d8a967661f126f6bc.jpg",
-      "price": "299 zł",
-      "old_price": "499 zł",
-      "lowest_30d": "499 zł",
-      "merchant": "Lidl.pl",
-      "category": "Kategorie/Dom & Kuchnia/Małe AGD & Kuchnia/Urządzenia do lodów",
-      "store_group": "Spożywcze i markety",
+      "source": "Rossmann.pl",
+      "deal_id": "rossmann:2139287",
+      "title": "Warner Bros kalendarz adwentowy ze skarpetkami i pinami, 24 elementy",
+      "link": "https://www.rossmann.pl/Produkt/Kalendarze-adwentowe/Warner-Bros-kalendarz-adwentowy-ze-skarpetkami-i-pinami-24-elementy-1-szt,2139287,20086",
+      "published": "Aktualna promocja Rossmann.pl",
+      "summary": "Promocja w drogerii Rossmann.pl • Najniższa z 30 dni: 69,99 zł.",
+      "image_url": "https://pro-fra-s3-productsassets.rossmann.pl/product_7_medium/2139287_360_350_1784622370.webp",
+      "price": "59,99 zł",
+      "old_price": "99,99 zł",
+      "lowest_30d": "69,99 zł",
+      "merchant": "Rossmann.pl",
+      "category": "Kolekcje limitowane-Święta-Kalendarze adwentowe",
+      "store_group": "Odzież i uroda",
       "discount_pct": 40,
-      "savings_pln": 200.0,
-      "deal_score": 90.0,
+      "savings_pln": 40.0,
+      "deal_score": 82.0,
       "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-SILVERCREST+Maszynka+do+lod%C3%B3w+Freezy",
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Warner+Bros+kalendarz+adwentowy+ze",
       "price_status": "",
       "price_verdict": "",
       "compared_offers": [],
       "price_history": [
         {
           "date": "przed promocją",
-          "price": "499 zł",
+          "price": "99,99 zł",
           "note": "przed promocją"
         },
         {
           "date": "30 dni przed obniżką",
-          "price": "499 zł",
+          "price": "69,99 zł",
           "note": "Najniższa z 30 dni (Omnibus)"
         },
         {
-          "date": "2026-11-23 09:07",
-          "price": "299 zł",
-          "note": "Lidl.pl"
+          "date": "2026-11-27 00:51",
+          "price": "59,99 zł",
+          "note": "Rossmann.pl"
         }
       ]
     },
@@ -1158,86 +1268,6 @@
           "date": "2026-11-23 09:07",
           "price": "49,99 zł",
           "note": "Aldi.pl"
-        }
-      ]
-    },
-    {
-      "source": "Rossmann.pl",
-      "deal_id": "rossmann:2140348",
-      "title": "Sence kalendarz adwentowy z kosmetykami i akcesoriami, 24 elementy",
-      "link": "https://www.rossmann.pl/Produkt/Kalendarze-adwentowe/Sence-24-Beauty-Makeup-Surprises-kalendarz-adwentowy-z-kosmetykami-i-akcesoriami-24-elementy-1-s,2140348,20086",
-      "published": "Aktualna promocja Rossmann.pl",
-      "summary": "Promocja w drogerii Rossmann.pl • Najniższa z 30 dni: 59,99 zł.",
-      "image_url": "https://pro-fra-s3-productsassets.rossmann.pl/product_1_medium/2140348_360_350_1788163122.webp",
-      "price": "49,99 zł",
-      "old_price": "79,99 zł",
-      "lowest_30d": "59,99 zł",
-      "merchant": "Rossmann.pl",
-      "category": "Kolekcje limitowane-Święta-Kalendarze adwentowe",
-      "store_group": "Odzież i uroda",
-      "discount_pct": 38,
-      "savings_pln": 30.0,
-      "deal_score": 77.5,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Sence+kalendarz+adwentowy+kosmetykami+akcesoriami",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "przed promocją",
-          "price": "79,99 zł",
-          "note": "przed promocją"
-        },
-        {
-          "date": "30 dni przed obniżką",
-          "price": "59,99 zł",
-          "note": "Najniższa z 30 dni (Omnibus)"
-        },
-        {
-          "date": "2026-11-27 00:51",
-          "price": "49,99 zł",
-          "note": "Rossmann.pl"
-        }
-      ]
-    },
-    {
-      "source": "Lidl.pl (Promocje)",
-      "deal_id": "lidl:100409419",
-      "title": "TRONIC® Ceramiczny termowentylator TKHL 1200 B1",
-      "link": "https://www.lidl.pl/p/tronic-ceramiczny-termowentylator-tkhl-1200-b1/p100409419",
-      "published": "Aktualna oferta Lidl.pl",
-      "summary": "Megaokazja • Promocja bezpośrednio ze sklepu Lidl.pl.",
-      "image_url": "https://www.lidl.pl/assets/gcp0c755e929bc0463780dab56ff12d5e78.jpg",
-      "price": "38,99 zł",
-      "old_price": "63,90 zł",
-      "lowest_30d": "63,90 zł",
-      "merchant": "Lidl.pl",
-      "category": "Kategorie/Dom & Kuchnia/Dom/Grzejniki wentylatorowe",
-      "store_group": "Spożywcze i markety",
-      "discount_pct": 38,
-      "savings_pln": 24.91,
-      "deal_score": 77.25,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-TRONIC+Ceramiczny+termowentylator+TKHL+1200",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "przed promocją",
-          "price": "63,90 zł",
-          "note": "przed promocją"
-        },
-        {
-          "date": "30 dni przed obniżką",
-          "price": "63,90 zł",
-          "note": "Najniższa z 30 dni (Omnibus)"
-        },
-        {
-          "date": "2026-11-26 04:33",
-          "price": "38,99 zł",
-          "note": "Lidl.pl"
         }
       ]
     },
@@ -1523,86 +1553,6 @@
     },
     {
       "source": "Lidl.pl (Promocje)",
-      "deal_id": "lidl:100399289",
-      "title": "W5 Zestaw 10 worków próżniowych do przechowywania (Worek próżniowy 10szt)",
-      "link": "https://www.lidl.pl/p/w5-zestaw-10-workow-prozniowych-do-przechowywania/p100399289001",
-      "published": "Aktualna oferta Lidl.pl",
-      "summary": "Megaokazja • Promocja bezpośrednio ze sklepu Lidl.pl.",
-      "image_url": "https://www.lidl.pl/assets/gcp3011e5299506426e9b07b7ae7c3e34e2.jpg",
-      "price": "25,34 zł",
-      "old_price": "38,99 zł",
-      "lowest_30d": "38,99 zł",
-      "merchant": "Lidl.pl",
-      "category": "Kategorie/Dom & Urządzanie/Akcesoria/Wyposażenie szafy na ubrania",
-      "store_group": "Spożywcze i markety",
-      "discount_pct": 35,
-      "savings_pln": 13.65,
-      "deal_score": 70.68,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-W5+Zestaw+10+work%C3%B3w+pr%C3%B3%C5%BCniowych",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "przed promocją",
-          "price": "38,99 zł",
-          "note": "przed promocją"
-        },
-        {
-          "date": "30 dni przed obniżką",
-          "price": "38,99 zł",
-          "note": "Najniższa z 30 dni (Omnibus)"
-        },
-        {
-          "date": "2026-11-23 09:07",
-          "price": "25,34 zł",
-          "note": "Lidl.pl"
-        }
-      ]
-    },
-    {
-      "source": "Lidl.pl (Promocje)",
-      "deal_id": "lidl:100407777",
-      "title": "SILVERCREST® Zestaw 4 pojemników na wędliny",
-      "link": "https://www.lidl.pl/p/silvercrest-zestaw-4-pojemnikow-na-wedliny/p100407777",
-      "published": "Aktualna oferta Lidl.pl",
-      "summary": "Megaokazja • Promocja bezpośrednio ze sklepu Lidl.pl.",
-      "image_url": "https://www.lidl.pl/assets/gcp8f1621e2e17c45babf91e8b288235a5a.jpg",
-      "price": "11,69 zł",
-      "old_price": "17,99 zł",
-      "lowest_30d": "17,99 zł",
-      "merchant": "Lidl.pl",
-      "category": "Kategorie/Dom & Kuchnia/Naczynia i Sztućce/Pojemniki do przechowywania",
-      "store_group": "Spożywcze i markety",
-      "discount_pct": 35,
-      "savings_pln": 6.3,
-      "deal_score": 70.31,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-SILVERCREST+Zestaw+pojemnik%C3%B3w+na+w%C4%99dliny",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "przed promocją",
-          "price": "17,99 zł",
-          "note": "przed promocją"
-        },
-        {
-          "date": "30 dni przed obniżką",
-          "price": "17,99 zł",
-          "note": "Najniższa z 30 dni (Omnibus)"
-        },
-        {
-          "date": "2026-11-26 04:33",
-          "price": "11,69 zł",
-          "note": "Lidl.pl"
-        }
-      ]
-    },
-    {
-      "source": "Lidl.pl (Promocje)",
       "deal_id": "lidl:100408336",
       "title": "SILVERCREST® Grill kontaktowy 3 w 1, 2000 W",
       "link": "https://www.lidl.pl/p/silvercrest-grill-kontaktowy-3-w-1-2000-w/p100408336",
@@ -1637,46 +1587,6 @@
         {
           "date": "2026-11-23 09:07",
           "price": "189 zł",
-          "note": "Lidl.pl"
-        }
-      ]
-    },
-    {
-      "source": "Lidl.pl (Promocje)",
-      "deal_id": "lidl:100404585",
-      "title": "CRIVIT Namiot rodzinny, 4-osobowy",
-      "link": "https://www.lidl.pl/p/crivit-namiot-rodzinny-4-osobowy/p100404585",
-      "published": "Aktualna oferta Lidl.pl",
-      "summary": "Megaokazja • Promocja bezpośrednio ze sklepu Lidl.pl.",
-      "image_url": "https://www.lidl.pl/assets/gcp1584e802fb094084b1094af2fb8862be.jpg",
-      "price": "307,30 zł",
-      "old_price": "439 zł",
-      "lowest_30d": "439 zł",
-      "merchant": "Lidl.pl",
-      "category": "Kategorie/Sport i wypoczynek/Kemping/Namioty/Namioty kempingowe",
-      "store_group": "Spożywcze i markety",
-      "discount_pct": 30,
-      "savings_pln": 131.7,
-      "deal_score": 66.58,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-CRIVIT+Namiot+rodzinny+4-osobowy",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "przed promocją",
-          "price": "439 zł",
-          "note": "przed promocją"
-        },
-        {
-          "date": "30 dni przed obniżką",
-          "price": "439 zł",
-          "note": "Najniższa z 30 dni (Omnibus)"
-        },
-        {
-          "date": "2026-11-24 03:18",
-          "price": "307,30 zł",
           "note": "Lidl.pl"
         }
       ]
@@ -1762,6 +1672,46 @@
       ]
     },
     {
+      "source": "Lidl.pl (Promocje)",
+      "deal_id": "lidl:100407734",
+      "title": "LIVARNO® Regał gospodarczy, 60 x 138 x 30 cm",
+      "link": "https://www.lidl.pl/p/livarno-regal-gospodarczy-60-x-138-x-30-cm/p100407734",
+      "published": "Aktualna oferta Lidl.pl",
+      "summary": "Megaokazja • Promocja bezpośrednio ze sklepu Lidl.pl.",
+      "image_url": "https://www.lidl.pl/assets/gcpe744f466027f4d32a8e6bf53cd069111.jpg",
+      "price": "45,99 zł",
+      "old_price": "66,90 zł",
+      "lowest_30d": "66,90 zł",
+      "merchant": "Lidl.pl",
+      "category": "Kategorie/Dom & Urządzanie/Meble/Regały/Regały",
+      "store_group": "Spożywcze i markety",
+      "discount_pct": 31,
+      "savings_pln": 20.91,
+      "deal_score": 63.05,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-LIVARNO+Rega%C5%82+gospodarczy+60+138",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "przed promocją",
+          "price": "66,90 zł",
+          "note": "przed promocją"
+        },
+        {
+          "date": "30 dni przed obniżką",
+          "price": "66,90 zł",
+          "note": "Najniższa z 30 dni (Omnibus)"
+        },
+        {
+          "date": "2026-11-26 09:39",
+          "price": "45,99 zł",
+          "note": "Lidl.pl"
+        }
+      ]
+    },
+    {
       "source": "Dino (Promocje)",
       "deal_id": "dino:pomarańcza siatka 1kg szt",
       "title": "Dino: Pomarańcza siatka 1kg szt",
@@ -1838,40 +1788,165 @@
     },
     {
       "source": "Lidl.pl (Promocje)",
-      "deal_id": "lidl:100398699",
-      "title": "TRONIC® Zestaw 8 akumulatorków",
-      "link": "https://www.lidl.pl/p/tronic-zestaw-8-akumulatorkow/p100398699",
+      "deal_id": "lidl:100410238",
+      "title": "LIVARNO® Skrzynia do siedzenia ze schowkiem",
+      "link": "https://www.lidl.pl/p/livarno-skrzynia-do-siedzenia-ze-schowkiem/p100410238",
       "published": "Aktualna oferta Lidl.pl",
       "summary": "Megaokazja • Promocja bezpośrednio ze sklepu Lidl.pl.",
-      "image_url": "https://www.lidl.pl/assets/gcpbd2a3903beb44241babde1e2af7451c5.jpg",
-      "price": "24,99 zł",
-      "old_price": "35,99 zł",
-      "lowest_30d": "35,99 zł",
+      "image_url": "https://www.lidl.pl/assets/gcpa7f61be5f8aa4859b492f8b7ac2e108a.jpg",
+      "price": "48,99 zł",
+      "old_price": "70,90 zł",
+      "lowest_30d": "70,90 zł",
       "merchant": "Lidl.pl",
-      "category": "Kategorie/Multimedia/Biuro i komputer/Akcesoria biurowe/Akumulatorki",
+      "category": "Kategorie/Dom & Urządzanie/Meble/Ławki",
       "store_group": "Spożywcze i markety",
       "discount_pct": 30,
-      "savings_pln": 11.0,
-      "deal_score": 60.55,
+      "savings_pln": 21.91,
+      "deal_score": 61.1,
       "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-TRONIC+Zestaw+akumulatork%C3%B3w",
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-LIVARNO+Skrzynia+do+siedzenia+ze",
       "price_status": "",
       "price_verdict": "",
       "compared_offers": [],
       "price_history": [
         {
           "date": "przed promocją",
-          "price": "35,99 zł",
+          "price": "70,90 zł",
           "note": "przed promocją"
         },
         {
           "date": "30 dni przed obniżką",
-          "price": "35,99 zł",
+          "price": "70,90 zł",
           "note": "Najniższa z 30 dni (Omnibus)"
         },
         {
-          "date": "2026-11-24 12:55",
-          "price": "24,99 zł",
+          "date": "2026-11-24 05:32",
+          "price": "48,99 zł",
+          "note": "Lidl.pl"
+        }
+      ]
+    },
+    {
+      "source": "Lidl.pl (Promocje)",
+      "deal_id": "lidl:100400437",
+      "title": "LIVARNO® Ultradźwiękowy dyfuzor aromatu »LADH 12«",
+      "link": "https://www.lidl.pl/p/livarno-ultradzwiekowy-dyfuzor-aromatu-ladh-12/p100400437",
+      "published": "Aktualna oferta Lidl.pl",
+      "summary": "Megaokazja • Promocja bezpośrednio ze sklepu Lidl.pl.",
+      "image_url": "https://www.lidl.pl/assets/gcp36599293d2bc4f7297f08439114ec750.jpg",
+      "price": "40,99 zł",
+      "old_price": "58,90 zł",
+      "lowest_30d": "58,90 zł",
+      "merchant": "Lidl.pl",
+      "category": "Kategorie/Dom & Kuchnia/Dom/Odświeżacze",
+      "store_group": "Spożywcze i markety",
+      "discount_pct": 30,
+      "savings_pln": 17.91,
+      "deal_score": 60.9,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-LIVARNO+Ultrad%C5%BAwi%C4%99kowy+dyfuzor+aromatu+LADH",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "przed promocją",
+          "price": "58,90 zł",
+          "note": "przed promocją"
+        },
+        {
+          "date": "30 dni przed obniżką",
+          "price": "58,90 zł",
+          "note": "Najniższa z 30 dni (Omnibus)"
+        },
+        {
+          "date": "2026-11-26 08:23",
+          "price": "40,99 zł",
+          "note": "Lidl.pl"
+        }
+      ]
+    },
+    {
+      "source": "Lidl.pl (Promocje)",
+      "deal_id": "lidl:100405332",
+      "title": "GRILLMEISTER Akcesoria do wypieku pizzy",
+      "link": "https://www.lidl.pl/p/grillmeister-akcesoria-do-wypieku-pizzy/p100405332",
+      "published": "Aktualna oferta Lidl.pl",
+      "summary": "Megaokazja • Promocja bezpośrednio ze sklepu Lidl.pl.",
+      "image_url": "https://www.lidl.pl/assets/gcpefccbad051364721be6f70f6e9a3c7bb.jpg",
+      "price": "18,89 zł",
+      "old_price": "26,99 zł",
+      "lowest_30d": "26,99 zł",
+      "merchant": "Lidl.pl",
+      "category": "Kategorie/Dom & Kuchnia/Pieczenie/Pozostałe przybory do pieczenia",
+      "store_group": "Spożywcze i markety",
+      "discount_pct": 30,
+      "savings_pln": 8.1,
+      "deal_score": 60.41,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-GRILLMEISTER+Akcesoria+do+wypieku+pizzy",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "przed promocją",
+          "price": "26,99 zł",
+          "note": "przed promocją"
+        },
+        {
+          "date": "30 dni przed obniżką",
+          "price": "26,99 zł",
+          "note": "Najniższa z 30 dni (Omnibus)"
+        },
+        {
+          "date": "2026-11-23 09:07",
+          "price": "18,89 zł",
+          "note": "Lidl.pl"
+        }
+      ]
+    },
+    {
+      "source": "Lidl.pl (Promocje)",
+      "deal_id": "lidl:100409216",
+      "title": "LIVARNO® Ręcznik kąpielowy frotte, 70 x 140 cm",
+      "link": "https://www.lidl.pl/p/livarno-recznik-kapielowy-frotte-70-x-140-cm/p100409216",
+      "published": "Aktualna oferta Lidl.pl",
+      "summary": "Megaokazja • Promocja bezpośrednio ze sklepu Lidl.pl.",
+      "image_url": "https://www.lidl.pl/assets/gcpeef82b4674db4ed59606644617f997d1.jpg",
+      "price": "17,99 zł",
+      "old_price": "25,99 zł",
+      "lowest_30d": "25,99 zł",
+      "merchant": "Lidl.pl",
+      "category": "Kategorie/Dom & Urządzanie/Sypialnia/Artykuły z frotte/Ręczniki kąpielowe",
+      "store_group": "Spożywcze i markety",
+      "discount_pct": 30,
+      "savings_pln": 8.0,
+      "deal_score": 60.4,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-LIVARNO+R%C4%99cznik+k%C4%85pielowy+frotte+70",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "30 dni przed obniżką",
+          "price": "28,99 zł",
+          "note": "Najniższa z 30 dni (Omnibus)"
+        },
+        {
+          "date": "przed promocją",
+          "price": "28,99 zł",
+          "note": "przed promocją"
+        },
+        {
+          "date": "2026-11-22 21:16",
+          "price": "20,29 zł",
+          "note": "Lidl.pl"
+        },
+        {
+          "date": "2026-11-25 03:26",
+          "price": "17,99 zł",
           "note": "Lidl.pl"
         }
       ]
@@ -2157,86 +2232,6 @@
       ]
     },
     {
-      "source": "Lidl.pl (Promocje)",
-      "deal_id": "lidl:100408719",
-      "title": "SILVERCREST® Żelazko ze stacją parową, 2400 W, SDSB 2400 B1",
-      "link": "https://www.lidl.pl/p/silvercrest-zelazko-ze-stacja-parowa-2400-w-sdsb-2400-b1/p100408719",
-      "published": "Aktualna oferta Lidl.pl",
-      "summary": "Megaokazja • Promocja bezpośrednio ze sklepu Lidl.pl.",
-      "image_url": "https://www.lidl.pl/assets/gcp91ca6740c85d4cb6b305ab77e2c15e7d.jpg",
-      "price": "186 zł",
-      "old_price": "249 zł",
-      "lowest_30d": "249 zł",
-      "merchant": "Lidl.pl",
-      "category": "Kategorie/Dom & Kuchnia/Pralki, suszarki & prasowanie/Żelazka/Żelazka parowe ze stacją & generatorem pary",
-      "store_group": "Spożywcze i markety",
-      "discount_pct": 25,
-      "savings_pln": 63.0,
-      "deal_score": 53.15,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-SILVERCREST+%C5%BBelazko+ze+stacj%C4%85+parow%C4%85",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "przed promocją",
-          "price": "249 zł",
-          "note": "przed promocją"
-        },
-        {
-          "date": "30 dni przed obniżką",
-          "price": "249 zł",
-          "note": "Najniższa z 30 dni (Omnibus)"
-        },
-        {
-          "date": "2026-11-23 09:07",
-          "price": "186 zł",
-          "note": "Lidl.pl"
-        }
-      ]
-    },
-    {
-      "source": "Lidl.pl (Promocje)",
-      "deal_id": "lidl:100406637",
-      "title": "PARKSIDE® Akumulatorowa lampa LED 20 V PLLA 20 Li A1(bez akumulatora i bez ładowarki)",
-      "link": "https://www.lidl.pl/p/parkside-akumulatorowa-lampa-led-20-v-plla-20-li-a1-bez-akumulatora-i-bez-ladowarki/p100406637",
-      "published": "Aktualna oferta Lidl.pl",
-      "summary": "Megaokazja • Promocja bezpośrednio ze sklepu Lidl.pl.",
-      "image_url": "https://www.lidl.pl/assets/gcp08cae911dfc64ea98bf9dad4157ffa9b.jpg",
-      "price": "37,99 zł",
-      "old_price": "51,90 zł",
-      "lowest_30d": "51,90 zł",
-      "merchant": "Lidl.pl",
-      "category": "Kategorie/Warsztat/Warsztat/Wyposażenie warsztatu/Oświetlenie robocze",
-      "store_group": "Spożywcze i markety",
-      "discount_pct": 26,
-      "savings_pln": 13.91,
-      "deal_score": 52.7,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-PARKSIDE+Akumulatorowa+lampa+LED+20",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "przed promocją",
-          "price": "51,90 zł",
-          "note": "przed promocją"
-        },
-        {
-          "date": "30 dni przed obniżką",
-          "price": "51,90 zł",
-          "note": "Najniższa z 30 dni (Omnibus)"
-        },
-        {
-          "date": "2026-11-26 04:33",
-          "price": "37,99 zł",
-          "note": "Lidl.pl"
-        }
-      ]
-    },
-    {
       "source": "Aldi.pl (Oferty)",
       "deal_id": "aldi:https://www.aldi.pl/produkt-szczegoly/klementynki-62230000.html",
       "title": "Aldi: Klementynki",
@@ -2352,46 +2347,6 @@
         {
           "date": "2026-11-22 22:45",
           "price": "429,99 zł",
-          "note": "Rossmann.pl"
-        }
-      ]
-    },
-    {
-      "source": "Rossmann.pl",
-      "deal_id": "rossmann:2150503",
-      "title": "L'Oréal Paris kalendarz adwentowy z kosmetykami, 24 elementy",
-      "link": "https://www.rossmann.pl/Produkt/Kalendarze-adwentowe/LOreal-Paris-kalendarz-adwentowy-z-kosmetykami-24-elementy-1-szt,2150503,20086",
-      "published": "Aktualna promocja Rossmann.pl",
-      "summary": "Promocja w drogerii Rossmann.pl • Najniższa z 30 dni: 449,99 zł.",
-      "image_url": "https://pro-fra-s3-productsassets.rossmann.pl/product_7_medium/2150503_360_350_1791981508.webp",
-      "price": "349,99 zł",
-      "old_price": "449,99 zł",
-      "lowest_30d": "449,99 zł",
-      "merchant": "Rossmann.pl",
-      "category": "Kolekcje limitowane-Święta-Kalendarze adwentowe",
-      "store_group": "Odzież i uroda",
-      "discount_pct": 22,
-      "savings_pln": 100.0,
-      "deal_score": 49.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Or+al+Paris+kalendarz+adwentowy",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "przed promocją",
-          "price": "449,99 zł",
-          "note": "przed promocją"
-        },
-        {
-          "date": "30 dni przed obniżką",
-          "price": "449,99 zł",
-          "note": "Najniższa z 30 dni (Omnibus)"
-        },
-        {
-          "date": "2026-11-27 00:51",
-          "price": "349,99 zł",
           "note": "Rossmann.pl"
         }
       ]
@@ -2987,6 +2942,46 @@
       ]
     },
     {
+      "source": "Lidl.pl (Promocje)",
+      "deal_id": "lidl:100398024",
+      "title": "PARKSIDE® Opalarka »PHLGB 2000 A1«",
+      "link": "https://www.lidl.pl/p/parkside-opalarka-phlgb-2000-a1/p100398024",
+      "published": "Aktualna oferta Lidl.pl",
+      "summary": "Megaokazja • Promocja bezpośrednio ze sklepu Lidl.pl.",
+      "image_url": "https://www.lidl.pl/assets/gcp07750899afa743c4ad29c740186b777b.jpg",
+      "price": "39,99 zł",
+      "old_price": "46,99 zł",
+      "lowest_30d": "46,99 zł",
+      "merchant": "Lidl.pl",
+      "category": "Kategorie/Warsztat/Warsztat/Narzędzia akumulatorowe & elektryczne/Pozostałe narzędzia akumulatorowe & elektryczne",
+      "store_group": "Spożywcze i markety",
+      "discount_pct": 14,
+      "savings_pln": 7.0,
+      "deal_score": 28.35,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-PARKSIDE+Opalarka+PHLGB+2000+A1",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "przed promocją",
+          "price": "46,99 zł",
+          "note": "przed promocją"
+        },
+        {
+          "date": "30 dni przed obniżką",
+          "price": "46,99 zł",
+          "note": "Najniższa z 30 dni (Omnibus)"
+        },
+        {
+          "date": "2026-11-23 09:07",
+          "price": "39,99 zł",
+          "note": "Lidl.pl"
+        }
+      ]
+    },
+    {
       "source": "Rossmann.pl",
       "deal_id": "rossmann:59402",
       "title": "Isana płatki kosmetyczne, 100% bawelny",
@@ -3023,46 +3018,6 @@
           "date": "2026-11-26 00:47",
           "price": "2,19 zł",
           "note": "Rossmann.pl"
-        }
-      ]
-    },
-    {
-      "source": "Lidl.pl (Promocje)",
-      "deal_id": "lidl:100394285",
-      "title": "ULTIMATE SPEED® Mobilne urządzenie rozruchowe z powerbankiem 14000 mAh, UPK 10 H5",
-      "link": "https://www.lidl.pl/p/ultimate-speed-mobilne-urzadzenie-rozruchowe-z-powerbankiem-14000-mah-upk-10-h5/p100394285",
-      "published": "Aktualna oferta Lidl.pl",
-      "summary": "Megaokazja • Promocja bezpośrednio ze sklepu Lidl.pl.",
-      "image_url": "https://www.lidl.pl/assets/gcp7652cf5e659d4c61812f1a83c33fbaaa.jpg",
-      "price": "269 zł",
-      "old_price": "299 zł",
-      "lowest_30d": "299 zł",
-      "merchant": "Lidl.pl",
-      "category": "Kategorie/Sport i wypoczynek/Akcesoria samochodowe/Pozostałe akcesoria samochodowe",
-      "store_group": "Spożywcze i markety",
-      "discount_pct": 10,
-      "savings_pln": 30.0,
-      "deal_score": 21.5,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-ULTIMATE+SPEED+Mobilne+urz%C4%85dzenie+rozruchowe",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "przed promocją",
-          "price": "299 zł",
-          "note": "przed promocją"
-        },
-        {
-          "date": "30 dni przed obniżką",
-          "price": "299 zł",
-          "note": "Najniższa z 30 dni (Omnibus)"
-        },
-        {
-          "date": "2026-11-26 15:27",
-          "price": "269 zł",
-          "note": "Lidl.pl"
         }
       ]
     },
@@ -3850,16 +3805,6 @@
       "compared_offers": [],
       "price_history": [
         {
-          "date": "2026-11-26 15:27",
-          "price": "50 zł",
-          "note": "Pepco.pl"
-        },
-        {
-          "date": "2026-11-26 16:31",
-          "price": "20 zł",
-          "note": "Pepco.pl"
-        },
-        {
           "date": "2026-11-26 16:31",
           "price": "50 zł",
           "note": "Pepco.pl"
@@ -3946,6 +3891,16 @@
         },
         {
           "date": "2026-11-27 02:14",
+          "price": "20 zł",
+          "note": "Pepco.pl"
+        },
+        {
+          "date": "2026-11-27 02:14",
+          "price": "50 zł",
+          "note": "Pepco.pl"
+        },
+        {
+          "date": "2026-11-27 03:27",
           "price": "20 zł",
           "note": "Pepco.pl"
         }
@@ -3975,16 +3930,6 @@
       "compared_offers": [],
       "price_history": [
         {
-          "date": "2026-11-26 15:27",
-          "price": "50 zł",
-          "note": "Pepco.pl"
-        },
-        {
-          "date": "2026-11-26 16:31",
-          "price": "20 zł",
-          "note": "Pepco.pl"
-        },
-        {
           "date": "2026-11-26 16:31",
           "price": "50 zł",
           "note": "Pepco.pl"
@@ -4071,6 +4016,16 @@
         },
         {
           "date": "2026-11-27 02:14",
+          "price": "20 zł",
+          "note": "Pepco.pl"
+        },
+        {
+          "date": "2026-11-27 02:14",
+          "price": "50 zł",
+          "note": "Pepco.pl"
+        },
+        {
+          "date": "2026-11-27 03:27",
           "price": "20 zł",
           "note": "Pepco.pl"
         }
@@ -4225,16 +4180,6 @@
       "compared_offers": [],
       "price_history": [
         {
-          "date": "2026-11-26 16:31",
-          "price": "20 zł",
-          "note": "Pepco.pl"
-        },
-        {
-          "date": "2026-11-26 16:31",
-          "price": "50 zł",
-          "note": "Pepco.pl"
-        },
-        {
           "date": "2026-11-26 17:46",
           "price": "20 zł",
           "note": "Pepco.pl"
@@ -4321,6 +4266,16 @@
         },
         {
           "date": "2026-11-27 02:14",
+          "price": "50 zł",
+          "note": "Pepco.pl"
+        },
+        {
+          "date": "2026-11-27 03:27",
+          "price": "20 zł",
+          "note": "Pepco.pl"
+        },
+        {
+          "date": "2026-11-27 03:27",
           "price": "50 zł",
           "note": "Pepco.pl"
         }
@@ -4478,6 +4433,216 @@
           "date": "2026-11-26 09:39",
           "price": "120 zł",
           "note": "Pepco.pl"
+        }
+      ]
+    },
+    {
+      "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/jean-paul-gaultier-le-male-elixir-absoluwoda-perfumowana-125ml200ml-39894zl-1402036",
+      "title": "Jean Paul Gaultier Le Male Elixir Absolu,Woda perfumowana 125ml/200ml-398.94zł",
+      "link": "https://www.pepper.pl/promocje/jean-paul-gaultier-le-male-elixir-absoluwoda-perfumowana-125ml200ml-39894zl-1402036",
+      "published": "Fri, 27 Nov 2026 04:19:30 +0100",
+      "summary": "311,32zł - Flaconi fragrantica.pl/perfumy/Jean-Paul-Gaultier/Le-Male-Elixir-Absolu-101529.html",
+      "image_url": "https://static.pepper.pl/threads/raw/q4klH/1402036_1/re/150x150/qt/55/1402036_1.jpg",
+      "price": "311,32zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Flaconi",
+      "category": "Zdrowie i uroda",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Jean+Paul+Gaultier+Le+Male",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-27 03:27",
+          "price": "311,32zł",
+          "note": "Flaconi"
+        }
+      ]
+    },
+    {
+      "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/silver-monkey-tag-android-lokalizator-1402035",
+      "title": "Silver Monkey TAG Android lokalizator",
+      "link": "https://www.pepper.pl/promocje/silver-monkey-tag-android-lokalizator-1402035",
+      "published": "Fri, 27 Nov 2026 04:14:54 +0100",
+      "summary": "26,99zł - x-kom Lokalizator Silver Monkey TAG Android.",
+      "image_url": "https://static.pepper.pl/threads/raw/SXY1k/1402035_1/re/150x150/qt/55/1402035_1.jpg",
+      "price": "26,99zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "x-kom",
+      "category": "Elektronika",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Silver+Monkey+TAG+Android+lokalizator",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-27 03:27",
+          "price": "26,99zł",
+          "note": "x-kom"
+        }
+      ]
+    },
+    {
+      "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/ingenious-ginger-goldfield-banks-australia-tester-1402034",
+      "title": "Ingenious Ginger Goldfield & Banks Australia tester",
+      "link": "https://www.pepper.pl/promocje/ingenious-ginger-goldfield-banks-australia-tester-1402034",
+      "published": "Fri, 27 Nov 2026 04:08:45 +0100",
+      "summary": "417,71zł - E-Glamour Super cena za tester. Podobny do Vibrato i Aqua De Dora.",
+      "image_url": "https://static.pepper.pl/threads/raw/XXzh5/1402034_1/re/150x150/qt/55/1402034_1.jpg",
+      "price": "417,71zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "E-Glamour",
+      "category": "Zdrowie i uroda",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Ingenious+Ginger+Goldfield+Banks+Australia",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-27 03:27",
+          "price": "417,71zł",
+          "note": "E-Glamour"
+        }
+      ]
+    },
+    {
+      "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/e-voucher-market-kawy-o-wartosci-200zl-za-180zl-1402031",
+      "title": "e-voucher Market Kawy o wartości 200zł za 180zł",
+      "link": "https://www.pepper.pl/promocje/e-voucher-market-kawy-o-wartosci-200zl-za-180zl-1402031",
+      "published": "Fri, 27 Nov 2026 03:43:51 +0100",
+      "summary": "180zł - Prezent Idealny Jak to działa? 1. Wybierz kwotę, którą chcesz zasilić e-voucher Market Kawy. 2. E-voucher zostanie dostarczony drogą elektroniczną na wskazany przez Ciebie adres e-mail wraz z instrukcjami, jak ją wykorzystać. 3. Os…",
+      "image_url": "https://static.pepper.pl/threads/raw/i9pvv/1402031_1/re/150x150/qt/55/1402031_1.jpg",
+      "price": "180zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Prezent Idealny",
+      "category": "Artykuły spożywcze",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-e-voucher+Market+Kawy+warto%C5%9Bci",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-27 03:27",
+          "price": "180zł",
+          "note": "Prezent Idealny"
+        }
+      ]
+    },
+    {
+      "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/karta-podarunkowa-tous-o-wartosci-200-zl-za-180-zl-1402030",
+      "title": "Karta Podarunkowa TOUS o wartości 200 zł za 180 zł",
+      "link": "https://www.pepper.pl/promocje/karta-podarunkowa-tous-o-wartosci-200-zl-za-180-zl-1402030",
+      "published": "Fri, 27 Nov 2026 03:26:35 +0100",
+      "summary": "180zł - Prezent Idealny • Karta podarunkowa do wyboru biżuterii, torebek i akcesoriów marki TOUS Po prostu karta podarunkowa przeceniona o 10%",
+      "image_url": "https://static.pepper.pl/threads/raw/dFiTJ/1402030_1/re/150x150/qt/55/1402030_1.jpg",
+      "price": "180zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Prezent Idealny",
+      "category": "Moda",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Karta+Podarunkowa+TOUS+warto%C5%9Bci",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-27 03:27",
+          "price": "180zł",
+          "note": "Prezent Idealny"
+        }
+      ]
+    },
+    {
+      "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/katalog-niezaleznych-wydawnictw-136-str-j-niemiecki-1402029",
+      "title": "Katalog niezależnych wydawnictw (136 str. j. niemiecki)",
+      "link": "https://www.pepper.pl/promocje/katalog-niezaleznych-wydawnictw-136-str-j-niemiecki-1402029",
+      "published": "Fri, 27 Nov 2026 03:21:43 +0100",
+      "summary": "0,04zł - Amazon.pl Wysyła Amazon DARMOWA dostawa 20 stycznia - 7 czerwca, 2027 dla członków Prime 136 stron w języku niemieckim. Es geht um das Buch (21. rocznik, wydanie 2026/2027) to coroczny katalog niezależnych wydawnictw wydawany prze…",
+      "image_url": "https://static.pepper.pl/threads/raw/CRf4k/1402029_1/re/150x150/qt/55/1402029_1.jpg",
+      "price": "0,04zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Amazon.pl",
+      "category": "Kultura i rozrywka",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Katalog+niezale%C5%BCnych+wydawnictw",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-27 03:27",
+          "price": "0,04zł",
+          "note": "Amazon.pl"
+        }
+      ]
+    },
+    {
+      "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/zegarek-na-reke-pan-am-x-timex-fly-back-chronograph-tw2w97200-1402025",
+      "title": "Zegarek na rękę Pan Am x Timex Fly-Back Chronograph TW2W97200 TW2Y38700 Waterbury Ace Chronograph",
+      "link": "https://www.pepper.pl/promocje/zegarek-na-reke-pan-am-x-timex-fly-back-chronograph-tw2w97200-1402025",
+      "published": "Fri, 27 Nov 2026 03:18:02 +0100",
+      "summary": "840,65zł - Zegarownia Bardzo ciekawy i już coraz mniej dostępny zegarek Timex TW2W97200. Z tym samym kodem TW2Y38700 za 704,65. Tutaj więcej o TW2W97200, a tutaj o TW2Y38700 . Przy składaniu zamówienia możliwość poproszenia o grawerunek za…",
+      "image_url": "https://static.pepper.pl/threads/raw/NjyCb/1402025_1/re/150x150/qt/55/1402025_1.jpg",
+      "price": "840,65zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Zegarownia",
+      "category": "Moda",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Zegarek+na+r%C4%99k%C4%99+Pan+Am",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-27 03:27",
+          "price": "840,65zł",
+          "note": "Zegarownia"
         }
       ]
     },
@@ -5108,216 +5273,6 @@
           "date": "2026-11-27 00:51",
           "price": "5 999zł",
           "note": "RTV Euro AGD"
-        }
-      ]
-    },
-    {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/smx-kabel-hdmi-v-21-5m-certyfikat-hdmi-v-21-1401996",
-      "title": "SMX Kabel HDMI v 2.1 5m (certyfikat HDMI v 2.1)",
-      "link": "https://www.pepper.pl/promocje/smx-kabel-hdmi-v-21-5m-certyfikat-hdmi-v-21-1401996",
-      "published": "Fri, 27 Nov 2026 01:26:51 +0100",
-      "summary": "39,99zł - x-kom Szukacie solidnego kabla HDMI do telewizora, monitora lub konsoli nowej generacji? Silver Monkey X oferuje przewód zgodny ze standardem HDMI 2.1, z certyfikatem potwierdzającym jego zgodność ze standardem. Dzięki przepustow…",
-      "image_url": "https://static.pepper.pl/threads/raw/WQj6G/1401996_1/re/150x150/qt/55/1401996_1.jpg",
-      "price": "39,99zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "x-kom",
-      "category": "Elektronika",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-SMX+Kabel+HDMI+5m",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-27 00:51",
-          "price": "39,99zł",
-          "note": "x-kom"
-        }
-      ]
-    },
-    {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/klawiatura-gamingowa-redragon-k4puc21n0-pro-lion-linear-bezprzewodowa-mechaniczna-podswietlana-czerwona-1401993",
-      "title": "Klawiatura gamingowa Redragon K4PUC21N0 PRO Lion Linear bezprzewodowa mechaniczna podświetlana czerwona",
-      "link": "https://www.pepper.pl/promocje/klawiatura-gamingowa-redragon-k4puc21n0-pro-lion-linear-bezprzewodowa-mechaniczna-podswietlana-czerwona-1401993",
-      "published": "Fri, 27 Nov 2026 01:25:06 +0100",
-      "summary": "249zł - Komputronik Klawiatura Redragon w kolaboracji z streamerem Paris Platynov Redragon K4PUC21N0 K681LK-RGB-PRO to bezprzewodowa klawiatura w układzie 75% inspirowana barwnym życiem Logana Kapuczino. Oferuje potrójną łączność — Bluetoo…",
-      "image_url": "https://static.pepper.pl/threads/raw/Z9vmc/1401993_1/re/150x150/qt/55/1401993_1.jpg",
-      "price": "249zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Komputronik",
-      "category": "Gaming",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Klawiatura+gamingowa+Redragon+K4PUC21N0+PRO",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-27 00:51",
-          "price": "249zł",
-          "note": "Komputronik"
-        }
-      ]
-    },
-    {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/kamera-samochodowa-2k-70mai-m310-plus-2klexar-microsdxc-blue-plus-64gb-1401995",
-      "title": "Kamera samochodowa 2K 70mai M310 Plus 2K+Lexar microSDXC Blue Plus 64GB",
-      "link": "https://www.pepper.pl/promocje/kamera-samochodowa-2k-70mai-m310-plus-2klexar-microsdxc-blue-plus-64gb-1401995",
-      "published": "Fri, 27 Nov 2026 01:24:28 +0100",
-      "summary": "169zł - Allegro Specyfikacja techniczna Łączność WiFi 4 Procesor Hi3516CV608 Sensor GC4023-YH Typ baterii Guzikowa Typ zalecanej karty pamięci MicroSD 16-256 GB (zalecana prędkość zapisu U3) Aplikacja na telefon Tak Przysłona F1.55 Kąt wid…",
-      "image_url": "https://static.pepper.pl/threads/raw/gzeh6/1401995_1/re/150x150/qt/55/1401995_1.jpg",
-      "price": "169zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Allegro",
-      "category": "Motoryzacja",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Kamera+samochodowa+2K+70mai+M310",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-24 16:37",
-          "price": "169zł",
-          "note": "Allegro"
-        }
-      ]
-    },
-    {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/karta-przechwytujaca-elgato-4k-pro-pcie-idealna-do-gta-vi-w-60-fps-1401994",
-      "title": "Karta przechwytująca Elgato 4K Pro (PCIe)",
-      "link": "https://www.pepper.pl/promocje/karta-przechwytujaca-elgato-4k-pro-pcie-idealna-do-gta-vi-w-60-fps-1401994",
-      "published": "Fri, 27 Nov 2026 01:24:25 +0100",
-      "summary": "1 049,99zł - Amazon.pl Karta przechwytująca obraz z HDMI, podłączana do slotu PCIe w PC. Najlepsza opcja żeby pograć w GTA VI w 60 FPS (z framegen), jeśli posiada się mocną kartę graficzną. To naprawdę działa i przy odpowiedniej konfigurac…",
-      "image_url": "https://static.pepper.pl/threads/raw/EtnUP/1401994_1/re/150x150/qt/55/1401994_1.jpg",
-      "price": "1 049,99zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Amazon.pl",
-      "category": "Elektronika",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Karta+przechwytuj%C4%85ca+Elgato+4K+Pro",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-27 00:51",
-          "price": "1 049,99zł",
-          "note": "Amazon.pl"
-        }
-      ]
-    },
-    {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/sluchawki-apple-airpods-5-z-bezprzewodowym-etui-mozliwe-549-zl-100-zl-na-ekarcie-do-empik-1401992",
-      "title": "Apple AirPods 5 z bezprzewodowym etui ładującym (możliwe 549 zł) + 100 zł na eKarcie do Empik",
-      "link": "https://www.pepper.pl/promocje/sluchawki-apple-airpods-5-z-bezprzewodowym-etui-mozliwe-549-zl-100-zl-na-ekarcie-do-empik-1401992",
-      "published": "Fri, 27 Nov 2026 01:16:45 +0100",
-      "summary": "584zł - Empik Taniej chyba nie będzie, wersja z bezprzewodowym etui ładującym. Sprzedaje znany i lubiany sklep Lantre poprzez stronę Empik. Darmowa dostawa w aplikacji. Możliwe 549 zł po skorzystaniu z aplikacji ZEN, obecnie jest tam 6% ca…",
-      "image_url": "https://static.pepper.pl/threads/raw/geSgN/1401992_1/re/150x150/qt/55/1401992_1.jpg",
-      "price": "584zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Empik",
-      "category": "Elektronika",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Apple+AirPods+bezprzewodowym+etui+%C5%82aduj%C4%85cym",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-27 00:51",
-          "price": "584zł",
-          "note": "Empik"
-        }
-      ]
-    },
-    {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/poziomica-laserowa-4d-16-linii-360-2146eur12-linii-2079eur-1401991",
-      "title": "Poziomica laserowa 4D 16 linii 360°-21.46€(12 linii -20.79€)",
-      "link": "https://www.pepper.pl/promocje/poziomica-laserowa-4d-16-linii-360-2146eur12-linii-2079eur-1401991",
-      "published": "Fri, 27 Nov 2026 01:15:23 +0100",
-      "summary": "96zł - AliExpress Wielopłaszczyznowa poziomica laserowa 4D z 16 liniami, przeznaczona to wyznaczania pionów i poziomów. -16 linii laserowych -technologia 4D -zielona wiązka lasera -projekcja pionowa i pozioma 360° -automatyczne poziomowani…",
-      "image_url": "https://static.pepper.pl/threads/raw/t2TdD/1401991_1/re/150x150/qt/55/1401991_1.jpg",
-      "price": "96zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "AliExpress",
-      "category": "Ogród i majsterkowanie",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Poziomica+laserowa+4D+16+linii",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-27 00:51",
-          "price": "96zł",
-          "note": "AliExpress"
-        }
-      ]
-    },
-    {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/6-lekkich-kurtek-meskich-the-north-face-przedzial-208-zl-do-235-zl-za-szt-1401990",
-      "title": "6 lekkich kurtek męskich The North Face • przedział: 208 zł do 235 zł za szt.",
-      "link": "https://www.pepper.pl/promocje/6-lekkich-kurtek-meskich-the-north-face-przedzial-208-zl-do-235-zl-za-szt-1401990",
-      "published": "Fri, 27 Nov 2026 01:15:10 +0100",
-      "summary": "208zł - Zalando 6 lekkich kurtek męskich The North Face od 208 zł do 235 zł za szt. Nuketo Wind (gł. link) ✓ 208 zł ✓ XS do L Kurtka w odcieniach niebieskiego i granatu, wyposażona w kaptur, kieszeń na piersi z logo marki oraz elastyczne m…",
-      "image_url": "https://static.pepper.pl/threads/raw/XFBsm/1401990_1/re/150x150/qt/55/1401990_1.jpg",
-      "price": "208zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Zalando",
-      "category": "Moda",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-lekkich+kurtek+m%C4%99skich+The+North",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-27 00:51",
-          "price": "208zł",
-          "note": "Zalando"
         }
       ]
     },
@@ -6797,36 +6752,6 @@
       "price_history": []
     },
     {
-      "source": "OBI.pl (Promocje)",
-      "deal_id": "obi:5464540",
-      "title": "Armatura Kraków Grzejnik c.o. G500F 848 W",
-      "link": "https://www.obi.pl/p/5464540/armatura-krakow-grzejnik-c-o-g500f-848-w",
-      "published": "Aktualna promocja OBI.pl",
-      "summary": "Promocja w markecie OBI.pl.",
-      "image_url": "https://bilder.obi.pl/5782506a-1ad1-4636-afb7-cfcfc9e5b493/pr07F/image.jpeg",
-      "price": "278 zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "OBI.pl",
-      "category": "Grzejniki",
-      "store_group": "Budowlane i dom",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Armatura+Krak%C3%B3w+Grzejnik+G500F+848",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-26 04:33",
-          "price": "278 zł",
-          "note": "OBI.pl"
-        }
-      ]
-    },
-    {
       "source": "Biedronka Home",
       "deal_id": "biedronka-home:000000000000818178",
       "title": "DREAME",
@@ -7570,16 +7495,6 @@
       "compared_offers": [],
       "price_history": [
         {
-          "date": "przed promocją",
-          "price": "159,99 zł",
-          "note": "przed promocją"
-        },
-        {
-          "date": "30 dni przed obniżką",
-          "price": "109,99 zł",
-          "note": "Najniższa z 30 dni (Omnibus)"
-        },
-        {
           "date": "2026-11-22 22:45",
           "price": "104,99 zł",
           "note": "Rossmann.pl"
@@ -7668,6 +7583,46 @@
           "date": "2026-11-27 02:14",
           "price": "159,99 zł",
           "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-27 02:14",
+          "price": "179,99 zł",
+          "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-27 03:27",
+          "price": "159,99 zł",
+          "note": "Rossmann.pl"
+        }
+      ]
+    },
+    {
+      "source": "Rossmann.pl",
+      "deal_id": "rossmann:359517",
+      "title": "Victoria's Secret mgiełka do ciała, perfumowana",
+      "link": "https://www.rossmann.pl/Produkt/Mgielki-zapachowe/Victorias-Secret-Coconut-Passion-mgielka-do-ciala-perfumowana-250-ml,359517,13268",
+      "published": "Aktualna promocja Rossmann.pl",
+      "summary": "Promocja w drogerii Rossmann.pl.",
+      "image_url": "https://pro-fra-s3-productsassets.rossmann.pl/product_1_medium/359517_360_350_1782208378.webp",
+      "price": "94,99 zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Rossmann.pl",
+      "category": "Perfumy-Perfumy damskie-Mgiełki zapachowe",
+      "store_group": "Odzież i uroda",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Victoria+Secret+mgie%C5%82ka+do+cia%C5%82a",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-23 09:07",
+          "price": "94,99 zł",
+          "note": "Rossmann.pl"
         }
       ]
     },
@@ -7694,16 +7649,6 @@
       "price_verdict": "",
       "compared_offers": [],
       "price_history": [
-        {
-          "date": "2026-11-26 16:31",
-          "price": "129,99 zł",
-          "note": "Rossmann.pl"
-        },
-        {
-          "date": "2026-11-26 16:31",
-          "price": "149,99 zł",
-          "note": "Rossmann.pl"
-        },
         {
           "date": "2026-11-26 17:46",
           "price": "129,99 zł",
@@ -7793,35 +7738,45 @@
           "date": "2026-11-27 02:14",
           "price": "129,99 zł",
           "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-27 02:14",
+          "price": "149,99 zł",
+          "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-27 03:27",
+          "price": "129,99 zł",
+          "note": "Rossmann.pl"
         }
       ]
     },
     {
       "source": "Rossmann.pl",
-      "deal_id": "rossmann:359517",
-      "title": "Victoria's Secret mgiełka do ciała, perfumowana",
-      "link": "https://www.rossmann.pl/Produkt/Mgielki-zapachowe/Victorias-Secret-Coconut-Passion-mgielka-do-ciala-perfumowana-250-ml,359517,13268",
+      "deal_id": "rossmann:2106875",
+      "title": "Jean Paul Gaultier woda perfumowana dla kobiet",
+      "link": "https://www.rossmann.pl/Produkt/Wody-perfumowane/Jean-Paul-Gaultier-Scandal-Le-Parfum-woda-perfumowana-dla-kobiet-50-ml,2106875,13266",
       "published": "Aktualna promocja Rossmann.pl",
       "summary": "Promocja w drogerii Rossmann.pl.",
-      "image_url": "https://pro-fra-s3-productsassets.rossmann.pl/product_1_medium/359517_360_350_1782208378.webp",
-      "price": "94,99 zł",
+      "image_url": "https://pro-fra-s3-productsassets.rossmann.pl/product_7_medium/2106875_360_350_1782398966.webp",
+      "price": "549,99 zł",
       "old_price": "",
       "lowest_30d": "",
       "merchant": "Rossmann.pl",
-      "category": "Perfumy-Perfumy damskie-Mgiełki zapachowe",
+      "category": "Perfumy-Perfumy damskie-Wody perfumowane",
       "store_group": "Odzież i uroda",
       "discount_pct": 0,
       "savings_pln": 0.0,
       "deal_score": 0.0,
       "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Victoria+Secret+mgie%C5%82ka+do+cia%C5%82a",
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Jean+Paul+Gaultier+woda+perfumowana",
       "price_status": "",
       "price_verdict": "",
       "compared_offers": [],
       "price_history": [
         {
-          "date": "2026-11-23 09:07",
-          "price": "94,99 zł",
+          "date": "2026-11-24 19:53",
+          "price": "549,99 zł",
           "note": "Rossmann.pl"
         }
       ]
@@ -8095,16 +8050,6 @@
       "compared_offers": [],
       "price_history": [
         {
-          "date": "2026-11-26 16:31",
-          "price": "149,99 zł",
-          "note": "Rossmann.pl"
-        },
-        {
-          "date": "2026-11-26 17:46",
-          "price": "129,99 zł",
-          "note": "Rossmann.pl"
-        },
-        {
           "date": "2026-11-26 17:46",
           "price": "149,99 zł",
           "note": "Rossmann.pl"
@@ -8193,6 +8138,16 @@
           "date": "2026-11-27 02:14",
           "price": "149,99 zł",
           "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-27 03:27",
+          "price": "129,99 zł",
+          "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-27 03:27",
+          "price": "149,99 zł",
+          "note": "Rossmann.pl"
         }
       ]
     },
@@ -8219,16 +8174,6 @@
       "price_verdict": "",
       "compared_offers": [],
       "price_history": [
-        {
-          "date": "30 dni przed obniżką",
-          "price": "109,99 zł",
-          "note": "Najniższa z 30 dni (Omnibus)"
-        },
-        {
-          "date": "2026-11-22 22:45",
-          "price": "104,99 zł",
-          "note": "Rossmann.pl"
-        },
         {
           "date": "2026-11-23 09:07",
           "price": "159,99 zł",
@@ -8316,6 +8261,16 @@
         },
         {
           "date": "2026-11-27 02:14",
+          "price": "179,99 zł",
+          "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-27 03:27",
+          "price": "159,99 zł",
+          "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-27 03:27",
           "price": "179,99 zł",
           "note": "Rossmann.pl"
         }
