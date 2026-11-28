@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28 01:47",
+  "updated_at": "2026-11-28 02:43",
   "deals": [
     {
       "source": "Aldi.pl (Oferty)",
@@ -88,6 +88,36 @@
           "date": "2026-11-27 11:44",
           "price": "45,99 zł",
           "note": "Aldi.pl"
+        }
+      ]
+    },
+    {
+      "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/ekspres-saeco-granaroma-sm658050-szerokosc-262cm-mozliwe-1799zl-3-raty-gratisowe-1403606",
+      "title": "Ekspres Saeco GranAroma SM6580/50 Szerokość 26,2cm, możliwe 1799zł (3 raty gratisowe)",
+      "link": "https://www.pepper.pl/promocje/ekspres-saeco-granaroma-sm658050-szerokosc-262cm-mozliwe-1799zl-3-raty-gratisowe-1403606",
+      "published": "Sat, 28 Nov 2026 02:52:08 +0100",
+      "summary": "1 999zł - RTV Euro AGD Ekspres automatyczny Ciśnienie: 15 barów Moc: 1500 W Rodzaj kawy: ziarnista, mielona Młynek: ceramiczny Pojemność zbiornika na wodę: 1,8 l Pojemność zbiornika na kawę: 300 g System grzewczy: Thermoblock Sterowanie: e…",
+      "image_url": "https://static.pepper.pl/threads/raw/BPGH4/1403606_1/re/150x150/qt/55/1403606_1.jpg",
+      "price": "1 999zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "RTV Euro AGD",
+      "category": "Dom i mieszkanie",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 100,
+      "savings_pln": 0.0,
+      "deal_score": 200.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Ekspres+Saeco+GranAroma+SM6580+50",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-28 02:43",
+          "price": "1 999zł",
+          "note": "RTV Euro AGD"
         }
       ]
     },
@@ -263,6 +293,46 @@
     },
     {
       "source": "Lidl.pl (Promocje)",
+      "deal_id": "lidl:100408205",
+      "title": "PARKSIDE® Wciągarka linowa ręczna / Przeciągarka linowa ręczna",
+      "link": "https://www.lidl.pl/p/parkside-wciagarka-linowa-reczna-przeciagarka-linowa-reczna/p100408205",
+      "published": "Aktualna oferta Lidl.pl",
+      "summary": "Megaokazja • Promocja bezpośrednio ze sklepu Lidl.pl.",
+      "image_url": "https://www.lidl.pl/assets/gcp86f207d7690847c9814a3a126bf7a5f6.jpg",
+      "price": "27,49 zł",
+      "old_price": "91,90 zł",
+      "lowest_30d": "91,90 zł",
+      "merchant": "Lidl.pl",
+      "category": "Kategorie/Warsztat/Warsztat/Wyposażenie warsztatu/Transport ciężki",
+      "store_group": "Spożywcze i markety",
+      "discount_pct": 70,
+      "savings_pln": 64.41,
+      "deal_score": 143.22,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-PARKSIDE+Wci%C4%85garka+linowa+r%C4%99czna+Przeci%C4%85garka",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "przed promocją",
+          "price": "91,90 zł",
+          "note": "przed promocją"
+        },
+        {
+          "date": "30 dni przed obniżką",
+          "price": "91,90 zł",
+          "note": "Najniższa z 30 dni (Omnibus)"
+        },
+        {
+          "date": "2026-11-24 09:38",
+          "price": "27,49 zł",
+          "note": "Lidl.pl"
+        }
+      ]
+    },
+    {
+      "source": "Lidl.pl (Promocje)",
       "deal_id": "lidl:100408137",
       "title": "PARKSIDE® Zestaw bitów i nasadek, 40 elementów",
       "link": "https://www.lidl.pl/p/parkside-zestaw-bitow-i-nasadek-40-elementow/p100408137",
@@ -297,6 +367,46 @@
         {
           "date": "2026-11-27 03:27",
           "price": "7,29 zł",
+          "note": "Lidl.pl"
+        }
+      ]
+    },
+    {
+      "source": "Lidl.pl (Promocje)",
+      "deal_id": "lidl:100408445",
+      "title": "LIVARNO® Komplet 2 poszewek na poduszki, 40 x 40 cm",
+      "link": "https://www.lidl.pl/p/livarno-komplet-2-poszewek-na-poduszki-40-x-40-cm/p100408445",
+      "published": "Aktualna oferta Lidl.pl",
+      "summary": "Megaokazja • Promocja bezpośrednio ze sklepu Lidl.pl.",
+      "image_url": "https://www.lidl.pl/assets/gcp1c9ea2302e8a4afc948909198ab2b56a.jpg",
+      "price": "2,99 zł",
+      "old_price": "9,98 zł",
+      "lowest_30d": "9,98 zł",
+      "merchant": "Lidl.pl",
+      "category": "Kategorie/Dom & Urządzanie/Łóżka i materace/Poduszki/Poszewka na poduszkę",
+      "store_group": "Spożywcze i markety",
+      "discount_pct": 70,
+      "savings_pln": 6.99,
+      "deal_score": 140.35,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-LIVARNO+Komplet+poszewek+na+poduszki",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "przed promocją",
+          "price": "9,98 zł",
+          "note": "przed promocją"
+        },
+        {
+          "date": "30 dni przed obniżką",
+          "price": "9,98 zł",
+          "note": "Najniższa z 30 dni (Omnibus)"
+        },
+        {
+          "date": "2026-11-27 18:17",
+          "price": "2,99 zł",
           "note": "Lidl.pl"
         }
       ]
@@ -1132,46 +1242,6 @@
       ]
     },
     {
-      "source": "Rossmann.pl",
-      "deal_id": "rossmann:2139288",
-      "title": "Eloy kalendarz adwentowy z akcesoriami podróżnymi, 24 elementy",
-      "link": "https://www.rossmann.pl/Produkt/Kalendarze-adwentowe/Eloy-kalendarz-adwentowy-z-akcesoriami-podroznymi-24-elementy-1-szt,2139288,20086",
-      "published": "Aktualna promocja Rossmann.pl",
-      "summary": "Promocja w drogerii Rossmann.pl • Najniższa z 30 dni: 89,99 zł.",
-      "image_url": "https://pro-fra-s3-productsassets.rossmann.pl/product_1_medium/2139288_360_350_1783926352.webp",
-      "price": "69,99 zł",
-      "old_price": "119,99 zł",
-      "lowest_30d": "89,99 zł",
-      "merchant": "Rossmann.pl",
-      "category": "Kolekcje limitowane-Święta-Kalendarze adwentowe",
-      "store_group": "Odzież i uroda",
-      "discount_pct": 42,
-      "savings_pln": 50.0,
-      "deal_score": 86.5,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Eloy+kalendarz+adwentowy+akcesoriami+podr%C3%B3%C5%BCnymi",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "przed promocją",
-          "price": "119,99 zł",
-          "note": "przed promocją"
-        },
-        {
-          "date": "30 dni przed obniżką",
-          "price": "89,99 zł",
-          "note": "Najniższa z 30 dni (Omnibus)"
-        },
-        {
-          "date": "2026-11-27 18:17",
-          "price": "69,99 zł",
-          "note": "Rossmann.pl"
-        }
-      ]
-    },
-    {
       "source": "Lidl.pl (Promocje)",
       "deal_id": "lidl:100409102",
       "title": "SILVERCREST® Opiekacz 3 w 1, 750 W, SSMW 750 E1",
@@ -1612,46 +1682,6 @@
       ]
     },
     {
-      "source": "Lidl.pl (Promocje)",
-      "deal_id": "lidl:100404585",
-      "title": "CRIVIT Namiot rodzinny, 4-osobowy",
-      "link": "https://www.lidl.pl/p/crivit-namiot-rodzinny-4-osobowy/p100404585",
-      "published": "Aktualna oferta Lidl.pl",
-      "summary": "Megaokazja • Promocja bezpośrednio ze sklepu Lidl.pl.",
-      "image_url": "https://www.lidl.pl/assets/gcp1584e802fb094084b1094af2fb8862be.jpg",
-      "price": "307,30 zł",
-      "old_price": "439 zł",
-      "lowest_30d": "439 zł",
-      "merchant": "Lidl.pl",
-      "category": "Kategorie/Sport i wypoczynek/Kemping/Namioty/Namioty kempingowe",
-      "store_group": "Spożywcze i markety",
-      "discount_pct": 30,
-      "savings_pln": 131.7,
-      "deal_score": 66.58,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-CRIVIT+Namiot+rodzinny+4-osobowy",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "przed promocją",
-          "price": "439 zł",
-          "note": "przed promocją"
-        },
-        {
-          "date": "30 dni przed obniżką",
-          "price": "439 zł",
-          "note": "Najniższa z 30 dni (Omnibus)"
-        },
-        {
-          "date": "2026-11-24 03:18",
-          "price": "307,30 zł",
-          "note": "Lidl.pl"
-        }
-      ]
-    },
-    {
       "source": "OBI.pl (Promocje)",
       "deal_id": "obi:6858948",
       "title": "Neo Tools Zestaw kluczy 100-elementowy 1/2'', 1/4''",
@@ -1963,46 +1993,6 @@
     },
     {
       "source": "Lidl.pl (Promocje)",
-      "deal_id": "lidl:100398699",
-      "title": "TRONIC® Zestaw 8 akumulatorków",
-      "link": "https://www.lidl.pl/p/tronic-zestaw-8-akumulatorkow/p100398699",
-      "published": "Aktualna oferta Lidl.pl",
-      "summary": "Megaokazja • Promocja bezpośrednio ze sklepu Lidl.pl.",
-      "image_url": "https://www.lidl.pl/assets/gcpbd2a3903beb44241babde1e2af7451c5.jpg",
-      "price": "24,99 zł",
-      "old_price": "35,99 zł",
-      "lowest_30d": "35,99 zł",
-      "merchant": "Lidl.pl",
-      "category": "Kategorie/Multimedia/Biuro i komputer/Akcesoria biurowe/Akumulatorki",
-      "store_group": "Spożywcze i markety",
-      "discount_pct": 30,
-      "savings_pln": 11.0,
-      "deal_score": 60.55,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-TRONIC+Zestaw+akumulatork%C3%B3w",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "przed promocją",
-          "price": "35,99 zł",
-          "note": "przed promocją"
-        },
-        {
-          "date": "30 dni przed obniżką",
-          "price": "35,99 zł",
-          "note": "Najniższa z 30 dni (Omnibus)"
-        },
-        {
-          "date": "2026-11-24 12:55",
-          "price": "24,99 zł",
-          "note": "Lidl.pl"
-        }
-      ]
-    },
-    {
-      "source": "Lidl.pl (Promocje)",
       "deal_id": "lidl:100405332",
       "title": "GRILLMEISTER Akcesoria do wypieku pizzy",
       "link": "https://www.lidl.pl/p/grillmeister-akcesoria-do-wypieku-pizzy/p100405332",
@@ -2148,6 +2138,46 @@
           "date": "2026-11-28 01:47",
           "price": "581zł",
           "note": "Pepper.pl"
+        }
+      ]
+    },
+    {
+      "source": "Rossmann.pl",
+      "deal_id": "rossmann:2140239",
+      "title": "Hiskin kalendarz adwentowy z ozdobami świątecznymi - origami, 24 elementy",
+      "link": "https://www.rossmann.pl/Produkt/Kalendarze-adwentowe/Hiskin-kalendarz-adwentowy-z-ozdobami-swiatecznymi-origami-24-elementy-1-szt,2140239,20086",
+      "published": "Aktualna promocja Rossmann.pl",
+      "summary": "Promocja w drogerii Rossmann.pl • Najniższa z 30 dni: 59,99 zł.",
+      "image_url": "https://pro-fra-s3-productsassets.rossmann.pl/product_1_medium/2140239_360_350_1786953049.webp",
+      "price": "49,99 zł",
+      "old_price": "69,99 zł",
+      "lowest_30d": "59,99 zł",
+      "merchant": "Rossmann.pl",
+      "category": "Kolekcje limitowane-Święta-Kalendarze adwentowe",
+      "store_group": "Odzież i uroda",
+      "discount_pct": 29,
+      "savings_pln": 20.0,
+      "deal_score": 59.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Hiskin+kalendarz+adwentowy+ozdobami+%C5%9Bwi%C4%85tecznymi",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "przed promocją",
+          "price": "69,99 zł",
+          "note": "przed promocją"
+        },
+        {
+          "date": "30 dni przed obniżką",
+          "price": "59,99 zł",
+          "note": "Najniższa z 30 dni (Omnibus)"
+        },
+        {
+          "date": "2026-11-24 21:45",
+          "price": "49,99 zł",
+          "note": "Rossmann.pl"
         }
       ]
     },
@@ -3195,6 +3225,11 @@
       "compared_offers": [],
       "price_history": [
         {
+          "date": "przed promocją",
+          "price": "5,29 zł",
+          "note": "przed promocją"
+        },
+        {
           "date": "30 dni przed obniżką",
           "price": "5,29 zł",
           "note": "Najniższa z 30 dni (Omnibus)"
@@ -3272,36 +3307,6 @@
         {
           "date": "2026-11-28 00:14",
           "price": "7000 zł",
-          "note": "Samsung"
-        }
-      ]
-    },
-    {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/kupony/100-zl-znizki-za-kazde-wydane-800-zl-na-samsungpl-1403579",
-      "title": "100 zł zniżki za każde wydane 800 zł na Samsung.pl",
-      "link": "https://www.pepper.pl/kupony/100-zl-znizki-za-kazde-wydane-800-zl-na-samsungpl-1403579",
-      "published": "Sat, 28 Nov 2026 00:33:21 +0100",
-      "summary": "Samsung Samsung – 100 zł rabatu za każde wydane 800 zł :D W koszyku należy wpisać kod rabatowy: BLACK100 Maksymalna wartość rabatu wynosi 2000 zł. Warunki promocji: Promocja trwa do 02.12.2026 r. lub do wyczerpania limitu 500 zamówień Kod…",
-      "image_url": "https://static.pepper.pl/merchants/raw/avatar/130_2/re/352x352/qt/60/130_2.jpg",
-      "price": "100zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Samsung",
-      "category": "Elektronika",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 0,
-      "savings_pln": 100.0,
-      "deal_score": 5.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-zni%C5%BCki+ka%C5%BCde+wydane+na+Samsung",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-28 00:14",
-          "price": "100zł",
           "note": "Samsung"
         }
       ]
@@ -4050,16 +4055,6 @@
       "compared_offers": [],
       "price_history": [
         {
-          "date": "2026-11-27 15:24",
-          "price": "50 zł",
-          "note": "Pepco.pl"
-        },
-        {
-          "date": "2026-11-27 16:30",
-          "price": "20 zł",
-          "note": "Pepco.pl"
-        },
-        {
           "date": "2026-11-27 16:30",
           "price": "50 zł",
           "note": "Pepco.pl"
@@ -4146,6 +4141,16 @@
         },
         {
           "date": "2026-11-28 01:47",
+          "price": "20 zł",
+          "note": "Pepco.pl"
+        },
+        {
+          "date": "2026-11-28 01:47",
+          "price": "50 zł",
+          "note": "Pepco.pl"
+        },
+        {
+          "date": "2026-11-28 02:43",
           "price": "20 zł",
           "note": "Pepco.pl"
         }
@@ -4175,16 +4180,6 @@
       "compared_offers": [],
       "price_history": [
         {
-          "date": "2026-11-27 15:24",
-          "price": "50 zł",
-          "note": "Pepco.pl"
-        },
-        {
-          "date": "2026-11-27 16:30",
-          "price": "20 zł",
-          "note": "Pepco.pl"
-        },
-        {
           "date": "2026-11-27 16:30",
           "price": "50 zł",
           "note": "Pepco.pl"
@@ -4271,6 +4266,16 @@
         },
         {
           "date": "2026-11-28 01:47",
+          "price": "20 zł",
+          "note": "Pepco.pl"
+        },
+        {
+          "date": "2026-11-28 01:47",
+          "price": "50 zł",
+          "note": "Pepco.pl"
+        },
+        {
+          "date": "2026-11-28 02:43",
           "price": "20 zł",
           "note": "Pepco.pl"
         }
@@ -4330,16 +4335,6 @@
       "compared_offers": [],
       "price_history": [
         {
-          "date": "2026-11-27 16:30",
-          "price": "20 zł",
-          "note": "Pepco.pl"
-        },
-        {
-          "date": "2026-11-27 16:30",
-          "price": "50 zł",
-          "note": "Pepco.pl"
-        },
-        {
           "date": "2026-11-27 17:29",
           "price": "20 zł",
           "note": "Pepco.pl"
@@ -4426,6 +4421,16 @@
         },
         {
           "date": "2026-11-28 01:47",
+          "price": "50 zł",
+          "note": "Pepco.pl"
+        },
+        {
+          "date": "2026-11-28 02:43",
+          "price": "20 zł",
+          "note": "Pepco.pl"
+        },
+        {
+          "date": "2026-11-28 02:43",
           "price": "50 zł",
           "note": "Pepco.pl"
         }
@@ -4488,6 +4493,186 @@
           "date": "2026-11-27 14:12",
           "price": "120 zł",
           "note": "Pepco.pl"
+        }
+      ]
+    },
+    {
+      "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/jbl-charge-6-czarny-kupujac-przez-ceneo-kup-teraz-z-kodem-50-zl-z-sklepu-avans-1403612",
+      "title": "JBL Charge 6 Czarny kupując przez Ceneo kup teraz z kodem -50 zł z sklepu Avans",
+      "link": "https://www.pepper.pl/promocje/jbl-charge-6-czarny-kupujac-przez-ceneo-kup-teraz-z-kodem-50-zl-z-sklepu-avans-1403612",
+      "published": "Sat, 28 Nov 2026 03:29:05 +0100",
+      "summary": "428zł - Ceneo Kupując przez Ceneo kup teraz i wpisując kod przy finalizacji zakupu w koszyku wychodzi najtańsza cena jak do tej pory.",
+      "image_url": "https://static.pepper.pl/threads/raw/5988D/1403612_1/re/150x150/qt/55/1403612_1.jpg",
+      "price": "428zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Ceneo",
+      "category": "Elektronika",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-JBL+Charge+Czarny+kupuj%C4%85c+przez",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-28 02:43",
+          "price": "428zł",
+          "note": "Ceneo"
+        }
+      ]
+    },
+    {
+      "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/sony-fe-24-105-mm-f4-g-oss-1403611",
+      "title": "Obiektyw Sony FE 24-105 mm F4 G OSS",
+      "link": "https://www.pepper.pl/promocje/sony-fe-24-105-mm-f4-g-oss-1403611",
+      "published": "Sat, 28 Nov 2026 03:22:10 +0100",
+      "summary": "3 399zł - Sony 3 399,00 zł minus 1.000 zł cashback i robi się sensowna kwota. Cashback Sony jest tylko w wybranych sklepach, więc pomimo, że niektóre sklepy mają go taniej, to ta oferta jest póki co najlepsza.",
+      "image_url": "https://static.pepper.pl/threads/raw/QwD85/1403611_1/re/150x150/qt/55/1403611_1.jpg",
+      "price": "3 399zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Sony",
+      "category": "Elektronika",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Obiektyw+Sony+FE+24-105+mm",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-28 02:43",
+          "price": "3 399zł",
+          "note": "Sony"
+        }
+      ]
+    },
+    {
+      "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/jbl-flip-7-czarny-kup-teraz-na-ceneo-z-kodem-40zl-z-sklepu-avans-1403610",
+      "title": "JBL Flip 7 Czarny kup teraz na Ceneo z kodem -40zł z sklepu Avans",
+      "link": "https://www.pepper.pl/promocje/jbl-flip-7-czarny-kup-teraz-na-ceneo-z-kodem-40zl-z-sklepu-avans-1403610",
+      "published": "Sat, 28 Nov 2026 03:08:48 +0100",
+      "summary": "315zł - Ceneo Głośnik JBL Flip 7 z kupując przez Ceneo kup teraz z kodem na Black Friday -40 zł z sklepu Avans wychodzi najtańsza cena w historii. Sprawdzony sklep i ochrona ☂️ kupujących nie ma co się zastanawiać",
+      "image_url": "https://static.pepper.pl/threads/raw/tM2IY/1403610_1/re/150x150/qt/55/1403610_1.jpg",
+      "price": "315zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Ceneo",
+      "category": "Elektronika",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-JBL+Flip+Czarny+kup+teraz",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-28 02:43",
+          "price": "315zł",
+          "note": "Ceneo"
+        }
+      ]
+    },
+    {
+      "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/afnan-rare-reef-ekstrakt-perfum-1403609",
+      "title": "Afnan rare reef ekstrakt perfum",
+      "link": "https://www.pepper.pl/promocje/afnan-rare-reef-ekstrakt-perfum-1403609",
+      "published": "Sat, 28 Nov 2026 03:04:32 +0100",
+      "summary": "86,85zł - Erli Bardzo przyjemne perfumy, może nie zimę bo to typowy letniaczek. Zgarnąłem masę komplementów, bardzo dobra projekcja i długo siedzą na skórze, na ciuchach to praktycznie do prania. Korzystam i jestem zadowolony, Ja zrobiłem…",
+      "image_url": "https://static.pepper.pl/threads/raw/8xe33/1403609_1/re/150x150/qt/55/1403609_1.jpg",
+      "price": "86,85zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Erli",
+      "category": "Zdrowie i uroda",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Afnan+rare+reef+ekstrakt+perfum",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-28 02:43",
+          "price": "86,85zł",
+          "note": "Erli"
+        }
+      ]
+    },
+    {
+      "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/ekspres-delonghi-magnifica-s-ecam-22112b-zakup-w-aplikacji-ceneopl-z-kodem-50black-1403608",
+      "title": "Ekspres De'Longhi Magnifica S ECAM 22.112.B (zakup w aplikacji Ceneo.pl z kodem 50black)",
+      "link": "https://www.pepper.pl/promocje/ekspres-delonghi-magnifica-s-ecam-22112b-zakup-w-aplikacji-ceneopl-z-kodem-50black-1403608",
+      "published": "Sat, 28 Nov 2026 03:01:25 +0100",
+      "summary": "900zł - Ceneo Ekspres De'Longhi Magnifica S ECAM 22.112.B za 900 zł z kodem rabatowym 50black dostępnym w aplikacji. CENEO.PL Z listy sklepów wybiersmy sklep Avans i opcję kup teraz. Oferta tego samego ekspresu ze sklepu na Allegro (równie…",
+      "image_url": "https://static.pepper.pl/threads/raw/cimLu/1403608_1/re/150x150/qt/55/1403608_1.jpg",
+      "price": "900zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Ceneo",
+      "category": "Dom i mieszkanie",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Ekspres+De+Longhi+Magnifica+ECAM",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-28 02:43",
+          "price": "900zł",
+          "note": "Ceneo"
+        }
+      ]
+    },
+    {
+      "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/lego-city-60478-betoniarka-lego-duplo-10473-woz-strazacki-i-lego-friends-42684-jednorozcowa-kawiarnia-kazdy-zestaw-za-50-1403605",
+      "title": "Lego City 60478 Betoniarka, Lego Duplo 10473 Wóz strażacki i Lego Friends 42684 Jednorożcowa kawiarnia - każdy zestaw za 50",
+      "link": "https://www.pepper.pl/promocje/lego-city-60478-betoniarka-lego-duplo-10473-woz-strazacki-i-lego-friends-42684-jednorozcowa-kawiarnia-kazdy-zestaw-za-50-1403605",
+      "published": "Sat, 28 Nov 2026 02:48:25 +0100",
+      "summary": "50zł Z okazji Cyber Monday w Carrefourze kolejne 3 zestawy klocków w bardzo dobrych cenach. Klocki Lego City 60478 Betoniarka, Lego Duplo 10473 Wóz strażacki z drabiną i wężem i Lego Frirnds 42684 Jednorożcowa kawiarnia - każdy zestaw za 5…",
+      "image_url": "https://static.pepper.pl/threads/raw/HbB29/1403605_1/re/150x150/qt/55/1403605_1.jpg",
+      "price": "50zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "",
+      "category": "Rodzina i dzieci",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Lego+City+60478+Betoniarka+Lego",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-28 02:43",
+          "price": "50zł",
+          "note": "Pepper.pl"
         }
       ]
     },
@@ -5022,186 +5207,6 @@
           "date": "2026-11-28 00:14",
           "price": "13zł",
           "note": "InPost"
-        }
-      ]
-    },
-    {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/rower-gravel-romet-nyk-30-carbon-sram-rival-axs-1x12-rockshox-rudy-30-mm-karbonowa-rama-kola-kierownica-i-mostek-dropper-xs-l-1403578",
-      "title": "Rower gravel Romet NYK 3.0 Carbon – SRAM Rival AXS 1x12, RockShox Rudy 30 mm, karbonowa rama, koła, kierownica i mostek, dropper– XS–L",
-      "link": "https://www.pepper.pl/promocje/rower-gravel-romet-nyk-30-carbon-sram-rival-axs-1x12-rockshox-rudy-30-mm-karbonowa-rama-kola-kierownica-i-mostek-dropper-xs-l-1403578",
-      "published": "Sat, 28 Nov 2026 00:32:55 +0100",
-      "summary": "8 999zł - Romet Karbonowy gravel Romet NYK 3.0 SRAM w bardzo mocnej konfiguracji. To rower do szybkiej jazdy po szutrach, wymagających trasach i dłuższych wyprawach bikepackingowych. Najważniejsze wyposażenie: Rama: karbonowa, kolor czerwo…",
-      "image_url": "https://static.pepper.pl/threads/raw/XHbz5/1403578_1/re/150x150/qt/55/1403578_1.jpg",
-      "price": "8 999zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Romet",
-      "category": "Sport i turystyka",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Rower+gravel+Romet+NYK+Carbon",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-28 00:14",
-          "price": "8 999zł",
-          "note": "Romet"
-        }
-      ]
-    },
-    {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/generator-pary-tefal-power-pro-compact-200-sv6213e0-airfryer-oraz-blenderzgrzewarka-za-1zl-1403577",
-      "title": "Generator pary Tefal Power Pro Compact 200 SV6213E0 | Airfryer oraz blender/zgrzewarka za 1zł",
-      "link": "https://www.pepper.pl/promocje/generator-pary-tefal-power-pro-compact-200-sv6213e0-airfryer-oraz-blenderzgrzewarka-za-1zl-1403577",
-      "published": "Sat, 28 Nov 2026 00:31:48 +0100",
-      "summary": "311zł - Biedronka Home Przy zakupie generatora pary Tefal Power Pro Compact 200 SV6213E0 można dodać do koszyka dwa produkty za 1zł -70 zł RABAT70 Dla zalogowanych z kodem TANIEJ70 -20 zł BH20 Kod Black Weeks przy zakupach za minimum 200zł…",
-      "image_url": "https://static.pepper.pl/threads/raw/qKy6b/1403577_1/re/150x150/qt/55/1403577_1.jpg",
-      "price": "311zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Biedronka Home",
-      "category": "Dom i mieszkanie",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Generator+pary+Tefal+Power+Pro",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-28 00:14",
-          "price": "311zł",
-          "note": "Biedronka Home"
-        }
-      ]
-    },
-    {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/materac-figaro-deluxe-edition-by-hilding-1403573",
-      "title": "Materac FIGARO DELUXE EDITION BY HILDING",
-      "link": "https://www.pepper.pl/promocje/materac-figaro-deluxe-edition-by-hilding-1403573",
-      "published": "Sat, 28 Nov 2026 00:31:47 +0100",
-      "summary": "4 732zł - Pan Materac Hej, szukjąc materaca znalazłem taką promkę. Warto to coś ;) ? Normalna cena to 9 279 :O",
-      "image_url": "https://static.pepper.pl/threads/raw/XKZuw/1403573_1/re/150x150/qt/55/1403573_1.jpg",
-      "price": "4 732zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Pan Materac",
-      "category": "Dom i mieszkanie",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Materac+FIGARO+DELUXE+EDITION+BY",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-28 00:14",
-          "price": "4 732zł",
-          "note": "Pan Materac"
-        }
-      ]
-    },
-    {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/kreatyna-2000g2kg-sfd-1403576",
-      "title": "Kreatyna 2000g/2kg SFD",
-      "link": "https://www.pepper.pl/promocje/kreatyna-2000g2kg-sfd-1403576",
-      "published": "Sat, 28 Nov 2026 00:30:43 +0100",
-      "summary": "57,78zł - InPost Świetna cena na smakowe kreatyny SFD, niecałe 2,9zł za 100g. Szukałem czegoś smakowego ponieważ, naturalny smak krety już mi zbrzydł. Zakup standardowo przez aplikację inpost, pytamy Von Halskiego o kreatynę 1000g, dodajem…",
-      "image_url": "https://static.pepper.pl/threads/raw/IHtsn/1403576_1/re/150x150/qt/55/1403576_1.jpg",
-      "price": "57,78zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "InPost",
-      "category": "Sport i turystyka",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Kreatyna+2000g+2kg+SFD",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-28 00:14",
-          "price": "57,78zł",
-          "note": "InPost"
-        }
-      ]
-    },
-    {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/gitara-elektryczna-blond-str-1bl-typu-stratocaster-31331zl-z-kodem-extr311d-1403575",
-      "title": "Gitara elektryczna Blond STR - 1BL typu stratocaster 313,31zł z kodem EXTR311D",
-      "link": "https://www.pepper.pl/promocje/gitara-elektryczna-blond-str-1bl-typu-stratocaster-31331zl-z-kodem-extr311d-1403575",
-      "published": "Sat, 28 Nov 2026 00:29:31 +0100",
-      "summary": "313,31zł - Kytary Witam serdecznie, dziś okazja na tanią gitarę firmy Blond na start, z kodem na Black Friday wychodzi śmieszne 313zł, wysyłka dpd za 29zł, dużo pozytywnych opinii, są też z Polski. Polecam zmienić tylko struny, są na Amazo…",
-      "image_url": "https://static.pepper.pl/threads/raw/0Ps9x/1403575_1/re/150x150/qt/55/1403575_1.jpg",
-      "price": "313,31zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Kytary",
-      "category": "Kultura i rozrywka",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Gitara+elektryczna+Blond+STR+1BL",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-28 00:14",
-          "price": "313,31zł",
-          "note": "Kytary"
-        }
-      ]
-    },
-    {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/opel-corsa-12-100-km-2026-wyprzedaz-rocznika-1403574",
-      "title": "Opel Corsa 1,2 100 KM 2026 wyprzedaż rocznika",
-      "link": "https://www.pepper.pl/promocje/opel-corsa-12-100-km-2026-wyprzedaz-rocznika-1403574",
-      "published": "Sat, 28 Nov 2026 00:28:57 +0100",
-      "summary": "68 900zł Opel Corsa Edition 1.2 Turbo 100 KM to pięciodrzwiowy samochód osobowy typu hatchback, wyposażony w silnik benzynowy z turbodoładowaniem o pojemności 1199 cm³ i mocy 100 KM (74 kW). Maksymalny moment obrotowy wynosi 205 Nm przy 17…",
-      "image_url": "https://static.pepper.pl/threads/raw/YHi0y/1403574_1/re/150x150/qt/55/1403574_1.jpg",
-      "price": "68 900zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "",
-      "category": "Motoryzacja",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Opel+Corsa+100+KM+2026",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-28 00:14",
-          "price": "68 900zł",
-          "note": "Pepper.pl"
         }
       ]
     },
@@ -6973,30 +6978,6 @@
     },
     {
       "source": "Biedronka Home",
-      "deal_id": "biedronka-home:000000000000672624",
-      "title": "DREAME",
-      "link": "https://home.biedronka.pl/dreame-robot-sprzatajacy-dreame-l10s-pro-ultra-pureheat-z-funkcja-mopowania-i-samoczyszczenia-bialy-000000000000672624.html",
-      "published": "Biedronka Home",
-      "summary": "Promocja ze sklepu Biedronka Home (chwilowo niedostępny online).",
-      "image_url": "https://home.biedronka.pl/dw/image/v2/BJJL_PRD/on/demandware.static/-/Sites-PL_Master_Catalog/default/dwbb841feb/images/hi-res/672624_99995.jpg?sw=270&sh=270&sm=fit",
-      "price": "",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Biedronka Home",
-      "category": "Dom i warsztat",
-      "store_group": "Budowlane i dom",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-DREAME",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": []
-    },
-    {
-      "source": "Biedronka Home",
       "deal_id": "biedronka-home:000000000000438424",
       "title": "MG HOME",
       "link": "https://home.biedronka.pl/mg-home-zestaw-garnkow-mg-home-verso-10-elementow-z-wkladem-do-gotowania-na-parze-000000000000438424.html",
@@ -7045,12 +7026,12 @@
     },
     {
       "source": "Biedronka Home",
-      "deal_id": "biedronka-home:000000000000597722",
-      "title": "HOFFEN EXPERT",
-      "link": "https://home.biedronka.pl/hoffen-expert-air-fryer-frytkownica-dwukomorowa-hoffen-expert-2400-w-35-l-i-6-l-czarna-000000000000597722.html",
+      "deal_id": "biedronka-home:000000000000708594",
+      "title": "VACTIDY",
+      "link": "https://home.biedronka.pl/vactidy-odkurzacz-pionowy-vactidy-v10-pro-bezprzewodowy-45-kpa-z-akcesoriami-000000000000708594.html",
       "published": "Biedronka Home",
       "summary": "Promocja ze sklepu Biedronka Home (chwilowo niedostępny online).",
-      "image_url": "https://home.biedronka.pl/dw/image/v2/BJJL_PRD/on/demandware.static/-/Sites-PL_Master_Catalog/default/dwaee494e1/images/hi-res/597722_5MOOD.jpg?sw=270&sh=270&sm=fit",
+      "image_url": "https://home.biedronka.pl/dw/image/v2/BJJL_PRD/on/demandware.static/-/Sites-PL_Master_Catalog/default/dwec9b6509/images/hi-res/708594_992.jpg?sw=270&sh=270&sm=fit",
       "price": "",
       "old_price": "",
       "lowest_30d": "",
@@ -7061,7 +7042,7 @@
       "savings_pln": 0.0,
       "deal_score": 0.0,
       "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-HOFFEN+EXPERT",
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-VACTIDY",
       "price_status": "",
       "price_verdict": "",
       "compared_offers": [],
@@ -7093,30 +7074,6 @@
     },
     {
       "source": "Biedronka Home",
-      "deal_id": "biedronka-home:000000000000598914",
-      "title": "MG HOME",
-      "link": "https://home.biedronka.pl/mg-home-zestaw-obiadowy-z-porcelany-na-4-osoby-mg-home-antico-12-elementow-bialy-000000000000598914.html",
-      "published": "Biedronka Home",
-      "summary": "Promocja ze sklepu Biedronka Home (chwilowo niedostępny online).",
-      "image_url": "https://home.biedronka.pl/dw/image/v2/BJJL_PRD/on/demandware.static/-/Sites-PL_Master_Catalog/default/dw3bfe1664/images/hi-res/598914_5MOOD.jpg?sw=270&sh=270&sm=fit",
-      "price": "",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Biedronka Home",
-      "category": "Dom i warsztat",
-      "store_group": "Budowlane i dom",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-MG+HOME",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": []
-    },
-    {
-      "source": "Biedronka Home",
       "deal_id": "biedronka-home:000000000000818116",
       "title": "HUSLOG",
       "link": "https://home.biedronka.pl/huslog-blender-reczny-3-w-1-huslog-blendmaster-z-akcesoriami-1500-w-czarny-000000000000818116.html",
@@ -7134,6 +7091,30 @@
       "deal_score": 0.0,
       "is_leaflet": false,
       "ceneo_url": "https://www.ceneo.pl/;szukaj-HUSLOG",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": []
+    },
+    {
+      "source": "Biedronka Home",
+      "deal_id": "biedronka-home:000000000000598914",
+      "title": "MG HOME",
+      "link": "https://home.biedronka.pl/mg-home-zestaw-obiadowy-z-porcelany-na-4-osoby-mg-home-antico-12-elementow-bialy-000000000000598914.html",
+      "published": "Biedronka Home",
+      "summary": "Promocja ze sklepu Biedronka Home (chwilowo niedostępny online).",
+      "image_url": "https://home.biedronka.pl/dw/image/v2/BJJL_PRD/on/demandware.static/-/Sites-PL_Master_Catalog/default/dw3bfe1664/images/hi-res/598914_5MOOD.jpg?sw=270&sh=270&sm=fit",
+      "price": "",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Biedronka Home",
+      "category": "Dom i warsztat",
+      "store_group": "Budowlane i dom",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-MG+HOME",
       "price_status": "",
       "price_verdict": "",
       "compared_offers": [],
@@ -7165,12 +7146,12 @@
     },
     {
       "source": "Biedronka Home",
-      "deal_id": "biedronka-home:000000000000759107",
-      "title": "SAM COOK",
-      "link": "https://home.biedronka.pl/sam-cook-termorobot-wi-fi-sam-cook-psc-11%2fb1-1400-w-z-akcesoriami-000000000000759107.html",
+      "deal_id": "biedronka-home:000000000000672624",
+      "title": "DREAME",
+      "link": "https://home.biedronka.pl/dreame-robot-sprzatajacy-dreame-l10s-pro-ultra-pureheat-z-funkcja-mopowania-i-samoczyszczenia-bialy-000000000000672624.html",
       "published": "Biedronka Home",
       "summary": "Promocja ze sklepu Biedronka Home (chwilowo niedostępny online).",
-      "image_url": "https://home.biedronka.pl/dw/image/v2/BJJL_PRD/on/demandware.static/-/Sites-PL_Master_Catalog/default/dw9ddd29ea/images/hi-res/759107_99996.jpg?sw=270&sh=270&sm=fit",
+      "image_url": "https://home.biedronka.pl/dw/image/v2/BJJL_PRD/on/demandware.static/-/Sites-PL_Master_Catalog/default/dwbb841feb/images/hi-res/672624_99995.jpg?sw=270&sh=270&sm=fit",
       "price": "",
       "old_price": "",
       "lowest_30d": "",
@@ -7181,7 +7162,31 @@
       "savings_pln": 0.0,
       "deal_score": 0.0,
       "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-SAM+COOK",
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-DREAME",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": []
+    },
+    {
+      "source": "Biedronka Home",
+      "deal_id": "biedronka-home:000000000000597722",
+      "title": "HOFFEN EXPERT",
+      "link": "https://home.biedronka.pl/hoffen-expert-air-fryer-frytkownica-dwukomorowa-hoffen-expert-2400-w-35-l-i-6-l-czarna-000000000000597722.html",
+      "published": "Biedronka Home",
+      "summary": "Promocja ze sklepu Biedronka Home (chwilowo niedostępny online).",
+      "image_url": "https://home.biedronka.pl/dw/image/v2/BJJL_PRD/on/demandware.static/-/Sites-PL_Master_Catalog/default/dwaee494e1/images/hi-res/597722_5MOOD.jpg?sw=270&sh=270&sm=fit",
+      "price": "",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Biedronka Home",
+      "category": "Dom i warsztat",
+      "store_group": "Budowlane i dom",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-HOFFEN+EXPERT",
       "price_status": "",
       "price_verdict": "",
       "compared_offers": [],
@@ -7206,6 +7211,30 @@
       "deal_score": 0.0,
       "is_leaflet": false,
       "ceneo_url": "https://www.ceneo.pl/;szukaj-DREAME",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": []
+    },
+    {
+      "source": "Biedronka Home",
+      "deal_id": "biedronka-home:000000000000759107",
+      "title": "SAM COOK",
+      "link": "https://home.biedronka.pl/sam-cook-termorobot-wi-fi-sam-cook-psc-11%2fb1-1400-w-z-akcesoriami-000000000000759107.html",
+      "published": "Biedronka Home",
+      "summary": "Promocja ze sklepu Biedronka Home (chwilowo niedostępny online).",
+      "image_url": "https://home.biedronka.pl/dw/image/v2/BJJL_PRD/on/demandware.static/-/Sites-PL_Master_Catalog/default/dw9ddd29ea/images/hi-res/759107_99996.jpg?sw=270&sh=270&sm=fit",
+      "price": "",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Biedronka Home",
+      "category": "Dom i warsztat",
+      "store_group": "Budowlane i dom",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-SAM+COOK",
       "price_status": "",
       "price_verdict": "",
       "compared_offers": [],
@@ -7261,30 +7290,6 @@
     },
     {
       "source": "Biedronka Home",
-      "deal_id": "biedronka-home:000000000000708594",
-      "title": "VACTIDY",
-      "link": "https://home.biedronka.pl/vactidy-odkurzacz-pionowy-vactidy-v10-pro-bezprzewodowy-45-kpa-z-akcesoriami-000000000000708594.html",
-      "published": "Biedronka Home",
-      "summary": "Promocja ze sklepu Biedronka Home (chwilowo niedostępny online).",
-      "image_url": "https://home.biedronka.pl/dw/image/v2/BJJL_PRD/on/demandware.static/-/Sites-PL_Master_Catalog/default/dwec9b6509/images/hi-res/708594_992.jpg?sw=270&sh=270&sm=fit",
-      "price": "",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Biedronka Home",
-      "category": "Dom i warsztat",
-      "store_group": "Budowlane i dom",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-VACTIDY",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": []
-    },
-    {
-      "source": "Biedronka Home",
       "deal_id": "biedronka-home:000000000000708933",
       "title": "HOFFEN",
       "link": "https://home.biedronka.pl/hoffen-opiekacz-do-kanapek-3-w-1-hoffen-850-w-czarny-000000000000708933.html",
@@ -7302,30 +7307,6 @@
       "deal_score": 0.0,
       "is_leaflet": false,
       "ceneo_url": "https://www.ceneo.pl/;szukaj-HOFFEN",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": []
-    },
-    {
-      "source": "Biedronka Home",
-      "deal_id": "biedronka-home:000000000000764670",
-      "title": "SAM COOK",
-      "link": "https://home.biedronka.pl/sam-cook-ekspres-cisnieniowy-mpm-sam-cook-psc-170%2fb-15-barow-1650-w-czarny-000000000000764670.html",
-      "published": "Biedronka Home",
-      "summary": "Promocja ze sklepu Biedronka Home (chwilowo niedostępny online).",
-      "image_url": "https://home.biedronka.pl/dw/image/v2/BJJL_PRD/on/demandware.static/-/Sites-PL_Master_Catalog/default/dw34e0eb85/images/hi-res/764670_995.jpg?sw=270&sh=270&sm=fit",
-      "price": "",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Biedronka Home",
-      "category": "Dom i warsztat",
-      "store_group": "Budowlane i dom",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-SAM+COOK",
       "price_status": "",
       "price_verdict": "",
       "compared_offers": [],
@@ -7357,12 +7338,12 @@
     },
     {
       "source": "Biedronka Home",
-      "deal_id": "biedronka-home:000000000000600433",
-      "title": "DREAME",
-      "link": "https://home.biedronka.pl/dreame-odkurzacz-pioracy-dreame-n10-12-kpa-450-w-000000000000600433.html",
+      "deal_id": "biedronka-home:000000000000764670",
+      "title": "SAM COOK",
+      "link": "https://home.biedronka.pl/sam-cook-ekspres-cisnieniowy-mpm-sam-cook-psc-170%2fb-15-barow-1650-w-czarny-000000000000764670.html",
       "published": "Biedronka Home",
       "summary": "Promocja ze sklepu Biedronka Home (chwilowo niedostępny online).",
-      "image_url": "https://home.biedronka.pl/dw/image/v2/BJJL_PRD/on/demandware.static/-/Sites-PL_Master_Catalog/default/dw6605dc30/images/hi-res/600433_994.jpg?sw=270&sh=270&sm=fit",
+      "image_url": "https://home.biedronka.pl/dw/image/v2/BJJL_PRD/on/demandware.static/-/Sites-PL_Master_Catalog/default/dw34e0eb85/images/hi-res/764670_995.jpg?sw=270&sh=270&sm=fit",
       "price": "",
       "old_price": "",
       "lowest_30d": "",
@@ -7373,7 +7354,7 @@
       "savings_pln": 0.0,
       "deal_score": 0.0,
       "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-DREAME",
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-SAM+COOK",
       "price_status": "",
       "price_verdict": "",
       "compared_offers": [],
@@ -7381,12 +7362,12 @@
     },
     {
       "source": "Biedronka Home",
-      "deal_id": "biedronka-home:000000000000681717",
+      "deal_id": "biedronka-home:000000000000600433",
       "title": "DREAME",
-      "link": "https://home.biedronka.pl/dreame-odkurzacz-pionowy-dreame-v11-essential-bezprzewodowy-20-kpa-z-akcesoriami-000000000000681717.html",
+      "link": "https://home.biedronka.pl/dreame-odkurzacz-pioracy-dreame-n10-12-kpa-450-w-000000000000600433.html",
       "published": "Biedronka Home",
       "summary": "Promocja ze sklepu Biedronka Home (chwilowo niedostępny online).",
-      "image_url": "https://home.biedronka.pl/dw/image/v2/BJJL_PRD/on/demandware.static/-/Sites-PL_Master_Catalog/default/dwd2c97308/images/hi-res/681717_9994.jpg?sw=270&sh=270&sm=fit",
+      "image_url": "https://home.biedronka.pl/dw/image/v2/BJJL_PRD/on/demandware.static/-/Sites-PL_Master_Catalog/default/dw6605dc30/images/hi-res/600433_994.jpg?sw=270&sh=270&sm=fit",
       "price": "",
       "old_price": "",
       "lowest_30d": "",
@@ -7422,6 +7403,30 @@
       "deal_score": 0.0,
       "is_leaflet": false,
       "ceneo_url": "https://www.ceneo.pl/;szukaj-CANAL+TOYS",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": []
+    },
+    {
+      "source": "Biedronka Home",
+      "deal_id": "biedronka-home:000000000000681717",
+      "title": "DREAME",
+      "link": "https://home.biedronka.pl/dreame-odkurzacz-pionowy-dreame-v11-essential-bezprzewodowy-20-kpa-z-akcesoriami-000000000000681717.html",
+      "published": "Biedronka Home",
+      "summary": "Promocja ze sklepu Biedronka Home (chwilowo niedostępny online).",
+      "image_url": "https://home.biedronka.pl/dw/image/v2/BJJL_PRD/on/demandware.static/-/Sites-PL_Master_Catalog/default/dwd2c97308/images/hi-res/681717_9994.jpg?sw=270&sh=270&sm=fit",
+      "price": "",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Biedronka Home",
+      "category": "Dom i warsztat",
+      "store_group": "Budowlane i dom",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-DREAME",
       "price_status": "",
       "price_verdict": "",
       "compared_offers": [],
@@ -7477,12 +7482,12 @@
     },
     {
       "source": "Biedronka Home",
-      "deal_id": "biedronka-home:000000000000782453",
+      "deal_id": "biedronka-home:000000000000723989",
       "title": "HOFFEN",
-      "link": "https://home.biedronka.pl/hoffen-odkurzacz-pionowy-hoffen-bezprzewodowy-160-w-czarny-000000000000782453.html",
+      "link": "https://home.biedronka.pl/hoffen-opiekacz-do-orzeszkow-hoffen-1400-w-czarny-000000000000723989.html",
       "published": "Biedronka Home",
       "summary": "Promocja ze sklepu Biedronka Home (chwilowo niedostępny online).",
-      "image_url": "https://home.biedronka.pl/dw/image/v2/BJJL_PRD/on/demandware.static/-/Sites-PL_Master_Catalog/default/dw3cf49b86/images/hi-res/782453_91.jpg?sw=270&sh=270&sm=fit",
+      "image_url": "https://home.biedronka.pl/dw/image/v2/BJJL_PRD/on/demandware.static/-/Sites-PL_Master_Catalog/default/dwa7555cf8/images/hi-res/723989_7.jpg?sw=270&sh=270&sm=fit",
       "price": "",
       "old_price": "",
       "lowest_30d": "",
@@ -7501,12 +7506,12 @@
     },
     {
       "source": "Biedronka Home",
-      "deal_id": "biedronka-home:000000000000673311",
-      "title": "TRACER",
-      "link": "https://home.biedronka.pl/tracer-tablet-do-auta-carplay-android-auto-tracer-1026%e2%80%9d-2-kamery-przod-tyl-000000000000673311.html",
+      "deal_id": "biedronka-home:000000000000973141",
+      "title": "CHODZIEŻ",
+      "link": "https://home.biedronka.pl/chodziez-zestaw-obiadowy-z-porcelany-na-6-osob-chodziez-maria-teresa-18-elementow-bialy-000000000000973141.html",
       "published": "Biedronka Home",
       "summary": "Promocja ze sklepu Biedronka Home (chwilowo niedostępny online).",
-      "image_url": "https://home.biedronka.pl/dw/image/v2/BJJL_PRD/on/demandware.static/-/Sites-PL_Master_Catalog/default/dwad037d60/images/hi-res/673311_91.jpg?sw=270&sh=270&sm=fit",
+      "image_url": "https://home.biedronka.pl/dw/image/v2/BJJL_PRD/on/demandware.static/-/Sites-PL_Master_Catalog/default/dw4c177888/images/hi-res/973141_92.jpg?sw=270&sh=270&sm=fit",
       "price": "",
       "old_price": "",
       "lowest_30d": "",
@@ -7517,7 +7522,31 @@
       "savings_pln": 0.0,
       "deal_score": 0.0,
       "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-TRACER",
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-CHODZIE%C5%BB",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": []
+    },
+    {
+      "source": "Biedronka Home",
+      "deal_id": "biedronka-home:000000000000672744",
+      "title": "TEFAL",
+      "link": "https://home.biedronka.pl/tefal-odkurzacz-bezworkowy-tefal-compact-power-xxl-przewodowy-900-w-czarny-000000000000672744.html",
+      "published": "Biedronka Home",
+      "summary": "Promocja ze sklepu Biedronka Home (chwilowo niedostępny online).",
+      "image_url": "https://home.biedronka.pl/dw/image/v2/BJJL_PRD/on/demandware.static/-/Sites-PL_Master_Catalog/default/dweb17f81c/images/hi-res/672744_7.jpg?sw=270&sh=270&sm=fit",
+      "price": "",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Biedronka Home",
+      "category": "Dom i warsztat",
+      "store_group": "Budowlane i dom",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-TEFAL",
       "price_status": "",
       "price_verdict": "",
       "compared_offers": [],
@@ -7548,30 +7577,6 @@
       "price_history": []
     },
     {
-      "source": "Biedronka Home",
-      "deal_id": "biedronka-home:000000000000715527",
-      "title": "DREAME",
-      "link": "https://home.biedronka.pl/dreame-odkurzacz-pionowy-mopujacy-dreame-h14-ae-18-kpa-000000000000715527.html",
-      "published": "Biedronka Home",
-      "summary": "Promocja ze sklepu Biedronka Home (chwilowo niedostępny online).",
-      "image_url": "https://home.biedronka.pl/dw/image/v2/BJJL_PRD/on/demandware.static/-/Sites-PL_Master_Catalog/default/dwa08d2e4d/images/hi-res/715527_9991.jpg?sw=270&sh=270&sm=fit",
-      "price": "",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Biedronka Home",
-      "category": "Dom i warsztat",
-      "store_group": "Budowlane i dom",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-DREAME",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": []
-    },
-    {
       "source": "Rossmann.pl",
       "deal_id": "rossmann:2119345",
       "title": "French Avenue woda perfumowana unisex",
@@ -7594,16 +7599,6 @@
       "price_verdict": "",
       "compared_offers": [],
       "price_history": [
-        {
-          "date": "2026-11-27 11:44",
-          "price": "179,99 zł",
-          "note": "Rossmann.pl"
-        },
-        {
-          "date": "2026-11-27 12:54",
-          "price": "159,99 zł",
-          "note": "Rossmann.pl"
-        },
         {
           "date": "2026-11-27 12:54",
           "price": "179,99 zł",
@@ -7693,6 +7688,16 @@
           "date": "2026-11-28 01:47",
           "price": "159,99 zł",
           "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-28 01:47",
+          "price": "179,99 zł",
+          "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-28 02:43",
+          "price": "159,99 zł",
+          "note": "Rossmann.pl"
         }
       ]
     },
@@ -7749,11 +7754,6 @@
       "price_verdict": "",
       "compared_offers": [],
       "price_history": [
-        {
-          "date": "2026-11-27 14:12",
-          "price": "129,99 zł",
-          "note": "Rossmann.pl"
-        },
         {
           "date": "2026-11-27 14:12",
           "price": "149,99 zł",
@@ -7841,6 +7841,16 @@
         },
         {
           "date": "2026-11-28 01:47",
+          "price": "129,99 zł",
+          "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-28 01:47",
+          "price": "149,99 zł",
+          "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-28 02:43",
           "price": "129,99 zł",
           "note": "Rossmann.pl"
         }
@@ -7943,6 +7953,16 @@
           "date": "2026-11-28 01:47",
           "price": "149,99 zł",
           "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-28 01:47",
+          "price": "99,99 zł",
+          "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-28 02:43",
+          "price": "149,99 zł",
+          "note": "Rossmann.pl"
         }
       ]
     },
@@ -8018,6 +8038,16 @@
           "date": "2026-11-28 01:47",
           "price": "99,99 zł",
           "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-28 02:43",
+          "price": "149,99 zł",
+          "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-28 02:43",
+          "price": "99,99 zł",
+          "note": "Rossmann.pl"
         }
       ]
     },
@@ -8044,16 +8074,6 @@
       "price_verdict": "",
       "compared_offers": [],
       "price_history": [
-        {
-          "date": "2026-11-27 14:12",
-          "price": "129,99 zł",
-          "note": "Rossmann.pl"
-        },
-        {
-          "date": "2026-11-27 14:12",
-          "price": "149,99 zł",
-          "note": "Rossmann.pl"
-        },
         {
           "date": "2026-11-27 15:24",
           "price": "129,99 zł",
@@ -8143,6 +8163,16 @@
           "date": "2026-11-28 01:47",
           "price": "149,99 zł",
           "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-28 02:43",
+          "price": "129,99 zł",
+          "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-28 02:43",
+          "price": "149,99 zł",
+          "note": "Rossmann.pl"
         }
       ]
     },
@@ -8169,16 +8199,6 @@
       "price_verdict": "",
       "compared_offers": [],
       "price_history": [
-        {
-          "date": "2026-11-27 12:54",
-          "price": "159,99 zł",
-          "note": "Rossmann.pl"
-        },
-        {
-          "date": "2026-11-27 12:54",
-          "price": "179,99 zł",
-          "note": "Rossmann.pl"
-        },
         {
           "date": "2026-11-27 14:12",
           "price": "159,99 zł",
@@ -8266,6 +8286,16 @@
         },
         {
           "date": "2026-11-28 01:47",
+          "price": "179,99 zł",
+          "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-28 02:43",
+          "price": "159,99 zł",
+          "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-28 02:43",
           "price": "179,99 zł",
           "note": "Rossmann.pl"
         }
