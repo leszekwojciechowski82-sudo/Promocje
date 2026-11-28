@@ -1,36 +1,6 @@
 {
-  "updated_at": "2026-11-28 06:52",
+  "updated_at": "2026-11-28 08:06",
   "deals": [
-    {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/kaufland11-gratis-toffifee-praliny-w-karmelu-white-lub-z-kremem-kokosowym-125-g-499-za-opakowanie-przy-zakupie-dwoch-1403637",
-      "title": "Kaufland 1+1 GRATIS Toffifee Praliny, w karmelu, White lub z kremem kokosowym, 125 g (4,99 za opakowanie przy zakupie dwoch)",
-      "link": "https://www.pepper.pl/promocje/kaufland11-gratis-toffifee-praliny-w-karmelu-white-lub-z-kremem-kokosowym-125-g-499-za-opakowanie-przy-zakupie-dwoch-1403637",
-      "published": "Sat, 28 Nov 2026 07:18:04 +0100",
-      "summary": "4,99zł - Kaufland Kupon do odbioru w zakładce codzienny prezent",
-      "image_url": "https://static.pepper.pl/threads/raw/vKMg1/1403637_1/re/150x150/qt/55/1403637_1.jpg",
-      "price": "4,99zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Kaufland",
-      "category": "Artykuły spożywcze",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 100,
-      "savings_pln": 0.0,
-      "deal_score": 215.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Kaufland+1%2B1+GRATIS+Toffifee+Praliny",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-28 06:52",
-          "price": "4,99zł",
-          "note": "Kaufland"
-        }
-      ]
-    },
     {
       "source": "Aldi.pl (Oferty)",
       "deal_id": "aldi:https://www.aldi.pl/produkt-szczegoly/chude-mieso-mielone-z-szynki-wieprzowej-77560001.html",
@@ -123,31 +93,31 @@
     },
     {
       "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/telewizor-sony-bravia-3-k-50s3-50-4k-led-google-tv-1403648",
-      "title": "Telewizor Sony BRAVIA 3 K-50S3 50\" 4K LED Google TV",
-      "link": "https://www.pepper.pl/promocje/telewizor-sony-bravia-3-k-50s3-50-4k-led-google-tv-1403648",
-      "published": "Sat, 28 Nov 2026 07:48:16 +0100",
-      "summary": "540zł - RTV Euro AGD Factory Annopol – sklep outletowy Annopol 2, 03-236 Warszawa TV dla niewymagających. Aby uzyskać cenę należy skorzystać z opcji “3 raty gratis”. Dane techniczne Otwórz warstwę Ekran: 50 \", 4K UHD / 3840 x 2160 Smart TV…",
-      "image_url": "https://static.pepper.pl/threads/raw/pJtyz/1403648_1/re/150x150/qt/55/1403648_1.jpg",
-      "price": "540zł",
+      "deal_id": "https://www.pepper.pl/promocje/krakus-filet-z-kurczaka-50g-bialka-1403682",
+      "title": "Krakus filet z kurczaka 50g białka",
+      "link": "https://www.pepper.pl/promocje/krakus-filet-z-kurczaka-50g-bialka-1403682",
+      "published": "Sat, 28 Nov 2026 08:47:43 +0100",
+      "summary": "5,99zł Konserwy W Biedronce 2 +1 gratis cena 5.99 przy zakupie 3sztuk.",
+      "image_url": "https://static.pepper.pl/threads/raw/HysHp/1403682_1/re/150x150/qt/55/1403682_1.jpg",
+      "price": "5,99zł",
       "old_price": "",
       "lowest_30d": "",
-      "merchant": "RTV Euro AGD",
-      "category": "Elektronika",
+      "merchant": "",
+      "category": "Artykuły spożywcze",
       "store_group": "Elektronika i okazje",
       "discount_pct": 100,
       "savings_pln": 0.0,
       "deal_score": 200.0,
       "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Telewizor+Sony+BRAVIA+K-50S3+50",
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Krakus+filet+kurczaka+50g+bia%C5%82ka",
       "price_status": "",
       "price_verdict": "",
       "compared_offers": [],
       "price_history": [
         {
-          "date": "2026-11-28 06:52",
-          "price": "540zł",
-          "note": "RTV Euro AGD"
+          "date": "2026-11-28 08:06",
+          "price": "5,99zł",
+          "note": "Pepper.pl"
         }
       ]
     },
@@ -178,86 +148,6 @@
           "date": "2026-11-27 19:26",
           "price": "3,29 zł",
           "note": "Aldi.pl"
-        }
-      ]
-    },
-    {
-      "source": "Lidl.pl (Promocje)",
-      "deal_id": "lidl:100411932",
-      "title": "LIVARNO® Szafka nocna z drzwiami żaluzjowymi (jasny dąb)",
-      "link": "https://www.lidl.pl/p/livarno-szafka-nocna-z-drzwiami-zaluzjowymi/p100411932002",
-      "published": "Aktualna oferta Lidl.pl",
-      "summary": "Megaokazja • Promocja bezpośrednio ze sklepu Lidl.pl.",
-      "image_url": "https://www.lidl.pl/assets/gcpc3e8028b5ae54a3ea41f588916a7cd0d.png",
-      "price": "89 zł",
-      "old_price": "299 zł",
-      "lowest_30d": "299 zł",
-      "merchant": "Lidl.pl",
-      "category": "Kategorie/Dom & Urządzanie/Meble/Stoliki nocne",
-      "store_group": "Spożywcze i markety",
-      "discount_pct": 70,
-      "savings_pln": 210.0,
-      "deal_score": 150.5,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-LIVARNO+Szafka+nocna+drzwiami+%C5%BCaluzjowymi",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "przed promocją",
-          "price": "299 zł",
-          "note": "przed promocją"
-        },
-        {
-          "date": "30 dni przed obniżką",
-          "price": "299 zł",
-          "note": "Najniższa z 30 dni (Omnibus)"
-        },
-        {
-          "date": "2026-11-27 12:54",
-          "price": "89 zł",
-          "note": "Lidl.pl"
-        }
-      ]
-    },
-    {
-      "source": "Lidl.pl (Promocje)",
-      "deal_id": "lidl:100408205",
-      "title": "PARKSIDE® Wciągarka linowa ręczna / Przeciągarka linowa ręczna",
-      "link": "https://www.lidl.pl/p/parkside-wciagarka-linowa-reczna-przeciagarka-linowa-reczna/p100408205",
-      "published": "Aktualna oferta Lidl.pl",
-      "summary": "Megaokazja • Promocja bezpośrednio ze sklepu Lidl.pl.",
-      "image_url": "https://www.lidl.pl/assets/gcp86f207d7690847c9814a3a126bf7a5f6.jpg",
-      "price": "27,49 zł",
-      "old_price": "91,90 zł",
-      "lowest_30d": "91,90 zł",
-      "merchant": "Lidl.pl",
-      "category": "Kategorie/Warsztat/Warsztat/Wyposażenie warsztatu/Transport ciężki",
-      "store_group": "Spożywcze i markety",
-      "discount_pct": 70,
-      "savings_pln": 64.41,
-      "deal_score": 143.22,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-PARKSIDE+Wci%C4%85garka+linowa+r%C4%99czna+Przeci%C4%85garka",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "przed promocją",
-          "price": "91,90 zł",
-          "note": "przed promocją"
-        },
-        {
-          "date": "30 dni przed obniżką",
-          "price": "91,90 zł",
-          "note": "Najniższa z 30 dni (Omnibus)"
-        },
-        {
-          "date": "2026-11-24 09:38",
-          "price": "27,49 zł",
-          "note": "Lidl.pl"
         }
       ]
     },
@@ -542,6 +432,36 @@
       ]
     },
     {
+      "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/aldi-bio-jaja-ekologiczne-10-sztuk-przy-zakupie-2-1403679",
+      "title": "Aldi Bio Jaja Ekologiczne 10 sztuk przy zakupie 2",
+      "link": "https://www.pepper.pl/promocje/aldi-bio-jaja-ekologiczne-10-sztuk-przy-zakupie-2-1403679",
+      "published": "Sat, 28 Nov 2026 08:41:17 +0100",
+      "summary": "7,70zł W Aldi kumulacja 2 promek na jajka Bio Ekologiczne 10szt róż. M Przy zakupie pojedynczej wkładki przecena z 15.99 na 11.00, dodatkowa promocja -60% na co druga wkładkę , dzięki czemu otrzymujemy 7.7 za wkładkę przy zakupie 2.",
+      "image_url": "https://static.pepper.pl/threads/raw/bG6YA/1403679_1/re/150x150/qt/55/1403679_1.jpg",
+      "price": "7,70zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "",
+      "category": "Artykuły spożywcze",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 60,
+      "savings_pln": 0.0,
+      "deal_score": 120.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Aldi+Bio+Jaja+Ekologiczne+10",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-28 08:06",
+          "price": "7,70zł",
+          "note": "Pepper.pl"
+        }
+      ]
+    },
+    {
       "source": "Aldi.pl (Oferty)",
       "deal_id": "aldi:https://www.aldi.pl/produkt-szczegoly/kielbasa-mysliwska-z-szynki-42430003.html",
       "title": "Aldi: Kiełbasa myśliwska z szynki",
@@ -578,6 +498,46 @@
           "date": "2026-11-27 11:44",
           "price": "5,49 zł",
           "note": "Aldi.pl"
+        }
+      ]
+    },
+    {
+      "source": "Lidl.pl (Promocje)",
+      "deal_id": "lidl:100408122",
+      "title": "LIVARNO® Nakładka na materac, 140 x 200 cm",
+      "link": "https://www.lidl.pl/p/livarno-nakladka-na-materac-140-x-200-cm/p100408122",
+      "published": "Aktualna oferta Lidl.pl",
+      "summary": "Megaokazja • Promocja bezpośrednio ze sklepu Lidl.pl.",
+      "image_url": "https://www.lidl.pl/assets/gcpdd5abe88f0bd4b4f85243aa65390327d.jpg",
+      "price": "79 zł",
+      "old_price": "169 zł",
+      "lowest_30d": "169 zł",
+      "merchant": "Lidl.pl",
+      "category": "Kategorie/Dom & Urządzanie/Łóżka i materace/Ochrona materaca i łóżka/Narzuty na łóżko",
+      "store_group": "Spożywcze i markety",
+      "discount_pct": 53,
+      "savings_pln": 90.0,
+      "deal_score": 110.5,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-LIVARNO+Nak%C5%82adka+na+materac+140",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "przed promocją",
+          "price": "169 zł",
+          "note": "przed promocją"
+        },
+        {
+          "date": "30 dni przed obniżką",
+          "price": "169 zł",
+          "note": "Najniższa z 30 dni (Omnibus)"
+        },
+        {
+          "date": "2026-11-25 03:26",
+          "price": "79 zł",
+          "note": "Lidl.pl"
         }
       ]
     },
@@ -938,46 +898,6 @@
           "date": "2026-11-27 12:54",
           "price": "5,99 zł",
           "note": "Aldi.pl"
-        }
-      ]
-    },
-    {
-      "source": "Rossmann.pl",
-      "deal_id": "rossmann:2140236",
-      "title": "Neboa kalendarz adwentowy z kosmetykami i akcesoriami, 24 elementy",
-      "link": "https://www.rossmann.pl/Produkt/Kalendarze-adwentowe/Neboa-x-Kimoco-kalendarz-adwentowy-z-kosmetykami-i-akcesoriami-24-elementy-1-szt,2140236,20086",
-      "published": "Aktualna promocja Rossmann.pl",
-      "summary": "Promocja w drogerii Rossmann.pl • Najniższa z 30 dni: 229,99 zł.",
-      "image_url": "https://pro-fra-s3-productsassets.rossmann.pl/product_6_medium/2140236_360_350_1792999759.webp",
-      "price": "169,99 zł",
-      "old_price": "299,99 zł",
-      "lowest_30d": "229,99 zł",
-      "merchant": "Rossmann.pl",
-      "category": "Kolekcje limitowane-Święta-Kalendarze adwentowe",
-      "store_group": "Odzież i uroda",
-      "discount_pct": 43,
-      "savings_pln": 130.0,
-      "deal_score": 92.5,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Neboa+kalendarz+adwentowy+kosmetykami+akcesoriami",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "przed promocją",
-          "price": "299,99 zł",
-          "note": "przed promocją"
-        },
-        {
-          "date": "30 dni przed obniżką",
-          "price": "229,99 zł",
-          "note": "Najniższa z 30 dni (Omnibus)"
-        },
-        {
-          "date": "2026-11-27 00:51",
-          "price": "169,99 zł",
-          "note": "Rossmann.pl"
         }
       ]
     },
@@ -1572,41 +1492,6 @@
       ]
     },
     {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/sluchawki-bezprzewodowe-marshall-major-v-bluetooth-do-100-h-40-mm-usb-c-qi-kolor-niebieski-1403625",
-      "title": "Słuchawki bezprzewodowe Marshall Major V (Bluetooth, do 100 h, 40 mm, USB-C, Qi) kolor Niebieski",
-      "link": "https://www.pepper.pl/promocje/sluchawki-bezprzewodowe-marshall-major-v-bluetooth-do-100-h-40-mm-usb-c-qi-kolor-niebieski-1403625",
-      "published": "Sat, 28 Nov 2026 06:15:40 +0100",
-      "summary": "229zł - RTV Euro AGD Najniższa cena na Ceneo: 349 zł Model: Marshall Major V Kolor: niebieski Typ: słuchawki nauszne, składane Łączność: Bluetooth 5.3 i jack 3,5 mm Kodeki Bluetooth: SBC, AAC, LC3 Czas pracy: do 100 godzin Szybkie ładowani…",
-      "image_url": "https://static.pepper.pl/threads/raw/q0KaK/1403625_1/re/150x150/qt/55/1403625_1.jpg",
-      "price": "229zł",
-      "old_price": "349 zł",
-      "lowest_30d": "",
-      "merchant": "RTV Euro AGD",
-      "category": "Elektronika",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 34,
-      "savings_pln": 120.0,
-      "deal_score": 74.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-S%C5%82uchawki+bezprzewodowe+Marshall+Major+kolor",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "przed promocją",
-          "price": "349 zł",
-          "note": "przed promocją"
-        },
-        {
-          "date": "2026-11-24 23:39",
-          "price": "229zł",
-          "note": "MediaMarkt"
-        }
-      ]
-    },
-    {
       "source": "Lidl.pl (Promocje)",
       "deal_id": "lidl:100405852",
       "title": "SILVERCREST® Wolnowar",
@@ -1999,11 +1884,11 @@
     {
       "source": "Lidl.pl (Promocje)",
       "deal_id": "lidl:100400437",
-      "title": "LIVARNO® Ultradźwiękowy dyfuzor aromatu »LADH 12«",
-      "link": "https://www.lidl.pl/p/livarno-ultradzwiekowy-dyfuzor-aromatu-ladh-12/p100400437",
+      "title": "LIVARNO® Ultradźwiękowy dyfuzor aromatu »LADH 12« (przezroczysta pokrywa)",
+      "link": "https://www.lidl.pl/p/livarno-ultradzwiekowy-dyfuzor-aromatu-ladh-12/p100400437002",
       "published": "Aktualna oferta Lidl.pl",
       "summary": "Megaokazja • Promocja bezpośrednio ze sklepu Lidl.pl.",
-      "image_url": "https://www.lidl.pl/assets/gcp36599293d2bc4f7297f08439114ec750.jpg",
+      "image_url": "https://www.lidl.pl/assets/gcpc20abc35a83c42d385440ed43b582190.jpg",
       "price": "40,99 zł",
       "old_price": "58,90 zł",
       "lowest_30d": "58,90 zł",
@@ -2557,6 +2442,46 @@
       ]
     },
     {
+      "source": "Rossmann.pl",
+      "deal_id": "rossmann:2138472",
+      "title": "Fluff zestaw kosmetyków dla kobiet, balsam do ciała 150ml + żel pod prysznic 200ml + krem do rąk 50ml + foremka do pierniczków 1szt, Winter Tea",
+      "link": "https://www.rossmann.pl/Produkt/Zestawy-kosmetykow/Fluff-Ms-Claus-Bakery-zestaw-kosmetykow-dla-kobiet-balsam-do-ciala-150ml-zel-pod-prysznic-200ml-,2138472,20442",
+      "published": "Aktualna promocja Rossmann.pl",
+      "summary": "Promocja w drogerii Rossmann.pl • Najniższa z 30 dni: 69,99 zł.",
+      "image_url": "https://pro-fra-s3-productsassets.rossmann.pl/product_7_medium/2138472_360_350_1784878094.webp",
+      "price": "54,99 zł",
+      "old_price": "69,99 zł",
+      "lowest_30d": "69,99 zł",
+      "merchant": "Rossmann.pl",
+      "category": "Pielęgnacja i higiena-Ciało-Zestawy kosmetyków",
+      "store_group": "Odzież i uroda",
+      "discount_pct": 21,
+      "savings_pln": 15.0,
+      "deal_score": 42.75,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Fluff+zestaw+kosmetyk%C3%B3w+dla+kobiet",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "przed promocją",
+          "price": "69,99 zł",
+          "note": "przed promocją"
+        },
+        {
+          "date": "30 dni przed obniżką",
+          "price": "69,99 zł",
+          "note": "Najniższa z 30 dni (Omnibus)"
+        },
+        {
+          "date": "2026-11-27 15:24",
+          "price": "54,99 zł",
+          "note": "Rossmann.pl"
+        }
+      ]
+    },
+    {
       "source": "Dino (Promocje)",
       "deal_id": "dino:bombonierka xmas toffifee 250g bn26",
       "title": "Dino: Bombonierka Xmas Toffifee 250g BN26",
@@ -3063,6 +2988,46 @@
           "date": "2026-11-27 15:24",
           "price": "159 zł",
           "note": "OBI.pl"
+        }
+      ]
+    },
+    {
+      "source": "Lidl.pl (Promocje)",
+      "deal_id": "lidl:100412007",
+      "title": "LUPILU® Kolejka drewniana plac budowy / Kolejka drewniana park rozrywki",
+      "link": "https://www.lidl.pl/p/lupilu-kolejka-drewniana-plac-budowy-kolejka-drewniana-park-rozrywki/p100412007",
+      "published": "Aktualna oferta Lidl.pl",
+      "summary": "Megaokazja • Promocja bezpośrednio ze sklepu Lidl.pl.",
+      "image_url": "https://www.lidl.pl/assets/gcpc64831e6b17b4a91bc75d35b07b6201f.jpg",
+      "price": "119 zł",
+      "old_price": "139 zł",
+      "lowest_30d": "139 zł",
+      "merchant": "Lidl.pl",
+      "category": "Kategorie/Dziecko/Zabawki/Zestawy do sklejania & modelowania",
+      "store_group": "Spożywcze i markety",
+      "discount_pct": 14,
+      "savings_pln": 20.0,
+      "deal_score": 29.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-LUPILU+Kolejka+drewniana+plac+budowy",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "przed promocją",
+          "price": "139 zł",
+          "note": "przed promocją"
+        },
+        {
+          "date": "30 dni przed obniżką",
+          "price": "139 zł",
+          "note": "Najniższa z 30 dni (Omnibus)"
+        },
+        {
+          "date": "2026-11-25 23:39",
+          "price": "119 zł",
+          "note": "Lidl.pl"
         }
       ]
     },
@@ -3930,16 +3895,6 @@
       "compared_offers": [],
       "price_history": [
         {
-          "date": "2026-11-27 20:23",
-          "price": "50 zł",
-          "note": "Pepco.pl"
-        },
-        {
-          "date": "2026-11-27 21:23",
-          "price": "20 zł",
-          "note": "Pepco.pl"
-        },
-        {
           "date": "2026-11-27 21:23",
           "price": "50 zł",
           "note": "Pepco.pl"
@@ -4026,6 +3981,16 @@
         },
         {
           "date": "2026-11-28 06:52",
+          "price": "20 zł",
+          "note": "Pepco.pl"
+        },
+        {
+          "date": "2026-11-28 06:52",
+          "price": "50 zł",
+          "note": "Pepco.pl"
+        },
+        {
+          "date": "2026-11-28 08:06",
           "price": "20 zł",
           "note": "Pepco.pl"
         }
@@ -4055,16 +4020,6 @@
       "compared_offers": [],
       "price_history": [
         {
-          "date": "2026-11-27 20:23",
-          "price": "50 zł",
-          "note": "Pepco.pl"
-        },
-        {
-          "date": "2026-11-27 21:23",
-          "price": "20 zł",
-          "note": "Pepco.pl"
-        },
-        {
           "date": "2026-11-27 21:23",
           "price": "50 zł",
           "note": "Pepco.pl"
@@ -4151,6 +4106,16 @@
         },
         {
           "date": "2026-11-28 06:52",
+          "price": "20 zł",
+          "note": "Pepco.pl"
+        },
+        {
+          "date": "2026-11-28 06:52",
+          "price": "50 zł",
+          "note": "Pepco.pl"
+        },
+        {
+          "date": "2026-11-28 08:06",
           "price": "20 zł",
           "note": "Pepco.pl"
         }
@@ -4210,16 +4175,6 @@
       "compared_offers": [],
       "price_history": [
         {
-          "date": "2026-11-27 21:23",
-          "price": "20 zł",
-          "note": "Pepco.pl"
-        },
-        {
-          "date": "2026-11-27 21:23",
-          "price": "50 zł",
-          "note": "Pepco.pl"
-        },
-        {
           "date": "2026-11-27 22:24",
           "price": "20 zł",
           "note": "Pepco.pl"
@@ -4306,6 +4261,16 @@
         },
         {
           "date": "2026-11-28 06:52",
+          "price": "50 zł",
+          "note": "Pepco.pl"
+        },
+        {
+          "date": "2026-11-28 08:06",
+          "price": "20 zł",
+          "note": "Pepco.pl"
+        },
+        {
+          "date": "2026-11-28 08:06",
           "price": "50 zł",
           "note": "Pepco.pl"
         }
@@ -4373,43 +4338,13 @@
     },
     {
       "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/figi-bikini-damskie-danish-endurance-invisible-mikrofibra-6-szt-rozne-kolory-i-rozmiary-1403649",
-      "title": "Figi bikini damskie DANISH ENDURANCE Invisible, mikrofibra, 6 szt. – różne kolory i rozmiary",
-      "link": "https://www.pepper.pl/promocje/figi-bikini-damskie-danish-endurance-invisible-mikrofibra-6-szt-rozne-kolory-i-rozmiary-1403649",
-      "published": "Sat, 28 Nov 2026 07:49:51 +0100",
-      "summary": "59,49zł - Amazon.pl DANISH ENDURANCE – damskie figi bikini invisible, mikrofibra, zestaw 6 szt. Marka: DANISH ENDURANCE (projekt z Kopenhagi) Zestaw: 6 par fig bikini = ok. 9,92 zł za sztukę Materiał: 88% poliester z recyklingu, 12% elasta…",
-      "image_url": "https://static.pepper.pl/threads/raw/f9LNF/1403649_1/re/150x150/qt/55/1403649_1.jpg",
-      "price": "59,49zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Amazon.pl",
-      "category": "Moda",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Figi+bikini+damskie+DANISH+ENDURANCE",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-28 06:52",
-          "price": "59,49zł",
-          "note": "Amazon.pl"
-        }
-      ]
-    },
-    {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/zestaw-nozy-samura-harakiri-8-elementow-stal-aus-8-58-59-hrc-5-nozy-listwa-magnetyczna-nozyczki-musak-noz-noze-1403607",
-      "title": "Zestaw noży Samura Harakiri 8 elementów | stal AUS-8 | 58-59 HRC | 5 noży + listwa magnetyczna + nożyczki + musak | nóż, noże",
-      "link": "https://www.pepper.pl/promocje/zestaw-nozy-samura-harakiri-8-elementow-stal-aus-8-58-59-hrc-5-nozy-listwa-magnetyczna-nozyczki-musak-noz-noze-1403607",
-      "published": "Sat, 28 Nov 2026 07:48:23 +0100",
-      "summary": "303,06zł - Allegro Przy okazji Black Week mamy powrót z ceną kultowego zestawu Harakiri do poziomu sprzed ok. 1,5 roku, może dłużej, gdy były w standardowej cenie ok. 300 zł. Stal AUS‑8 w Samurze Harakiri to dokładnie ten poziom stali, któ…",
-      "image_url": "https://static.pepper.pl/threads/raw/ybVh3/1403607_1/re/150x150/qt/55/1403607_1.jpg",
-      "price": "303,06zł",
+      "deal_id": "https://www.pepper.pl/promocje/oekurzacz-dyson-v15s-submarine-szczotka-fluffy-1403700",
+      "title": "Oekurzacz DYSON V15s Submarine szczotka fluffy",
+      "link": "https://www.pepper.pl/promocje/oekurzacz-dyson-v15s-submarine-szczotka-fluffy-1403700",
+      "published": "Sat, 28 Nov 2026 09:04:56 +0100",
+      "summary": "2 449zł - Allegro Sprzedaje oficjalny sklep allegro. Na moment wrzutki ponad 70szt dostępnych.",
+      "image_url": "https://static.pepper.pl/threads/raw/IHDp3/1403700_1/re/150x150/qt/55/1403700_1.jpg",
+      "price": "2 449zł",
       "old_price": "",
       "lowest_30d": "",
       "merchant": "Allegro",
@@ -4419,686 +4354,326 @@
       "savings_pln": 0.0,
       "deal_score": 0.0,
       "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Zestaw+no%C5%BCy+Samura+Harakiri+element%C3%B3w",
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Oekurzacz+DYSON+V15s+Submarine+szczotka",
       "price_status": "",
       "price_verdict": "",
       "compared_offers": [],
       "price_history": [
         {
-          "date": "2026-11-28 06:52",
-          "price": "303,06zł",
+          "date": "2026-11-28 08:06",
+          "price": "2 449zł",
           "note": "Allegro"
         }
       ]
     },
     {
       "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/blackdecker-nozyce-do-galezi-381cm-1403647",
-      "title": "BLACK+DECKER Nożyce do gałęzi – 38,1cm",
-      "link": "https://www.pepper.pl/promocje/blackdecker-nozyce-do-galezi-381cm-1403647",
-      "published": "Sat, 28 Nov 2026 07:48:11 +0100",
-      "summary": "32,31zł - Amazon.pl Na Allegro od 36,98 zł. https://allegro.pl/produkt/sekator-nozycowy-black-decker-czarno-pomaranczowa-0bb3d614-9536-4624-989f-d28da008e03d W tej samej cenie na niemieckim amazonie https://www.amazon.de/dp/B0C3381YTK Dzię…",
-      "image_url": "https://static.pepper.pl/threads/raw/kGexc/1403647_1/re/150x150/qt/55/1403647_1.jpg",
-      "price": "32,31zł",
+      "deal_id": "https://www.pepper.pl/promocje/szafa-4-drzwiowa-z-lustrem-1403699",
+      "title": "Szafa 4-drzwiowa z lustrem",
+      "link": "https://www.pepper.pl/promocje/szafa-4-drzwiowa-z-lustrem-1403699",
+      "published": "Sat, 28 Nov 2026 09:03:07 +0100",
+      "summary": "999zł - Agata Meble Brakuje Ci miejsca na ubrania? Szafa SNUGLY pomieści najczęściej używane kurtki, torby i ciepłe bluzy. Zorganizujesz w niej także miejsce na pudełka z butami, które zazwyczaj trudno jest przechować. Lustro pozwoli oceni…",
+      "image_url": "https://static.pepper.pl/threads/raw/YdauX/1403699_1/re/150x150/qt/55/1403699_1.jpg",
+      "price": "999zł",
       "old_price": "",
       "lowest_30d": "",
-      "merchant": "Amazon.pl",
-      "category": "Ogród i majsterkowanie",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-BLACK%2BDECKER+No%C5%BCyce+do+ga%C5%82%C4%99zi+38",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-28 06:52",
-          "price": "32,31zł",
-          "note": "Amazon.pl"
-        }
-      ]
-    },
-    {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/kilka-kolorow-buty-damskie-reebok-classic-az-1403646",
-      "title": "KILKA KOLORÓW: Buty damskie Reebok Classic AZ",
-      "link": "https://www.pepper.pl/promocje/kilka-kolorow-buty-damskie-reebok-classic-az-1403646",
-      "published": "Sat, 28 Nov 2026 07:44:04 +0100",
-      "summary": "132zł - Sportano Buty Reebok Classic AZ to damskie sneakersy inspirowane obuwiem biegowym z lat 70. Cholewka z naturalnego zamszu i materiału tekstylnego oraz podeszwa środkowa z pianki EVA zapewniają komfort noszenia. Przeznaczone do codz…",
-      "image_url": "https://static.pepper.pl/threads/raw/0XqeD/1403646_1/re/150x150/qt/55/1403646_1.jpg",
-      "price": "132zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Sportano",
-      "category": "Moda",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-KILKA+KOLOR%C3%93W+Buty+damskie+Reebok",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-28 06:52",
-          "price": "132zł",
-          "note": "Sportano"
-        }
-      ]
-    },
-    {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/grojec-media-expert-odkurzacz-samsung-bespoke-1403642",
-      "title": "Grójec Media Expert Odkurzacz Samsung Jet95",
-      "link": "https://www.pepper.pl/promocje/grojec-media-expert-odkurzacz-samsung-bespoke-1403642",
-      "published": "Sat, 28 Nov 2026 07:40:16 +0100",
-      "summary": "1 250zł - Media Expert Czyszczenie ekspozycji, rabat 1250zl",
-      "image_url": "https://static.pepper.pl/threads/raw/pEzS4/1403642_1/re/150x150/qt/55/1403642_1.jpg",
-      "price": "1 250zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Media Expert",
+      "merchant": "Agata Meble",
       "category": "Dom i mieszkanie",
       "store_group": "Elektronika i okazje",
       "discount_pct": 0,
       "savings_pln": 0.0,
       "deal_score": 0.0,
       "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Gr%C3%B3jec+Odkurzacz+Samsung+Jet95",
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Szafa+4-drzwiowa+lustrem",
       "price_status": "",
       "price_verdict": "",
       "compared_offers": [],
       "price_history": [
         {
-          "date": "2026-11-28 06:52",
-          "price": "1 250zł",
-          "note": "Media Expert"
+          "date": "2026-11-28 08:06",
+          "price": "999zł",
+          "note": "Agata Meble"
         }
       ]
     },
     {
       "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/zestaw-180-nakretek-samokontrujacych-m3m4-m5-m6-m8-1403645",
-      "title": "Zestaw 180 nakrętek samokontrujacych - M3,M4, M5, M6, M8",
-      "link": "https://www.pepper.pl/promocje/zestaw-180-nakretek-samokontrujacych-m3m4-m5-m6-m8-1403645",
-      "published": "Sat, 28 Nov 2026 07:38:42 +0100",
-      "summary": "9,99zł - Amazon.pl Nakrętki samomontrujace ze stali nierdzewnej 304 Zestaw zawiera m18 15sztuk m6 25 sztuk m5 40sztuk m3 50sztuk m4 50 sztuk",
-      "image_url": "https://static.pepper.pl/threads/raw/iO0Xz/1403645_1/re/150x150/qt/55/1403645_1.jpg",
-      "price": "9,99zł",
+      "deal_id": "https://www.pepper.pl/promocje/biedronka-promocja-na-zabawki-zwrot-na-voucher-50-1403698",
+      "title": "Biedronka. Promocja na zabawki. Zwrot na voucher 50%",
+      "link": "https://www.pepper.pl/promocje/biedronka-promocja-na-zabawki-zwrot-na-voucher-50-1403698",
+      "published": "Sat, 28 Nov 2026 09:02:25 +0100",
+      "summary": "Przy zakupie min. 3 zabawek otrzymujemy 50 % zwrotu na voucher o wartości 3 najtańszych. LEGO ROWIEZ WCHODZĄ. Przykładowo robiąc zakupy za 390 dostajemy voucher o wartości 195 PLN. Vouchery do wykorzystania 4-5 stycznia.",
+      "image_url": "https://static.pepper.pl/threads/raw/wq8cn/1403698_1/re/150x150/qt/55/1403698_1.jpg",
+      "price": "195 PLN",
       "old_price": "",
       "lowest_30d": "",
-      "merchant": "Amazon.pl",
-      "category": "Ogród i majsterkowanie",
+      "merchant": "",
+      "category": "Rodzina i dzieci",
       "store_group": "Elektronika i okazje",
       "discount_pct": 0,
       "savings_pln": 0.0,
       "deal_score": 0.0,
       "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Zestaw+180+nakr%C4%99tek+samokontrujacych+M3",
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-na+zabawki+Zwrot+na+voucher",
       "price_status": "",
       "price_verdict": "",
       "compared_offers": [],
       "price_history": [
         {
-          "date": "2026-11-28 06:52",
-          "price": "9,99zł",
-          "note": "Amazon.pl"
+          "date": "2026-11-28 08:06",
+          "price": "195 PLN",
+          "note": "Pepper.pl"
         }
       ]
     },
     {
       "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/blumtal-charles-butelka-termiczna-350-ml-1403644",
-      "title": "Blumtal Charles Butelka termiczna 350 ml",
-      "link": "https://www.pepper.pl/promocje/blumtal-charles-butelka-termiczna-350-ml-1403644",
-      "published": "Sat, 28 Nov 2026 07:37:56 +0100",
-      "summary": "29,74zł - Amazon.pl Butelka ze stali nierdzewnej, bez BPA, zimna i ciepła, termos metalowy, butelka na wodę, butelka ze stali nierdzewnej, termos 350 ml, kolor szary. Idealna na kawę, herbatę, ciepłe napoje. Blumtal Charles Butelka termicz…",
-      "image_url": "https://static.pepper.pl/threads/raw/jl6s2/1403644_1/re/150x150/qt/55/1403644_1.jpg",
-      "price": "29,74zł",
+      "deal_id": "https://www.pepper.pl/kupony/kupon-rabatowy-50zl-przy-zamowieniu-za-1000-empik-premium-1403697",
+      "title": "kupon rabatowy 50zł przy zamówieniu za 1000 (empik premium)",
+      "link": "https://www.pepper.pl/kupony/kupon-rabatowy-50zl-przy-zamowieniu-za-1000-empik-premium-1403697",
+      "published": "Sat, 28 Nov 2026 09:02:04 +0100",
+      "summary": "Empik empik wysyła kupon rabatowy na maila lub jako powiadomienie w aplikacji 50zł za zamówienie na 1000zł w kategoriach gaming i elektronika niby niewiele ale jeśli ktoś ma kartę zen to tam jest dodatkowe 6% cashbacku za zamówienie w empi…",
+      "image_url": "https://static.pepper.pl/merchants/raw/avatar/5_3/re/352x352/qt/60/5_3.jpg",
+      "price": "50zł",
       "old_price": "",
       "lowest_30d": "",
-      "merchant": "Amazon.pl",
-      "category": "Sport i turystyka",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Blumtal+Charles+Butelka+termiczna+350",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-28 06:52",
-          "price": "29,74zł",
-          "note": "Amazon.pl"
-        }
-      ]
-    },
-    {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/soundbar-komputerowy-creative-stage-pro-21-i-allegro-ta-sama-cena-1403643",
-      "title": "Soundbar komputerowy CREATIVE Stage Pro 2.1 I Allegro ta sama cena",
-      "link": "https://www.pepper.pl/promocje/soundbar-komputerowy-creative-stage-pro-21-i-allegro-ta-sama-cena-1403643",
-      "published": "Sat, 28 Nov 2026 07:37:47 +0100",
-      "summary": "399zł - RTV Euro AGD allegro.pl/oferta/soundbar-komputerowy-creative-stage-pro-2-1-czarny-pilot-19152455405 CREATIVE Stage Pro to soundbar z subwooferem 2.1, który przenosi Twoje domowe audio na inny poziom. Dzięki technologii SuperWide i…",
-      "image_url": "https://static.pepper.pl/threads/raw/qJPjD/1403643_1/re/150x150/qt/55/1403643_1.jpg",
-      "price": "399zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "RTV Euro AGD",
-      "category": "Elektronika",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Soundbar+komputerowy+CREATIVE+Stage+Pro",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-28 06:52",
-          "price": "399zł",
-          "note": "RTV Euro AGD"
-        }
-      ]
-    },
-    {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/bruzdownica-succebuy-max-4800w-1403641",
-      "title": "Bruzdownica SucceBuy Max 4800W",
-      "link": "https://www.pepper.pl/promocje/bruzdownica-succebuy-max-4800w-1403641",
-      "published": "Sat, 28 Nov 2026 07:27:53 +0100",
-      "summary": "308,59zł - AliExpress Uwaga! Cena waha się jak nastrój pewnego polityka na drugim końcu świata, gdyby cena wróciła do blisko 500 proszę wrócić za jakiś czas i sprawdzić ofertę ponownie, gdyby kod był nieaktualny to na stronie z produktem z…",
-      "image_url": "https://static.pepper.pl/threads/raw/DUZ6R/1403641_1/re/150x150/qt/55/1403641_1.jpg",
-      "price": "308,59zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "AliExpress",
-      "category": "Ogród i majsterkowanie",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Bruzdownica+SucceBuy+Max+4800W",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-28 06:52",
-          "price": "308,59zł",
-          "note": "AliExpress"
-        }
-      ]
-    },
-    {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/hulajnoga-elektryczna-w3cpro-800-w-36-v-15-ah-wysylka-z-polski-1403640",
-      "title": "Hulajnoga elektryczna W3CPro 800 W, 36 V 15 Ah [Wysyłka z Polski]",
-      "link": "https://www.pepper.pl/promocje/hulajnoga-elektryczna-w3cpro-800-w-36-v-15-ah-wysylka-z-polski-1403640",
-      "published": "Sat, 28 Nov 2026 07:27:49 +0100",
-      "summary": "646,39zł - AliExpress Wysyłka z polskiego magazynu, darmowa. Składana hulajnoga elektryczna dla dorosłych z 10-calowymi pompowanymi oponami, aplikacją mobilną oraz hamulcem tarczowym. ✅ Moc silnika: 800 W ✅ Akumulator: 36 V / 15 Ah ✅ Maksy…",
-      "image_url": "https://static.pepper.pl/threads/raw/7dhVj/1403640_1/re/150x150/qt/55/1403640_1.jpg",
-      "price": "646,39zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "AliExpress",
-      "category": "Sport i turystyka",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Hulajnoga+elektryczna+W3CPro+800+36",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-28 06:52",
-          "price": "646,39zł",
-          "note": "AliExpress"
-        }
-      ]
-    },
-    {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/buty-mtb-enduro-trail-shimano-sh-me702-rozm-44-ichni-1403639",
-      "title": "Buty MTB / Enduro / Trail | SHIMANO SH-ME702 rozm 44 (ichni)",
-      "link": "https://www.pepper.pl/promocje/buty-mtb-enduro-trail-shimano-sh-me702-rozm-44-ichni-1403639",
-      "published": "Sat, 28 Nov 2026 07:19:47 +0100",
-      "summary": "185,64zł - Amazon.pl Promocja dotyczy rozmiaru Shimano 44, czyli w przeliczeniu na nasz rozmiar, polski 42/43 Można jeździć na gravelu. Artykuł bierze udział w promocji \"Kup za min.250zł, 50zł na przyszłe zakupy\" To obuwie opracowano z myś…",
-      "image_url": "https://static.pepper.pl/threads/raw/vliBM/1403639_1/re/150x150/qt/55/1403639_1.jpg",
-      "price": "185,64zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Amazon.pl",
-      "category": "Sport i turystyka",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Buty+MTB+Enduro+Trail+SHIMANO",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-28 06:52",
-          "price": "185,64zł",
-          "note": "Amazon.pl"
-        }
-      ]
-    },
-    {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/kurtka-meska-di-biegania-mizuno-unii-osaka-windbreaker-r-xs-xl-1403638",
-      "title": "Kurtka Męska Di Biegania Mizuno Unii Osaka Windbreaker r XS-XL",
-      "link": "https://www.pepper.pl/promocje/kurtka-meska-di-biegania-mizuno-unii-osaka-windbreaker-r-xs-xl-1403638",
-      "published": "Sat, 28 Nov 2026 07:18:44 +0100",
-      "summary": "102,30zł - Sportano • Konstrukcja wiatroszczelna • Elementy odblaskowe • Materiał: poliester • Oddychający materiał • Zamek na całej długości • Elastyczne mankiety • Regulacja w pasie • Długie rękawy • Kieszenie zapinane na zamek • Krój Re…",
-      "image_url": "https://static.pepper.pl/threads/raw/KFj0Y/1403638_1/re/150x150/qt/55/1403638_1.jpg",
-      "price": "102,30zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Sportano",
-      "category": "Sport i turystyka",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Kurtka+M%C4%99ska+Di+Biegania+Mizuno",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-28 06:52",
-          "price": "102,30zł",
-          "note": "Sportano"
-        }
-      ]
-    },
-    {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/zestaw-walizek-wings-merlin-zestaw-organizerow-wings-za-1-zl-zelazko-philips-frytkownica-za-1-zl-blender-fitness-za-1zl-kawa-1403636",
-      "title": "Zestaw walizek Wings Merlin + zestaw organizerów Wings za 1 zł + żelazko Philips + frytkownica za 1 zł + blender fitness za 1zł + kawa",
-      "link": "https://www.pepper.pl/promocje/zestaw-walizek-wings-merlin-zestaw-organizerow-wings-za-1-zl-zelazko-philips-frytkownica-za-1-zl-blender-fitness-za-1zl-kawa-1403636",
-      "published": "Sat, 28 Nov 2026 07:12:37 +0100",
-      "summary": "354,78zł - Biedronka Home Zestaw promocyjny w domowej Biedronce. Za wszystko do zapłaty z góry 361,99. Darmowa dostawa. Koszyk można sobie modyfikować wedle uznania: Frytkownica: home.biedronka.pl/hoffen-air-fryer-frytkownica-beztluszczowa…",
-      "image_url": "https://static.pepper.pl/threads/raw/JSzNj/1403636_1/re/150x150/qt/55/1403636_1.jpg",
-      "price": "354,78zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Biedronka Home",
-      "category": "Dom i mieszkanie",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Zestaw+walizek+Wings+Merlin+zestaw",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-28 06:52",
-          "price": "354,78zł",
-          "note": "Biedronka Home"
-        }
-      ]
-    },
-    {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/le-mans-ultimate-elms-season-pass-1403635",
-      "title": "Le Mans Ultimate - ELMS Season Pass",
-      "link": "https://www.pepper.pl/promocje/le-mans-ultimate-elms-season-pass-1403635",
-      "published": "Sat, 28 Nov 2026 07:12:13 +0100",
-      "summary": "45zł - Yuplay Le Mans Ultimate - ELMS Season Pass to pakiet łączący trzy dodatki DLC z serii European Le Mans Series, zawierający trzy samochody klasy LMP3 oraz trzy tory wyścigowe w niższej cenie niż przy zakupie każdego z nich osobno. Za…",
-      "image_url": "https://static.pepper.pl/threads/raw/7EVDI/1403635_1/re/150x150/qt/55/1403635_1.jpg",
-      "price": "45zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Yuplay",
+      "merchant": "Empik",
       "category": "Gaming",
       "store_group": "Elektronika i okazje",
       "discount_pct": 0,
       "savings_pln": 0.0,
       "deal_score": 0.0,
       "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Le+Mans+Ultimate+ELMS+Season",
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-kupon+przy+zam%C3%B3wieniu+1000",
       "price_status": "",
       "price_verdict": "",
       "compared_offers": [],
       "price_history": [
         {
-          "date": "2026-11-28 06:52",
-          "price": "45zł",
-          "note": "Yuplay"
-        }
-      ]
-    },
-    {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/obiektyw-sony-fe-gm-24-70mm-f28-dobierz-filtr-za-1zl-1403634",
-      "title": "Obiektyw Sony FE GM 24-70mm f/2,8 generacja I + Dobierz filtr za 1zł (możliwe 2527zł)",
-      "link": "https://www.pepper.pl/promocje/obiektyw-sony-fe-gm-24-70mm-f28-dobierz-filtr-za-1zl-1403634",
-      "published": "Sat, 28 Nov 2026 07:08:39 +0100",
-      "summary": "4 977zł - Foto-Plus • Standardowy obiektyw zmiennoogniskowy • Do bezlusterkowych aparatów Sony z matrycą APS-C lub pełnoklatkową • Zakres ogniskowych: 24–70 mm • Maksymalny otwór przysłony: f/2,8 • Średnica filtra: 82 mm • Wymiary: 87,6 ×…",
-      "image_url": "https://static.pepper.pl/threads/raw/UdJmv/1403634_1/re/150x150/qt/55/1403634_1.jpg",
-      "price": "4 977zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Foto-Plus",
-      "category": "Elektronika",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Obiektyw+Sony+FE+GM+24-70mm",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-28 06:52",
-          "price": "4 977zł",
-          "note": "Foto-Plus"
-        }
-      ]
-    },
-    {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/medi-grade-zelowa-maska-na-twarz-i-oczy-zestaw-chlodzacych-masek-zielony-1403601",
-      "title": "Medi Grade Żelowa Maska na Twarz i Oczy Zestaw Chłodzących Masek, Zielony",
-      "link": "https://www.pepper.pl/promocje/medi-grade-zelowa-maska-na-twarz-i-oczy-zestaw-chlodzacych-masek-zielony-1403601",
-      "published": "Sat, 28 Nov 2026 07:07:15 +0100",
-      "summary": "47,98zł - Amazon.pl Obserwowałem długo, taniej nie będzie. Chłodząca maska na twarz i żelowa maska na oczy z torba termoizolacyjna, mask na całą twarz, Żelowa maska oczy, Żelowe Ożyw Swoje Oczy, Wyglądają Promienniej Niż Kiedykolwiek – Cie…",
-      "image_url": "https://static.pepper.pl/threads/raw/rD0yO/1403601_1/re/150x150/qt/55/1403601_1.jpg",
-      "price": "47,98zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Amazon.pl",
-      "category": "Zdrowie i uroda",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Medi+Grade+%C5%BBelowa+Maska+na",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-28 06:52",
-          "price": "47,98zł",
-          "note": "Amazon.pl"
-        }
-      ]
-    },
-    {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/karta-graficzna-gigabyte-geforce-rtx-5070-windforce-oc-sff-12gb-dlss-45-1403593",
-      "title": "Karta graficzna GIGABYTE GeForce RTX 5070 Windforce OC SFF 12GB DLSS 4.5",
-      "link": "https://www.pepper.pl/promocje/karta-graficzna-gigabyte-geforce-rtx-5070-windforce-oc-sff-12gb-dlss-45-1403593",
-      "published": "Sat, 28 Nov 2026 07:05:46 +0100",
-      "summary": "4 059zł - RTV Euro AGD Karta graficzna Gigabyte GeForce RTX 5070 GAMING OC 12GB GDDR7 192bit DLSS 4 Z kodem -500zł na RTV Euro AGD.",
-      "image_url": "https://static.pepper.pl/threads/raw/9KjG9/1403593_1/re/150x150/qt/55/1403593_1.jpg",
-      "price": "4 059zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "RTV Euro AGD",
-      "category": "Elektronika",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Karta+graficzna+GIGABYTE+GeForce+RTX",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-28 06:52",
-          "price": "4 059zł",
-          "note": "RTV Euro AGD"
-        }
-      ]
-    },
-    {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/kettlebell-odwaznik-zeliwny-24-kg-i-w-opisie-10kg-8302pln-oraz-6kg-4658pln-oraz-hantel-stalowy-hex-5-30kg-1403632",
-      "title": "Kettlebell odważnik żeliwny 24 kg I w opisie 10kg - 83,02PLN oraz 6kg - 46,58PLN oraz hantel stalowy HEX 5-30kg",
-      "link": "https://www.pepper.pl/promocje/kettlebell-odwaznik-zeliwny-24-kg-i-w-opisie-10kg-8302pln-oraz-6kg-4658pln-oraz-hantel-stalowy-hex-5-30kg-1403632",
-      "published": "Sat, 28 Nov 2026 07:04:37 +0100",
-      "summary": "182,24zł - 4fizjo Kettlebell odważnik żeliwny 24 kg [182,24PLN] Kettlebell odważnik żeliwny 10 kg [83,02PLN] Kettlebell odważnik żeliwny 6 kg [46,58PLN] Parametry Kolor: czarny Materiał: żeliwo Waga: 24 kg Średnica rękojeści: 4 cm W zestaw…",
-      "image_url": "https://static.pepper.pl/threads/raw/DFkk3/1403632_1/re/150x150/qt/55/1403632_1.jpg",
-      "price": "182,24zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "4fizjo",
-      "category": "Sport i turystyka",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Kettlebell+odwa%C5%BCnik+%C5%BCeliwny+24+kg",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-28 06:52",
-          "price": "182,24zł",
-          "note": "4fizjo"
-        }
-      ]
-    },
-    {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/do-3011-w-aplikacji-ceneo-rabaty-do-100-zl-kody-rabatowe-w-kasie-1403631",
-      "title": "D.U.B.E.L. Do 30.11 w aplikacji ceneo rabaty do 100 zł. Kupony rabatowe w kasie",
-      "link": "https://www.pepper.pl/promocje/do-3011-w-aplikacji-ceneo-rabaty-do-100-zl-kody-rabatowe-w-kasie-1403631",
-      "published": "Sat, 28 Nov 2026 07:02:25 +0100",
-      "summary": "Ceneo Jesli coś na oku, to można obniżyć cenę kuponami od -10 zł do -100 zł. Tylko w aplikacji ceneo na dowolny produkt zależnie od jego wartości. Np. sprzet za 450 zł można zrabatować -50 zł Niby nie dużo, a cieszy szczególnie przy najniż…",
-      "image_url": "https://static.pepper.pl/threads/raw/3kbsN/1403631_1/re/150x150/qt/55/1403631_1.jpg",
-      "price": "100 zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Ceneo",
-      "category": "Elektronika",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Do+30+11+aplikacji+do",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-28 06:52",
-          "price": "100 zł",
-          "note": "Ceneo"
-        }
-      ]
-    },
-    {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/zrecznosciowa-gra-spadajace-malpki-1403630",
-      "title": "Zręcznościowa Gra SPADAJĄCE MAŁPKI",
-      "link": "https://www.pepper.pl/promocje/zrecznosciowa-gra-spadajace-malpki-1403630",
-      "published": "Sat, 28 Nov 2026 07:02:08 +0100",
-      "summary": "18zł - Empik Z dostawą do automatów paczkowych lub punktów odbiorów za 7,99 zł.",
-      "image_url": "https://static.pepper.pl/threads/raw/y0VAG/1403630_1/re/150x150/qt/55/1403630_1.jpg",
-      "price": "18zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Empik",
-      "category": "Kultura i rozrywka",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Zr%C4%99czno%C5%9Bciowa+Gra+SPADAJ%C4%84CE+MA%C5%81PKI",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-28 06:52",
-          "price": "18zł",
+          "date": "2026-11-28 08:06",
+          "price": "50zł",
           "note": "Empik"
         }
       ]
     },
     {
       "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/garmin-edge-540-1403628",
-      "title": "Garmin Edge 540",
-      "link": "https://www.pepper.pl/promocje/garmin-edge-540-1403628",
-      "published": "Sat, 28 Nov 2026 06:33:55 +0100",
-      "summary": "965,99zł - AliExpress Popularny licznik rowerowy, który dla zwykłego kopacza korby, a nawet i paradoksalnie dla tego napalonego na każdy W/kg zdecydowanie wystarcza. Cene otrzymujemy po ustawieniu waluty na Euro € i wklepaniu kodu PLBF24.…",
-      "image_url": "https://static.pepper.pl/threads/raw/vuXmm/1403628_1/re/150x150/qt/55/1403628_1.jpg",
-      "price": "965,99zł",
+      "deal_id": "https://www.pepper.pl/promocje/klocki-cada-shell-stacja-serwisowa-2w1-warsztat-auto-1697-el-z-led-1403696",
+      "title": "KLOCKI CADA - SHELL STACJA SERWISOWA 2W1 WARSZTAT + AUTO 1697 EL Z LED",
+      "link": "https://www.pepper.pl/promocje/klocki-cada-shell-stacja-serwisowa-2w1-warsztat-auto-1697-el-z-led-1403696",
+      "published": "Sat, 28 Nov 2026 09:01:38 +0100",
+      "summary": "275,91zł - Allegro Charakterystyka: oficjalna licencja Shell, 1697 elementów, oświetlenie USB, nadrukowane elementy zamiast naklejek, strefa klienta z kawiarnią i sprzedażą olejów, warsztat samochodowy z wyposażeniem, manualny podnośnik sa…",
+      "image_url": "https://static.pepper.pl/threads/raw/2hYqe/1403696_1/re/150x150/qt/55/1403696_1.jpg",
+      "price": "275,91zł",
       "old_price": "",
       "lowest_30d": "",
-      "merchant": "AliExpress",
-      "category": "Sport i turystyka",
+      "merchant": "Allegro",
+      "category": "Rodzina i dzieci",
       "store_group": "Elektronika i okazje",
       "discount_pct": 0,
       "savings_pln": 0.0,
       "deal_score": 0.0,
       "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Garmin+Edge+540",
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-KLOCKI+CADA+SHELL+STACJA+SERWISOWA",
       "price_status": "",
       "price_verdict": "",
       "compared_offers": [],
       "price_history": [
         {
-          "date": "2026-11-28 05:48",
-          "price": "965,99zł",
-          "note": "AliExpress"
+          "date": "2026-11-28 08:06",
+          "price": "275,91zł",
+          "note": "Allegro"
         }
       ]
     },
     {
       "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/yanosik-yanbox-go-antyradar-i-asystent-kierowcy-bez-abonamentu-ostrzezenia-o-fotoradarach-i-zdarzeniach-1403626",
-      "title": "Yanosik Yanbox GO antyradar i asystent kierowcy bez abonamentu ostrzeżenia o fotoradarach i zdarzeniach",
-      "link": "https://www.pepper.pl/promocje/yanosik-yanbox-go-antyradar-i-asystent-kierowcy-bez-abonamentu-ostrzezenia-o-fotoradarach-i-zdarzeniach-1403626",
-      "published": "Sat, 28 Nov 2026 06:21:59 +0100",
-      "summary": "254zł - InPost Komunikator drogowy Yanbox GO najtaniej na Polskim rynku w aplikacji InPost z kodem VONHALSKY.",
-      "image_url": "https://static.pepper.pl/threads/raw/22Wo8/1403626_1/re/150x150/qt/55/1403626_1.jpg",
-      "price": "254zł",
+      "deal_id": "https://www.pepper.pl/promocje/philips-hue-white-ambiance-filament-e14-2-szt-1403695",
+      "title": "Philips Hue White Ambiance Filament E14 2 szt.",
+      "link": "https://www.pepper.pl/promocje/philips-hue-white-ambiance-filament-e14-2-szt-1403695",
+      "published": "Sat, 28 Nov 2026 09:01:29 +0100",
+      "summary": "109,99zł - RTV Euro AGD Inteligentne żarówki Philips Hue White Ambiance Filament E14 (2 szt.). Oferują regulację jasności i temperatury barwowej bieli, łącząc funkcjonalność smart home z klasycznym, dekoracyjnym wyglądem żarówek filamentow…",
+      "image_url": "https://static.pepper.pl/threads/raw/1hY1i/1403695_1/re/150x150/qt/55/1403695_1.jpg",
+      "price": "109,99zł",
       "old_price": "",
       "lowest_30d": "",
-      "merchant": "InPost",
-      "category": "Motoryzacja",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Yanosik+Yanbox+GO+antyradar+asystent",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-28 05:48",
-          "price": "254zł",
-          "note": "InPost"
-        }
-      ]
-    },
-    {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/graviteax-kalendarz-adwentowy-1403624",
-      "title": "Graviteax kalendarz adwentowy",
-      "link": "https://www.pepper.pl/promocje/graviteax-kalendarz-adwentowy-1403624",
-      "published": "Sat, 28 Nov 2026 06:14:37 +0100",
-      "summary": "87,78zł - Amazon.pl Gravitrax to system torów kulkowych, które można dowolnie łączyć i modyfikować tak, by ścieżka, po której poruszają się metalowe kulki, była jak najbardziej skomplikowana i ekscytująca Gravitrax Kalendarz Adwentowy, dos…",
-      "image_url": "https://static.pepper.pl/threads/raw/RzlAj/1403624_1/re/150x150/qt/55/1403624_1.jpg",
-      "price": "87,78zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Amazon.pl",
-      "category": "Gaming",
-      "store_group": "Elektronika i okazje",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Graviteax+kalendarz+adwentowy",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-28 05:48",
-          "price": "87,78zł",
-          "note": "Amazon.pl"
-        }
-      ]
-    },
-    {
-      "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/odkurzaczblenderair-fryeropiekacz-taniej-w-zestawie-1403623",
-      "title": "Odkurzacz/Blender/Air Fryer/Opiekacz - taniej w zestawie",
-      "link": "https://www.pepper.pl/promocje/odkurzaczblenderair-fryeropiekacz-taniej-w-zestawie-1403623",
-      "published": "Sat, 28 Nov 2026 06:10:03 +0100",
-      "summary": "370zł - Biedronka Home W zestawie kupujac: Odkurzacz pioracy Air Fryer Blender reczny 3w1 Blender Fitness Opiekacz do kanapek 3w1 Wpisujac kody: RABAT10 RABAT20 BH50 Zaplacimy 370zl.",
-      "image_url": "https://static.pepper.pl/threads/raw/UOo8V/1403623_1/re/150x150/qt/55/1403623_1.jpg",
-      "price": "370zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Biedronka Home",
+      "merchant": "RTV Euro AGD",
       "category": "Elektronika",
       "store_group": "Elektronika i okazje",
       "discount_pct": 0,
       "savings_pln": 0.0,
       "deal_score": 0.0,
       "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Odkurzacz+Blender+Air+Fryer+Opiekacz",
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Philips+Hue+White+Ambiance+Filament",
       "price_status": "",
       "price_verdict": "",
       "compared_offers": [],
       "price_history": [
         {
-          "date": "2026-11-28 05:48",
-          "price": "370zł",
-          "note": "Biedronka Home"
+          "date": "2026-11-28 08:06",
+          "price": "109,99zł",
+          "note": "RTV Euro AGD"
         }
       ]
     },
     {
       "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/przenosna-stacja-zasilania-anker-solix-c300x-dc-288wh-300w-lifepo4-90000ma-1403622",
-      "title": "Przenośna Stacja Zasilania Anker SOLIX C300X DC 288Wh 300W LiFePO4 90000mA",
-      "link": "https://www.pepper.pl/promocje/przenosna-stacja-zasilania-anker-solix-c300x-dc-288wh-300w-lifepo4-90000ma-1403622",
-      "published": "Sat, 28 Nov 2026 06:00:17 +0100",
-      "summary": "749zł - Allegro Błyskawiczne ładowanie Zapewnij sobie możliwość naładowania urządzenia gdziekolwiek się znajdujesz. Dwa porty USB-C o mocy 140 W umożliwiają pełne naładowanie w ciągu 90 minut. Używając paneli słonecznych lub gniazda samoch…",
-      "image_url": "https://static.pepper.pl/threads/raw/lV5qe/1403622_1/re/150x150/qt/55/1403622_1.jpg",
+      "deal_id": "https://www.pepper.pl/promocje/hazet-brzeszczot-1981-01-150-mm-1403694",
+      "title": "HAZET Brzeszczot 1981-01, 150 mm",
+      "link": "https://www.pepper.pl/promocje/hazet-brzeszczot-1981-01-150-mm-1403694",
+      "published": "Sat, 28 Nov 2026 09:00:58 +0100",
+      "summary": "5,51zł - Amazon.pl Następna cena z https://allegro.pl/produkt/pila-hazet-1981-01-9518f3ce-836a-4bbe-b6cf-a5099cfb2f91 PRAKTYCZNOŚĆ: Przeznaczone do profesjonalnego użytku w warsztacie i przemyśle TRWAŁOŚĆ: Wykonane z myślą o regularnym pro…",
+      "image_url": "https://static.pepper.pl/threads/raw/UrT50/1403694_1/re/150x150/qt/55/1403694_1.jpg",
+      "price": "5,51zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Amazon.pl",
+      "category": "Ogród i majsterkowanie",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-HAZET+Brzeszczot+1981-01+150+mm",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-28 08:06",
+          "price": "5,51zł",
+          "note": "Amazon.pl"
+        }
+      ]
+    },
+    {
+      "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/skullcandy-crusher-1080-1403693",
+      "title": "Skullcandy Crusher 1080",
+      "link": "https://www.pepper.pl/promocje/skullcandy-crusher-1080-1403693",
+      "published": "Sat, 28 Nov 2026 09:00:39 +0100",
+      "summary": "828,36zł - Amazon.pl Bezprzewodowe słuchawki nauszne Skullcandy Crusher 1080 ANC z technologiami audio od Bose",
+      "image_url": "https://static.pepper.pl/threads/raw/DmMJ3/1403693_1/re/150x150/qt/55/1403693_1.jpg",
+      "price": "828,36zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Amazon.pl",
+      "category": "Elektronika",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Skullcandy+Crusher+1080",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-28 08:06",
+          "price": "828,36zł",
+          "note": "Amazon.pl"
+        }
+      ]
+    },
+    {
+      "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/briju-t-mobile-magenta-moments-kod-na-swiateczny-voucher-200-zl-na-zakupy-w-salonach-briju-oraz-online-przy-zakupach-za-min-499-zl-1403692",
+      "title": "Briju - [T-Mobile Magenta Moments] Kod na świąteczny voucher 200 zł na zakupy w salonach Briju oraz online przy zakupach za min. 499 zł",
+      "link": "https://www.pepper.pl/promocje/briju-t-mobile-magenta-moments-kod-na-swiateczny-voucher-200-zl-na-zakupy-w-salonach-briju-oraz-online-przy-zakupach-za-min-499-zl-1403692",
+      "published": "Sat, 28 Nov 2026 09:00:35 +0100",
+      "summary": "299zł Oferta dostępna w dniach 27.11.2026 - 03.12.2026 r. Święta to idealny moment, by podarować bliskim coś wyjątkowego. Odkryj świąteczną niespodziankę od Briju i wybierz biżuterię, która będzie piękną pamiątką ważnych chwil. Niezależnie…",
+      "image_url": "https://static.pepper.pl/threads/raw/oRCLY/1403692_1/re/150x150/qt/55/1403692_1.jpg",
+      "price": "299zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "",
+      "category": "Moda",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Briju+Kod+na+%C5%9Bwi%C4%85teczny+voucher",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-28 08:06",
+          "price": "299zł",
+          "note": "Pepper.pl"
+        }
+      ]
+    },
+    {
+      "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/zelazko-parowe-3000w-brillo-uno-ceramiczne-mocne-anti-drip-1403691",
+      "title": "Żelazko Parowe 3000W | Brillo Uno | Ceramiczne MOCNE Anti-drip",
+      "link": "https://www.pepper.pl/promocje/zelazko-parowe-3000w-brillo-uno-ceramiczne-mocne-anti-drip-1403691",
+      "published": "Sat, 28 Nov 2026 09:00:10 +0100",
+      "summary": "68,90zł - Allegro Darmowa dostawa z SMART!!! Żelazko Parowe 3000W | Brillo Uno | Ceramiczne MOCNE Anti-drip 250g/min Zalety: REGULACJA PARY - DOPASUJ INTENSYWNOŚĆ DO TKANINY Praktyczne pokrętło regulacji pary pozwala łatwo dostosować jej i…",
+      "image_url": "https://static.pepper.pl/threads/raw/1BTld/1403691_1/re/150x150/qt/55/1403691_1.jpg",
+      "price": "68,90zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Allegro",
+      "category": "Dom i mieszkanie",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-%C5%BBelazko+Parowe+3000W+Brillo+Uno",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-28 08:06",
+          "price": "68,90zł",
+          "note": "Allegro"
+        }
+      ]
+    },
+    {
+      "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/klocki-lego-friends-42697-kreatywna-walizka-z-domkiem-dla-lalek-355-elementow-start-2911-o-900-1399942",
+      "title": "Klocki LEGO Friends 42697 Kreatywna walizka z domkiem dla lalek | 355 elementów [start 29.11 o 9:00]",
+      "link": "https://www.pepper.pl/promocje/klocki-lego-friends-42697-kreatywna-walizka-z-domkiem-dla-lalek-355-elementow-start-2911-o-900-1399942",
+      "published": "Sat, 28 Nov 2026 09:00:00 +0100",
+      "summary": "129,99zł - Allegro [start 29.11 o 9:00] LEGO Friends 42697 Kreatywna walizka z domkiem dla lalek za 129,99 zł W promoklocki od 138,98 zł Dostawa od 10,49 zł lub darmowa ze Smart!em :) Otwórz drzwi do świata wyobraźni dzięki zestawowi konst…",
+      "image_url": "https://static.pepper.pl/threads/raw/KCuEo/1399942_1/re/150x150/qt/55/1399942_1.jpg",
+      "price": "129,99zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Allegro",
+      "category": "Rodzina i dzieci",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Klocki+LEGO+Friends+42697+Kreatywna",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-28 08:06",
+          "price": "129,99zł",
+          "note": "Allegro"
+        }
+      ]
+    },
+    {
+      "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/frezarka-gornowrzecionowa-makita-rt0702cx2j-710-w-68-mm-10000-34000-obrmin-4-podstawy-at-allegro-1398781",
+      "title": "Frezarka górnowrzecionowa Makita RT0702CX2J (710 W, 6/8 mm, 10000-34000 obr./min, 4 podstawy) @ Allegro",
+      "link": "https://www.pepper.pl/promocje/frezarka-gornowrzecionowa-makita-rt0702cx2j-710-w-68-mm-10000-34000-obrmin-4-podstawy-at-allegro-1398781",
+      "published": "Sat, 28 Nov 2026 09:00:00 +0100",
+      "summary": "749zł - Allegro Uwaga, okazja rusza 29.11 o g. 9:00! Frezarka górnowrzecionowa Makita RT0702CX2J na Allegro za 749 zł z darmową dostawą z usługą smart!. To wielofunkcyjny zestaw z kilkoma przystawkami, więc sprawdzi się zarówno do frezowan…",
+      "image_url": "https://static.pepper.pl/threads/raw/7bHGW/1398781_1/re/150x150/qt/55/1398781_1.jpg",
       "price": "749zł",
       "old_price": "",
       "lowest_30d": "",
@@ -5109,13 +4684,13 @@
       "savings_pln": 0.0,
       "deal_score": 0.0,
       "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Przeno%C5%9Bna+Stacja+Zasilania+Anker+SOLIX",
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Frezarka+g%C3%B3rnowrzecionowa+Makita+RT0702CX2J+Allegro",
       "price_status": "",
       "price_verdict": "",
       "compared_offers": [],
       "price_history": [
         {
-          "date": "2026-11-28 05:48",
+          "date": "2026-11-28 08:06",
           "price": "749zł",
           "note": "Allegro"
         }
@@ -5123,61 +4698,481 @@
     },
     {
       "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/meindl-sion-gtx-buty-turystyczne-trekkingowe-sporo-rozmiarow-1403621",
-      "title": "Meindl Sion GTX. Buty turystyczne, trekkingowe. Sporo rozmiarów",
-      "link": "https://www.pepper.pl/promocje/meindl-sion-gtx-buty-turystyczne-trekkingowe-sporo-rozmiarow-1403621",
-      "published": "Sat, 28 Nov 2026 05:54:54 +0100",
-      "summary": "581,94zł Dla nie znających tematu, zdecydowana topka jeśli chodzi o buty górskie, trekkingowe czy turystyczne. Jeszcze sporo rozmiarów i atrakcyjne ceny, jak na tę markę. Model ten świetnie sprawdzi się podczas lekkiej turystyki, spacerów…",
-      "image_url": "https://static.pepper.pl/threads/raw/d0ciU/1403621_1/re/150x150/qt/55/1403621_1.jpg",
-      "price": "581,94zł",
+      "deal_id": "https://www.pepper.pl/promocje/thrustmaster-t16000m-fcs-do-pc-wysyla-amazon-1403690",
+      "title": "Thrustmaster T16000M FCS do PC / wysyła Amazon",
+      "link": "https://www.pepper.pl/promocje/thrustmaster-t16000m-fcs-do-pc-wysyla-amazon-1403690",
+      "published": "Sat, 28 Nov 2026 08:58:41 +0100",
+      "summary": "218,46zł - Amazon.pl Joystick T.16000M FCS (Flight Control System — system sterowania lotem) jest zgodny z komputerem PC w systemach Windows 10, 8, 7 i Vista (wersje 32-bitowe i 64-bitowe) za pośrednictwem portu USB.",
+      "image_url": "https://static.pepper.pl/threads/raw/CmGWP/1403690_1/re/150x150/qt/55/1403690_1.jpg",
+      "price": "218,46zł",
       "old_price": "",
       "lowest_30d": "",
-      "merchant": "",
-      "category": "Moda",
+      "merchant": "Amazon.pl",
+      "category": "Elektronika",
       "store_group": "Elektronika i okazje",
       "discount_pct": 0,
       "savings_pln": 0.0,
       "deal_score": 0.0,
       "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Meindl+Sion+GTX+Buty+turystyczne",
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Thrustmaster+T16000M+FCS+do+PC",
       "price_status": "",
       "price_verdict": "",
       "compared_offers": [],
       "price_history": [
         {
-          "date": "2026-11-28 05:48",
-          "price": "581,94zł",
-          "note": "Pepper.pl"
+          "date": "2026-11-28 08:06",
+          "price": "218,46zł",
+          "note": "Amazon.pl"
         }
       ]
     },
     {
       "source": "Pepper.pl",
-      "deal_id": "https://www.pepper.pl/promocje/torba-sportowa-20l-meteor-kilka-kolorow-40litrow-45zl-1403620",
-      "title": "Torba Sportowa 20L Meteor ( kilka kolorów), 40Litrów-45zł",
-      "link": "https://www.pepper.pl/promocje/torba-sportowa-20l-meteor-kilka-kolorow-40litrow-45zl-1403620",
-      "published": "Sat, 28 Nov 2026 04:41:03 +0100",
-      "summary": "32,99zł - Amazon.pl https://www.amazon.pl/Sportowa-Silowni%C4%99-Podr%C3%B3%C5%BCna-Turystyczna-Weekendowa/dp/B091F72WX1? -szara 40L 45zł https://www.amazon.pl/Sportowa-Silowni%C4%99-Podr%C3%B3%C5%BCna-Turystyczna-Weekendowa/dp/B07YWZYV5Z?…",
-      "image_url": "https://static.pepper.pl/threads/raw/nKYot/1403620_1/re/150x150/qt/55/1403620_1.jpg",
-      "price": "32,99zł",
+      "deal_id": "https://www.pepper.pl/promocje/reczne-urzadzenie-3-w-1-tooltop-et853c-oscyloskop-multimetr-i-generator-sygnalow-1403688",
+      "title": "Ręczne urządzenie 3 w 1 TOOLTOP ET853C: oscyloskop, multimetr i generator sygnałów $38.22",
+      "link": "https://www.pepper.pl/promocje/reczne-urzadzenie-3-w-1-tooltop-et853c-oscyloskop-multimetr-i-generator-sygnalow-1403688",
+      "published": "Sat, 28 Nov 2026 08:58:03 +0100",
+      "summary": "155,94zł - AliExpress TOOLTOP ET853C to wszechstronny, przenośny przyrząd pomiarowy 3 w 1, który łączy w sobie funkcje dwukanałowego oscyloskopu, multimetru cyfrowego i generatora sygnału w jednej kompaktowej obudowie. Oscyloskop oferuje p…",
+      "image_url": "https://static.pepper.pl/threads/raw/zZU1E/1403688_1/re/150x150/qt/55/1403688_1.jpg",
+      "price": "155,94zł",
       "old_price": "",
       "lowest_30d": "",
-      "merchant": "Amazon.pl",
+      "merchant": "AliExpress",
+      "category": "Ogród i majsterkowanie",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-R%C4%99czne+urz%C4%85dzenie+TOOLTOP+ET853C+oscyloskop",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-28 08:06",
+          "price": "155,94zł",
+          "note": "AliExpress"
+        }
+      ]
+    },
+    {
+      "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/karta-pamieci-sandisk-microsdxc-extreme-256gb-190130-mbs-a2-c10-v30-uhs-i-u3-1403650",
+      "title": "Karta pamięci SanDisk microSDXC Extreme 256GB 190/130 MB/s A2 C10 V30 UHS-I U3",
+      "link": "https://www.pepper.pl/promocje/karta-pamieci-sandisk-microsdxc-extreme-256gb-190130-mbs-a2-c10-v30-uhs-i-u3-1403650",
+      "published": "Sat, 28 Nov 2026 08:55:35 +0100",
+      "summary": "219zł - Komputronik Jest to chyba najniższa z cena z ostatnich podwyżek nośników pamięci. Poluje kilka miesięcy na te kartę. Limit na osobę: 1 sztuka. Trwała konstrukcja na wymagające warunki Nie musisz obawiać się o bezpieczeństwo zapisan…",
+      "image_url": "https://static.pepper.pl/threads/raw/bgGKN/1403650_1/re/150x150/qt/55/1403650_1.jpg",
+      "price": "219zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Komputronik",
+      "category": "Elektronika",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Karta+pami%C4%99ci+SanDisk+microSDXC+Extreme",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-28 08:06",
+          "price": "219zł",
+          "note": "Komputronik"
+        }
+      ]
+    },
+    {
+      "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/meska-kurtka-softshell-bench-10-000-mm-slupa-wody-1403687",
+      "title": "Męska kurtka softshell czarna Bench 10 000 mm słupa wody",
+      "link": "https://www.pepper.pl/promocje/meska-kurtka-softshell-bench-10-000-mm-slupa-wody-1403687",
+      "published": "Sat, 28 Nov 2026 08:54:46 +0100",
+      "summary": "69zł - SportRabat Rozmiar M-2XL Marka: Bench Materiał: 100% poliester sportowa kurtka męska z kapturem o nowoczesnym, ponadczasowym designie prosty czarny design z logo Bench na piersi zamek błyskawiczny na całej długości ułatwiający zakła…",
+      "image_url": "https://static.pepper.pl/threads/raw/Iq2JS/1403687_1/re/150x150/qt/55/1403687_1.jpg",
+      "price": "69zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "SportRabat",
       "category": "Sport i turystyka",
       "store_group": "Elektronika i okazje",
       "discount_pct": 0,
       "savings_pln": 0.0,
       "deal_score": 0.0,
       "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Torba+Sportowa+20L+Meteor+40Litr%C3%B3w-",
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-M%C4%99ska+kurtka+softshell+czarna+Bench",
       "price_status": "",
       "price_verdict": "",
       "compared_offers": [],
       "price_history": [
         {
-          "date": "2026-11-28 03:44",
-          "price": "32,99zł",
-          "note": "Amazon.pl"
+          "date": "2026-11-28 08:06",
+          "price": "69zł",
+          "note": "SportRabat"
+        }
+      ]
+    },
+    {
+      "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/gra-cyberpunk-2077-pc-gog-cyberpunk-2077-ultimate-edition-6533-zl-dodatek-phantom-liberty-3673-zl-1403685",
+      "title": "Gra - Cyberpunk 2077 PC GOG ( Cyberpunk 2077 ULTIMATE Edition - 65,33 zł / dodatek Phantom Liberty - 36,73 zl )",
+      "link": "https://www.pepper.pl/promocje/gra-cyberpunk-2077-pc-gog-cyberpunk-2077-ultimate-edition-6533-zl-dodatek-phantom-liberty-3673-zl-1403685",
+      "published": "Sat, 28 Nov 2026 08:54:45 +0100",
+      "summary": "36,73zł - GOG Dokładna instrukcja jeśli komuś nie działa tak jak powinno;) 1. Wchodzicie na stronę Seed 4 me z gdzie macie opcję sprobowania seed4.me/blog/try-free-vpn-for-the-whole-week/ 2. Klikacie Opcję One week free vpn 3. Na kolejnej…",
+      "image_url": "https://static.pepper.pl/threads/raw/YsMx3/1403685_1/re/150x150/qt/55/1403685_1.jpg",
+      "price": "36,73zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "GOG",
+      "category": "Gaming",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Gra+Cyberpunk+2077+PC+GOG",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-28 08:06",
+          "price": "36,73zł",
+          "note": "GOG"
+        }
+      ]
+    },
+    {
+      "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/the-legend-of-zelda-ocarina-of-time-w-me-1403686",
+      "title": "The Legend of Zelda Ocarina of Time w ME (OUTLET)",
+      "link": "https://www.pepper.pl/promocje/the-legend-of-zelda-ocarina-of-time-w-me-1403686",
+      "published": "Sat, 28 Nov 2026 08:54:40 +0100",
+      "summary": "185,99zł - Media Expert Dobra cena",
+      "image_url": "https://static.pepper.pl/threads/raw/GqeTP/1403686_1/re/150x150/qt/55/1403686_1.jpg",
+      "price": "185,99zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Media Expert",
+      "category": "Gaming",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-The+Legend+of+Zelda+Ocarina",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-28 08:06",
+          "price": "185,99zł",
+          "note": "Media Expert"
+        }
+      ]
+    },
+    {
+      "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/gra-super-mario-odyssey-na-konsole-nintendo-switch-1403683",
+      "title": "Gra Super Mario Odyssey na konsolę Nintendo Switch",
+      "link": "https://www.pepper.pl/promocje/gra-super-mario-odyssey-na-konsole-nintendo-switch-1403683",
+      "published": "Sat, 28 Nov 2026 08:51:18 +0100",
+      "summary": "156,99zł - InPost Prawdopodobnie jedna z lepszych cen na ten tytuł. W aplikacji InPost w sekcji zakupowej z naszym ulubionym pieskiem wpisujemy po prostu tytuł gry. Powinna pojawić się pozycja z grafiki głównej tej okazji w cenie 171,99 zł…",
+      "image_url": "https://static.pepper.pl/threads/raw/qJugX/1403683_1/re/150x150/qt/55/1403683_1.jpg",
+      "price": "156,99zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "InPost",
+      "category": "Gaming",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Gra+Super+Mario+Odyssey+na",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-28 08:06",
+          "price": "156,99zł",
+          "note": "InPost"
+        }
+      ]
+    },
+    {
+      "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/serek-wiejski-laciaty-400g-1403680",
+      "title": "Serek wiejski łaciaty 400g",
+      "link": "https://www.pepper.pl/promocje/serek-wiejski-laciaty-400g-1403680",
+      "published": "Sat, 28 Nov 2026 08:41:17 +0100",
+      "summary": "1,99zł - Biedronka Serek wiejski łaciaty 400g 1.99 Biedronka EAN 5900820025861",
+      "image_url": "https://static.pepper.pl/threads/raw/gJ2i2/1403680_1/re/150x150/qt/55/1403680_1.jpg",
+      "price": "1,99zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Biedronka",
+      "category": "Artykuły spożywcze",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Serek+wiejski+%C5%82aciaty+400g",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-28 08:06",
+          "price": "1,99zł",
+          "note": "Biedronka"
+        }
+      ]
+    },
+    {
+      "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/grill-elektryczny-tefal-optigrill-initial-gc706d34-6-programow-automatyczne-grillowanie-regulacja-temperatury-tefal-1403676",
+      "title": "GRILL ELEKTRYCZNY TEFAL OPTIGRILL INITIAL GC706D34 6 PROGRAMÓW AUTOMATYCZNE GRILLOWANIE REGULACJA TEMPERATURY TEFAL",
+      "link": "https://www.pepper.pl/promocje/grill-elektryczny-tefal-optigrill-initial-gc706d34-6-programow-automatyczne-grillowanie-regulacja-temperatury-tefal-1403676",
+      "published": "Sat, 28 Nov 2026 08:40:18 +0100",
+      "summary": "317,99zł - InPost W okazji dodałem kupon rabatowy \"BLACKWEEK\" na -12zł ale jesli ktos jescze nie wykorzystal to moze tez uzyc VONHALSKY na -15zł oferta ma odznaczenie cenowy sztos, nie wiadomo jak dlugo bedzie trwac promocja ✨ Dlaczego war…",
+      "image_url": "https://static.pepper.pl/threads/raw/4s6sh/1403676_1/re/150x150/qt/55/1403676_1.jpg",
+      "price": "317,99zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "InPost",
+      "category": "Dom i mieszkanie",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-GRILL+ELEKTRYCZNY+TEFAL+OPTIGRILL+INITIAL",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-28 08:06",
+          "price": "317,99zł",
+          "note": "InPost"
+        }
+      ]
+    },
+    {
+      "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/bianchi-sprint-icr-shimano-105-di2-2026-1403678",
+      "title": "BIANCHI SPRINT ICR SHIMANO 105 Di2 2026 - White i Celeste",
+      "link": "https://www.pepper.pl/promocje/bianchi-sprint-icr-shimano-105-di2-2026-1403678",
+      "published": "Sat, 28 Nov 2026 08:38:29 +0100",
+      "summary": "8 799zł - Szybkierowery.pl Kultowy Bianchi Sprint na bateryjkach tym razem od polskiego sprzedawcy - dostępne prawie wszystkie rozmiary w kolorach białym i Metalic Celeste. Opis ze strony sprzedawcy: BIANCHI SPRINT 105 DI2 2×12 – WŁOSKI ST…",
+      "image_url": "https://static.pepper.pl/threads/raw/0cO5o/1403678_1/re/150x150/qt/55/1403678_1.jpg",
+      "price": "8 799zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Szybkierowery.pl",
+      "category": "Sport i turystyka",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-BIANCHI+SPRINT+ICR+SHIMANO+105",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-28 08:06",
+          "price": "8 799zł",
+          "note": "Szybkierowery.pl"
+        }
+      ]
+    },
+    {
+      "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/lego-vaiana-barka-kakamorow-43258-mozliwe-22789-zl-z-gnc-allegro-1403677",
+      "title": "LEGO Disney Vaiana 2 Barka Kakamorów, 43258 | możliwe 227,89 zł z GNC Allegro",
+      "link": "https://www.pepper.pl/promocje/lego-vaiana-barka-kakamorow-43258-mozliwe-22789-zl-z-gnc-allegro-1403677",
+      "published": "Sat, 28 Nov 2026 08:38:05 +0100",
+      "summary": "251,99zł - LEGO Na allegro z GNC za 297.89 (odliczając kupon 227.89) allegro.pl/oferta/lego-disney-vaiana-2-barka-kakamorow-43258-18610705805 + monety z wyzwań Zestaw na podstawie filmu Odważna Vaiana 2 pełen funkcji i szczegółów do wymyśl…",
+      "image_url": "https://static.pepper.pl/threads/raw/Zhum6/1403677_1/re/150x150/qt/55/1403677_1.jpg",
+      "price": "251,99zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "LEGO",
+      "category": "Rodzina i dzieci",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-LEGO+Disney+Vaiana+Barka+Kakamor%C3%B3w",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-28 08:06",
+          "price": "251,99zł",
+          "note": "LEGO"
+        }
+      ]
+    },
+    {
+      "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/wioslarz-skladany-sportfloww-16-poziomow-oporu-1403675",
+      "title": "Wioślarz składany Sportfloww | 16 poziomów oporu",
+      "link": "https://www.pepper.pl/promocje/wioslarz-skladany-sportfloww-16-poziomow-oporu-1403675",
+      "published": "Sat, 28 Nov 2026 08:35:52 +0100",
+      "summary": "668,52zł - iBOOD Charakterystyka System oporu: magnetyczny, 16 poziomów Cichy napęd pasowy Wyświetlacz LCD: czas, dystans, liczba pociągnięć na minutę i łączna liczba pociągnięć Połączenie z aplikacją treningową Składana konstrukcja i prze…",
+      "image_url": "https://static.pepper.pl/threads/raw/qXf86/1403675_1/re/150x150/qt/55/1403675_1.jpg",
+      "price": "668,52zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "iBOOD",
+      "category": "Sport i turystyka",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Wio%C5%9Blarz+sk%C5%82adany+Sportfloww+16+poziom%C3%B3w",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-28 08:06",
+          "price": "668,52zł",
+          "note": "iBOOD"
+        }
+      ]
+    },
+    {
+      "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/martini-asti-przy-zakupie-2-biedronka-1403674",
+      "title": "Martini Asti (przy zakupie 2) Biedronka",
+      "link": "https://www.pepper.pl/promocje/martini-asti-przy-zakupie-2-biedronka-1403674",
+      "published": "Sat, 28 Nov 2026 08:35:45 +0100",
+      "summary": "22,98zł Oferta dostępna była już od 16 listopada i dzisiaj (28.11.) się kończy. Myślę, że lepszej ceny przed Sylwestrem już nie będzie.",
+      "image_url": "https://static.pepper.pl/threads/raw/xpeMi/1403674_1/re/150x150/qt/55/1403674_1.jpg",
+      "price": "22,98zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "",
+      "category": "Artykuły spożywcze",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Martini+Asti",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-28 08:06",
+          "price": "22,98zł",
+          "note": "Pepper.pl"
+        }
+      ]
+    },
+    {
+      "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/gra-planszowa-bomb-busters-darmowa-dostawa-z-empik-premium-mozliwe-8599-zl-z-gnc-allegro-1403673",
+      "title": "Gra planszowa Bomb Busters, darmowa dostawa z Empik Premium, możliwe 85,99 zł z GNC Allegro",
+      "link": "https://www.pepper.pl/promocje/gra-planszowa-bomb-busters-darmowa-dostawa-z-empik-premium-mozliwe-8599-zl-z-gnc-allegro-1403673",
+      "published": "Sat, 28 Nov 2026 08:35:38 +0100",
+      "summary": "97,55zł - Empik Opis od wydawcy: WSPÓŁPRACA, DEDUKCJA, PRZECINANIE KABELKÓW! Tworzycie elitarną (tak przynajmniej uważacie) grupę saperów. Musicie WSPÓŁPRACOWAĆ, aby sprostać kolejnym wyzwaniom. Rozbrojenie bomby wymaga DEDUKCJI – który ka…",
+      "image_url": "https://static.pepper.pl/threads/raw/WCPT7/1403673_1/re/150x150/qt/55/1403673_1.jpg",
+      "price": "97,55zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Empik",
+      "category": "Rodzina i dzieci",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Gra+planszowa+Bomb+Busters+darmowa",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-28 08:06",
+          "price": "97,55zł",
+          "note": "Empik"
+        }
+      ]
+    },
+    {
+      "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/paliwo-pb-95-za-538-zl-za-1-litr-na-stacji-benzynowej-skolim-olecko-1403671",
+      "title": "Paliwo PB 95 za 5,38 zł za 1 litr na stacji benzynowej SKOLIM Olecko",
+      "link": "https://www.pepper.pl/promocje/paliwo-pb-95-za-538-zl-za-1-litr-na-stacji-benzynowej-skolim-olecko-1403671",
+      "published": "Sat, 28 Nov 2026 08:33:05 +0100",
+      "summary": "5,38zł Paliwo PB 95 za 5,38 zł za 1 litr na stacji benzynowej SKOLIM Olecko (y)",
+      "image_url": "https://static.pepper.pl/threads/raw/DaY1o/1403671_1/re/150x150/qt/55/1403671_1.jpg",
+      "price": "5,38zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "",
+      "category": "Motoryzacja",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Paliwo+PB+litr+na+stacji",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-28 08:06",
+          "price": "5,38zł",
+          "note": "Pepper.pl"
+        }
+      ]
+    },
+    {
+      "source": "Pepper.pl",
+      "deal_id": "https://www.pepper.pl/promocje/fajna-apka-na-tokarki-cnc-75procent-1403670",
+      "title": "Fajna apka na tokarki CNC -75procent",
+      "link": "https://www.pepper.pl/promocje/fajna-apka-na-tokarki-cnc-75procent-1403670",
+      "published": "Sat, 28 Nov 2026 08:28:38 +0100",
+      "summary": "7,75zł - Google Play Na TikToku zobaczyłem z ciekawości kupiłem i powiem że całkiem spoko ,jak ktoś pracuje w CNC to może się przydać , spoko bo bez subskrypcji jak wiele aplikacji tego typu, link na TikToka z filmikiem o co tam łazi : htt…",
+      "image_url": "https://static.pepper.pl/threads/raw/Q0UzI/1403670_1/re/150x150/qt/55/1403670_1.jpg",
+      "price": "7,75zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Google Play",
+      "category": "Elektronika",
+      "store_group": "Elektronika i okazje",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Fajna+apka+na+tokarki+CNC",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-28 08:06",
+          "price": "7,75zł",
+          "note": "Google Play"
         }
       ]
     },
@@ -7541,16 +7536,6 @@
       "compared_offers": [],
       "price_history": [
         {
-          "date": "2026-11-27 20:23",
-          "price": "179,99 zł",
-          "note": "Rossmann.pl"
-        },
-        {
-          "date": "2026-11-27 21:23",
-          "price": "159,99 zł",
-          "note": "Rossmann.pl"
-        },
-        {
           "date": "2026-11-27 21:23",
           "price": "179,99 zł",
           "note": "Rossmann.pl"
@@ -7639,18 +7624,28 @@
           "date": "2026-11-28 06:52",
           "price": "159,99 zł",
           "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-28 06:52",
+          "price": "179,99 zł",
+          "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-28 08:06",
+          "price": "159,99 zł",
+          "note": "Rossmann.pl"
         }
       ]
     },
     {
       "source": "Rossmann.pl",
-      "deal_id": "rossmann:2076965",
-      "title": "Lattafa woda perfumowana dla kobiet",
-      "link": "https://www.rossmann.pl/Produkt/Wody-perfumowane/Lattafa-Yara-Moi-woda-perfumowana-dla-kobiet-100-ml,2076965,13266",
+      "deal_id": "rossmann:2140450",
+      "title": "Tom Tailor woda perfumowana dla kobiet",
+      "link": "https://www.rossmann.pl/Produkt/Wody-perfumowane/Tom-Tailor-Perfectly-Me-woda-perfumowana-dla-kobiet-30-ml,2140450,13266",
       "published": "Aktualna promocja Rossmann.pl",
       "summary": "Promocja w drogerii Rossmann.pl.",
-      "image_url": "https://pro-fra-s3-productsassets.rossmann.pl/product_7_medium/2076965_360_350_1781879124.webp",
-      "price": "109,99 zł",
+      "image_url": "https://pro-fra-s3-productsassets.rossmann.pl/product_7_medium/2140450_360_350_1785229084.webp",
+      "price": "67,99 zł",
       "old_price": "",
       "lowest_30d": "",
       "merchant": "Rossmann.pl",
@@ -7660,14 +7655,14 @@
       "savings_pln": 0.0,
       "deal_score": 0.0,
       "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Lattafa+woda+perfumowana+dla+kobiet",
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Tom+Tailor+woda+perfumowana+dla",
       "price_status": "",
       "price_verdict": "",
       "compared_offers": [],
       "price_history": [
         {
-          "date": "2026-11-27 14:12",
-          "price": "109,99 zł",
+          "date": "2026-11-28 08:06",
+          "price": "67,99 zł",
           "note": "Rossmann.pl"
         }
       ]
@@ -7696,16 +7691,6 @@
       "compared_offers": [],
       "price_history": [
         {
-          "date": "2026-11-27 19:26",
-          "price": "149,99 zł",
-          "note": "Rossmann.pl"
-        },
-        {
-          "date": "2026-11-27 20:23",
-          "price": "129,99 zł",
-          "note": "Rossmann.pl"
-        },
-        {
           "date": "2026-11-27 20:23",
           "price": "149,99 zł",
           "note": "Rossmann.pl"
@@ -7794,35 +7779,15 @@
           "date": "2026-11-28 06:52",
           "price": "129,99 zł",
           "note": "Rossmann.pl"
-        }
-      ]
-    },
-    {
-      "source": "Rossmann.pl",
-      "deal_id": "rossmann:2083124",
-      "title": "Yves Saint Laurent woda perfumowana dla kobiet",
-      "link": "https://www.rossmann.pl/Produkt/Wody-perfumowane/Yves-Saint-Laurent-Black-Opium-woda-perfumowana-dla-kobiet-30-ml,2083124,13266",
-      "published": "Aktualna promocja Rossmann.pl",
-      "summary": "Promocja w drogerii Rossmann.pl.",
-      "image_url": "https://pro-fra-s3-productsassets.rossmann.pl/product_7_medium/2083124_360_350_1782909056.webp",
-      "price": "299,99 zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Rossmann.pl",
-      "category": "Perfumy-Perfumy damskie-Wody perfumowane",
-      "store_group": "Odzież i uroda",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Yves+Saint+Laurent+woda+perfumowana",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
+        },
         {
           "date": "2026-11-28 06:52",
-          "price": "299,99 zł",
+          "price": "149,99 zł",
+          "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-28 08:06",
+          "price": "129,99 zł",
           "note": "Rossmann.pl"
         }
       ]
@@ -7859,36 +7824,6 @@
     },
     {
       "source": "Rossmann.pl",
-      "deal_id": "rossmann:2127515",
-      "title": "Minecraft woda toaletowa dla dzieci, 3+",
-      "link": "https://www.rossmann.pl/Produkt/Wody-toaletowe/Minecraft-woda-toaletowa-dla-dzieci-3-30-ml,2127515,13267",
-      "published": "Aktualna promocja Rossmann.pl",
-      "summary": "Promocja w drogerii Rossmann.pl.",
-      "image_url": "https://pro-fra-s3-productsassets.rossmann.pl/product_7_medium/2127515_360_350_1786960470.webp",
-      "price": "29,99 zł",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Rossmann.pl",
-      "category": "Perfumy-Perfumy damskie-Wody toaletowe",
-      "store_group": "Odzież i uroda",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Minecraft+woda+toaletowa+dla+dzieci",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "2026-11-26 11:48",
-          "price": "29,99 zł",
-          "note": "Rossmann.pl"
-        }
-      ]
-    },
-    {
-      "source": "Rossmann.pl",
       "deal_id": "rossmann:2087193",
       "title": "Esotiq woda perfumowana dla kobiet",
       "link": "https://www.rossmann.pl/Produkt/Wody-perfumowane/Esotiq-Marcelina-Zawadzka-Moonlight-In-The-Desert-woda-perfumowana-dla-kobiet-50-ml,2087193,13266",
@@ -7919,120 +7854,30 @@
     },
     {
       "source": "Rossmann.pl",
-      "deal_id": "rossmann:190719",
-      "title": "Calvin Klein woda toaletowa dla kobiet",
-      "link": "https://www.rossmann.pl/Produkt/Wody-toaletowe/Calvin-Klein-CK-IN2U-woda-toaletowa-dla-kobiet-150-ml,190719,13267",
+      "deal_id": "rossmann:2113092",
+      "title": "Victoria's Secret mgiełka do ciała dla kobiet, perfumowana",
+      "link": "https://www.rossmann.pl/Produkt/Mgielki-zapachowe/Victorias-Secret-Velvet-Petals-mgielka-do-ciala-dla-kobiet-perfumowana-250-ml,2113092,13268",
       "published": "Aktualna promocja Rossmann.pl",
       "summary": "Promocja w drogerii Rossmann.pl.",
-      "image_url": "https://pro-fra-s3-productsassets.rossmann.pl/product_7_medium/190719_360_350_1781524260.webp",
-      "price": "149,99 zł",
+      "image_url": "https://pro-fra-s3-productsassets.rossmann.pl/product_1_medium/2113092_360_350_1781867975.webp",
+      "price": "94,99 zł",
       "old_price": "",
       "lowest_30d": "",
       "merchant": "Rossmann.pl",
-      "category": "Perfumy-Perfumy damskie-Wody toaletowe",
+      "category": "Perfumy-Perfumy damskie-Mgiełki zapachowe",
       "store_group": "Odzież i uroda",
       "discount_pct": 0,
       "savings_pln": 0.0,
       "deal_score": 0.0,
       "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Calvin+Klein+woda+toaletowa+dla",
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Victoria+Secret+mgie%C5%82ka+do+cia%C5%82a",
       "price_status": "",
       "price_verdict": "",
       "compared_offers": [],
       "price_history": [
         {
-          "date": "2026-11-27 14:12",
-          "price": "149,99 zł",
-          "note": "Rossmann.pl"
-        },
-        {
-          "date": "2026-11-27 14:12",
-          "price": "99,99 zł",
-          "note": "Rossmann.pl"
-        },
-        {
-          "date": "2026-11-27 16:30",
-          "price": "149,99 zł",
-          "note": "Rossmann.pl"
-        },
-        {
-          "date": "2026-11-27 17:29",
-          "price": "99,99 zł",
-          "note": "Rossmann.pl"
-        },
-        {
-          "date": "2026-11-27 17:29",
-          "price": "149,99 zł",
-          "note": "Rossmann.pl"
-        },
-        {
-          "date": "2026-11-27 18:17",
-          "price": "99,99 zł",
-          "note": "Rossmann.pl"
-        },
-        {
-          "date": "2026-11-28 00:14",
-          "price": "149,99 zł",
-          "note": "Rossmann.pl"
-        },
-        {
-          "date": "2026-11-28 00:14",
-          "price": "99,99 zł",
-          "note": "Rossmann.pl"
-        },
-        {
-          "date": "2026-11-28 01:47",
-          "price": "149,99 zł",
-          "note": "Rossmann.pl"
-        },
-        {
-          "date": "2026-11-28 01:47",
-          "price": "99,99 zł",
-          "note": "Rossmann.pl"
-        },
-        {
-          "date": "2026-11-28 02:43",
-          "price": "149,99 zł",
-          "note": "Rossmann.pl"
-        },
-        {
-          "date": "2026-11-28 02:43",
-          "price": "99,99 zł",
-          "note": "Rossmann.pl"
-        },
-        {
-          "date": "2026-11-28 03:44",
-          "price": "149,99 zł",
-          "note": "Rossmann.pl"
-        },
-        {
-          "date": "2026-11-28 03:44",
-          "price": "99,99 zł",
-          "note": "Rossmann.pl"
-        },
-        {
-          "date": "2026-11-28 04:50",
-          "price": "149,99 zł",
-          "note": "Rossmann.pl"
-        },
-        {
-          "date": "2026-11-28 04:50",
-          "price": "99,99 zł",
-          "note": "Rossmann.pl"
-        },
-        {
-          "date": "2026-11-28 05:48",
-          "price": "149,99 zł",
-          "note": "Rossmann.pl"
-        },
-        {
-          "date": "2026-11-28 05:48",
-          "price": "99,99 zł",
-          "note": "Rossmann.pl"
-        },
-        {
-          "date": "2026-11-28 06:52",
-          "price": "149,99 zł",
+          "date": "2026-11-28 08:06",
+          "price": "94,99 zł",
           "note": "Rossmann.pl"
         }
       ]
@@ -8164,6 +8009,36 @@
     },
     {
       "source": "Rossmann.pl",
+      "deal_id": "rossmann:2076965",
+      "title": "Lattafa woda perfumowana dla kobiet",
+      "link": "https://www.rossmann.pl/Produkt/Wody-perfumowane/Lattafa-Yara-Moi-woda-perfumowana-dla-kobiet-100-ml,2076965,13266",
+      "published": "Aktualna promocja Rossmann.pl",
+      "summary": "Promocja w drogerii Rossmann.pl.",
+      "image_url": "https://pro-fra-s3-productsassets.rossmann.pl/product_7_medium/2076965_360_350_1781879124.webp",
+      "price": "109,99 zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Rossmann.pl",
+      "category": "Perfumy-Perfumy damskie-Wody perfumowane",
+      "store_group": "Odzież i uroda",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Lattafa+woda+perfumowana+dla+kobiet",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-27 14:12",
+          "price": "109,99 zł",
+          "note": "Rossmann.pl"
+        }
+      ]
+    },
+    {
+      "source": "Rossmann.pl",
       "deal_id": "rossmann:137794",
       "title": "Calvin Klein woda perfumowana dla kobiet",
       "link": "https://www.rossmann.pl/Produkt/Wody-perfumowane/Calvin-Klein-Obsession-woda-perfumowana-dla-kobiet-100-ml,137794,13266",
@@ -8185,16 +8060,6 @@
       "price_verdict": "",
       "compared_offers": [],
       "price_history": [
-        {
-          "date": "2026-11-27 20:23",
-          "price": "129,99 zł",
-          "note": "Rossmann.pl"
-        },
-        {
-          "date": "2026-11-27 20:23",
-          "price": "149,99 zł",
-          "note": "Rossmann.pl"
-        },
         {
           "date": "2026-11-27 21:23",
           "price": "129,99 zł",
@@ -8282,6 +8147,16 @@
         },
         {
           "date": "2026-11-28 06:52",
+          "price": "149,99 zł",
+          "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-28 08:06",
+          "price": "129,99 zł",
+          "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-28 08:06",
           "price": "149,99 zł",
           "note": "Rossmann.pl"
         }
@@ -8311,16 +8186,6 @@
       "compared_offers": [],
       "price_history": [
         {
-          "date": "2026-11-27 21:23",
-          "price": "159,99 zł",
-          "note": "Rossmann.pl"
-        },
-        {
-          "date": "2026-11-27 21:23",
-          "price": "179,99 zł",
-          "note": "Rossmann.pl"
-        },
-        {
           "date": "2026-11-27 22:24",
           "price": "159,99 zł",
           "note": "Rossmann.pl"
@@ -8407,6 +8272,16 @@
         },
         {
           "date": "2026-11-28 06:52",
+          "price": "179,99 zł",
+          "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-28 08:06",
+          "price": "159,99 zł",
+          "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-28 08:06",
           "price": "179,99 zł",
           "note": "Rossmann.pl"
         }
@@ -8438,6 +8313,41 @@
         {
           "date": "2026-11-27 14:12",
           "price": "109,99 zł",
+          "note": "Rossmann.pl"
+        }
+      ]
+    },
+    {
+      "source": "Rossmann.pl",
+      "deal_id": "rossmann:417606",
+      "title": "Dolce & Gabbana woda toaletowa dla kobiet",
+      "link": "https://www.rossmann.pl/Produkt/Wody-toaletowe/Dolce-Gabbana-Light-Blue-woda-toaletowa-dla-kobiet-25-ml,417606,13267",
+      "published": "Aktualna promocja Rossmann.pl",
+      "summary": "Promocja w drogerii Rossmann.pl.",
+      "image_url": "https://pro-fra-s3-productsassets.rossmann.pl/product_8_medium/417606_360_350_1782499416.webp",
+      "price": "199,99 zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Rossmann.pl",
+      "category": "Perfumy-Perfumy damskie-Wody toaletowe",
+      "store_group": "Odzież i uroda",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Dolce+Gabbana+woda+toaletowa+dla",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-26 00:47",
+          "price": "259,99 zł",
+          "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-27 18:17",
+          "price": "199,99 zł",
           "note": "Rossmann.pl"
         }
       ]
