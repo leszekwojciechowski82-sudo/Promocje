@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28 03:44",
+  "updated_at": "2026-11-28 04:50",
   "deals": [
     {
       "source": "Aldi.pl (Oferty)",
@@ -375,6 +375,11 @@
       "compared_offers": [],
       "price_history": [
         {
+          "date": "przed promocją",
+          "price": "79,99 zł",
+          "note": "przed promocją"
+        },
+        {
           "date": "30 dni przed obniżką",
           "price": "79,99 zł",
           "note": "Najniższa z 30 dni (Omnibus)"
@@ -450,6 +455,11 @@
       "compared_offers": [],
       "price_history": [
         {
+          "date": "przed promocją",
+          "price": "19,99 zł",
+          "note": "przed promocją"
+        },
+        {
           "date": "30 dni przed obniżką",
           "price": "19,99 zł",
           "note": "Najniższa z 30 dni (Omnibus)"
@@ -464,11 +474,11 @@
     {
       "source": "Lidl.pl (Promocje)",
       "deal_id": "lidl:100408445",
-      "title": "LIVARNO® Komplet 2 poszewek na poduszki, 40 x 40 cm (kwiaty / niebieskie)",
-      "link": "https://www.lidl.pl/p/livarno-komplet-2-poszewek-na-poduszki-40-x-40-cm/p100408445001",
+      "title": "LIVARNO® Komplet 2 poszewek na poduszki, 40 x 40 cm",
+      "link": "https://www.lidl.pl/p/livarno-komplet-2-poszewek-na-poduszki-40-x-40-cm/p100408445",
       "published": "Aktualna oferta Lidl.pl",
       "summary": "Megaokazja • Promocja bezpośrednio ze sklepu Lidl.pl.",
-      "image_url": "https://www.lidl.pl/assets/gcp468ef9ece4174326b9aa30add6f60b30.jpg",
+      "image_url": "https://www.lidl.pl/assets/gcp1c9ea2302e8a4afc948909198ab2b56a.jpg",
       "price": "2,99 zł",
       "old_price": "9,98 zł",
       "lowest_30d": "9,98 zł",
@@ -765,6 +775,11 @@
       "compared_offers": [],
       "price_history": [
         {
+          "date": "przed promocją",
+          "price": "299 zł",
+          "note": "przed promocją"
+        },
+        {
           "date": "30 dni przed obniżką",
           "price": "299 zł",
           "note": "Najniższa z 30 dni (Omnibus)"
@@ -960,6 +975,11 @@
       "compared_offers": [],
       "price_history": [
         {
+          "date": "przed promocją",
+          "price": "49,99 zł",
+          "note": "przed promocją"
+        },
+        {
           "date": "30 dni przed obniżką",
           "price": "49,99 zł",
           "note": "Najniższa z 30 dni (Omnibus)"
@@ -1048,6 +1068,46 @@
           "date": "2026-11-27 12:54",
           "price": "5,99 zł",
           "note": "Aldi.pl"
+        }
+      ]
+    },
+    {
+      "source": "Rossmann.pl",
+      "deal_id": "rossmann:2140236",
+      "title": "Neboa kalendarz adwentowy z kosmetykami i akcesoriami, 24 elementy",
+      "link": "https://www.rossmann.pl/Produkt/Kalendarze-adwentowe/Neboa-x-Kimoco-kalendarz-adwentowy-z-kosmetykami-i-akcesoriami-24-elementy-1-szt,2140236,20086",
+      "published": "Aktualna promocja Rossmann.pl",
+      "summary": "Promocja w drogerii Rossmann.pl • Najniższa z 30 dni: 229,99 zł.",
+      "image_url": "https://pro-fra-s3-productsassets.rossmann.pl/product_6_medium/2140236_360_350_1792999759.webp",
+      "price": "169,99 zł",
+      "old_price": "299,99 zł",
+      "lowest_30d": "229,99 zł",
+      "merchant": "Rossmann.pl",
+      "category": "Kolekcje limitowane-Święta-Kalendarze adwentowe",
+      "store_group": "Odzież i uroda",
+      "discount_pct": 43,
+      "savings_pln": 130.0,
+      "deal_score": 92.5,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Neboa+kalendarz+adwentowy+kosmetykami+akcesoriami",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "przed promocją",
+          "price": "299,99 zł",
+          "note": "przed promocją"
+        },
+        {
+          "date": "30 dni przed obniżką",
+          "price": "229,99 zł",
+          "note": "Najniższa z 30 dni (Omnibus)"
+        },
+        {
+          "date": "2026-11-27 00:51",
+          "price": "169,99 zł",
+          "note": "Rossmann.pl"
         }
       ]
     },
@@ -1425,6 +1485,11 @@
       "compared_offers": [],
       "price_history": [
         {
+          "date": "przed promocją",
+          "price": "99,99 zł",
+          "note": "przed promocją"
+        },
+        {
           "date": "30 dni przed obniżką",
           "price": "99,99 zł",
           "note": "Najniższa z 30 dni (Omnibus)"
@@ -1677,6 +1742,41 @@
       ]
     },
     {
+      "source": "Lidl.pl (Promocje)",
+      "deal_id": "lidl:100405852",
+      "title": "SILVERCREST® Wolnowar",
+      "link": "https://www.lidl.pl/p/silvercrest-wolnowar/p100405852",
+      "published": "Aktualna oferta Lidl.pl",
+      "summary": "Megaokazja • Promocja bezpośrednio ze sklepu Lidl.pl.",
+      "image_url": "https://www.lidl.pl/assets/gcp06a078fd239a47d1b55483a5e1797854.jpg",
+      "price": "96,85 zł",
+      "old_price": "149 zł",
+      "lowest_30d": "149 zł",
+      "merchant": "Lidl.pl",
+      "category": "Kategorie/Dom & Kuchnia/Małe AGD & Kuchnia/Inne sprzęty elektryczne",
+      "store_group": "Spożywcze i markety",
+      "discount_pct": 35,
+      "savings_pln": 52.15,
+      "deal_score": 72.61,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-SILVERCREST+Wolnowar",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "30 dni przed obniżką",
+          "price": "149 zł",
+          "note": "Najniższa z 30 dni (Omnibus)"
+        },
+        {
+          "date": "2026-11-28 04:50",
+          "price": "96,85 zł",
+          "note": "Lidl.pl"
+        }
+      ]
+    },
+    {
       "source": "Aldi.pl (Oferty)",
       "deal_id": "aldi:https://www.aldi.pl/produkt-szczegoly/awokado-hass-12150000.html",
       "title": "Aldi: Awokado Hass",
@@ -1798,46 +1898,6 @@
     },
     {
       "source": "Lidl.pl (Promocje)",
-      "deal_id": "lidl:100397941",
-      "title": "PARKSIDE® Zestaw do naprawy laminatów i parkietów lub zestaw do naprawy płytek (Zestaw do naprawy parkietu/laminatu)",
-      "link": "https://www.lidl.pl/p/parkside-zestaw-do-naprawy-laminatow-i-parkietow-lub-zestaw-do-naprawy-plytek/p100397941002",
-      "published": "Aktualna oferta Lidl.pl",
-      "summary": "Megaokazja • Promocja bezpośrednio ze sklepu Lidl.pl.",
-      "image_url": "https://www.lidl.pl/assets/gcp573af9ccf6b74d1f88700b44f2584b29.jpg",
-      "price": "32,49 zł",
-      "old_price": "49,99 zł",
-      "lowest_30d": "49,99 zł",
-      "merchant": "Lidl.pl",
-      "category": "Kategorie/Warsztat/Budowa & remont/Wykładziny podłogowe/Listwy wykończeniowe, profile & akcesoria",
-      "store_group": "Spożywcze i markety",
-      "discount_pct": 35,
-      "savings_pln": 17.5,
-      "deal_score": 70.88,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-PARKSIDE+Zestaw+do+naprawy+laminat%C3%B3w",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "przed promocją",
-          "price": "49,99 zł",
-          "note": "przed promocją"
-        },
-        {
-          "date": "30 dni przed obniżką",
-          "price": "49,99 zł",
-          "note": "Najniższa z 30 dni (Omnibus)"
-        },
-        {
-          "date": "2026-11-27 12:54",
-          "price": "32,49 zł",
-          "note": "Lidl.pl"
-        }
-      ]
-    },
-    {
-      "source": "Lidl.pl (Promocje)",
       "deal_id": "lidl:100399289",
       "title": "W5 Zestaw 10 worków próżniowych do przechowywania (Worek próżniowy 10szt)",
       "link": "https://www.lidl.pl/p/w5-zestaw-10-workow-prozniowych-do-przechowywania/p100399289001",
@@ -1859,6 +1919,11 @@
       "price_verdict": "",
       "compared_offers": [],
       "price_history": [
+        {
+          "date": "przed promocją",
+          "price": "38,99 zł",
+          "note": "przed promocją"
+        },
         {
           "date": "30 dni przed obniżką",
           "price": "38,99 zł",
@@ -1912,41 +1977,6 @@
       ]
     },
     {
-      "source": "Lidl.pl (Promocje)",
-      "deal_id": "lidl:100407982",
-      "title": "PARKSIDE® Podpora stropu teleskopowa",
-      "link": "https://www.lidl.pl/p/parkside-podpora-stropu-teleskopowa/p100407982",
-      "published": "Aktualna oferta Lidl.pl",
-      "summary": "Megaokazja • Promocja bezpośrednio ze sklepu Lidl.pl.",
-      "image_url": "https://www.lidl.pl/assets/gcpa09a1242d89344b3893ded122d507ab3.png",
-      "price": "39,99 zł",
-      "old_price": "59,99 zł",
-      "lowest_30d": "59,99 zł",
-      "merchant": "Lidl.pl",
-      "category": "Kategorie/Warsztat/Warsztat/Wyposażenie warsztatu/Narzędzia ręczne",
-      "store_group": "Spożywcze i markety",
-      "discount_pct": 33,
-      "savings_pln": 20.0,
-      "deal_score": 67.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-PARKSIDE+Podpora+stropu+teleskopowa",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "30 dni przed obniżką",
-          "price": "59,99 zł",
-          "note": "Najniższa z 30 dni (Omnibus)"
-        },
-        {
-          "date": "2026-11-28 03:44",
-          "price": "39,99 zł",
-          "note": "Lidl.pl"
-        }
-      ]
-    },
-    {
       "source": "OBI.pl (Promocje)",
       "deal_id": "obi:6858948",
       "title": "Neo Tools Zestaw kluczy 100-elementowy 1/2'', 1/4''",
@@ -1983,46 +2013,6 @@
           "date": "2026-11-27 14:12",
           "price": "179 zł",
           "note": "OBI.pl"
-        }
-      ]
-    },
-    {
-      "source": "Rossmann.pl",
-      "deal_id": "rossmann:2143731",
-      "title": "Lattafa dezodorant w sprayu, perfumowany, dla kobiet",
-      "link": "https://www.rossmann.pl/Produkt/Dezodoranty-perfumowane/Lattafa-Khamrah-dezodorant-w-sprayu-perfumowany-dla-kobiet-200-ml,2143731,13276",
-      "published": "Aktualna promocja Rossmann.pl",
-      "summary": "Promocja w drogerii Rossmann.pl • Najniższa z 30 dni: 23,99 zł.",
-      "image_url": "https://pro-fra-s3-productsassets.rossmann.pl/product_1_medium/2143731_360_350_1788260590.webp",
-      "price": "16,49 zł",
-      "old_price": "23,99 zł",
-      "lowest_30d": "23,99 zł",
-      "merchant": "Rossmann.pl",
-      "category": "Perfumy-Perfumy męskie-Dezodoranty perfumowane",
-      "store_group": "Odzież i uroda",
-      "discount_pct": 31,
-      "savings_pln": 7.5,
-      "deal_score": 62.38,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Lattafa+dezodorant+sprayu+perfumowany+dla",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "przed promocją",
-          "price": "23,99 zł",
-          "note": "przed promocją"
-        },
-        {
-          "date": "30 dni przed obniżką",
-          "price": "23,99 zł",
-          "note": "Najniższa z 30 dni (Omnibus)"
-        },
-        {
-          "date": "2026-11-25 20:43",
-          "price": "16,49 zł",
-          "note": "Rossmann.pl"
         }
       ]
     },
@@ -2092,6 +2082,46 @@
         {
           "date": "2026-11-27 12:54",
           "price": "54,99 zł",
+          "note": "Lidl.pl"
+        }
+      ]
+    },
+    {
+      "source": "Lidl.pl (Promocje)",
+      "deal_id": "lidl:100410238",
+      "title": "LIVARNO® Skrzynia do siedzenia ze schowkiem",
+      "link": "https://www.lidl.pl/p/livarno-skrzynia-do-siedzenia-ze-schowkiem/p100410238",
+      "published": "Aktualna oferta Lidl.pl",
+      "summary": "Megaokazja • Promocja bezpośrednio ze sklepu Lidl.pl.",
+      "image_url": "https://www.lidl.pl/assets/gcpa7f61be5f8aa4859b492f8b7ac2e108a.jpg",
+      "price": "48,99 zł",
+      "old_price": "70,90 zł",
+      "lowest_30d": "70,90 zł",
+      "merchant": "Lidl.pl",
+      "category": "Kategorie/Dom & Urządzanie/Meble/Ławki",
+      "store_group": "Spożywcze i markety",
+      "discount_pct": 30,
+      "savings_pln": 21.91,
+      "deal_score": 61.1,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-LIVARNO+Skrzynia+do+siedzenia+ze",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "przed promocją",
+          "price": "70,90 zł",
+          "note": "przed promocją"
+        },
+        {
+          "date": "30 dni przed obniżką",
+          "price": "70,90 zł",
+          "note": "Najniższa z 30 dni (Omnibus)"
+        },
+        {
+          "date": "2026-11-24 05:32",
+          "price": "48,99 zł",
           "note": "Lidl.pl"
         }
       ]
@@ -2567,6 +2597,41 @@
       ]
     },
     {
+      "source": "OBI.pl (Promocje)",
+      "deal_id": "obi:7337611",
+      "title": "Stanley Kompresor akumulatorowy 2000 mAh 10 bar",
+      "link": "https://www.obi.pl/p/7337611/stanley-kompresor-akumulatorowy-2000-mah-10-bar",
+      "published": "Aktualna promocja OBI.pl",
+      "summary": "Promocja w markecie OBI.pl • Najniższa z 30 dni: 201,75 zł.",
+      "image_url": "https://bilder.obi.pl/19d73960-fc54-4f47-9859-0586b108750d/pr07F/image.jpeg",
+      "price": "159 zł",
+      "old_price": "201,75 zł",
+      "lowest_30d": "201,75 zł",
+      "merchant": "OBI.pl",
+      "category": "Kompresory",
+      "store_group": "Budowlane i dom",
+      "discount_pct": 21,
+      "savings_pln": 42.75,
+      "deal_score": 44.14,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Stanley+Kompresor+akumulatorowy+2000+mAh",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "30 dni przed obniżką",
+          "price": "201,75 zł",
+          "note": "Najniższa z 30 dni (Omnibus)"
+        },
+        {
+          "date": "2026-11-28 04:50",
+          "price": "159 zł",
+          "note": "OBI.pl"
+        }
+      ]
+    },
+    {
       "source": "Rossmann.pl",
       "deal_id": "rossmann:2138472",
       "title": "Fluff zestaw kosmetyków dla kobiet, balsam do ciała 150ml + żel pod prysznic 200ml + krem do rąk 50ml + foremka do pierniczków 1szt, Winter Tea",
@@ -2601,46 +2666,6 @@
         },
         {
           "date": "2026-11-27 15:24",
-          "price": "54,99 zł",
-          "note": "Rossmann.pl"
-        }
-      ]
-    },
-    {
-      "source": "Rossmann.pl",
-      "deal_id": "rossmann:2138471",
-      "title": "Fluff zestaw kosmetyków dla kobiet, peeling do ciała 170ml + balsam do ciała 150ml + woda perfumowana 20ml + foremka do pierniczków 1szt, Salted Caramel",
-      "link": "https://www.rossmann.pl/Produkt/Zestawy-zapachowe/Fluff-Ms-Claus-Bakery-zestaw-kosmetykow-dla-kobiet-peeling-do-ciala-170ml-balsam-do-ciala-150ml-,2138471,13271",
-      "published": "Aktualna promocja Rossmann.pl",
-      "summary": "Promocja w drogerii Rossmann.pl • Najniższa z 30 dni: 69,99 zł.",
-      "image_url": "https://pro-fra-s3-productsassets.rossmann.pl/product_7_medium/2138471_360_350_1784878023.webp",
-      "price": "54,99 zł",
-      "old_price": "69,99 zł",
-      "lowest_30d": "69,99 zł",
-      "merchant": "Rossmann.pl",
-      "category": "Perfumy-Perfumy damskie-Zestawy zapachowe",
-      "store_group": "Odzież i uroda",
-      "discount_pct": 21,
-      "savings_pln": 15.0,
-      "deal_score": 42.75,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-Fluff+zestaw+kosmetyk%C3%B3w+dla+kobiet",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": [
-        {
-          "date": "przed promocją",
-          "price": "69,99 zł",
-          "note": "przed promocją"
-        },
-        {
-          "date": "30 dni przed obniżką",
-          "price": "69,99 zł",
-          "note": "Najniższa z 30 dni (Omnibus)"
-        },
-        {
-          "date": "2026-11-27 19:26",
           "price": "54,99 zł",
           "note": "Rossmann.pl"
         }
@@ -4050,16 +4075,6 @@
       "compared_offers": [],
       "price_history": [
         {
-          "date": "2026-11-27 17:29",
-          "price": "50 zł",
-          "note": "Pepco.pl"
-        },
-        {
-          "date": "2026-11-27 18:17",
-          "price": "20 zł",
-          "note": "Pepco.pl"
-        },
-        {
           "date": "2026-11-27 18:17",
           "price": "50 zł",
           "note": "Pepco.pl"
@@ -4146,6 +4161,16 @@
         },
         {
           "date": "2026-11-28 03:44",
+          "price": "20 zł",
+          "note": "Pepco.pl"
+        },
+        {
+          "date": "2026-11-28 03:44",
+          "price": "50 zł",
+          "note": "Pepco.pl"
+        },
+        {
+          "date": "2026-11-28 04:50",
           "price": "20 zł",
           "note": "Pepco.pl"
         }
@@ -4175,16 +4200,6 @@
       "compared_offers": [],
       "price_history": [
         {
-          "date": "2026-11-27 17:29",
-          "price": "50 zł",
-          "note": "Pepco.pl"
-        },
-        {
-          "date": "2026-11-27 18:17",
-          "price": "20 zł",
-          "note": "Pepco.pl"
-        },
-        {
           "date": "2026-11-27 18:17",
           "price": "50 zł",
           "note": "Pepco.pl"
@@ -4271,6 +4286,16 @@
         },
         {
           "date": "2026-11-28 03:44",
+          "price": "20 zł",
+          "note": "Pepco.pl"
+        },
+        {
+          "date": "2026-11-28 03:44",
+          "price": "50 zł",
+          "note": "Pepco.pl"
+        },
+        {
+          "date": "2026-11-28 04:50",
           "price": "20 zł",
           "note": "Pepco.pl"
         }
@@ -4330,16 +4355,6 @@
       "compared_offers": [],
       "price_history": [
         {
-          "date": "2026-11-27 18:17",
-          "price": "20 zł",
-          "note": "Pepco.pl"
-        },
-        {
-          "date": "2026-11-27 18:17",
-          "price": "50 zł",
-          "note": "Pepco.pl"
-        },
-        {
           "date": "2026-11-27 19:26",
           "price": "20 zł",
           "note": "Pepco.pl"
@@ -4426,6 +4441,16 @@
         },
         {
           "date": "2026-11-28 03:44",
+          "price": "50 zł",
+          "note": "Pepco.pl"
+        },
+        {
+          "date": "2026-11-28 04:50",
+          "price": "20 zł",
+          "note": "Pepco.pl"
+        },
+        {
+          "date": "2026-11-28 04:50",
           "price": "50 zł",
           "note": "Pepco.pl"
         }
@@ -6841,30 +6866,6 @@
     },
     {
       "source": "Biedronka Home",
-      "deal_id": "biedronka-home:000000000000845150",
-      "title": "TEFAL",
-      "link": "https://home.biedronka.pl/tefal-generator-pary-tefal-power-pro-compact-200-sv6213e0-2400-w-17-l-000000000000845150.html",
-      "published": "Biedronka Home",
-      "summary": "Promocja ze sklepu Biedronka Home (chwilowo niedostępny online).",
-      "image_url": "https://home.biedronka.pl/dw/image/v2/BJJL_PRD/on/demandware.static/-/Sites-PL_Master_Catalog/default/dwbbc0e599/images/hi-res/845150_8.jpg?sw=270&sh=270&sm=fit",
-      "price": "",
-      "old_price": "",
-      "lowest_30d": "",
-      "merchant": "Biedronka Home",
-      "category": "Dom i warsztat",
-      "store_group": "Budowlane i dom",
-      "discount_pct": 0,
-      "savings_pln": 0.0,
-      "deal_score": 0.0,
-      "is_leaflet": false,
-      "ceneo_url": "https://www.ceneo.pl/;szukaj-TEFAL",
-      "price_status": "",
-      "price_verdict": "",
-      "compared_offers": [],
-      "price_history": []
-    },
-    {
-      "source": "Biedronka Home",
       "deal_id": "biedronka-home:000000000000503737",
       "title": "MG HOME",
       "link": "https://home.biedronka.pl/mg-home-zestaw-garnkow-mg-home-black-10-elementow-stal-nierdzewna-000000000000503737.html",
@@ -7512,6 +7513,30 @@
       "price_history": []
     },
     {
+      "source": "Biedronka Home",
+      "deal_id": "biedronka-home:000000000000782453",
+      "title": "HOFFEN",
+      "link": "https://home.biedronka.pl/hoffen-odkurzacz-pionowy-hoffen-bezprzewodowy-160-w-czarny-000000000000782453.html",
+      "published": "Biedronka Home",
+      "summary": "Promocja ze sklepu Biedronka Home (chwilowo niedostępny online).",
+      "image_url": "https://home.biedronka.pl/dw/image/v2/BJJL_PRD/on/demandware.static/-/Sites-PL_Master_Catalog/default/dw3cf49b86/images/hi-res/782453_91.jpg?sw=270&sh=270&sm=fit",
+      "price": "",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Biedronka Home",
+      "category": "Dom i warsztat",
+      "store_group": "Budowlane i dom",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-HOFFEN",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": []
+    },
+    {
       "source": "Rossmann.pl",
       "deal_id": "rossmann:2119345",
       "title": "French Avenue woda perfumowana unisex",
@@ -7534,16 +7559,6 @@
       "price_verdict": "",
       "compared_offers": [],
       "price_history": [
-        {
-          "date": "2026-11-27 14:12",
-          "price": "179,99 zł",
-          "note": "Rossmann.pl"
-        },
-        {
-          "date": "2026-11-27 15:24",
-          "price": "159,99 zł",
-          "note": "Rossmann.pl"
-        },
         {
           "date": "2026-11-27 15:24",
           "price": "179,99 zł",
@@ -7633,6 +7648,16 @@
           "date": "2026-11-28 03:44",
           "price": "159,99 zł",
           "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-28 03:44",
+          "price": "179,99 zł",
+          "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-28 04:50",
+          "price": "159,99 zł",
+          "note": "Rossmann.pl"
         }
       ]
     },
@@ -7689,16 +7714,6 @@
       "price_verdict": "",
       "compared_offers": [],
       "price_history": [
-        {
-          "date": "2026-11-27 15:24",
-          "price": "149,99 zł",
-          "note": "Rossmann.pl"
-        },
-        {
-          "date": "2026-11-27 16:30",
-          "price": "129,99 zł",
-          "note": "Rossmann.pl"
-        },
         {
           "date": "2026-11-27 17:29",
           "price": "149,99 zł",
@@ -7788,6 +7803,16 @@
           "date": "2026-11-28 03:44",
           "price": "129,99 zł",
           "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-28 03:44",
+          "price": "149,99 zł",
+          "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-28 04:50",
+          "price": "129,99 zł",
+          "note": "Rossmann.pl"
         }
       ]
     },
@@ -7817,6 +7842,36 @@
         {
           "date": "2026-11-24 19:53",
           "price": "549,99 zł",
+          "note": "Rossmann.pl"
+        }
+      ]
+    },
+    {
+      "source": "Rossmann.pl",
+      "deal_id": "rossmann:2127515",
+      "title": "Minecraft woda toaletowa dla dzieci, 3+",
+      "link": "https://www.rossmann.pl/Produkt/Wody-toaletowe/Minecraft-woda-toaletowa-dla-dzieci-3-30-ml,2127515,13267",
+      "published": "Aktualna promocja Rossmann.pl",
+      "summary": "Promocja w drogerii Rossmann.pl.",
+      "image_url": "https://pro-fra-s3-productsassets.rossmann.pl/product_7_medium/2127515_360_350_1786960470.webp",
+      "price": "29,99 zł",
+      "old_price": "",
+      "lowest_30d": "",
+      "merchant": "Rossmann.pl",
+      "category": "Perfumy-Perfumy damskie-Wody toaletowe",
+      "store_group": "Odzież i uroda",
+      "discount_pct": 0,
+      "savings_pln": 0.0,
+      "deal_score": 0.0,
+      "is_leaflet": false,
+      "ceneo_url": "https://www.ceneo.pl/;szukaj-Minecraft+woda+toaletowa+dla+dzieci",
+      "price_status": "",
+      "price_verdict": "",
+      "compared_offers": [],
+      "price_history": [
+        {
+          "date": "2026-11-26 11:48",
+          "price": "29,99 zł",
           "note": "Rossmann.pl"
         }
       ]
@@ -7906,6 +7961,16 @@
         },
         {
           "date": "2026-11-28 03:44",
+          "price": "149,99 zł",
+          "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-28 03:44",
+          "price": "99,99 zł",
+          "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-28 04:50",
           "price": "149,99 zł",
           "note": "Rossmann.pl"
         }
@@ -8003,6 +8068,16 @@
           "date": "2026-11-28 03:44",
           "price": "99,99 zł",
           "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-28 04:50",
+          "price": "149,99 zł",
+          "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-28 04:50",
+          "price": "99,99 zł",
+          "note": "Rossmann.pl"
         }
       ]
     },
@@ -8029,16 +8104,6 @@
       "price_verdict": "",
       "compared_offers": [],
       "price_history": [
-        {
-          "date": "2026-11-27 16:30",
-          "price": "129,99 zł",
-          "note": "Rossmann.pl"
-        },
-        {
-          "date": "2026-11-27 17:29",
-          "price": "149,99 zł",
-          "note": "Rossmann.pl"
-        },
         {
           "date": "2026-11-27 18:17",
           "price": "129,99 zł",
@@ -8126,6 +8191,16 @@
         },
         {
           "date": "2026-11-28 03:44",
+          "price": "149,99 zł",
+          "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-28 04:50",
+          "price": "129,99 zł",
+          "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-28 04:50",
           "price": "149,99 zł",
           "note": "Rossmann.pl"
         }
@@ -8155,16 +8230,6 @@
       "compared_offers": [],
       "price_history": [
         {
-          "date": "2026-11-27 15:24",
-          "price": "159,99 zł",
-          "note": "Rossmann.pl"
-        },
-        {
-          "date": "2026-11-27 15:24",
-          "price": "179,99 zł",
-          "note": "Rossmann.pl"
-        },
-        {
           "date": "2026-11-27 16:30",
           "price": "159,99 zł",
           "note": "Rossmann.pl"
@@ -8251,6 +8316,16 @@
         },
         {
           "date": "2026-11-28 03:44",
+          "price": "179,99 zł",
+          "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-28 04:50",
+          "price": "159,99 zł",
+          "note": "Rossmann.pl"
+        },
+        {
+          "date": "2026-11-28 04:50",
           "price": "179,99 zł",
           "note": "Rossmann.pl"
         }

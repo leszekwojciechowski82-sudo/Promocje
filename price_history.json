@@ -1,18 +1,4 @@
 {
-  "młotowiertarka erbauer sds 1500 w 6": [
-    {
-      "date": "2026-11-23 22:41",
-      "price": "298zł",
-      "note": "Castorama"
-    }
-  ],
-  "buty męskie ecco jamestown sznurowane ze": [
-    {
-      "date": "2026-11-23 22:41",
-      "price": "285,20zł",
-      "note": "Amazon.pl"
-    }
-  ],
   "zestaw do uzupełniania klimatyzacji clim o": [
     {
       "date": "2026-11-23 22:41",
@@ -15021,16 +15007,6 @@
   ],
   "french avenue woda perfumowana unisex": [
     {
-      "date": "2026-11-27 15:24",
-      "price": "159,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
-      "date": "2026-11-27 15:24",
-      "price": "179,99 zł",
-      "note": "Rossmann.pl"
-    },
-    {
       "date": "2026-11-27 16:30",
       "price": "159,99 zł",
       "note": "Rossmann.pl"
@@ -15117,6 +15093,16 @@
     },
     {
       "date": "2026-11-28 03:44",
+      "price": "179,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-28 04:50",
+      "price": "159,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-28 04:50",
       "price": "179,99 zł",
       "note": "Rossmann.pl"
     }
@@ -16219,16 +16205,6 @@
   ],
   "pepco maskotka ludzik piernikowy": [
     {
-      "date": "2026-11-27 18:17",
-      "price": "20 zł",
-      "note": "Pepco.pl"
-    },
-    {
-      "date": "2026-11-27 18:17",
-      "price": "50 zł",
-      "note": "Pepco.pl"
-    },
-    {
       "date": "2026-11-27 19:26",
       "price": "20 zł",
       "note": "Pepco.pl"
@@ -16315,6 +16291,16 @@
     },
     {
       "date": "2026-11-28 03:44",
+      "price": "50 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-28 04:50",
+      "price": "20 zł",
+      "note": "Pepco.pl"
+    },
+    {
+      "date": "2026-11-28 04:50",
       "price": "50 zł",
       "note": "Pepco.pl"
     }
@@ -17104,19 +17090,19 @@
       "date": "2026-11-28 03:44",
       "price": "99,99 zł",
       "note": "Rossmann.pl"
-    }
-  ],
-  "calvin klein woda perfumowana dla kobiet": [
-    {
-      "date": "2026-11-27 16:30",
-      "price": "129,99 zł",
-      "note": "Rossmann.pl"
     },
     {
-      "date": "2026-11-27 17:29",
+      "date": "2026-11-28 04:50",
       "price": "149,99 zł",
       "note": "Rossmann.pl"
     },
+    {
+      "date": "2026-11-28 04:50",
+      "price": "99,99 zł",
+      "note": "Rossmann.pl"
+    }
+  ],
+  "calvin klein woda perfumowana dla kobiet": [
     {
       "date": "2026-11-27 18:17",
       "price": "129,99 zł",
@@ -17204,6 +17190,16 @@
     },
     {
       "date": "2026-11-28 03:44",
+      "price": "149,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-28 04:50",
+      "price": "129,99 zł",
+      "note": "Rossmann.pl"
+    },
+    {
+      "date": "2026-11-28 04:50",
       "price": "149,99 zł",
       "note": "Rossmann.pl"
     }
@@ -19879,6 +19875,11 @@
   ],
   "livarno zewnętrzny naświetlacz led z czujnikiem": [
     {
+      "date": "przed promocją",
+      "price": "79,99 zł",
+      "note": "przed promocją"
+    },
+    {
       "date": "30 dni przed obniżką",
       "price": "79,99 zł",
       "note": "Najniższa z 30 dni (Omnibus)"
@@ -19890,6 +19891,11 @@
     }
   ],
   "parkside pistolet do kartuszy": [
+    {
+      "date": "przed promocją",
+      "price": "19,99 zł",
+      "note": "przed promocją"
+    },
     {
       "date": "30 dni przed obniżką",
       "price": "19,99 zł",
@@ -19903,6 +19909,11 @@
   ],
   "parkside performance akumulatorowa wiertarkowkrętarka 12 v": [
     {
+      "date": "przed promocją",
+      "price": "299 zł",
+      "note": "przed promocją"
+    },
+    {
       "date": "30 dni przed obniżką",
       "price": "299 zł",
       "note": "Najniższa z 30 dni (Omnibus)"
@@ -19914,6 +19925,11 @@
     }
   ],
   "livarno pluszowe prześcieradło z gumką 140": [
+    {
+      "date": "przed promocją",
+      "price": "49,99 zł",
+      "note": "przed promocją"
+    },
     {
       "date": "30 dni przed obniżką",
       "price": "49,99 zł",
@@ -19927,6 +19943,11 @@
   ],
   "silvercrest elektryczna tarka do warzyw 150": [
     {
+      "date": "przed promocją",
+      "price": "99,99 zł",
+      "note": "przed promocją"
+    },
+    {
       "date": "30 dni przed obniżką",
       "price": "99,99 zł",
       "note": "Najniższa z 30 dni (Omnibus)"
@@ -19938,6 +19959,11 @@
     }
   ],
   "w5 zestaw 10 worków próżniowych do": [
+    {
+      "date": "przed promocją",
+      "price": "38,99 zł",
+      "note": "przed promocją"
+    },
     {
       "date": "30 dni przed obniżką",
       "price": "38,99 zł",
@@ -19987,6 +20013,30 @@
       "date": "2026-11-28 03:44",
       "price": "99zł",
       "note": "Ceneo"
+    }
+  ],
+  "silvercrest wolnowar": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "149 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-28 04:50",
+      "price": "96,85 zł",
+      "note": "Lidl.pl"
+    }
+  ],
+  "stanley kompresor akumulatorowy 2000 mah 10": [
+    {
+      "date": "30 dni przed obniżką",
+      "price": "201,75 zł",
+      "note": "Najniższa z 30 dni (Omnibus)"
+    },
+    {
+      "date": "2026-11-28 04:50",
+      "price": "159 zł",
+      "note": "OBI.pl"
     }
   ]
 }
